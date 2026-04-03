@@ -1,0 +1,55 @@
+baseURL = "https://espresso-site-b.vercel.app"
+languageCode = "en-us"
+title = "Barista At Home"
+theme = "PaperMod"
+
+[params]
+  description = "Home barista guides, espresso machine reviews, and coffee brewing techniques"
+  author = "Barista At Home"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  defaultTheme = "light"
+
+[params.homeInfoParams]
+  Title = "Barista At Home"
+  Content = "Brew like a pro at home — espresso guides, gear picks, and coffee science."
+
+[[params.socialIcons]]
+  name = "rss"
+  url = "/index.xml"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[menu]
+[[menu.main]]
+  identifier = "guides"
+  name = "Guides"
+  url = "/guides/"
+  weight = 10
+[[menu.main]]
+  identifier = "reviews"
+  name = "Reviews"
+  url = "/reviews/"
+  weight = 20
+[[menu.main]]
+  identifier = "recipes"
+  name = "Recipes"
+  url = "/recipes/"
+  weight = 30
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[markup.goldmark.renderer]
+  unsafe = true
