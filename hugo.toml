@@ -26,18 +26,19 @@ theme = "PaperMod"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-[menu]
-[[menu.main]]
+[[menus.main]]
   identifier = "guides"
   name = "Guides"
   url = "/guides/"
   weight = 10
-[[menu.main]]
+
+[[menus.main]]
   identifier = "reviews"
   name = "Reviews"
   url = "/reviews/"
   weight = 20
-[[menu.main]]
+
+[[menus.main]]
   identifier = "recipes"
   name = "Recipes"
   url = "/recipes/"
