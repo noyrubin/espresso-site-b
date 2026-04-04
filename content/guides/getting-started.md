@@ -159,3 +159,14 @@ Once you are pulling consistent shots, the rabbit hole goes deep. Here is a sugg
 5. **Upgrade intentionally** — After 6-12 months, you will know exactly what your setup lacks and can upgrade the right component.
 
 Home espresso is a rewarding daily practice. The learning curve is real but short, and the savings over daily cafe visits add up quickly — most setups pay for themselves within 6-12 months.
+
+---
+
+## Keep Reading
+
+- [Espresso vs Regular Coffee: What's the Difference?](/guides/espresso-vs-coffee/) — Understand how espresso differs from drip coffee before you invest in equipment
+- [Espresso Ratio Guide: Dial In Your Shots](/guides/espresso-ratio-guide/) — Learn the dose/yield/time framework for consistent espresso
+- [Best Espresso Machines for Beginners](/guides/best-espresso-machines-beginners/)
+- [Best Espresso Grinders](/guides/best-espresso-grinders/)
+- [Espresso Troubleshooting Guide](/guides/espresso-troubleshooting/)
+- [Recipes: Cappuccino](/recipes/cappuccino/) | [Latte](/recipes/latte/) | [Cortado](/recipes/cortado/) | [Flat White](/recipes/flat-white/)
