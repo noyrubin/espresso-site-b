@@ -16,8 +16,8 @@ theme = "PaperMod"
   defaultTheme = "light"
 
 [params.homeInfoParams]
-  Title = "Barista At Home"
-  Content = "Brew like a pro at home — espresso guides, gear picks, and coffee science."
+  Title = "Your Home Espresso Journey Starts Here"
+  Content = "Expert guides to help you brew cafe-quality espresso at home. Equipment recommendations, brewing technique, drink recipes, and troubleshooting — everything a home barista needs."
 
 [[params.socialIcons]]
   name = "rss"
@@ -43,6 +43,12 @@ theme = "PaperMod"
   name = "Recipes"
   url = "/recipes/"
   weight = 30
+
+[[menus.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 40
 
 [taxonomies]
   category = "categories"
