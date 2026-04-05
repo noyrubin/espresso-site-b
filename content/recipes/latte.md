@@ -187,6 +187,8 @@ Start with a well-steamed milk (smooth, glossy, integrated foam). Tilt the cup, 
 
 ---
 
-More milk drink recipes: [Cappuccino](/recipes/cappuccino/) | [Flat White](/recipes/flat-white/) | [Cortado](/recipes/cortado/)
+More milk drink recipes: [Cappuccino](/recipes/cappuccino/) | [Iced Latte](/recipes/iced-latte/) | [Flat White](/recipes/flat-white/) | [Cortado](/recipes/cortado/)
 
 Need help with steaming? Read our full [milk steaming guide](/guides/milk-steaming-beginners/).
+
+Not sure whether to make a cappuccino or a latte? See our side-by-side [Cappuccino vs Latte comparison](/guides/cappuccino-vs-latte/).

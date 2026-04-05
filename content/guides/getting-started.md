@@ -172,4 +172,6 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [Best Espresso Machines for Beginners](/guides/best-espresso-machines-beginners/)
 - [Best Espresso Grinders](/guides/best-espresso-grinders/)
 - [Espresso Troubleshooting Guide](/guides/espresso-troubleshooting/)
-- [Recipes: Cappuccino](/recipes/cappuccino/) | [Latte](/recipes/latte/) | [Cortado](/recipes/cortado/) | [Flat White](/recipes/flat-white/)
+- [Recipes: Cappuccino](/recipes/cappuccino/) | [Latte](/recipes/latte/) | [Iced Latte](/recipes/iced-latte/) | [Cortado](/recipes/cortado/) | [Flat White](/recipes/flat-white/)
+- [Cappuccino vs Latte: What's the Difference?](/guides/cappuccino-vs-latte/) — Side-by-side comparison of foam, ratio, and flavor
+- [What Is a Macchiato?](/guides/what-is-a-macchiato/) — The three types explained (espresso, latte, and the Starbucks version)

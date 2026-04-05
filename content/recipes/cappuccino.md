@@ -168,3 +168,5 @@ Yes — Nespresso and similar machines pull a serviceable espresso. Pair with a 
 ---
 
 Ready to practice? Our [milk steaming guide](/guides/milk-steaming-beginners/) covers the technique in more detail. Or explore more recipes: [Cortado](/recipes/cortado/) | [Flat White](/recipes/flat-white/) | [Latte](/recipes/latte/)
+
+Wondering how cappuccino stacks up against a latte? See our full [Cappuccino vs Latte comparison](/guides/cappuccino-vs-latte/) — including ratio, foam, flavor, and which to order when.
