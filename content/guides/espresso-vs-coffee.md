@@ -184,4 +184,4 @@ Crema forms when high-pressure water forces CO₂ out of freshly-roasted coffee 
 
 ---
 
-Ready to start making espresso at home? Start with our [complete beginner's guide](/guides/getting-started/) or jump straight to [choosing your first espresso machine](/guides/best-espresso-machines-beginners/).
+Ready to start making espresso at home? Start with our [complete beginner's guide](/guides/getting-started/) or jump straight to [choosing your first espresso machine](/guides/best-espresso-machines-beginners/). Curious about the caffeine difference? See [exactly how much caffeine is in a shot of espresso](/guides/espresso-caffeine-guide/) — and how it compares to drip.

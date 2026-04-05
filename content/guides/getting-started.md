@@ -166,6 +166,9 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 
 - [Espresso vs Regular Coffee: What's the Difference?](/guides/espresso-vs-coffee/) — Understand how espresso differs from drip coffee before you invest in equipment
 - [Espresso Ratio Guide: Dial In Your Shots](/guides/espresso-ratio-guide/) — Learn the dose/yield/time framework for consistent espresso
+- [How Much Caffeine in a Shot of Espresso?](/guides/espresso-caffeine-guide/) — The exact numbers, plus how espresso compares to drip coffee and cold brew
+- [What Is Crema?](/guides/what-is-crema/) — The reddish-brown foam explained, and what it tells you about shot quality
+- [Moka Pot vs Espresso Machine](/guides/moka-pot-vs-espresso-machine/) — Deciding between stovetop brewing and a full espresso machine
 - [Best Espresso Machines for Beginners](/guides/best-espresso-machines-beginners/)
 - [Best Espresso Grinders](/guides/best-espresso-grinders/)
 - [Espresso Troubleshooting Guide](/guides/espresso-troubleshooting/)
