@@ -161,3 +161,5 @@ For most home baristas building their first setup:
 - **Enthusiast:** Niche Zero ($550) for single-dosing versatility, or DF64 Gen 2 with SSP burrs ($550 total) for flat burr clarity.
 
 Pair any of these with a [beginner-friendly espresso machine](/guides/best-espresso-machines-beginners/) and you will have a setup capable of cafe-quality shots. For the complete beginner walkthrough, see our [getting started guide](/guides/getting-started/).
+
+Once you have your grinder, learn how to dial it in: [Espresso Grind Size Guide: How to Find Your Perfect Setting](/guides/espresso-grind-size-guide/).

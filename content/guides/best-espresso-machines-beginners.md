@@ -120,3 +120,5 @@ For most beginners in 2026: **buy the Gaggia Classic Pro or Breville Bambino Plu
 The machine you buy matters less than the grinder you pair it with, the coffee you put in it, and the consistency of your technique. Start simple, practice daily, and upgrade when you know exactly what you want.
 
 For the full beginner setup guide, see our [getting started with home espresso](/guides/getting-started/) pillar page.
+
+**Short on counter space?** See our guide to the [best compact espresso machines](/guides/compact-espresso-machine-guide/) — small footprint options that produce real espresso without taking over your kitchen.

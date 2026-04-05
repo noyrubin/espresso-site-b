@@ -170,7 +170,9 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [What Is Crema?](/guides/what-is-crema/) — The reddish-brown foam explained, and what it tells you about shot quality
 - [Moka Pot vs Espresso Machine](/guides/moka-pot-vs-espresso-machine/) — Deciding between stovetop brewing and a full espresso machine
 - [Best Espresso Machines for Beginners](/guides/best-espresso-machines-beginners/)
+- [Best Compact Espresso Machines](/guides/compact-espresso-machine-guide/) — Small footprint options for apartments and small kitchens
 - [Best Espresso Grinders](/guides/best-espresso-grinders/)
+- [Espresso Grind Size Guide](/guides/espresso-grind-size-guide/) — How to dial in the perfect grind setting
 - [Espresso Troubleshooting Guide](/guides/espresso-troubleshooting/)
 - [Recipes: Cappuccino](/recipes/cappuccino/) | [Latte](/recipes/latte/) | [Iced Latte](/recipes/iced-latte/) | [Cortado](/recipes/cortado/) | [Flat White](/recipes/flat-white/)
 - [Cappuccino vs Latte: What's the Difference?](/guides/cappuccino-vs-latte/) — Side-by-side comparison of foam, ratio, and flavor
