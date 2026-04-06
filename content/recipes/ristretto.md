@@ -121,4 +121,4 @@ Yes. Any machine that can pull a standard espresso shot can pull a ristretto —
 
 ---
 
-*Looking to explore all espresso shot sizes? See also: [Lungo Recipe](/recipes/lungo/) | [Espresso Ratio Guide](/guides/espresso-ratio-guide/) | [Getting Started with Home Espresso](/guides/getting-started/)*
+*Looking to explore all espresso shot sizes? See also: [Lungo Recipe](/recipes/lungo/) | [What Is a Doppio?](/guides/what-is-a-doppio/) | [Espresso Ratio Guide](/guides/espresso-ratio-guide/) | [Affogato: Espresso Over Gelato](/recipes/affogato/) | [Getting Started with Home Espresso](/guides/getting-started/)*

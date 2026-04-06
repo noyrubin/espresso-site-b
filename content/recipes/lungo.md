@@ -119,6 +119,7 @@ For a milder espresso drink with more volume, most home baristas are happier wit
 ## Related Recipes and Guides
 
 - [Ristretto Recipe](/recipes/ristretto/) — The opposite of lungo: shorter, sweeter, more concentrated
+- [What Is a Doppio?](/guides/what-is-a-doppio/) — The double espresso standard
 - [Americano Recipe](/recipes/americano/) — Similar look, different method — usually better for most people
 - [Espresso Ratio Guide](/guides/espresso-ratio-guide/) — Dose, yield, and extraction explained
 - [Espresso Troubleshooting Guide](/guides/espresso-troubleshooting/) — Fix over- and under-extraction

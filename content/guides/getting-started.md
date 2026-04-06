@@ -154,7 +154,7 @@ Once you are pulling consistent shots, the rabbit hole goes deep. Here is a sugg
 
 1. **Master the basic recipe** — Dial in 3-4 different bags of coffee to build your palate and adjustment instincts.
 2. **Try different roast levels** — Light, medium, and dark roasts all behave differently. Experimenting builds understanding.
-3. **Explore recipes** — Americanos, cortados, and affogatos are easy variations that use your espresso in new ways. See our [espresso drink recipes](/recipes/).
+3. **Explore recipes** — Americanos, cortados, and [affogatos](/recipes/affogato/) are easy variations that use your espresso in new ways. See our [espresso drink recipes](/recipes/).
 4. **Learn about water** — Water chemistry affects extraction and taste significantly. Even basic filtered water makes a difference. See our [water for espresso guide](/guides/water-for-espresso/) for what TDS level to target and which water types to avoid.
 5. **Upgrade intentionally** — After 6-12 months, you will know exactly what your setup lacks and can upgrade the right component.
 
@@ -174,7 +174,8 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [Best Espresso Grinders](/guides/best-espresso-grinders/)
 - [Espresso Grind Size Guide](/guides/espresso-grind-size-guide/) — How to dial in the perfect grind setting
 - [Espresso Troubleshooting Guide](/guides/espresso-troubleshooting/)
-- [Recipes: Cappuccino](/recipes/cappuccino/) | [Latte](/recipes/latte/) | [Iced Latte](/recipes/iced-latte/) | [Cortado](/recipes/cortado/) | [Flat White](/recipes/flat-white/) | [Lungo](/recipes/lungo/) | [Ristretto](/recipes/ristretto/)
+- [Recipes: Cappuccino](/recipes/cappuccino/) | [Latte](/recipes/latte/) | [Iced Latte](/recipes/iced-latte/) | [Cortado](/recipes/cortado/) | [Flat White](/recipes/flat-white/) | [Lungo](/recipes/lungo/) | [Ristretto](/recipes/ristretto/) | [Affogato](/recipes/affogato/) | [Espresso Con Panna](/recipes/espresso-con-panna/)
+- [What Is a Doppio?](/guides/what-is-a-doppio/) — The double espresso explained
 - [Water for Espresso](/guides/water-for-espresso/) — What TDS level to target and why water quality affects taste
 - [Are Espresso Beans Different from Coffee Beans?](/guides/espresso-beans-vs-coffee-beans/) — What "espresso beans" actually means and how to choose them
 - [How to Clean Your Espresso Machine](/guides/espresso-machine-cleaning-guide/) — Daily, weekly, and monthly cleaning schedule plus descaling guide
