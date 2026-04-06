@@ -22,7 +22,7 @@ At minimum, you need four pieces of equipment:
 
 1. **An espresso machine** — Entry-level models like the Breville Bambino or Gaggia Classic Pro start around $300 and produce excellent results.
 2. **A burr grinder** — Espresso demands a fine, consistent grind. A dedicated espresso grinder matters more than the machine itself. Budget options start around $150 (hand grinders like the 1Zpresso JX-Pro) or $300 for electric (Eureka Mignon Notte, Baratza Sette 270).
-3. **Fresh coffee beans** — Whole beans roasted within the last 2-4 weeks. Light to medium roasts are most common for espresso, but any roast works.
+3. **Fresh coffee beans** — Whole beans roasted within the last 2-4 weeks. Light to medium roasts are most common for espresso, but any roast works. (Note: [espresso beans and coffee beans are the same thing](/guides/espresso-beans-vs-coffee-beans/) — "espresso" on a bag refers to roast style, not a different variety.)
 4. **A scale** — Precision matters. A 0.1g resolution scale (around $20-30) lets you dose consistently.
 
 Optional but helpful extras include a tamper (most machines include one), a WDT distribution tool, a knock box, and a milk pitcher if you plan to make lattes or cappuccinos.
@@ -155,7 +155,7 @@ Once you are pulling consistent shots, the rabbit hole goes deep. Here is a sugg
 1. **Master the basic recipe** — Dial in 3-4 different bags of coffee to build your palate and adjustment instincts.
 2. **Try different roast levels** — Light, medium, and dark roasts all behave differently. Experimenting builds understanding.
 3. **Explore recipes** — Americanos, cortados, and affogatos are easy variations that use your espresso in new ways. See our [espresso drink recipes](/recipes/).
-4. **Learn about water** — Water chemistry affects extraction and taste significantly. Even basic filtered water makes a difference.
+4. **Learn about water** — Water chemistry affects extraction and taste significantly. Even basic filtered water makes a difference. See our [water for espresso guide](/guides/water-for-espresso/) for what TDS level to target and which water types to avoid.
 5. **Upgrade intentionally** — After 6-12 months, you will know exactly what your setup lacks and can upgrade the right component.
 
 Home espresso is a rewarding daily practice. The learning curve is real but short, and the savings over daily cafe visits add up quickly — most setups pay for themselves within 6-12 months.
@@ -174,6 +174,8 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [Best Espresso Grinders](/guides/best-espresso-grinders/)
 - [Espresso Grind Size Guide](/guides/espresso-grind-size-guide/) — How to dial in the perfect grind setting
 - [Espresso Troubleshooting Guide](/guides/espresso-troubleshooting/)
-- [Recipes: Cappuccino](/recipes/cappuccino/) | [Latte](/recipes/latte/) | [Iced Latte](/recipes/iced-latte/) | [Cortado](/recipes/cortado/) | [Flat White](/recipes/flat-white/)
+- [Recipes: Cappuccino](/recipes/cappuccino/) | [Latte](/recipes/latte/) | [Iced Latte](/recipes/iced-latte/) | [Cortado](/recipes/cortado/) | [Flat White](/recipes/flat-white/) | [Lungo](/recipes/lungo/)
+- [Water for Espresso](/guides/water-for-espresso/) — What TDS level to target and why water quality affects taste
+- [Are Espresso Beans Different from Coffee Beans?](/guides/espresso-beans-vs-coffee-beans/) — What "espresso beans" actually means and how to choose them
 - [Cappuccino vs Latte: What's the Difference?](/guides/cappuccino-vs-latte/) — Side-by-side comparison of foam, ratio, and flavor
 - [What Is a Macchiato?](/guides/what-is-a-macchiato/) — The three types explained (espresso, latte, and the Starbucks version)

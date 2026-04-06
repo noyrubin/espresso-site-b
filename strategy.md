@@ -7,13 +7,13 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 3 — Content expansion, indexing still pending. 18 pages published. Sitemap submitted. Google has not indexed any URLs yet — expected at Day 3 for a new domain.
+Day 4 — Content expansion, indexing still pending. 20 pages published. Sitemap submitted. Google has not indexed any URLs yet — still expected. Grinder cluster now complete (best grinders guide + grind size guide). Compact machine guide added as major new traffic driver.
 
 ## Key Data Points
-- **GA4:** 21 sessions Apr 4, 3 sessions Apr 5 — all test/bot traffic, 0 organic
-- **Search Console:** No query data. 0 indexed pages. Expected for Day 3 new domain.
+- **GA4:** 21 sessions Apr 4, 5 sessions Apr 5 — all test/bot traffic, 0 organic
+- **Search Console:** No query data. 0 indexed pages. Expected for Day 4 new domain. URL inspection shows "URL unknown to Google."
 - **Domain history:** myhomebarista.com had ~60K pages in 2020 (old sitemaps visible). Could signal existing domain authority — potentially helpful for indexing speed.
-- **DataForSEO spend to date:** ~$0.27 (Pulse 2: $0.075, Pulse 3: $0.04, Pulse 4: $0.15)
+- **DataForSEO spend to date:** ~$0.41 (Pulse 2: $0.075, Pulse 3: $0.04, Pulse 4: $0.15, Pulse 5: $0.088)
 
 ## Keyword Targets
 *Updated with DataForSEO research. Format: keyword | volume | difficulty | target URL | status*
@@ -42,6 +42,8 @@ Day 3 — Content expansion, indexing still pending. 18 pages published. Sitemap
 | latte macchiato | 8,100 | 2/100 ULTRA-LOW | /guides/what-is-a-macchiato/ | **Published (NEW — covered in macchiato guide)** |
 | cappuccino vs latte | 49,500 | 7/100 LOW | /guides/cappuccino-vs-latte/ | **Published (NEW - PRIORITY)** |
 | iced latte recipe | 5,400 | 7/100 LOW | /recipes/iced-latte/ | **Published (NEW)** |
+| compact espresso machine | 60,500 | 12/100 LOW | /guides/compact-espresso-machine-guide/ | **Published (NEW Pulse 5 - PRIORITY)** |
+| espresso grind size | 1,600 | 4/100 LOW | /guides/espresso-grind-size-guide/ | **Published (NEW Pulse 5)** |
 
 ## Biggest Opportunities Found So Far
 
@@ -76,10 +78,10 @@ Day 3 — Content expansion, indexing still pending. 18 pages published. Sitemap
 ### In Progress
 *(none currently)*
 
-### Published (18 pages)
+### Published (20 pages)
 - **Pillar:** /guides/getting-started/
-- **Guides cluster (11):** best-espresso-machines-beginners, best-espresso-grinders, milk-steaming-beginners, espresso-troubleshooting, espresso-vs-coffee, espresso-ratio-guide, espresso-caffeine-guide, moka-pot-vs-espresso-machine, what-is-crema, **what-is-a-macchiato** (NEW), **cappuccino-vs-latte** (NEW)
-- **Recipes cluster (6):** cortado, americano, flat-white, cappuccino, latte, **iced-latte** (NEW)
+- **Guides cluster (13):** best-espresso-machines-beginners, best-espresso-grinders, milk-steaming-beginners, espresso-troubleshooting, espresso-vs-coffee, espresso-ratio-guide, espresso-caffeine-guide, moka-pot-vs-espresso-machine, what-is-crema, what-is-a-macchiato, cappuccino-vs-latte, **compact-espresso-machine-guide** (NEW Pulse 5), **espresso-grind-size-guide** (NEW Pulse 5)
+- **Recipes cluster (6):** cortado, americano, flat-white, cappuccino, latte, iced-latte
 - **About page** (E-E-A-T)
 - **3 section index pages**
 
@@ -95,6 +97,8 @@ Day 3 — Content expansion, indexing still pending. 18 pages published. Sitemap
 - **Schema stacking / FAQ rich results pursuit:** Ch3.2 confirmed FAQ rich results restricted to government/health sites since 2023.
 - **"manual espresso machine" content:** Competition 93/100 despite 33,100/mo volume — skip.
 - **DataForSEO competitor analysis on own domain:** Returns 0 because site has no current rankings.
+- **"espresso beans" targeting (Pulse 5 DataForSEO):** Advertising competition 100/100, CPC $3.72 — heavily monetized by retailers. Keyword-ideas organic difficulty 0 from Pulse 3 may still hold, but needs SERP validation. Pushed to Pulse 6+.
+- **keyword-ideas for "compact espresso machine":** Returned broad coffee chain terms, not helpful. Confirms "compact espresso machine" (60.5K, diff 12) itself is the target keyword — no sub-cluster to build around.
 
 ## Hypotheses Being Tested
 - **H1:** "espresso vs coffee" + "latte recipe" high-volume / ultra-low competition keywords rankable in 4-8 weeks (Ch4.1)
@@ -105,6 +109,7 @@ Day 3 — Content expansion, indexing still pending. 18 pages published. Sitemap
 - **H6:** "How much caffeine in espresso" at 49,500/mo, diff 0, answer_box = featured snippet win within 4-6 weeks
 - **H7 (NEW):** "macchiato" at 110,000/mo, diff 1 = high-priority ranking target within 4-6 weeks
 - **H8 (NEW):** "cappuccino vs latte" at 49,500/mo, diff 7 = comparison content ranking target within 6-8 weeks
+- **H9 (NEW):** "compact espresso machine" at 60,500/mo, diff 12 = buying guide ranking target within 4-8 weeks (Pulse 5)
 
 ## Competitive Observations
 - "macchiato" SERP: Likely dominated by Starbucks, Wikipedia, major food sites — but competition 1/100 suggests weak/thin existing content, HUGE gap.
@@ -121,28 +126,31 @@ Day 3 — Content expansion, indexing still pending. 18 pages published. Sitemap
 - **Ch5.1:** Hybrid-silo — pillar/cluster architecture, bidirectional internal linking
 - **Ch5.2:** Internal linking — cross-cluster links (recipes link to guides, pillar links to all clusters)
 
+## Espresso Beans — Data Conflict Note
+DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, organic difficulty 0. However, search-volume (Pulse 5) shows advertising competition 100/100 (CPC $3.72). These are different metrics — organic difficulty vs ad competition. The space is heavily monetized by coffee brands/retailers. Informational angle ("how to choose espresso beans") may still be viable but needs SERP validation before writing. Pushed to Pulse 6+.
+
 ## Next 3 Pulses Roadmap
 
-### Pulse 5 (Next)
-- **Check:** SC indexing status — any pages indexed yet? (Day 4 — might start seeing first indexing)
+### Pulse 6 (Next)
+- **Check:** SC indexing — Day 5, watch for first indexing signals
 - **Content priorities:**
-  1. "Espresso grind size guide" — 1,600/mo, diff 4 — completes grinder pillar
-  2. "Espresso beans guide" — 27,100/mo, diff 0 — massive low-competition opportunity
-  3. "Compact espresso machine" — 60,500/mo, diff 6 — if different enough from existing machine guide
-- **Research:** Quick DataForSEO check on espresso beans + compact machine intent
-- **Skill ref:** Ch4.1 (keyword intent for product vs informational content), Ch4.3 (E-E-A-T for product guides)
-
-### Pulse 6
-- **Assessment:** First SC impression data (if any pages indexed)
-- **Content:** First equipment review — Gaggia Classic Pro or Breville Bambino Plus (commercial intent, E-E-A-T)
-- **Content:** Water chemistry for espresso — informational, low competition, engaged audience
-- **Skill ref:** Ch4.3 (E-E-A-T for review content), Ch7 (measurement once first data appears)
+  1. First equipment review — Gaggia Classic Pro review (commercial intent + E-E-A-T)
+  2. Water chemistry for espresso — informational, low competition, highly engaged audience
+  3. Run DataForSEO SERP check on "espresso beans" to validate organic competition before writing
+- **Research:** keyword-ideas on "espresso review" + "water for espresso" to validate
+- **Skill ref:** Ch4.3 (E-E-A-T for review content), Ch2.1 (check indexing)
 
 ### Pulse 7
-- **Measurement:** Ch7 framework — set up KPI tracking once first SC data appears
+- **Assessment:** First SC impression data (if any pages indexed)
 - **Optimization:** Based on first SC impression data, optimize titles/meta on top pages
+- **Content:** Write espresso beans guide if SERP validation confirms organic gap
+- **Skill ref:** Ch7 (measurement), Ch4.1 (SERP gap validation)
+
+### Pulse 8
+- **Measurement:** Ch7 framework — set up KPI tracking once first SC data appears
 - **Off-page:** Begin thinking about link building strategy (Ch6)
+- **Content:** "Semi automatic espresso machine" — 33,100/mo, diff 40 (medium — may be worth targeting with comprehensive guide)
 - **Skill ref:** Ch7 (measurement), Ch6 (off-page strategy)
 
 ---
-*Last updated: 2026-04-05 Pulse 4*
+*Last updated: 2026-04-05 Pulse 5*

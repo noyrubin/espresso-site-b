@@ -95,3 +95,5 @@ Not traditional, but perfectly valid. A tablespoon of milk or cream softens the 
 - **Use it as a diagnostic tool.** Since nothing masks the espresso flavor, an americano reveals exactly how good your shot is. If your americano tastes great, your espresso game is solid.
 
 For more espresso drink recipes, see our [full recipe collection](/recipes/). New to home espresso? Start with our [complete beginner's guide](/guides/getting-started/).
+
+**Related:** Want a longer espresso drink without adding water afterward? Try a [lungo](/recipes/lungo/) — it's pulled with more water through the grounds rather than diluted after the fact.

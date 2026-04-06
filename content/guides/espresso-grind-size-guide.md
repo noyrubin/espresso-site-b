@@ -191,3 +191,4 @@ Adjust whenever shots taste off — usually when you open a new bag of coffee, a
 - [Espresso Troubleshooting Guide](/guides/espresso-troubleshooting/) — Full diagnostic guide for bad shots
 - [What Is Crema?](/guides/what-is-crema/) — How grind affects crema quality
 - [Getting Started with Home Espresso](/guides/getting-started/) — Complete beginner guide
+- [Water for Espresso](/guides/water-for-espresso/) — The other key variable affecting extraction quality
