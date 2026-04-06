@@ -8,6 +8,19 @@ author: "Barista At Home"
 showToc: true
 TocOpen: false
 draft: false
+recipe_prepTime: "PT3M"
+recipe_totalTime: "PT5M"
+recipe_yield: "1 flat white (5–6 oz)"
+recipe_category: "Beverage"
+recipe_cuisine: "Australian"
+recipe_keywords: "flat white, flat white recipe, espresso milk drink"
+recipe_ingredients:
+  - "2 oz (60ml) espresso — double ristretto or double espresso"
+  - "3–4 oz (90–120ml) whole milk"
+recipe_steps:
+  - "Pull a double ristretto or double espresso shot (2 oz) into a small 5–6 oz cup."
+  - "Steam 3–4 oz of whole milk to 140–150°F. Aim for very thin, velvety microfoam — just a few millimeters of foam, not a thick layer."
+  - "Pour the steamed milk over the espresso, holding back the foam with a spoon if needed. A flat white has a thin, flat microfoam layer on top — hence the name."
 ---
 
 A flat white is a small, strong espresso drink with a thin layer of velvety microfoam — stronger than a latte, smoother than a cappuccino. It originated in Australia and New Zealand and has become one of the most popular specialty coffee drinks worldwide.

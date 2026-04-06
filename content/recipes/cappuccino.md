@@ -8,6 +8,20 @@ author: "Barista At Home"
 showToc: true
 TocOpen: false
 draft: false
+recipe_prepTime: "PT3M"
+recipe_totalTime: "PT5M"
+recipe_yield: "1 cappuccino (5–6 oz)"
+recipe_category: "Beverage"
+recipe_cuisine: "Italian"
+recipe_keywords: "cappuccino, cappuccino recipe, how to make cappuccino"
+recipe_ingredients:
+  - "2 oz (60ml) espresso (double shot)"
+  - "2 oz (60ml) steamed whole milk"
+  - "2 oz (60ml) dense milk foam"
+recipe_steps:
+  - "Pull a double espresso shot (2 oz) into a 5–6 oz cappuccino cup."
+  - "Steam 4 oz of whole milk to 150–155°F. Steam at an angle to incorporate more air than you would for a latte, creating dense, thick foam."
+  - "Pour the steamed milk over the espresso, then spoon the thick foam on top. The classic ratio is equal thirds: espresso, steamed milk, foam."
 ---
 
 **A cappuccino is made from equal thirds: one part espresso, one part steamed milk, and one part dense milk foam.** A classic cappuccino is 5–6 oz total — smaller than a latte, with a thicker layer of foam and a more pronounced espresso flavor.

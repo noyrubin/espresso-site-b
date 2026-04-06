@@ -8,6 +8,19 @@ author: "Barista At Home"
 showToc: true
 TocOpen: false
 draft: false
+recipe_prepTime: "PT2M"
+recipe_totalTime: "PT4M"
+recipe_yield: "1 cortado (4 oz)"
+recipe_category: "Beverage"
+recipe_cuisine: "Spanish"
+recipe_keywords: "cortado, espresso milk drink, cortado recipe"
+recipe_ingredients:
+  - "2 oz (60ml) espresso (double shot)"
+  - "2 oz (60ml) whole milk"
+recipe_steps:
+  - "Pull a double espresso shot (2 oz) into a small glass."
+  - "Steam 2 oz of whole milk to 140–150°F, creating just a small amount of microfoam — no stiff peaks."
+  - "Pour the steamed milk directly over the espresso in equal parts. The drink should be 4 oz total."
 ---
 
 A cortado is equal parts espresso and warm steamed milk — typically 2oz of espresso topped with 2oz of lightly textured milk. It is the simplest milk-based espresso drink to make at home and one of the best ways to taste your espresso clearly while taking the edge off acidity.

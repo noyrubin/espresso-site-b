@@ -8,6 +8,19 @@ author: "Barista At Home"
 showToc: true
 TocOpen: false
 draft: false
+recipe_prepTime: "PT1M"
+recipe_totalTime: "PT3M"
+recipe_yield: "1 americano (8 oz)"
+recipe_category: "Beverage"
+recipe_cuisine: "American"
+recipe_keywords: "americano, espresso americano, americano recipe"
+recipe_ingredients:
+  - "2 oz (60ml) espresso (double shot)"
+  - "4–6 oz (120–180ml) hot water (just off boil, 200°F)"
+recipe_steps:
+  - "Pull a double espresso shot (2 oz) into a large cup."
+  - "Heat water to 200°F (just off boil). Do not use boiling water directly."
+  - "Pour the hot water over the espresso. Start with 4 oz and adjust to taste — more water for a milder drink."
 ---
 
 An americano is espresso diluted with hot water to create a full-sized black coffee drink. It is the simplest espresso-based drink to make, produces a cleaner and brighter cup than drip coffee, and is an excellent way to evaluate your espresso quality without milk masking any flaws.

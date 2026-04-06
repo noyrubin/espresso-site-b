@@ -174,8 +174,9 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [Best Espresso Grinders](/guides/best-espresso-grinders/)
 - [Espresso Grind Size Guide](/guides/espresso-grind-size-guide/) — How to dial in the perfect grind setting
 - [Espresso Troubleshooting Guide](/guides/espresso-troubleshooting/)
-- [Recipes: Cappuccino](/recipes/cappuccino/) | [Latte](/recipes/latte/) | [Iced Latte](/recipes/iced-latte/) | [Cortado](/recipes/cortado/) | [Flat White](/recipes/flat-white/) | [Lungo](/recipes/lungo/)
+- [Recipes: Cappuccino](/recipes/cappuccino/) | [Latte](/recipes/latte/) | [Iced Latte](/recipes/iced-latte/) | [Cortado](/recipes/cortado/) | [Flat White](/recipes/flat-white/) | [Lungo](/recipes/lungo/) | [Ristretto](/recipes/ristretto/)
 - [Water for Espresso](/guides/water-for-espresso/) — What TDS level to target and why water quality affects taste
 - [Are Espresso Beans Different from Coffee Beans?](/guides/espresso-beans-vs-coffee-beans/) — What "espresso beans" actually means and how to choose them
+- [How to Clean Your Espresso Machine](/guides/espresso-machine-cleaning-guide/) — Daily, weekly, and monthly cleaning schedule plus descaling guide
 - [Cappuccino vs Latte: What's the Difference?](/guides/cappuccino-vs-latte/) — Side-by-side comparison of foam, ratio, and flavor
 - [What Is a Macchiato?](/guides/what-is-a-macchiato/) — The three types explained (espresso, latte, and the Starbucks version)

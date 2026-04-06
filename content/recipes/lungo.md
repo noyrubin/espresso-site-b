@@ -8,6 +8,19 @@ author: "Barista At Home"
 showToc: true
 TocOpen: false
 draft: false
+recipe_prepTime: "PT1M"
+recipe_totalTime: "PT3M"
+recipe_yield: "1 lungo (60–80ml)"
+recipe_category: "Beverage"
+recipe_cuisine: "Italian"
+recipe_keywords: "lungo, lungo recipe, long espresso, lungo vs americano"
+recipe_ingredients:
+  - "7–9g finely ground espresso coffee"
+  - "60–80ml hot water (extracted through the grounds)"
+recipe_steps:
+  - "Dose and tamp 7–9g of espresso grounds into your portafilter as normal."
+  - "Start your shot and allow the extraction to run longer than usual — targeting 60–80ml yield over approximately 45–60 seconds."
+  - "Stop the shot when you reach your target yield. The lungo should taste slightly more bitter than espresso but not watery."
 ---
 
 A lungo (Italian: "long") is an espresso shot pulled with roughly twice the water of a standard espresso — about 60–80ml instead of 30ml — over the same extraction time.
@@ -105,6 +118,7 @@ For a milder espresso drink with more volume, most home baristas are happier wit
 
 ## Related Recipes and Guides
 
+- [Ristretto Recipe](/recipes/ristretto/) — The opposite of lungo: shorter, sweeter, more concentrated
 - [Americano Recipe](/recipes/americano/) — Similar look, different method — usually better for most people
 - [Espresso Ratio Guide](/guides/espresso-ratio-guide/) — Dose, yield, and extraction explained
 - [Espresso Troubleshooting Guide](/guides/espresso-troubleshooting/) — Fix over- and under-extraction

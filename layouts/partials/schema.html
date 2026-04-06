@@ -14,6 +14,42 @@
 }
 </script>
 {{- else if .IsPage }}
+{{- if .Params.recipe_yield }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author | default .Site.Params.author }}"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "prepTime": "{{ .Params.recipe_prepTime }}",
+  "totalTime": "{{ .Params.recipe_totalTime }}",
+  "recipeYield": "{{ .Params.recipe_yield }}",
+  "recipeCategory": "{{ .Params.recipe_category | default "Beverage" }}",
+  "recipeCuisine": "{{ .Params.recipe_cuisine | default "Italian" }}",
+  "keywords": "{{ .Params.recipe_keywords }}",
+  "recipeIngredient": {{ .Params.recipe_ingredients | jsonify }},
+  "recipeInstructions": [
+    {{- range $i, $step := .Params.recipe_steps }}
+    {{- if $i }},{{ end }}
+    {
+      "@type": "HowToStep",
+      "text": "{{ $step }}"
+    }
+    {{- end }}
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+}
+</script>
+{{- else }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -37,6 +73,7 @@
   }
 }
 </script>
+{{- end }}
 {{- end }}
 {{- if .IsPage }}
 <script type="application/ld+json">

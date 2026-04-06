@@ -8,6 +8,21 @@ author: "Barista At Home"
 showToc: true
 TocOpen: false
 draft: false
+recipe_prepTime: "PT2M"
+recipe_totalTime: "PT5M"
+recipe_yield: "1 iced latte (10–12 oz)"
+recipe_category: "Beverage"
+recipe_cuisine: "American"
+recipe_keywords: "iced latte, iced latte recipe, cold espresso drink"
+recipe_ingredients:
+  - "2 oz (60ml) espresso (double shot)"
+  - "4–6 oz (120–180ml) cold whole milk or oat milk"
+  - "1 cup ice cubes"
+recipe_steps:
+  - "Pull a double espresso shot (2 oz). Let it rest for 30–60 seconds to cool slightly."
+  - "Fill a tall glass with ice cubes."
+  - "Pour the espresso over the ice."
+  - "Add 4–6 oz of cold milk. Stir gently and serve immediately."
 ---
 
 **An iced latte is made with 2 shots of espresso (2 oz) poured over ice, then topped with 4–6 oz of cold milk.** No foam, no steaming — just espresso and cold milk over ice. It's one of the easiest espresso drinks to make at home and one of the most refreshing.

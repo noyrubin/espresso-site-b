@@ -8,6 +8,19 @@ author: "Barista At Home"
 showToc: true
 TocOpen: false
 draft: false
+recipe_prepTime: "PT3M"
+recipe_totalTime: "PT5M"
+recipe_yield: "1 latte (8–10 oz)"
+recipe_category: "Beverage"
+recipe_cuisine: "Italian"
+recipe_keywords: "latte recipe, how to make a latte, café latte"
+recipe_ingredients:
+  - "2 oz (60ml) espresso (double shot)"
+  - "4–6 oz (120–180ml) whole milk"
+recipe_steps:
+  - "Pull a double espresso shot (2 oz) into a latte cup or 8–10 oz glass."
+  - "Steam 4–6 oz of whole milk to 150°F, creating a thin layer of smooth microfoam — glossy and velvety, not stiff or bubbly."
+  - "Pour the steamed milk over the espresso in a slow, controlled stream. Hold back the foam until the end, then spoon a thin layer on top."
 ---
 
 **A latte is made with a double espresso and steamed milk, with a thin layer of microfoam on top.** The standard recipe is 2 oz of espresso plus 4–6 oz of steamed whole milk — silky, smooth, and milky with just enough coffee flavor to come through.
