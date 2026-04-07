@@ -4,6 +4,39 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-07 — Pulse 11: 4 New Comparison/Guide Pages + Milk-Steaming Optimization
+
+**Action:**
+1. Assessed GA4 + SC data
+2. Ran DataForSEO keyword research (3 batches)
+3. Wrote 4 new pages: flat-white-vs-latte, latte-vs-macchiato, how-long-do-coffee-beans-last, espresso-vs-americano
+4. Optimized milk-steaming-beginners with answer-first bold summary
+5. Updated internal links: getting-started pillar, cappuccino-vs-latte, espresso-beans guide, americano recipe
+
+**Reasoning:**
+- GA4: 9 sessions today (Apr 7), 8 yesterday — still all bot/test traffic, no organic
+- SC: milk-steaming-beginners only page indexed, now at avg position 35.76 for page (down from 41.9 query-level — slight improvement). 10 query variants, 21 impressions total.
+- DataForSEO research uncovered "flat white vs latte" at 22,200/mo diff 5 — HIGHEST priority find this pulse. Exact same low-competition comparison pattern as cappuccino-vs-latte (49.5K diff 7)
+- "latte vs macchiato" 6,600/mo diff 2 → easy companion piece using existing macchiato content
+- "how long do coffee beans last" 2,900/mo diff 8 — no featured snippet in SERP, smaller coffee blogs at #4-8 (beatable), PAA questions = AEO opportunity
+- "espresso vs americano" 1,600/mo diff 1 — ultra-low competition, completes the americano cluster
+- Rejected: "how to store coffee beans" (1,900/mo but HIGH 89/100), "types of espresso machines" (480/mo HIGH 100/100), "espresso tamping" (9,900/mo but HIGH 100/100), "single origin espresso" (480/mo HIGH 94/100)
+- Milk-steaming at position 35.76 — added answer-first bold opening per Ch4.2 to improve featured snippet eligibility
+
+**SEO Skill Reference:**
+- **Ch4.1 (keyword intent):** Comparison content ("vs" queries) captures users at decision stage — strong intent signal. Validated that all 4 targets have informational not commercial intent.
+- **Ch4.2 (answer-first):** milk-steaming page now opens with a direct bold answer for the "how to steam milk" queries showing up in SC. Coffee beans guide written with answer table above the fold, direct answers to PAA questions.
+- **Ch5.2 (internal linking):** All 4 new pages linked from pillar page. Cross-links added to related comparison pages. Comparison cluster now: cappuccino-vs-latte → flat-white-vs-latte → latte-vs-macchiato → cortado-vs-macchiato
+
+**Outcome:**
+- 4 new pages deployed. Site now at **37 pages** total.
+- DataForSEO spend this pulse: $0.163 (3 batches: search-volume x2 + keyword-ideas + SERP)
+- Cumulative DataForSEO spend: ~$0.983
+
+**Next:** Pulse 12 — SC watch for macchiato/caffeine/affogato/flat-white-vs-latte entering impressions. Off-page strategy (Ch6) exploration. Possible "how to use espresso machine" guide (3,600/mo diff 11) as content if budget allows.
+
+---
+
 ## 2026-04-07 — Pulse 10: Espresso Tonic + Cortado vs Macchiato
 
 **Action:**

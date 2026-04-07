@@ -7,13 +7,14 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 7 — **33 pages published.** SC: milk-steaming-beginners at 13 impressions, avg position 41.9 (slightly regressed, still stable). Still only 1 page visible in SC after 7 days — extended indexing lag for new domain expected. Pulse 10: espresso tonic (9.9K/mo, diff 1) and cortado vs macchiato (2.9K/mo, diff 1) added. Cold brew cluster ALL high competition → skipped. DataForSEO confirmed "latte vs cappuccino" 27.1K/mo diff 6 likely captured by existing cappuccino-vs-latte page. Off-page still premature (Ch6.1). Internal linking: pillar page confirmed up-to-date with all 33 pages linked.
+Day 7 — **37 pages published.** SC: milk-steaming-beginners avg position 35.76 for page overall (improving), 21 impressions, 10 query variants. Still only 1 page indexed. Pulse 11: flat-white-vs-latte (22.2K/mo diff 5 — biggest find yet), latte-vs-macchiato (6.6K/mo diff 2), how-long-do-coffee-beans-last (2.9K/mo diff 8 — no featured snippet gap), espresso-vs-americano (1.6K/mo diff 1). Milk-steaming page optimized with answer-first opening (Ch4.2). Comparison cluster complete: cappuccino-vs-latte, flat-white-vs-latte, latte-vs-macchiato, cortado-vs-macchiato.
 
 ## Key Data Points
-- **GA4:** Sessions Apr 4: 21, Apr 5: 7, Apr 6: 8 — still no organic traffic, all bot/test
-- **Search Console Pulse 10:** milk-steaming-beginners only page indexed — 13 impressions, avg pos 41.9. 7 query variants. No other pages showing yet (indexing lag persists Day 7).
-- **DataForSEO spend to date:** ~$0.820 (+$0.075 this pulse for search-volume on 8 keywords)
+- **GA4:** Sessions Apr 7: 9, Apr 6: 8, Apr 5: 7 — still no organic traffic, all bot/test
+- **Search Console Pulse 11:** milk-steaming-beginners only page indexed — 21 impressions total, avg pos 35.76 for page. 10 query variants.
+- **DataForSEO spend to date:** ~$0.983 (~$0.163 this pulse: 2x search-volume + keyword-ideas + SERP)
 - **Pulse 10 keyword research:** espresso tonic 9.9K diff 1 (✅ WRITTEN); cortado vs macchiato 2.9K diff 1 (✅ WRITTEN); cold brew cluster ALL high competition (skipped); latte vs cappuccino 27.1K diff 6 (likely captured by existing cappuccino-vs-latte page)
+- **Pulse 11 keyword research:** flat-white-vs-latte 22.2K/mo diff 5 (✅ WRITTEN); latte-vs-macchiato 6.6K/mo diff 2 (✅ WRITTEN); how-long-do-coffee-beans-last 2.9K/mo diff 8 no featured snippet (✅ WRITTEN); espresso-vs-americano 1.6K/mo diff 1 (✅ WRITTEN); REJECTED: how-to-store-coffee-beans HIGH 89/100, types-of-espresso-machines HIGH 100/100, espresso-tamping HIGH 100/100, single-origin-espresso HIGH 94/100
 
 ## Keyword Targets
 *Updated with DataForSEO research. Format: keyword | volume | difficulty | target URL | status*
@@ -56,6 +57,10 @@ Day 7 — **33 pages published.** SC: milk-steaming-beginners at 13 impressions,
 | espresso glossary | N/A (linkable asset) | — | /guides/espresso-glossary/ | **Published (NEW Pulse 9 — linkable asset)** |
 | espresso tonic | 9,900 | 1/100 ULTRA-LOW | /recipes/espresso-tonic/ | **Published (NEW Pulse 10 - PRIORITY)** |
 | cortado vs macchiato | 2,900 | 1/100 ULTRA-LOW | /guides/cortado-vs-macchiato/ | **Published (NEW Pulse 10)** |
+| flat white vs latte | 22,200 | 5/100 LOW | /guides/flat-white-vs-latte/ | **Published (NEW Pulse 11 - PRIORITY)** |
+| latte vs macchiato | 6,600 | 2/100 ULTRA-LOW | /guides/latte-vs-macchiato/ | **Published (NEW Pulse 11)** |
+| how long do coffee beans last | 2,900 | 8/100 ULTRA-LOW | /guides/how-long-do-coffee-beans-last/ | **Published (NEW Pulse 11 — no featured snippet gap)** |
+| espresso vs americano | 1,600 | 1/100 ULTRA-LOW | /guides/espresso-vs-americano/ | **Published (NEW Pulse 11)** |
 | how to clean espresso machine | 1,900 | 17/100 LOW | /guides/espresso-machine-cleaning-guide/ | **Published (NEW Pulse 7)** |
 | how to descale espresso machine | 720 | 8/100 ULTRA-LOW | /guides/espresso-machine-cleaning-guide/ | **Published (NEW Pulse 7 — covered)** |
 | espresso machine maintenance | 590 | 6/100 ULTRA-LOW | /guides/espresso-machine-cleaning-guide/ | **Published (NEW Pulse 7 — covered)** |
@@ -64,13 +69,14 @@ Day 7 — **33 pages published.** SC: milk-steaming-beginners at 13 impressions,
 
 1. **"caramel macchiato"** — 74,000/mo, diff 17, LOW. Pulse 9 find. SERP: recipe blogs at #2-4 (beatable), no featured snippet, recipes SERP feature present, PAA gaps wide open. Recipe schema applied.
 2. **"affogato"** — 165,000/mo, diff 18, LOW. Massive find in Pulse 8. Recipe + guide written.
-2. **"macchiato"** — 110,000/mo, diff 1. One of the best finds yet. Comprehensive guide covers all variants and comparisons. Featured snippet target.
-3. **"cappuccino vs latte"** — 49,500/mo, diff 7. Pure comparison intent, well-formatted comparison page. Featured snippet candidate.
-4. **"how much caffeine in a shot of espresso"** — 49,500/mo, diff 0, answer_box SERP feature. Answer-first formatting applied.
-5. **"ristretto"** — 33,100/mo, diff 5. Written Pulse 7. Completes espresso shot cluster with lungo.
-6. **"doppio"** — 33,100/mo, diff 11, LOW. Written Pulse 8. Covers double espresso cluster.
-7. **"what is a macchiato"** — 33,100/mo, diff 2.
-8. **"milk steaming beginners"** — FIRST SC IMPRESSIONS: 10 impressions, 5 query variants, avg pos 39.8 on Day 6 Pulse 8.
+3. **"macchiato"** — 110,000/mo, diff 1. One of the best finds yet. Comprehensive guide covers all variants and comparisons. Featured snippet target.
+4. **"flat white vs latte"** — 22,200/mo, diff 5 LOW. Pulse 11 find. Same low-competition comparison pattern as cappuccino-vs-latte. Written.
+5. **"cappuccino vs latte"** — 49,500/mo, diff 7. Pure comparison intent, well-formatted comparison page. Featured snippet candidate.
+6. **"how much caffeine in a shot of espresso"** — 49,500/mo, diff 0, answer_box SERP feature. Answer-first formatting applied.
+7. **"ristretto"** — 33,100/mo, diff 5. Written Pulse 7. Completes espresso shot cluster with lungo.
+8. **"doppio"** — 33,100/mo, diff 11, LOW. Written Pulse 8. Covers double espresso cluster.
+9. **"what is a macchiato"** — 33,100/mo, diff 2.
+10. **"how long do coffee beans last"** — 2,900/mo, diff 8 LOW. No featured snippet in SERP, smaller coffee blogs at #4-8. AI overview present → AEO opportunity. Written Pulse 11.
 
 ## Content Pipeline
 
@@ -98,10 +104,10 @@ Day 7 — **33 pages published.** SC: milk-steaming-beginners at 13 impressions,
 ### In Progress
 *(none currently)*
 
-### Published (31 pages)
+### Published (37 pages)
 - **Pillar:** /guides/getting-started/
-- **Recipes cluster (14):** cortado, americano, flat-white, cappuccino, latte, iced-latte, lungo, ristretto, affogato, espresso-con-panna, caramel-macchiato (Pulse 9 — 74K/mo), mocha (Pulse 9 — 24.2K cluster), **espresso-tonic** (NEW Pulse 10 — 9.9K/mo diff 1)
-- **Guides cluster (20):** best-espresso-machines-beginners, best-espresso-grinders, milk-steaming-beginners, espresso-troubleshooting, espresso-vs-coffee, espresso-ratio-guide, espresso-caffeine-guide, moka-pot-vs-espresso-machine, what-is-crema, what-is-a-macchiato, cappuccino-vs-latte, compact-espresso-machine-guide, espresso-grind-size-guide, water-for-espresso, espresso-beans-vs-coffee-beans, espresso-machine-cleaning-guide, what-is-a-doppio, espresso-glossary (Pulse 9 — linkable asset), **cortado-vs-macchiato** (NEW Pulse 10 — 2.9K/mo diff 1)
+- **Recipes cluster (14):** cortado, americano, flat-white, cappuccino, latte, iced-latte, lungo, ristretto, affogato, espresso-con-panna, caramel-macchiato (Pulse 9 — 74K/mo), mocha (Pulse 9 — 24.2K cluster), espresso-tonic (Pulse 10 — 9.9K/mo diff 1)
+- **Guides cluster (24):** best-espresso-machines-beginners, best-espresso-grinders, milk-steaming-beginners, espresso-troubleshooting, espresso-vs-coffee, espresso-ratio-guide, espresso-caffeine-guide, moka-pot-vs-espresso-machine, what-is-crema, what-is-a-macchiato, cappuccino-vs-latte, compact-espresso-machine-guide, espresso-grind-size-guide, water-for-espresso, espresso-beans-vs-coffee-beans, espresso-machine-cleaning-guide, what-is-a-doppio, espresso-glossary (Pulse 9), cortado-vs-macchiato (Pulse 10), **flat-white-vs-latte** (NEW Pulse 11 — 22.2K/mo diff 5), **latte-vs-macchiato** (NEW Pulse 11 — 6.6K/mo diff 2), **how-long-do-coffee-beans-last** (NEW Pulse 11 — 2.9K/mo diff 8), **espresso-vs-americano** (NEW Pulse 11 — 1.6K/mo diff 1)
 - **About page** (E-E-A-T)
 - **3 section index pages**
 
@@ -135,6 +141,10 @@ Day 7 — **33 pages published.** SC: milk-steaming-beginners at 13 impressions,
 - **"types of espresso drinks" (Pulse 9):** 2,900/mo but competition 84/100. Skip. SERP dominated by informational giant sites.
 - **"espresso glossary" as direct traffic keyword (Pulse 9):** Only 10/mo search volume. Written as linkable asset per Ch6.2 only (earns citations, AI grounding), not a traffic target.
 - **keyword-ideas for "espresso drinks":** Returned mostly coffee chain brand terms. Not useful for our niche informational strategy.
+- **keyword-ideas for "coffee beans freshness" (Pulse 11):** Returned coffee shop chain brand searches (Dutch Bros, Starbucks, etc.) — completely off-topic. The seed was too generic. "how long do coffee beans last" found via direct search-volume check instead.
+- **"how to store coffee beans" (Pulse 11):** 1,900/mo but HIGH competition 89/100 — skip. Head term dominated by established coffee brands. The more specific question "how long do coffee beans last" (2,900/mo, diff 8) is the better target.
+- **"types of espresso machines" (Pulse 11):** Only 480/mo AND HIGH competition 100/100 — doubly disqualified.
+- **"espresso tamping" (Pulse 11):** 9,900/mo but HIGH competition 100/100 — skip.
 - **keyword-ideas for "compact espresso machine":** Returned broad coffee chain terms, not helpful. Confirms "compact espresso machine" (60.5K, diff 12) itself is the target keyword — no sub-cluster to build around.
 - **"descale espresso machine" head term (Pulse 7):** 5,400/mo BUT competition 96/100 — dominated by machine brands (Breville, DeLonghi, etc.). SKIP head term. Wrote "how to clean espresso machine" (1,900/mo, diff 17) as comprehensive guide covering descaling + cleaning + maintenance instead.
 - **"how to make espresso without a machine" cluster (Pulse 8):** DataForSEO confirmed: "how to make espresso without a machine" 4,400/mo HIGH 86/100; "aeropress espresso" 2,400/mo HIGH 90/100; "espresso without machine" 720/mo HIGH 75/100. Entire cluster is HIGH competition — skip.
@@ -206,18 +216,28 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ Internal linking: pillar page confirmed current, cortado recipe updated to link comparison guide
 - ✅ DataForSEO spend: $0.075 (8 search-volume checks)
 
-### Pulse 11 (Next)
-- **Check SC:** Watch for macchiato, caffeine guide, cappuccino vs latte, affogato entering SC impressions
-- **Content priorities:**
-  1. "how to store coffee beans" — 4.4K/mo estimated, validate competition; highly informational, evergreen
-  2. "espresso beans guide" — 27.1K/mo diff 0 (from Pulse 3 keyword-ideas) — SERP check needed to validate informational vs commercial intent
-  3. "types of espresso machines" — check volume/competition; complements compact machine guide
-- **Research:** search-volume "how to store coffee beans,coffee bean storage,how long do coffee beans last,best coffee for espresso"
-- **Skill ref:** Ch4.1 (intent validation), Ch5.2 (orphan page check — ensure all 33 pages linked)
+### Pulse 11 — DONE
+- ✅ SC: milk-steaming-beginners 21 impressions, avg pos 35.76 (improving from 41.9). 10 query variants.
+- ✅ flat-white-vs-latte 22.2K/mo diff 5 → WRITTEN (comparison cluster priority)
+- ✅ latte-vs-macchiato 6.6K/mo diff 2 → WRITTEN
+- ✅ how-long-do-coffee-beans-last 2.9K/mo diff 8 → WRITTEN (no featured snippet gap found)
+- ✅ espresso-vs-americano 1.6K/mo diff 1 → WRITTEN
+- ✅ milk-steaming-beginners: answer-first bold opening added (Ch4.2)
+- ✅ DataForSEO spend: $0.163 (3 batches)
+- Rejected: how-to-store-coffee-beans HIGH 89/100, types-of-espresso-machines HIGH 100/100, espresso-tamping HIGH 100/100
 
-### Pulse 12
+### Pulse 12 (Next)
+- **Check SC:** Watch for flat-white-vs-latte, macchiato, caffeine guide, cappuccino-vs-latte, affogato entering SC impressions
+- **Content priorities:**
+  1. "how to use espresso machine" — 3,600/mo, diff 11 LOW → good how-to guide for beginners; validates beginner intent cluster
+  2. "espresso beans guide" — 27.1K/mo diff 0 (from Pulse 3) — SERP check still needed; informational vs commercial intent unclear
+  3. Check "latte art" cluster — potentially "how to do latte art" or "latte art for beginners" (volume TBD, likely low-medium competition)
+- **Off-page:** Ch6 — explore link-building opportunities; coffee blogs that link to recipe content
+- **Skill ref:** Ch4.1 (intent validation), Ch6 (off-page readiness check)
+
+### Pulse 13
 - **Off-page:** Ch6 — identify 2-3 outreach targets; coffee blogs that link to recipe/comparison content
-- **Content:** Individual machine review (Breville Bambino Plus or Gaggia Classic Pro) if SC shows commercial intent traffic OR if volume/competition ratio is right
+- **Content:** Individual machine review (Breville Bambino Plus) if SC shows commercial intent OR volume/competition ratio right
 - **Skill ref:** Ch6 (link building), Ch4.3 (E-E-A-T for reviews)
 
 ---
@@ -225,4 +245,4 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - **H10:** milk-steaming-beginners at position 26.5 on Day 5 suggests Google has began indexing. Expect more pages to appear in SC within next 3–5 days.
 - **H11:** "espresso beans vs coffee beans" informational guide may rank despite 41/100 ad competition if organic content gap exists (SERP for head term "espresso beans" showed no featured snippet and Reddit at #6).
 
-*Last updated: 2026-04-07 Pulse 10*
+*Last updated: 2026-04-07 Pulse 11*
