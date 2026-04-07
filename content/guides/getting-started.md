@@ -181,3 +181,6 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [How to Clean Your Espresso Machine](/guides/espresso-machine-cleaning-guide/) — Daily, weekly, and monthly cleaning schedule plus descaling guide
 - [Cappuccino vs Latte: What's the Difference?](/guides/cappuccino-vs-latte/) — Side-by-side comparison of foam, ratio, and flavor
 - [What Is a Macchiato?](/guides/what-is-a-macchiato/) — The three types explained (espresso, latte, and the Starbucks version)
+- [Caramel Macchiato Recipe](/recipes/caramel-macchiato/) — How to make it at home, hot or iced
+- [What Is a Mocha? Mocha Latte Recipe](/recipes/mocha/) — Espresso + chocolate explained, with recipe
+- [Espresso Glossary](/guides/espresso-glossary/) — Every espresso term defined, A-Z
