@@ -7,13 +7,13 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 7 — **31 pages published.** SC: milk-steaming-beginners at 11 impressions, avg position 40.5 (stable). Still only 1 page visible in SC — indexing lag for 27 pages expected to clear within days. Pulse 9: caramel macchiato (74K/mo, diff 17), mocha cluster (24.2K combined), espresso glossary (linkable asset) added. **"caramel macchiato" is our highest-volume yet-unwritten keyword — similar to macchiato/affogato pattern.** Off-page still premature (Ch6.1 — earn through content quality, not cold outreach yet).
+Day 7 — **33 pages published.** SC: milk-steaming-beginners at 13 impressions, avg position 41.9 (slightly regressed, still stable). Still only 1 page visible in SC after 7 days — extended indexing lag for new domain expected. Pulse 10: espresso tonic (9.9K/mo, diff 1) and cortado vs macchiato (2.9K/mo, diff 1) added. Cold brew cluster ALL high competition → skipped. DataForSEO confirmed "latte vs cappuccino" 27.1K/mo diff 6 likely captured by existing cappuccino-vs-latte page. Off-page still premature (Ch6.1). Internal linking: pillar page confirmed up-to-date with all 33 pages linked.
 
 ## Key Data Points
-- **GA4:** 4 sessions Apr 7 (so far), 7 Apr 6, 7 Apr 5 — still no organic traffic, all bot/test
-- **Search Console Pulse 9:** milk-steaming-beginners only page indexed — 11 impressions, avg pos 40.5. 6 query variants. No other pages showing yet.
-- **DataForSEO spend to date:** ~$0.745 (+ $0.075 this pulse for search-volume; + $0.002 for SERP check)
-- **New biggest finds (Pulse 9):** caramel macchiato 74K/mo diff 17; mocha cluster 24.2K combined diff 0-12
+- **GA4:** Sessions Apr 4: 21, Apr 5: 7, Apr 6: 8 — still no organic traffic, all bot/test
+- **Search Console Pulse 10:** milk-steaming-beginners only page indexed — 13 impressions, avg pos 41.9. 7 query variants. No other pages showing yet (indexing lag persists Day 7).
+- **DataForSEO spend to date:** ~$0.820 (+$0.075 this pulse for search-volume on 8 keywords)
+- **Pulse 10 keyword research:** espresso tonic 9.9K diff 1 (✅ WRITTEN); cortado vs macchiato 2.9K diff 1 (✅ WRITTEN); cold brew cluster ALL high competition (skipped); latte vs cappuccino 27.1K diff 6 (likely captured by existing cappuccino-vs-latte page)
 
 ## Keyword Targets
 *Updated with DataForSEO research. Format: keyword | volume | difficulty | target URL | status*
@@ -54,6 +54,8 @@ Day 7 — **31 pages published.** SC: milk-steaming-beginners at 11 impressions,
 | caramel macchiato | 74,000 | 17/100 LOW | /recipes/caramel-macchiato/ | **Published (NEW Pulse 9 - PRIORITY)** |
 | what is a mocha / mocha latte / mocha recipe | 9,900+9,900+4,400 | 0-12/100 ULTRA-LOW | /recipes/mocha/ | **Published (NEW Pulse 9 - PRIORITY)** |
 | espresso glossary | N/A (linkable asset) | — | /guides/espresso-glossary/ | **Published (NEW Pulse 9 — linkable asset)** |
+| espresso tonic | 9,900 | 1/100 ULTRA-LOW | /recipes/espresso-tonic/ | **Published (NEW Pulse 10 - PRIORITY)** |
+| cortado vs macchiato | 2,900 | 1/100 ULTRA-LOW | /guides/cortado-vs-macchiato/ | **Published (NEW Pulse 10)** |
 | how to clean espresso machine | 1,900 | 17/100 LOW | /guides/espresso-machine-cleaning-guide/ | **Published (NEW Pulse 7)** |
 | how to descale espresso machine | 720 | 8/100 ULTRA-LOW | /guides/espresso-machine-cleaning-guide/ | **Published (NEW Pulse 7 — covered)** |
 | espresso machine maintenance | 590 | 6/100 ULTRA-LOW | /guides/espresso-machine-cleaning-guide/ | **Published (NEW Pulse 7 — covered)** |
@@ -98,8 +100,8 @@ Day 7 — **31 pages published.** SC: milk-steaming-beginners at 11 impressions,
 
 ### Published (31 pages)
 - **Pillar:** /guides/getting-started/
-- **Guides cluster (19):** best-espresso-machines-beginners, best-espresso-grinders, milk-steaming-beginners, espresso-troubleshooting, espresso-vs-coffee, espresso-ratio-guide, espresso-caffeine-guide, moka-pot-vs-espresso-machine, what-is-crema, what-is-a-macchiato, cappuccino-vs-latte, compact-espresso-machine-guide, espresso-grind-size-guide, water-for-espresso, espresso-beans-vs-coffee-beans, espresso-machine-cleaning-guide, what-is-a-doppio, **espresso-glossary** (NEW Pulse 9 — linkable asset)
-- **Recipes cluster (13):** cortado, americano, flat-white, cappuccino, latte, iced-latte, lungo, ristretto, affogato, espresso-con-panna, **caramel-macchiato** (NEW Pulse 9 — 74K/mo), **mocha** (NEW Pulse 9 — 24.2K cluster)
+- **Recipes cluster (14):** cortado, americano, flat-white, cappuccino, latte, iced-latte, lungo, ristretto, affogato, espresso-con-panna, caramel-macchiato (Pulse 9 — 74K/mo), mocha (Pulse 9 — 24.2K cluster), **espresso-tonic** (NEW Pulse 10 — 9.9K/mo diff 1)
+- **Guides cluster (20):** best-espresso-machines-beginners, best-espresso-grinders, milk-steaming-beginners, espresso-troubleshooting, espresso-vs-coffee, espresso-ratio-guide, espresso-caffeine-guide, moka-pot-vs-espresso-machine, what-is-crema, what-is-a-macchiato, cappuccino-vs-latte, compact-espresso-machine-guide, espresso-grind-size-guide, water-for-espresso, espresso-beans-vs-coffee-beans, espresso-machine-cleaning-guide, what-is-a-doppio, espresso-glossary (Pulse 9 — linkable asset), **cortado-vs-macchiato** (NEW Pulse 10 — 2.9K/mo diff 1)
 - **About page** (E-E-A-T)
 - **3 section index pages**
 
@@ -195,20 +197,27 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ Rejected: "espresso glossary" — as direct keyword target: only 10/mo. But WRITTEN as linkable asset for Ch6.2 benefits (AI grounding + citations + topical authority signal)
 - ✅ DataForSEO spend this pulse: $0.077 (search-volume + SERP)
 
-### Pulse 10 (Next)
-- **Check SC:** Watch for caffeine guide, macchiato, cappuccino vs latte, affogato, caramel macchiato entering SC data
-- **Content priorities:**
-  1. "cold brew espresso" or "cold brew at home" — validate volume/competition (trending, high intent)
-  2. "espresso tonic" — unique/viral drink, lower competition, growing trend
-  3. "latte vs cappuccino vs macchiato" — three-way comparison, high comparison intent
-- **Research:** search-volume "cold brew espresso,espresso tonic,cortado vs macchiato,how to make cold brew"
-- **Schema:** Validate Recipe schema with Google's Rich Results Test on caramel macchiato + mocha
-- **Off-page:** Ch6 — With glossary live, any opportunities to get it cited? Check if Reddit/coffee forums reference guides like this
-- **Skill ref:** Ch4.1 (new keyword discovery), Ch3.2 (schema validation), Ch6.2 (glossary as linkable asset distribution)
+### Pulse 10 — DONE
+- ✅ SC: milk-steaming-beginners 13 impressions, avg pos 41.9. Still 1 page only.
+- ✅ DataForSEO: cold brew cluster ALL high competition (43-100/100) → skipped
+- ✅ DataForSEO: espresso tonic 9.9K/mo diff 1 → WRITTEN
+- ✅ DataForSEO: cortado vs macchiato 2.9K/mo diff 1 → WRITTEN
+- ✅ latte vs cappuccino 27.1K/mo diff 6 → likely covered by existing cappuccino-vs-latte page
+- ✅ Internal linking: pillar page confirmed current, cortado recipe updated to link comparison guide
+- ✅ DataForSEO spend: $0.075 (8 search-volume checks)
 
-### Pulse 11
-- **Off-page:** Ch6 — identify 3-5 outreach targets; coffee blogs that link to recipe content
-- **Content:** "how to store coffee beans" OR individual machine review if SC shows commercial intent traffic
+### Pulse 11 (Next)
+- **Check SC:** Watch for macchiato, caffeine guide, cappuccino vs latte, affogato entering SC impressions
+- **Content priorities:**
+  1. "how to store coffee beans" — 4.4K/mo estimated, validate competition; highly informational, evergreen
+  2. "espresso beans guide" — 27.1K/mo diff 0 (from Pulse 3 keyword-ideas) — SERP check needed to validate informational vs commercial intent
+  3. "types of espresso machines" — check volume/competition; complements compact machine guide
+- **Research:** search-volume "how to store coffee beans,coffee bean storage,how long do coffee beans last,best coffee for espresso"
+- **Skill ref:** Ch4.1 (intent validation), Ch5.2 (orphan page check — ensure all 33 pages linked)
+
+### Pulse 12
+- **Off-page:** Ch6 — identify 2-3 outreach targets; coffee blogs that link to recipe/comparison content
+- **Content:** Individual machine review (Breville Bambino Plus or Gaggia Classic Pro) if SC shows commercial intent traffic OR if volume/competition ratio is right
 - **Skill ref:** Ch6 (link building), Ch4.3 (E-E-A-T for reviews)
 
 ---
@@ -216,4 +225,4 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - **H10:** milk-steaming-beginners at position 26.5 on Day 5 suggests Google has began indexing. Expect more pages to appear in SC within next 3–5 days.
 - **H11:** "espresso beans vs coffee beans" informational guide may rank despite 41/100 ad competition if organic content gap exists (SERP for head term "espresso beans" showed no featured snippet and Reddit at #6).
 
-*Last updated: 2026-04-06 Pulse 6*
+*Last updated: 2026-04-07 Pulse 10*
