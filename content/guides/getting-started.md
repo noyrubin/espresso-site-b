@@ -184,3 +184,5 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [Caramel Macchiato Recipe](/recipes/caramel-macchiato/) — How to make it at home, hot or iced
 - [What Is a Mocha? Mocha Latte Recipe](/recipes/mocha/) — Espresso + chocolate explained, with recipe
 - [Espresso Glossary](/guides/espresso-glossary/) — Every espresso term defined, A-Z
+- [Cortado vs Macchiato](/guides/cortado-vs-macchiato/) — Side-by-side comparison of these two small espresso-milk drinks
+- [Espresso Tonic Recipe](/recipes/espresso-tonic/) — The sparkling espresso drink that's taken specialty coffee shops by storm

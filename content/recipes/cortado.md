@@ -83,3 +83,5 @@ The cortado sits between a macchiato (barely any milk) and a flat white (more mi
 - **Cortadito (Cuban-style):** Whip a small amount of the first espresso drops with sugar to create "espuma," then top with steamed milk.
 
 For more espresso drink recipes, browse our [recipe collection](/recipes/). If you are still setting up your home espresso station, start with our [getting started guide](/guides/getting-started/).
+
+Wondering how a cortado compares to similar small espresso drinks? See our [cortado vs macchiato comparison](/guides/cortado-vs-macchiato/) for a full side-by-side breakdown.
