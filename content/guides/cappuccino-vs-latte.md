@@ -179,3 +179,5 @@ Foam that collapses quickly usually means the milk was over-steamed (too hot) or
 - [Milk Steaming for Beginners](/guides/milk-steaming-beginners/) — Master microfoam vs dense foam
 - [What Is a Macchiato?](/guides/what-is-a-macchiato/) — The espresso drink with just a dab of milk
 - [Getting Started with Home Espresso](/guides/getting-started/) — Equipment and technique overview
+- [Flat White vs Latte](/guides/flat-white-vs-latte/) — How the smaller, stronger flat white compares to a latte
+- [Latte vs Macchiato](/guides/latte-vs-macchiato/) — Traditional macchiato vs latte and latte macchiato

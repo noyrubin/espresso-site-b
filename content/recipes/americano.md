@@ -109,4 +109,4 @@ Not traditional, but perfectly valid. A tablespoon of milk or cream softens the 
 
 For more espresso drink recipes, see our [full recipe collection](/recipes/). New to home espresso? Start with our [complete beginner's guide](/guides/getting-started/).
 
-**Related:** Want a longer espresso drink without adding water afterward? Try a [lungo](/recipes/lungo/) — it's pulled with more water through the grounds rather than diluted after the fact.
+**Related:** Want a longer espresso drink without adding water afterward? Try a [lungo](/recipes/lungo/) — it's pulled with more water through the grounds rather than diluted after the fact. For a direct comparison, see [Espresso vs Americano](/guides/espresso-vs-americano/).

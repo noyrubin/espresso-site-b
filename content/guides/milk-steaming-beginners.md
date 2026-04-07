@@ -11,6 +11,8 @@ draft: false
 weight: 12
 ---
 
+**To steam milk for espresso drinks: purge the steam wand, position the tip just below the milk surface, open full steam and introduce air for 2–5 seconds (the "stretching" phase), then submerge the tip to create a spinning vortex until the pitcher reaches 140–155°F (60–68°C).** The entire process takes about 30–45 seconds.
+
 Good microfoam transforms an ordinary espresso into a proper latte, cappuccino, or flat white. The goal is smooth, glossy milk with tiny, evenly distributed bubbles — not stiff peaks or large, soapy bubbles. With the right technique, most beginners produce decent microfoam within a week of daily practice.
 
 This guide covers the complete process: equipment, technique, temperature, different milk types, and the specific mistakes that trip up new home baristas.
