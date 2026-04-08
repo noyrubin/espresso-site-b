@@ -190,3 +190,5 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [Espresso Glossary](/guides/espresso-glossary/) — Every espresso term defined, A-Z
 - [Cortado vs Macchiato](/guides/cortado-vs-macchiato/) — Side-by-side comparison of these two small espresso-milk drinks
 - [Espresso Tonic Recipe](/recipes/espresso-tonic/) — The sparkling espresso drink that's taken specialty coffee shops by storm
+- [How to Use an Espresso Machine](/guides/how-to-use-espresso-machine/) — Step-by-step beginner walkthrough from warm-up to pulling your first shot
+- [Coffee to Water Ratio Guide](/guides/coffee-to-water-ratio/) — Quick-reference ratios for espresso, drip, French press, pour over, AeroPress, and moka pot
