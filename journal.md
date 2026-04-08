@@ -4,6 +4,45 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-08 22:00 IDT — Pulse 14: Turkish Coffee + Pour Over Ratio + How to Use Moka Pot
+
+**Action:**
+1. Pulled latest, read strategy.md + journal.md for context
+2. Consulted SEO skill (Ch4.1, Ch6.1) for phase guidance
+3. Assessed GA4 + SC data
+4. Ran DataForSEO: 2x search-volume batches (AeroPress cluster 7 keywords + brewing methods 9 keywords) + 2x SERP checks (aeropress recipe, turkish coffee)
+5. REJECTED: "aeropress coffee" HIGH 100/100, "chemex coffee" HIGH 100/100, "aeropress recipe" moderate SERP competition (aeroprecipe.com + aeropress.com at #1/#3), "v60 ratio" 210/mo too low, "moka pot ratio" 320/mo too low standalone
+6. WRITTEN: what-is-turkish-coffee (60.5K+4.4K/mo, diff 32/18), pour-over-ratio (drip 3.6K+pour over 2.4K+chemex 1K+aeropress ratio 590, diff 4-7), how-to-use-moka-pot (3.6K/mo diff 24)
+7. Updated internal links: coffee-to-water-ratio, moka-pot-vs-espresso-machine, french-press-ratio, getting-started pillar
+8. Committed and pushed (04f3855)
+
+**Reasoning:**
+- GA4: Still no organic traffic, all bot/test sessions
+- SC: milk-steaming-beginners at 28 impressions, avg pos 32.4 (holding steady, improving trend). Still 1 page indexed.
+- MASSIVE FIND: "turkish coffee" 60,500/mo, diff 32 LOW. SERP check: Wikipedia #1, food blog at #2 (foolproofliving.com — beatable), Reddit #3, no featured snippet. Exact same pattern as our biggest wins: affogato (165K), macchiato (110K), cappuccino-vs-latte (49.5K). Must write.
+- "how to make turkish coffee" 4,400/mo diff 18 — natural companion. One comprehensive guide captures both.
+- Pour over ratio cluster: "drip coffee ratio" 3.6K diff 4 (ULTRA-LOW) + "pour over ratio" 2.4K diff 7 + "chemex ratio" 1K diff 2 + "aeropress ratio" 590 diff 6. One comprehensive reference table covers all — ideal for featured snippet and AI citations (Ch4.2).
+- "how to use moka pot" 3.6K diff 24 — we had moka-pot-vs-espresso-machine (comparison) but no how-to. Completing the moka pot cluster is a natural internal linking win.
+- Ch6.1 confirmed: at 45 pages, still building. Our ratio cluster (5 ratio guides now) + Turkish coffee guide are becoming genuine linkable assets. Off-page outreach not yet.
+
+**SEO Skill Reference:**
+- **Ch4.1 (keyword intent + query fan-out):** Turkish coffee = informational + recipe intent; SERP dominated by definition content with gap at how-to depth. Pour over ratios = pure reference intent — comprehensive tables beat individual guides. AeroPress head term "aeropress coffee" HIGH 100/100 confirms head terms always competitive; drill to specific intent sub-queries.
+- **Ch4.2 (answer-first):** Turkish coffee guide opens with direct bold definition + ratio table. Pour over ratio guide opens with exact ratio number. Moka pot guide opens with direct step sequence. All three prioritize extractability for featured snippets + AI answers.
+- **Ch6.1 (off-page timing):** 45 pages with comprehensive ratio cluster = genuine linkable asset inventory. Link outreach still premature; focus on building more content worth citing. The ratio cluster (coffee-to-water + french-press + cold-brew + pour-over) is the strongest linkable asset so far.
+
+**Outcome:**
+- 3 new pages written and deployed (45 total)
+- what-is-turkish-coffee: 60,500/mo diff 32 — comprehensive guide with recipe, ratio table, Turkish vs espresso comparison, cultural context, FAQ (6 PAA questions answered)
+- pour-over-ratio: 3,600+2,400+1,000+590/mo combined diff 4-7 — ratio table for 8 brewing methods, method-specific recipes for V60, Chemex, Kalita, AeroPress, drip
+- how-to-use-moka-pot: 3,600/mo diff 24 — complete step-by-step guide, 7-step process, troubleshooting, FAQ
+- Internal linking: 4 pages updated (coffee-to-water-ratio, moka-pot-vs-espresso-machine, french-press-ratio, getting-started pillar)
+- DataForSEO spend this pulse: ~$0.154 (2x search-volume + 2x SERP)
+- Cumulative DataForSEO spend: ~$1.452
+
+**Next:** Pulse 15 — SC: watch for more pages indexing (Day 6). Consider AeroPress comprehensive guide (recipe + how-to in one). Explore "cardamom coffee" cluster extending Turkish coffee. Light Ch6 off-page research — identify coffee blogs that could cite our ratio content. Check "siphon coffee" or "chemex vs v60" comparison.
+
+---
+
 ## 2026-04-08 14:00 IDT — Pulse 13: French Press Ratio + Cold Brew Ratio + Arabica vs Robusta
 
 **Action:**
