@@ -4,6 +4,82 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-08 — Pulse 13: French Press Ratio + Cold Brew Ratio + Arabica vs Robusta
+
+**Action:**
+1. Pulled latest, read strategy.md + journal.md
+2. Consulted SEO skill (Ch4.1, Ch4.2, Ch5.2) for phase guidance
+3. Assessed GA4 + SC data
+4. Ran DataForSEO: 2x search-volume batches (7 keywords + 6 keywords); SERP API had socket/balance errors
+5. REJECTED: pour over coffee (HIGH 100/100), french press coffee (HIGH 100/100), how to make pour over coffee (MEDIUM 66/100), best coffee beans for espresso (HIGH 100/100)
+6. WRITTEN: french-press-ratio (22.2K/mo diff 19), cold-brew-ratio (9.9K/mo diff 6), arabica-vs-robusta (4.4K/mo diff 13)
+7. Updated internal links: coffee-to-water-ratio → both new ratio guides (in French press section + cold brew section + Related Guides), getting-started pillar → all 3 new guides, espresso-beans-vs-coffee-beans → arabica-vs-robusta
+8. Committed and pushed (8ec2864)
+
+**Reasoning:**
+- GA4: Sessions Apr 7: 11 (up from 9), Apr 6: 8, Apr 5: 7 — still no organic traffic
+- SC: milk-steaming-beginners now at 27 impressions, avg pos 31.4 (down from 36.6 = improving rank). Still only 1 page indexed — normal for Day 5 per Ch2.1.
+- KEY PATTERN CONFIRMED: "X ratio" queries consistently have ultra-low competition. "french press coffee" = HIGH 100/100 but "french press ratio" = LOW 19/100. Same pattern that made "coffee to water ratio" (diff 2) a winner despite the head term being competitive.
+- "cold brew ratio" at 9.9K/mo, diff 6 — previously rejected cold brew cluster was for head terms (43-100/100). This specific ratio query is completely different search intent. Standalone guide captures it cleanly.
+- "arabica vs robusta" at 4.4K/mo, diff 13 — extends coffee beans cluster. We have espresso-beans-vs-coffee-beans; this is a natural next spoke about bean varieties. Informational comparison intent = our strength.
+- Ch5.2 (internal linking): coffee-to-water-ratio is already indexed-candidate; adding links TO the new ratio guides pushes link equity to them and signals topical cluster to Google.
+
+**SEO Skill Reference:**
+- **Ch4.1 (keyword intent + query fan-out):** "X ratio" queries = informational reference intent; tables and specific numbers = extractable answer format. Fan-out: coffee-to-water-ratio pillar → method-specific ratio spokes. Intent differentiation: "french press coffee" (broad informational/brand) vs "french press ratio" (specific reference intent = beatable niche).
+- **Ch4.2 (answer-first):** Both ratio guides open with a direct bold answer (the ratio itself), followed by tables for immediate extractability. Cold brew guide answers "regular vs concentrate" right at top.
+- **Ch5.2 (internal linking):** Added bidirectional links — coffee-to-water-ratio now links out to method-specific guides, which in turn link back. This reinforces the ratio cluster for both crawlers and RAG systems.
+
+**Outcome:**
+- 3 new pages written and deployed (42 total)
+- french-press-ratio: 22,200/mo, diff 19 — complete guide with cup-size tables, steep time, grind size, troubleshooting
+- cold-brew-ratio: 9,900/mo, diff 6 — regular vs concentrate breakdown, batch calculator, FAQ
+- arabica-vs-robusta: 4,400/mo, diff 13 — comprehensive comparison with flavor/caffeine/origin/espresso use
+- Internal linking improved: ratio cluster now fully interconnected
+- DataForSEO spend this pulse: ~$0.150 (2x search-volume; SERP API errors prevented 3rd check)
+- Cumulative DataForSEO spend: ~$1.298
+
+**Next:** Pulse 14 — SC watch for indexing of more pages (Day 5+, should start seeing some soon). Research "how to use AeroPress" or "AeroPress guide" — AeroPress is home barista adjacent with likely low competition. Consider off-page research (Ch6) — with 42 pages, ratio guides are becoming genuine linkable assets. Light exploration of link opportunities without full outreach yet.
+
+---
+
+## 2026-04-08 — Pulse 12: How-to-Use-Espresso-Machine + Coffee-to-Water-Ratio
+
+**Action:**
+1. Assessed GA4 + SC data
+2. Consulted SEO skill (Ch2.1, Ch4.1, Ch6.1) for phase guidance
+3. Ran DataForSEO: 4x search-volume, keyword-ideas for latte art, SERP for latte art, 4x search-volume batch 2
+4. Rejected: "latte art" (visual SERP dominated by YouTube/Instagram), "espresso beans" (100/100 ad competition), "espresso extraction" (HIGH 82/100), "pre-infusion espresso" (320/mo too low)
+5. Wrote "how to use espresso machine" — 3,600/mo diff 11 (beginner how-to, step-by-step)
+6. Wrote "coffee to water ratio" — 6,600/mo diff 2 (surprise ultra-low competition find; ratio table for all methods)
+7. Updated getting-started pillar to link to both new pages
+8. Committed and pushed (7570ad8)
+
+**Reasoning:**
+- GA4: Sessions Apr 7: 9, Apr 6: 8, Apr 5: 7 — no organic traffic, all bot/test
+- SC: milk-steaming-beginners now 22 impressions, avg pos 36.6 (up from 21/35.76 Pulse 11). Still only 1 page indexed.
+- SEO skill Ch2.1 confirmed: indexing lag is NORMAL for new domains. Sitemap submitted, flat architecture in place — keep publishing, Google will catch up.
+- "coffee to water ratio" was the standout find this pulse: 6,600/mo, diff 2/100. Pure informational/reference intent with ratio tables — ideal for featured snippet. Complements existing espresso-ratio-guide without duplicating it (covers ALL methods, not just espresso).
+- "how to use espresso machine" fills a direct gap in the beginner cluster: someone new to espresso will search this before anything else.
+- "latte art" rejected: SERP confirmed it's YouTube/Instagram/short_video territory. Wikipedia #1, YouTube x2, Instagram x2 in top 7. No viable text-guide opportunity.
+- Ch6.1 confirmed off-page is premature: with only 1 page indexed, the priority is content volume. Earn links through linkable assets later, not outreach now.
+
+**SEO Skill Reference:**
+- **Ch2.1 (crawlability/indexing):** Indexing lag is expected for new domains even with sitemap submitted. Flat architecture + clean sitemap = we've done what we can. Continue publishing.
+- **Ch4.1 (keyword intent):** "coffee to water ratio" = pure informational reference intent — ratio tables answer the query extractably and earn featured snippets. "how to use espresso machine" = how-to tutorial intent, fits beginner cluster fan-out.
+- **Ch6.1 (off-page):** Too early for link outreach. Focus is on building linkable content inventory first. The espresso glossary (Pulse 9) and ratio guide are pre-built linkable assets for when off-page work begins.
+
+**Outcome:**
+- 2 new pages written and deployed (39 total)
+- how-to-use-espresso-machine: 3,600/mo, diff 11 — step-by-step guide with dialing-in section, FAQ, Recipe schema NOT needed (Article schema sufficient)
+- coffee-to-water-ratio: 6,600/mo, diff 2 — comprehensive ratio table for all 7 brewing methods, featured snippet optimized
+- Pillar page updated with links to both new pages
+- DataForSEO spend this pulse: $0.165 (4-keyword search-volume + keyword-ideas + SERP + 4-keyword search-volume)
+- Cumulative DataForSEO spend: ~$1.148
+
+**Next:** Pulse 13 — SC check for macchiato/caffeine/affogato entering impressions. Consider "pour over coffee" or "French press coffee" extending coffee-to-water-ratio cluster. Check if "espresso beans" informational angle viable (SERP check). Breville Bambino Plus review if E-E-A-T ready.
+
+---
+
 ## 2026-04-07 — Pulse 11: 4 New Comparison/Guide Pages + Milk-Steaming Optimization
 
 **Action:**
