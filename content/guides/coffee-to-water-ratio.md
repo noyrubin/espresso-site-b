@@ -85,6 +85,8 @@ French press uses the same ratio as drip coffee (1:15 to 1:16) but produces a he
 
 *Press as soon as it's done steeping — leaving coffee on grounds after pressing leads to over-extraction.*
 
+For a full French press guide including cup-size tables, grind advice, and troubleshooting, see our [French press ratio guide](/guides/french-press-ratio/).
+
 ---
 
 ## Pour Over Ratio (1:15 to 1:16)
@@ -139,6 +141,8 @@ Cold brew is brewed as a concentrate, then diluted 1:1 with water or milk before
 
 The final drinking ratio works out to approximately 1:14 — similar to a standard cup of coffee.
 
+For a full breakdown including batch-size tables, concentrate dilution ratios, and steep time advice, see our dedicated [cold brew ratio guide](/guides/cold-brew-ratio/).
+
 ---
 
 ## Weight vs. Volume: Why Weight Wins
@@ -192,6 +196,8 @@ Yes, at the margins. Hard water with high mineral content can make coffee taste 
 ## Related Guides
 
 - [Espresso Ratio Guide: Dose, Yield, and Dialing In](/guides/espresso-ratio-guide/)
+- [French Press Ratio: How Much Coffee Per Cup](/guides/french-press-ratio/) — Dedicated guide for French press, with cup-size tables and steep time advice
+- [Cold Brew Ratio: Regular Strength vs. Concentrate](/guides/cold-brew-ratio/) — Full breakdown of 1:4 vs. 1:8 cold brew ratios and how to use concentrate
 - [Water for Espresso: Why Mineral Content Matters](/guides/water-for-espresso/)
 - [Espresso Grind Size Guide](/guides/espresso-grind-size-guide/)
 - [Getting Started with Home Espresso](/guides/getting-started/)

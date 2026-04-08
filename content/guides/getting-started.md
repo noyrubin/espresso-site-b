@@ -192,3 +192,6 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [Espresso Tonic Recipe](/recipes/espresso-tonic/) — The sparkling espresso drink that's taken specialty coffee shops by storm
 - [How to Use an Espresso Machine](/guides/how-to-use-espresso-machine/) — Step-by-step beginner walkthrough from warm-up to pulling your first shot
 - [Coffee to Water Ratio Guide](/guides/coffee-to-water-ratio/) — Quick-reference ratios for espresso, drip, French press, pour over, AeroPress, and moka pot
+- [French Press Ratio Guide](/guides/french-press-ratio/) — How much coffee per cup for French press, with tables for every brew size
+- [Cold Brew Ratio Guide](/guides/cold-brew-ratio/) — Regular strength (1:8) vs concentrate (1:4) cold brew ratios and how to use them
+- [Arabica vs Robusta](/guides/arabica-vs-robusta/) — The difference in flavor, caffeine, and which to choose for home espresso

@@ -115,3 +115,4 @@ What matters more than the label:
 - [Getting Started with Home Espresso](/guides/getting-started/) — Everything you need to pull your first shot
 - [Espresso Caffeine Guide](/guides/espresso-caffeine-guide/) — How much caffeine is actually in your espresso
 - [How Long Do Coffee Beans Last?](/guides/how-long-do-coffee-beans-last/) — Shelf life by storage method and how to keep beans fresh longer
+- [Arabica vs Robusta: What's the Difference?](/guides/arabica-vs-robusta/) — Flavor, caffeine, and which bean type is right for home espresso
