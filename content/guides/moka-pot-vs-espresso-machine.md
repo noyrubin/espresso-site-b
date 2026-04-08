@@ -154,4 +154,4 @@ It's the most iconic and proven design. The aluminum 6-cup Bialetti Moka Express
 
 Many serious home baristas own both: a moka pot for quick weekday mornings and an espresso machine for weekend craft.
 
-*Next steps: Read our [beginner's guide to home espresso machines](/guides/best-espresso-machines-beginners/) to find the right entry-level machine, or explore [our full getting started guide](/guides/getting-started/) for the complete home espresso roadmap.*
+*Next steps: Read our [beginner's guide to home espresso machines](/guides/best-espresso-machines-beginners/) to find the right entry-level machine, explore [our full getting started guide](/guides/getting-started/) for the complete home espresso roadmap, or see our [step-by-step moka pot guide](/guides/how-to-use-moka-pot/) to start brewing today.*

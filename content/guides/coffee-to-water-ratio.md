@@ -202,3 +202,5 @@ Yes, at the margins. Hard water with high mineral content can make coffee taste 
 - [Espresso Grind Size Guide](/guides/espresso-grind-size-guide/)
 - [Getting Started with Home Espresso](/guides/getting-started/)
 - [Moka Pot vs. Espresso Machine](/guides/moka-pot-vs-espresso-machine/)
+- [Pour Over Coffee Ratio: V60, Chemex, Drip & AeroPress](/guides/pour-over-ratio/) — Method-specific ratios and recipes for every pour over style
+- [Turkish Coffee Guide: What It Is and How to Make It](/guides/what-is-turkish-coffee/)

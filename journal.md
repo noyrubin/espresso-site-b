@@ -4,7 +4,7 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
-## 2026-04-08 — Pulse 13: French Press Ratio + Cold Brew Ratio + Arabica vs Robusta
+## 2026-04-08 14:00 IDT — Pulse 13: French Press Ratio + Cold Brew Ratio + Arabica vs Robusta
 
 **Action:**
 1. Pulled latest, read strategy.md + journal.md
@@ -42,7 +42,7 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
-## 2026-04-08 — Pulse 12: How-to-Use-Espresso-Machine + Coffee-to-Water-Ratio
+## 2026-04-08 06:00 IDT — Pulse 12: How-to-Use-Espresso-Machine + Coffee-to-Water-Ratio
 
 **Action:**
 1. Assessed GA4 + SC data
@@ -80,7 +80,7 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
-## 2026-04-07 — Pulse 11: 4 New Comparison/Guide Pages + Milk-Steaming Optimization
+## 2026-04-07 22:00 IDT — Pulse 11: 4 New Comparison/Guide Pages + Milk-Steaming Optimization
 
 **Action:**
 1. Assessed GA4 + SC data
@@ -113,7 +113,7 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
-## 2026-04-07 — Pulse 10: Espresso Tonic + Cortado vs Macchiato
+## 2026-04-07 14:00 IDT — Pulse 10: Espresso Tonic + Cortado vs Macchiato
 
 **Action:**
 1. Checked GA4 + SC data (routine assessment)
@@ -155,7 +155,7 @@ Cortado vs macchiato rounds out the comparison cluster and is low-effort — two
 
 ---
 
-## 2026-04-04 — First Pulse: Site Architecture, Content Foundation, and Technical SEO
+## 2026-04-04 14:00 IDT — Pulse 1: First Pulse: Site Architecture, Content Foundation, and Technical SEO
 
 **Action:** Established complete site architecture, wrote 8 pieces of foundational content, implemented structured data schema markup, and set up E-E-A-T signals for brand new site launch.
 
@@ -208,7 +208,7 @@ Cortado vs macchiato rounds out the comparison cluster and is low-effort — two
 
 ---
 
-## 2026-04-04 ~16:00 UTC — Pulse 2: Content Expansion & Keyword Research
+## 2026-04-04 22:00 IDT — Pulse 2: Content Expansion & Keyword Research
 
 **Action:**
 1. Submitted sitemap to Google Search Console
@@ -249,7 +249,7 @@ Cortado vs macchiato rounds out the comparison cluster and is low-effort — two
 
 ---
 
-## 2026-04-05 — Pulse 3: Content Expansion & Featured Snippet Targeting
+## 2026-04-05 06:00 IDT — Pulse 3: Content Expansion & Featured Snippet Targeting
 
 **Action:**
 1. Checked GA4, Search Console, and DataForSEO data
@@ -292,7 +292,7 @@ Cortado vs macchiato rounds out the comparison cluster and is low-effort — two
 
 ---
 
-## 2026-04-05 — Pulse 4: Content Expansion — Macchiato Guide, Cappuccino vs Latte, Iced Latte Recipe
+## 2026-04-05 14:00 IDT — Pulse 4: Content Expansion — Macchiato Guide, Cappuccino vs Latte, Iced Latte Recipe
 
 **Action:**
 1. Consulted SEO skill (Ch4.2 answer-first framework, Ch2.1 crawlability/indexing status)
@@ -348,7 +348,7 @@ Both keywords have ultra-low competition despite massive volume — the kind of 
 
 ---
 
-## 2026-04-05 — Pulse 5: Compact Espresso Machine Guide + Grind Size Guide
+## 2026-04-05 22:00 IDT — Pulse 5: Compact Espresso Machine Guide + Grind Size Guide
 
 **Action:**
 1. Consulted SEO skill (Ch2.1 — indexing at Day 4, Ch4.1 — content velocity + intent validation)
@@ -401,7 +401,7 @@ The Ch2.1 guidance on indexing confirms: new domains typically take 1–2 weeks 
 
 ---
 
-## 2026-04-06 — Pulse 6: First SC Impressions + Water Guide + Beans Explainer + Lungo Recipe
+## 2026-04-06 06:00 IDT — Pulse 6: First SC Impressions + Water Guide + Beans Explainer + Lungo Recipe
 
 **Action:**
 1. Consulted SEO skill (Ch4.3 E-E-A-T for review content, Ch2.1 crawlability/indexing)
@@ -456,7 +456,7 @@ Key strategic pivots this pulse:
 
 ---
 
-## 2026-04-06 — Pulse 7: Ristretto, Cleaning Guide, Recipe Schema
+## 2026-04-06 14:00 IDT — Pulse 7: Ristretto, Cleaning Guide, Recipe Schema
 
 **Action:**
 1. Consulted SEO skill (Ch3.2 — Recipe schema for recipe pages; Ch7.1 — measurement framework; Ch4.1 — keyword intent)
@@ -505,7 +505,7 @@ Key strategic pivots this pulse:
 
 ---
 
-## 2026-04-06 — Pulse 8: Affogato, Doppio Guide, Espresso Con Panna
+## 2026-04-06 22:00 IDT — Pulse 8: Affogato, Doppio Guide, Espresso Con Panna
 
 **Action:**
 1. Consulted SEO skill (Ch4.1 keyword intent; Ch6.1/6.2 off-page authority; Ch7.1 measurement)
@@ -559,7 +559,7 @@ Key strategic pivots this pulse:
 
 ---
 
-## 2026-04-07 — Pulse 9: Caramel Macchiato (74K), Mocha Cluster (24K), Espresso Glossary (Linkable Asset)
+## 2026-04-07 06:00 IDT — Pulse 9: Caramel Macchiato (74K), Mocha Cluster (24K), Espresso Glossary (Linkable Asset)
 
 **Action:**
 1. Consulted SEO skill (Ch5.2 internal linking; Ch6.1 citations/off-page timing; Ch6.2 digital PR + linkable assets)

@@ -195,3 +195,6 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [French Press Ratio Guide](/guides/french-press-ratio/) — How much coffee per cup for French press, with tables for every brew size
 - [Cold Brew Ratio Guide](/guides/cold-brew-ratio/) — Regular strength (1:8) vs concentrate (1:4) cold brew ratios and how to use them
 - [Arabica vs Robusta](/guides/arabica-vs-robusta/) — The difference in flavor, caffeine, and which to choose for home espresso
+- [Pour Over Coffee Ratio Guide](/guides/pour-over-ratio/) — Exact ratios for drip, V60, Chemex, AeroPress, and every pour over method
+- [How to Use a Moka Pot](/guides/how-to-use-moka-pot/) — Step-by-step guide to stovetop espresso-style coffee
+- [What Is Turkish Coffee?](/guides/what-is-turkish-coffee/) — The ancient unfiltered brewing method, how it's made, and how it tastes
