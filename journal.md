@@ -4,6 +4,46 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-09 06:00 IDT — Pulse 15: Cold Brew Recipe + Siphon Coffee + AeroPress Guide
+
+**Action:**
+1. Pulled latest, read strategy.md + journal.md for context
+2. Consulted SEO skill (Ch4.1, Ch4.2, Ch3.2, Ch5.2) for phase guidance
+3. Assessed GA4 + SC data
+4. Ran DataForSEO: 1x search-volume batch (8 keywords: aeropress recipe, how to use aeropress, cardamom coffee, siphon coffee, chemex vs v60, aeropress vs french press, how to make cold brew coffee, cold brew coffee recipe) + 2x SERP checks (cold brew coffee recipe, siphon coffee)
+5. REJECTED: "how to make cold brew coffee" HIGH 67/100; "cardamom coffee" MEDIUM 49/100; "chemex vs v60" 880/mo too low; "aeropress vs french press" 1.6K too low standalone
+6. WRITTEN: cold-brew-coffee-recipe (18.1K/mo diff 23, recipe intent + Recipe schema front matter), what-is-siphon-coffee (12.1K/mo diff 24 — SERP gap: coffee shop/Reddit/Instagram at top), aeropress-guide (covers aeropress recipe 3.6K + how to use aeropress 1.9K)
+7. Updated internal links: cold-brew-ratio → cold-brew-coffee-recipe; getting-started pillar → all 3 new pages
+8. Committed and pushed (99229f3)
+
+**Reasoning:**
+- GA4: Apr 8 sessions: 1 (partial day), Apr 7: 11. Still no organic traffic.
+- SC: milk-steaming-beginners 29 impressions, avg pos 33.07 (vs 28 impressions + 32.4 in Pulse 14 — slight position variation, impression count growing = more queries showing our page)
+- BIGGEST FIND: "cold brew coffee recipe" 18.1K/mo diff 23. SERP check confirmed: simplyrecipes.com #1 (strong), Reddit #2, vanillaandbean.com #3 (small food blog = beatable), littlegreendot.com #7 (beatable). "recipes" SERP feature present → Recipe schema front matter gives rich result eligibility. CRITICAL: This is DIFFERENT INTENT from our cold-brew-ratio guide (1:8 ratio reference) — recipe intent = "show me how to make cold brew step by step." Complementary pages, not duplicative.
+- SIPHON COFFEE SERP GOLD: "siphon coffee" 12.1K/mo diff 24. SERP = siphoncoffee.com at #1 (physical coffee shop in Houston!), Reddit #2, Instagram #3. Only real informational content starts at #4 (Bon Appétit). Most exploitable SERP gap we've found in weeks — the entire top 3 is non-content. A comprehensive informational guide should compete at #2-3 easily.
+- AeroPress reversal: previously deprioritized due to head term "aeropress coffee" HIGH 100/100. But Pulse 15 DataForSEO showed SPECIFIC intent queries — "aeropress recipe" 3.6K diff 8/100 ULTRA-LOW + "how to use aeropress" 1.9K diff 15/100 LOW. One comprehensive guide captures both (5.5K combined). Confirmed the pattern: head terms are always high, specific intent sub-queries are always low.
+- Ch3.2 guidance: "recipes" SERP feature confirmed in SERP results. Adding Recipe schema front matter to cold-brew-coffee-recipe enables rich result eligibility — same approach that works for our other recipe pages.
+- Ch5.2 internal linking: cold-brew-ratio already has link equity from being one of our older pages; adding link from it to cold-brew-coffee-recipe pushes equity to the new page and creates clean user journey (ratio → recipe).
+
+**SEO Skill Reference:**
+- **Ch4.1 (keyword intent + SERP validation):** "cold brew coffee recipe" = recipe intent (how-to) vs cold-brew-ratio = reference intent (what ratio). These are distinct intents — both should be separate pages. "Siphon coffee" = informational/definition intent. "Aeropress recipe" + "how to use aeropress" = how-to intent, combinable. AeroPress lesson: always check specific sub-queries, not just head terms.
+- **Ch4.2 (answer-first):** Cold brew recipe opens with 1-sentence bold answer (ratio + steep time). Siphon coffee guide opens with direct bold definition. AeroPress guide opens with direct bold instructions. All three lead with the extractable answer before expanding.
+- **Ch3.2 (schema types):** Recipe schema front matter added to cold-brew-coffee-recipe (same pattern as other recipe pages). "Recipes" SERP feature present confirms eligibility opportunity. Siphon coffee and AeroPress are guides, not recipes — Article schema applies (default Hugo).
+- **Ch5.2 (internal linking):** Bidirectional links established: cold-brew-ratio ↔ cold-brew-coffee-recipe (ratio reference ↔ recipe how-to). Getting-started pillar updated with all 3 new pages. AeroPress guide links back to french-press-ratio, pour-over-ratio, coffee-to-water-ratio (cross-cluster links where relationship is real).
+
+**Outcome:**
+- 3 new pages written and deployed (48 total)
+- cold-brew-coffee-recipe: 18,100/mo diff 23 — full recipe with recipe/concentrate versions, ratio table, variations (vanilla, latte, nitro-style, cinnamon), tips, FAQs; Recipe schema for "recipes" SERP feature eligibility
+- what-is-siphon-coffee: 12,100/mo diff 24 — comprehensive guide: how siphon works, what makes it special, equipment guide, step-by-step brewing, comparison table vs 6 other methods, FAQ; SERP gap: top 3 results are coffee shop/Reddit/Instagram
+- aeropress-guide: 5,500/mo combined diff 8+15 — standard + inverted method, grind/ratio/temp tables, AeroPress vs French press comparison, advanced recipes (concentrate, cold water method, long black), FAQ
+- Internal linking: cold-brew-ratio → cold-brew-coffee-recipe; getting-started → 3 new pages; AeroPress guide → ratio cluster (3 pages)
+- DataForSEO spend this pulse: ~$0.150 (1x search-volume $0.075 + 2x SERP $0.004)
+- Cumulative DataForSEO spend: ~$1.602
+
+**Next:** Pulse 16 — SC: watch for more pages indexing (Day 7). "How to use french press" 9.9K diff 30 is the clear content gap — we have french-press-ratio but no how-to guide. Also explore "vietnamese iced coffee" + "moka pot coffee" volume. Light Ch6.1 off-page research with 48 pages of real content.
+
+---
+
 ## 2026-04-08 22:00 IDT — Pulse 14: Turkish Coffee + Pour Over Ratio + How to Use Moka Pot
 
 **Action:**

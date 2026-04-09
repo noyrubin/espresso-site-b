@@ -7,12 +7,12 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 5 of indexing — **45 pages published.** SC: milk-steaming-beginners avg position 32.4 for page (28 impressions, improving each pulse). Still only 1 page indexed — normal for new domain. Pulse 14: what-is-turkish-coffee (60.5K/mo diff 32 — LARGEST VOLUME FIND SINCE AFFOGATO), pour-over-ratio (covers drip 3.6K + pour over 2.4K + chemex 1K + aeropress ratio 590), how-to-use-moka-pot (3.6K/mo diff 24). Turkish coffee SERP validated: Wikipedia #1, food blog #2, no featured snippet = gap to fill. AeroPress cluster deprioritized (head term "aeropress coffee" HIGH 100/100 — individual terms too low volume). PATTERN: brewing method guides consistently low competition. Moka pot cluster now complete (comparison + how-to).
+Day 6 of indexing — **48 pages published.** SC: milk-steaming-beginners avg position 33.07 (29 impressions — slight position dip but impression trend holding). Still only 1 page indexed — normal. Pulse 15: cold-brew-coffee-recipe (18.1K/mo diff 23, RECIPE intent different from cold-brew-ratio), what-is-siphon-coffee (12.1K/mo diff 24 — MASSIVE SERP gap: coffee shop at #1, Reddit #2, Instagram #3 → no real informational competitor at top), aeropress-guide (covers "aeropress recipe" 3.6K diff 8 + "how to use aeropress" 1.9K diff 15 in one comprehensive guide). KEY INSIGHT: Siphon coffee SERP is dominated by a physical coffee shop brand and social content — pure informational gap. Best siphon opportunity we've seen. Brewing methods cluster now comprehensive (siphon, AeroPress, moka pot, cold brew, french press, pour over, turkish coffee, drip). Recipe schema added to cold-brew-coffee-recipe (enables "recipes" SERP feature). AeroPress was previously deprioritized based on head term volume — Pulse 15 DataForSEO confirmed specific intent queries (recipe + how-to) are both LOW competition (8/100 + 15/100).
 
 ## Key Data Points
-- **GA4:** Sessions Apr 8: check pending, Apr 7: 11, Apr 6: 8 — still no organic traffic, all bot/test
-- **Search Console Pulse 14:** milk-steaming-beginners only page indexed — 28 impressions, avg pos 32.4 for page (position holding steady, improving trend). Still 1 page only — expect more soon as Day 5 passes.
-- **DataForSEO spend to date:** ~$1.452 (~$0.154 this pulse: 2x search-volume batches + 2x SERP checks)
+- **GA4:** Sessions Apr 8: 1 (partial day); Apr 7: 11, Apr 6: 8 — still no organic traffic, all bot/test
+- **Search Console Pulse 15:** milk-steaming-beginners only page indexed — 29 impressions, avg pos 33.07 (slight position dip from 32.4, but impression count rising = more queries showing). Still 1 page only.
+- **DataForSEO spend to date:** ~$1.602 (~$0.150 this pulse: 1x search-volume batch (8 keywords) + 2x SERP checks)
 - **Pulse 10 keyword research:** espresso tonic 9.9K diff 1 (✅ WRITTEN); cortado vs macchiato 2.9K diff 1 (✅ WRITTEN); cold brew cluster ALL high competition (skipped); latte vs cappuccino 27.1K diff 6 (likely captured by existing cappuccino-vs-latte page)
 - **Pulse 11 keyword research:** flat-white-vs-latte 22.2K/mo diff 5 (✅ WRITTEN); latte-vs-macchiato 6.6K/mo diff 2 (✅ WRITTEN); how-long-do-coffee-beans-last 2.9K/mo diff 8 no featured snippet (✅ WRITTEN); espresso-vs-americano 1.6K/mo diff 1 (✅ WRITTEN); REJECTED: how-to-store-coffee-beans HIGH 89/100, types-of-espresso-machines HIGH 100/100, espresso-tamping HIGH 100/100, single-origin-espresso HIGH 94/100
 
@@ -70,12 +70,17 @@ Day 5 of indexing — **45 pages published.** SC: milk-steaming-beginners avg po
 | turkish coffee / how to make turkish coffee | 60,500 + 4,400 | 32/100 LOW / 18/100 LOW | /guides/what-is-turkish-coffee/ | **Published (NEW Pulse 14 - PRIORITY)** |
 | drip coffee ratio / pour over ratio | 3,600 + 2,400 | 4/100 ULTRA-LOW / 7/100 ULTRA-LOW | /guides/pour-over-ratio/ | **Published (NEW Pulse 14 — also covers chemex ratio 1K + aeropress ratio 590)** |
 | how to use moka pot | 3,600 | 24/100 LOW | /guides/how-to-use-moka-pot/ | **Published (NEW Pulse 14)** |
+| cold brew coffee recipe | 18,100 | 23/100 LOW | /recipes/cold-brew-coffee-recipe/ | **Published (NEW Pulse 15 - PRIORITY — RECIPE intent, different from cold-brew-ratio)** |
+| siphon coffee | 12,100 | 24/100 LOW | /guides/what-is-siphon-coffee/ | **Published (NEW Pulse 15 - PRIORITY — massive SERP gap)** |
+| aeropress recipe / how to use aeropress | 3,600 + 1,900 | 8/100 ULTRA-LOW / 15/100 LOW | /guides/aeropress-guide/ | **Published (NEW Pulse 15 — comprehensive single guide)** |
 | how to descale espresso machine | 720 | 8/100 ULTRA-LOW | /guides/espresso-machine-cleaning-guide/ | **Published (NEW Pulse 7 — covered)** |
 | espresso machine maintenance | 590 | 6/100 ULTRA-LOW | /guides/espresso-machine-cleaning-guide/ | **Published (NEW Pulse 7 — covered)** |
 
 ## Biggest Opportunities Found So Far
 
-1. **"turkish coffee"** — 60,500/mo, diff 32 LOW + "how to make turkish coffee" 4,400/mo diff 18. Pulse 14 find. SERP: Wikipedia #1, food blog #2 (beatable), no featured snippet, PAA gaps wide open. Same pattern as affogato/macchiato wins.
+0. **"siphon coffee"** — 12,100/mo, diff 24 LOW. Pulse 15 find. SERP dominated by a physical coffee shop at #1 (siphoncoffee.com = coffee shop brand!), Reddit #2, Instagram #3. Pure informational gap — no real content site in the top 3. Bon Appétit at #4 but no featured snippet. One of the most exploitable SERPs we've found.
+1. **"cold brew coffee recipe"** — 18,100/mo, diff 23 LOW. Pulse 15 find. Different intent from cold-brew-ratio: recipe-seekers want instructions, not just ratios. SERP: simplyrecipes at #1 (authority) but small blogs at #3, #7. "recipes" SERP feature present → Recipe schema gives rich result eligibility.
+2. **"turkish coffee"** — 60,500/mo, diff 32 LOW + "how to make turkish coffee" 4,400/mo diff 18. Pulse 14 find. SERP: Wikipedia #1, food blog #2 (beatable), no featured snippet, PAA gaps wide open. Same pattern as affogato/macchiato wins.
 2. **"caramel macchiato"** — 74,000/mo, diff 17, LOW. Pulse 9 find. SERP: recipe blogs at #2-4 (beatable), no featured snippet, recipes SERP feature present, PAA gaps wide open. Recipe schema applied.
 2. **"affogato"** — 165,000/mo, diff 18, LOW. Massive find in Pulse 8. Recipe + guide written.
 3. **"macchiato"** — 110,000/mo, diff 1. One of the best finds yet. Comprehensive guide covers all variants and comparisons. Featured snippet target.
@@ -116,10 +121,10 @@ Day 5 of indexing — **45 pages published.** SC: milk-steaming-beginners avg po
 ### In Progress
 *(none currently)*
 
-### Published (42 pages)
+### Published (48 pages)
 - **Pillar:** /guides/getting-started/
-- **Recipes cluster (14):** cortado, americano, flat-white, cappuccino, latte, iced-latte, lungo, ristretto, affogato, espresso-con-panna, caramel-macchiato (Pulse 9 — 74K/mo), mocha (Pulse 9 — 24.2K cluster), espresso-tonic (Pulse 10 — 9.9K/mo diff 1)
-- **Guides cluster (32):** best-espresso-machines-beginners, best-espresso-grinders, milk-steaming-beginners, espresso-troubleshooting, espresso-vs-coffee, espresso-ratio-guide, espresso-caffeine-guide, moka-pot-vs-espresso-machine, what-is-crema, what-is-a-macchiato, cappuccino-vs-latte, compact-espresso-machine-guide, espresso-grind-size-guide, water-for-espresso, espresso-beans-vs-coffee-beans, espresso-machine-cleaning-guide, what-is-a-doppio, espresso-glossary (Pulse 9), cortado-vs-macchiato (Pulse 10), flat-white-vs-latte (Pulse 11), latte-vs-macchiato (Pulse 11), how-long-do-coffee-beans-last (Pulse 11), espresso-vs-americano (Pulse 11), how-to-use-espresso-machine (Pulse 12), coffee-to-water-ratio (Pulse 12), french-press-ratio (Pulse 13), cold-brew-ratio (Pulse 13), arabica-vs-robusta (Pulse 13), **what-is-turkish-coffee** (NEW Pulse 14 — 60.5K/mo diff 32), **pour-over-ratio** (NEW Pulse 14 — 3.6K+2.4K+1K combined diff 4-7), **how-to-use-moka-pot** (NEW Pulse 14 — 3.6K/mo diff 24)
+- **Recipes cluster (15):** cortado, americano, flat-white, cappuccino, latte, iced-latte, lungo, ristretto, affogato, espresso-con-panna, caramel-macchiato (Pulse 9 — 74K/mo), mocha (Pulse 9 — 24.2K cluster), espresso-tonic (Pulse 10 — 9.9K/mo diff 1), **cold-brew-coffee-recipe** (NEW Pulse 15 — 18.1K/mo diff 23)
+- **Guides cluster (35):** best-espresso-machines-beginners, best-espresso-grinders, milk-steaming-beginners, espresso-troubleshooting, espresso-vs-coffee, espresso-ratio-guide, espresso-caffeine-guide, moka-pot-vs-espresso-machine, what-is-crema, what-is-a-macchiato, cappuccino-vs-latte, compact-espresso-machine-guide, espresso-grind-size-guide, water-for-espresso, espresso-beans-vs-coffee-beans, espresso-machine-cleaning-guide, what-is-a-doppio, espresso-glossary (Pulse 9), cortado-vs-macchiato (Pulse 10), flat-white-vs-latte (Pulse 11), latte-vs-macchiato (Pulse 11), how-long-do-coffee-beans-last (Pulse 11), espresso-vs-americano (Pulse 11), how-to-use-espresso-machine (Pulse 12), coffee-to-water-ratio (Pulse 12), french-press-ratio (Pulse 13), cold-brew-ratio (Pulse 13), arabica-vs-robusta (Pulse 13), what-is-turkish-coffee (Pulse 14 — 60.5K/mo diff 32), pour-over-ratio (Pulse 14), how-to-use-moka-pot (Pulse 14), **what-is-siphon-coffee** (NEW Pulse 15 — 12.1K/mo diff 24), **aeropress-guide** (NEW Pulse 15 — 5.5K combined diff 8/15)
 - **About page** (E-E-A-T)
 - **3 section index pages**
 
@@ -166,6 +171,10 @@ Day 5 of indexing — **45 pages published.** SC: milk-steaming-beginners avg po
 - **"chemex coffee" head term (Pulse 14):** 12,100/mo but HIGH 100/100 — skip. We captured "chemex ratio" 1K/diff 2 inside pour-over-ratio guide instead.
 - **"aeropress recipe" full standalone guide (Pulse 14):** 3,600/mo diff 8 — SERP shows aeroprecipe.com (dedicated site at #1) + aeropress.com (#3). More competitive than typical opportunities. Deprioritized — may revisit.
 - **"moka pot guide" head term (Pulse 14):** Only 50/mo. Too low. We wrote "how to use moka pot" (3.6K) instead.
+- **"how to make cold brew coffee" (Pulse 15):** 27,100/mo but HIGH 67/100 — skip despite high volume.
+- **"cardamom coffee" (Pulse 15):** 1,900/mo MEDIUM 49/100 — too competitive for what it offers. Not worth writing standalone.
+- **"chemex vs v60" (Pulse 15):** 880/mo LOW 24/100 — volume too low standalone. Covered inside pour-over-ratio already.
+- **"aeropress vs french press" standalone (Pulse 15):** 1,600/mo LOW 25/100 — low volume; included as section inside aeropress-guide instead.
 - **"v60 ratio" standalone (Pulse 14):** Only 210/mo. Too low standalone — covered inside pour-over-ratio guide instead.
 - **"moka pot ratio" standalone (Pulse 14):** Only 320/mo. Too low standalone — covered inside how-to-use-moka-pot guide instead.
 - **"best coffee beans for espresso" (Pulse 13):** 12,100/mo HIGH 100/100 — pure commercial intent, skip.
@@ -283,22 +292,27 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ Committed and pushed (04f3855)
 - ✅ DataForSEO spend: ~$0.154 (2x search-volume batches + 2x SERP checks)
 
-### Pulse 15 (Next)
-- **Check SC:** Watch for more pages entering SC impressions. Day 6 — may start seeing cappuccino, macchiato, affogato indexes.
-- **Content priorities:**
-  1. "aeropress recipe" — 3,600/mo diff 8. SERP shows aeroprecipe.com + aeropress.com at #1/#3 — competitive but manageable. Write if we do AeroPress cluster.
-  2. "how to use aeropress" — 1,900/mo diff 15. Can be paired with aeropress recipe in same guide OR standalone.
-  3. "french press vs espresso" — 390/mo too low. SKIP.
-  4. "pour over vs drip coffee" — 1,000/mo diff 25 — low volume, skip.
-  5. "AeroPress vs French press" — check volume (likely low, but comparison intent = low competition).
-  6. "cardamom coffee" — possible extension of turkish coffee guide? Check volume.
-  7. **Explore broader brewing method content:** "siphon coffee" (possibly low comp), "chemex vs v60" comparisons
-  8. **Off-page (Ch6):** Ch6.1 confirmed links earned through linkable assets. Our ratio cluster (5 ratio guides) and Turkish coffee guide are real linkable assets now. Light off-page exploration: check who links to our content topics. Do NOT start active outreach yet.
-- **Skill ref:** Ch4.1 (SERP validation for AeroPress), Ch6.1 (off-page timing — 45 pages, still building)
+### Pulse 15 — DONE
+- ✅ SC: milk-steaming-beginners 29 impressions, avg pos 33.07 (slight dip from 32.4 — position varies naturally). Still only 1 page indexed (Day 6 normal).
+- ✅ DataForSEO: 8 keywords batch ($0.075) + 2 SERP checks ($0.004)
+- ✅ REJECTED: "how to make cold brew coffee" HIGH 67/100; "cardamom coffee" MEDIUM 49/100; "chemex vs v60" 880/mo too low
+- ✅ WRITTEN: cold-brew-coffee-recipe (18.1K diff 23, recipe intent + Recipe schema), what-is-siphon-coffee (12.1K diff 24, massive SERP gap — coffee shop/Reddit/Instagram dominate), aeropress-guide (3.6K+1.9K combined, both LOW)
+- ✅ Internal links: cold-brew-ratio → cold-brew-coffee-recipe; getting-started pillar → all 3 new pages
+- ✅ Committed and pushed (99229f3)
 
-### Pulse 16
-- **Off-page:** Ch6.2 — digital PR: coffee blogs, forums (r/Coffee, Home-Barista.com) for citation opportunities
-- **Content:** Technical cluster — "espresso machine pressure", "why 9 bars espresso", "espresso extraction time"
+### Pulse 16 (Next)
+- **Check SC:** Day 7 — watch for additional pages indexing. Monitor if cappuccino, macchiato, affogato start appearing.
+- **Content priorities:**
+  1. "how to use french press" — 9,900/mo, diff 30 LOW (deprioritized in Pulse 13 in favor of french-press-ratio; now worth a standalone how-to guide to complete the cluster)
+  2. "cold brew coffee" head cluster — check if "cold brew coffee" itself (likely HIGH) has any low-comp sub-queries we haven't captured
+  3. "vietnamese iced coffee" — check volume/competition (may be low, brewing method adjacent)
+  4. "moka pot coffee" / "how to make moka pot coffee" — check if separate from how-to-use-moka-pot
+  5. **Off-page (Ch6.1):** With 48 pages + ratio cluster + comprehensive siphon guide, now a genuine linkable asset inventory. Light exploration of coffee blog communities linking to ratio content. Do NOT start active outreach yet.
+- **Skill ref:** Ch4.1 (fan-out: french press cluster = french-press-ratio [done] + how-to-use-french-press [not yet]), Ch6.1 (off-page timing — 48 pages, approaching threshold for outreach)
+
+### Pulse 17
+- **Off-page:** Ch6.2 — digital PR: coffee blogs, forums (r/Coffee, Home-Barista.com) for citation opportunities on ratio content
+- **Content:** Technical cluster — "espresso machine pressure", "why 9 bars espresso" — check competition
 - **Skill ref:** Ch6.2 (digital PR + linkable assets), Ch4.1 (fan-out for technical cluster)
 
 ---
