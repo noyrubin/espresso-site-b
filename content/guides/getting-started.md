@@ -204,3 +204,5 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [How to Use a French Press](/guides/how-to-use-french-press/) — Step-by-step French press brewing guide, grind size, ratio, and troubleshooting
 - [Vietnamese Iced Coffee Recipe](/recipes/vietnamese-iced-coffee/) — Cà Phê Sữa Đá: phin filter brewing, condensed milk ratios, and espresso shortcuts
 - [How to Make Cold Foam](/recipes/cold-foam/) — Homemade cold foam in 3 minutes — sweet cream, vanilla, and dairy-free versions
+- [Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/) — The Starbucks copycat recipe: espresso shaken over ice with brown sugar syrup and cinnamon
+- [Dirty Chai Latte Recipe](/recipes/dirty-chai-latte/) — Chai spices meet espresso: how to make hot and iced dirty chai at home

@@ -181,3 +181,4 @@ If you enjoy a caramel macchiato, try:
 - [Iced Latte](/recipes/iced-latte/) — cold, refreshing, easy to customize
 - [Cappuccino](/recipes/cappuccino/) — smaller, stronger, more foam
 - [What Is a Macchiato?](/guides/what-is-a-macchiato/) — the original Italian macchiato and all its variants
+- [Dirty Chai Latte](/recipes/dirty-chai-latte/) — when you want espresso with a spiced chai twist instead of vanilla syrup

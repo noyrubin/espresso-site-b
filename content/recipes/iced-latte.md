@@ -182,6 +182,7 @@ An iced latte should be consumed immediately. Once made, the ice continues to me
 
 - [Latte Recipe: How to Make a Latte at Home](/recipes/latte/) — Hot latte version
 - [How to Make Cold Foam](/recipes/cold-foam/) — Add sweet cream cold foam for a Starbucks-style upgrade
+- [Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/) — Shake espresso with brown sugar syrup over ice for a frothy Starbucks-style iced drink
 - [Milk Steaming for Beginners](/guides/milk-steaming-beginners/) — For hot latte technique
 - [How Much Caffeine in a Shot of Espresso?](/guides/espresso-caffeine-guide/) — Caffeine content by drink
 - [Best Espresso Machines for Beginners](/guides/best-espresso-machines-beginners/) — Equipment guide
