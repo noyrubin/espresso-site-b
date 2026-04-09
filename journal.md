@@ -4,6 +4,45 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-09 14:00 IDT — Pulse 16: Cold Foam + Vietnamese Iced Coffee + French Press How-To
+
+**Action:**
+1. Pulled latest, read strategy.md + journal.md for context
+2. Consulted SEO skill (Ch4.1, Ch6.2) for phase guidance at 48 pages, Day 6
+3. Assessed GA4 + SC data
+4. Ran DataForSEO: 1x search-volume batch (8 keywords: how to make cold foam, nitro cold brew, vietnamese iced coffee, moka pot coffee, how to use french press, coffee bloom, coffee grind chart, espresso beans guide) + 2x SERP checks (how to make cold foam, vietnamese iced coffee)
+5. REJECTED: "moka pot coffee" HIGH 100/100; "nitro cold brew" MEDIUM 47/100; "coffee grind chart" HIGH 91/100; "espresso beans guide" N/A; "coffee bloom" 1.3K too low
+6. WRITTEN: cold-foam (33.1K/mo diff 8), vietnamese-iced-coffee (14.8K/mo diff 6), how-to-use-french-press (9.9K/mo diff 30)
+7. Updated internal links: iced-latte → cold-foam; french-press-ratio → how-to-use-french-press; cold-brew-coffee-recipe → cold-foam variation; getting-started pillar → all 3 new pages
+8. Committed and pushed (1c66ae2) — 51 pages total
+
+**Reasoning:**
+- GA4: Sessions tracking bot/test traffic. Still no organic sessions.
+- SC: milk-steaming-beginners indexed with 11 query variants, positions 45–81. Still 1 page only (normal Day 6).
+- BIGGEST FIND THIS PULSE: "how to make cold foam" 33,100/mo, diff 8/100 ULTRA-LOW. SERP check was extraordinary — Reddit #1, myeverydaytable.com #2, anerdcooks.com #3 (personal blog, extremely beatable), Facebook #4 and #7 (Facebook posts!). No featured snippet. "recipes" SERP feature + AI Overview present. This is the weakest SERP we've found for a >30K/mo keyword. A comprehensive recipe + technique guide should easily rank top 3 once indexed.
+- "vietnamese iced coffee" 14,800/mo, diff 6/100 ULTRA-LOW. SERP check: whiteonricecouple.com #1 (recipe blog), Wikipedia #2, food52.com #3. No featured snippet despite "recipes" feature present. Our comprehensive guide (phin filter steps, condensed milk ratios, espresso shortcuts, 4 variations) has clear differentiation from existing content.
+- "how to use french press" 9.9K/mo, diff 30 LOW — previously deprioritized in Pulse 13 (chose french-press-ratio instead). Now completing the french press cluster: we have the ratio reference (french-press-ratio) and now the how-to procedure (how-to-use-french-press). Same cluster completion pattern as moka pot (ratio → how-to-use).
+- Ch6.2 (digital PR): With 51 pages, our ratio cluster (5 comprehensive ratio guides) is becoming a linkable asset. Still not starting active outreach — building content first.
+
+**SEO Skill Reference:**
+- **Ch4.1 (keyword intent + query fan-out):** Cold foam SERP is recipe/technique intent — Recipe schema front matter applied. Vietnamese iced coffee is recipe intent (recipe SERP feature) — Recipe schema applied. French press how-to is "how to" procedural intent — clear steps format for featured snippet eligibility. The pattern of head term HIGH competition vs specific how-to sub-query LOW competition holds perfectly again (compare: "french press coffee" 27.1K HIGH 100/100 vs "how to use french press" 9.9K diff 30).
+- **Ch4.2 (answer-first):** Cold foam page opens with bold definition sentence. Vietnamese iced coffee opens with bold 1-sentence definition. French press how-to opens with the complete core procedure in one bold paragraph — fully extractable for featured snippets + AI answers.
+- **Ch6.2 (linkable assets):** Our comprehensive ratio guides + unique siphon coffee guide + cold foam 3-method guide are legitimate linkable assets. Too early for active outreach, but asset inventory growing. The cold foam guide covers 3 methods + 6 flavor variations — distinctly more comprehensive than anything in the top 7 SERP results.
+- **Ch5.2 (internal linking):** Bidirectional links added: iced-latte ↔ cold-foam; french-press-ratio ↔ how-to-use-french-press; cold-brew-coffee-recipe ↔ cold-foam. Getting-started pillar updated to include all 3 new pages.
+
+**Outcome:**
+- 3 new pages written and deployed (51 total)
+- cold-foam: 33,100/mo diff 8 — 3 methods (frother, mason jar, blender), ratio table, 6 flavor variations (sweet cream, vanilla, brown sugar, pumpkin, matcha, oat milk), comparison table vs whipped cream + steamed foam, FAQ (6 PAA questions); Recipe schema for "recipes" SERP feature eligibility; SERP competition is the weakest we've seen
+- vietnamese-iced-coffee: 14,800/mo diff 6 — phin filter guide + equipment table, condensed milk ratio guide, coffee brand recommendations, 3 alternative methods (espresso/moka pot/AeroPress), 4 recipe variations (black, egg, coconut, cold brew style), FAQ (6 PAA questions); Recipe schema
+- how-to-use-french-press: 9,900/mo diff 30 — 9-step procedure, grind size table, ratio chart (5 sizes), steep time guide, water temperature guide, troubleshooting (5 problems), comparison table vs 4 other methods, complete FAQ
+- Internal linking: 4 pages updated (iced-latte, french-press-ratio, cold-brew-coffee-recipe, getting-started pillar)
+- DataForSEO spend this pulse: ~$0.079 (1x search-volume $0.075 + 2x SERP $0.004)
+- Cumulative DataForSEO spend: ~$1.681
+
+**Next:** Pulse 17 — Research iced matcha latte, how to use chemex, sweet cream cold foam sub-queries. Monitor SC for macchiato/affogato/cappuccino-vs-latte entering impressions (published ~8-12 days ago, indexing lag expected).
+
+---
+
 ## 2026-04-09 06:00 IDT — Pulse 15: Cold Brew Recipe + Siphon Coffee + AeroPress Guide
 
 **Action:**
