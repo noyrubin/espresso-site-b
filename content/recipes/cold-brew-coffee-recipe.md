@@ -91,6 +91,9 @@ Add 1 teaspoon of pure vanilla extract and 2 tablespoons of simple syrup to 2 cu
 ### Cold Brew Latte
 Mix 1 part cold brew concentrate with 1 part whole milk (or oat milk). Pour over ice. Add a pump of simple syrup if desired.
 
+### Cold Brew with Sweet Cream Cold Foam
+Pour regular-strength cold brew over ice. Top with a generous dollop of [homemade cold foam](/recipes/cold-foam/) — sweet cream, vanilla, or brown sugar. This is the Starbucks cold foam cold brew replicated at home.
+
 ### Nitro-Style Cold Brew at Home
 Pour cold brew concentrate into a whipped cream dispenser (iSi siphon). Charge with one N₂O cartridge. Dispense slowly over ice. The result mimics nitro cold brew — cascading bubbles, creamy texture.
 

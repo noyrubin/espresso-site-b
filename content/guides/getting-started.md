@@ -201,3 +201,6 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) — The foolproof 1:8 ratio recipe, plus concentrate version and variations
 - [AeroPress Guide](/guides/aeropress-guide/) — How to use an AeroPress, step-by-step recipe, inverted method, and ratio guide
 - [What Is Siphon Coffee?](/guides/what-is-siphon-coffee/) — How vacuum brewing works and what makes it produce such an exceptional cup
+- [How to Use a French Press](/guides/how-to-use-french-press/) — Step-by-step French press brewing guide, grind size, ratio, and troubleshooting
+- [Vietnamese Iced Coffee Recipe](/recipes/vietnamese-iced-coffee/) — Cà Phê Sữa Đá: phin filter brewing, condensed milk ratios, and espresso shortcuts
+- [How to Make Cold Foam](/recipes/cold-foam/) — Homemade cold foam in 3 minutes — sweet cream, vanilla, and dairy-free versions

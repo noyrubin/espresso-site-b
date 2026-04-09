@@ -174,4 +174,4 @@ Most often: grind too fine, steep time too long, or water too hot — not necess
 
 ---
 
-*For a complete overview of ratios across all brewing methods, see our [coffee to water ratio guide](/guides/coffee-to-water-ratio/). For pour over specific ratios (V60, Chemex, drip, AeroPress), see our [pour over ratio guide](/guides/pour-over-ratio/). For espresso-specific ratios, visit the [espresso ratio guide](/guides/espresso-ratio-guide/).*
+*For a complete overview of ratios across all brewing methods, see our [coffee to water ratio guide](/guides/coffee-to-water-ratio/). For pour over specific ratios (V60, Chemex, drip, AeroPress), see our [pour over ratio guide](/guides/pour-over-ratio/). For espresso-specific ratios, visit the [espresso ratio guide](/guides/espresso-ratio-guide/). For step-by-step brewing instructions, see our [how to use French press guide](/guides/how-to-use-french-press/).*
