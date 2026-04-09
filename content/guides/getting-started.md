@@ -198,3 +198,6 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [Pour Over Coffee Ratio Guide](/guides/pour-over-ratio/) — Exact ratios for drip, V60, Chemex, AeroPress, and every pour over method
 - [How to Use a Moka Pot](/guides/how-to-use-moka-pot/) — Step-by-step guide to stovetop espresso-style coffee
 - [What Is Turkish Coffee?](/guides/what-is-turkish-coffee/) — The ancient unfiltered brewing method, how it's made, and how it tastes
+- [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) — The foolproof 1:8 ratio recipe, plus concentrate version and variations
+- [AeroPress Guide](/guides/aeropress-guide/) — How to use an AeroPress, step-by-step recipe, inverted method, and ratio guide
+- [What Is Siphon Coffee?](/guides/what-is-siphon-coffee/) — How vacuum brewing works and what makes it produce such an exceptional cup
