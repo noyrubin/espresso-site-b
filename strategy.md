@@ -7,12 +7,12 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 6 of indexing — **51 pages published.** SC: milk-steaming-beginners holding at 29 impressions, avg pos 33.07. Still only 1 page indexed — normal for Day 6. Pulse 16: cold-foam (33.1K/mo diff 8 — SERP desert: Reddit #1, Facebook #4/#7, no featured snippet, "recipes" feature present), vietnamese-iced-coffee (14.8K/mo diff 6 — no featured snippet, whiteonricecouple #1 is beatable), how-to-use-french-press (9.9K/mo diff 30 — completes french press cluster). KEY INSIGHT: "how to make cold foam" SERP is one of the weakest we've seen — Reddit at #1, two Facebook posts in top 7. A comprehensive recipe + technique guide should climb fast once indexed. French press how-to completes the how-to guide pattern (moka pot, AeroPress, now french press). Cold foam + Vietnamese iced coffee expand into iced coffee drinks cluster.
+Day 6 of indexing — **53 pages published.** SC: milk-steaming-beginners still the only indexed page — 11 queries, positions 45–81. GA4: sessions flat (bot/test only). Pulse 17: brown-sugar-shaken-espresso (27.1K/mo diff 3 — SERP: Starbucks #1 but beatable small food blogs at #2-3, Facebook #6-7, no featured snippet) + dirty-chai-latte (9.9K/mo diff 3 — SERP: small food blogs #1-2, Instagram #3, YouTube #4 — fully beatable, no featured snippet). Both have "recipes" SERP feature + AI Overview → Recipe schema applied. KEY INSIGHT: Ultra-low competition recipe content in the trendy iced drinks + spiced coffee space continues to show consistently weak SERPs. Our "recipes" SERP feature eligibility through Recipe schema gives us rich result potential on all recipe pages.
 
 ## Key Data Points
-- **GA4:** Sessions Apr 9 (partial): unknown; Apr 8: ~1; Apr 7: 11 — still no organic traffic, all bot/test
-- **Search Console Pulse 16:** milk-steaming-beginners only page indexed — 11 query variants, positions 45–81. Still 1 page only.
-- **DataForSEO spend to date:** ~$1.681 (~$0.079 this pulse: 1x search-volume batch (8 keywords) + 2x SERP checks)
+- **GA4:** Sessions Apr 9 (partial 22:00 slot): unknown; Apr 8: 1; Apr 7: 11 — still no organic traffic, all bot/test
+- **Search Console Pulse 17:** milk-steaming-beginners only page indexed — 11 query variants, positions 45–81 (best: "how to steam milk for flat white" at 45). Still 1 page only (Day 6 — more indexing expected soon)
+- **DataForSEO spend to date:** ~$1.760 (~$0.079 this pulse: 1x search-volume batch (8 keywords) + 2x SERP checks)
 - **Pulse 10 keyword research:** espresso tonic 9.9K diff 1 (✅ WRITTEN); cortado vs macchiato 2.9K diff 1 (✅ WRITTEN); cold brew cluster ALL high competition (skipped); latte vs cappuccino 27.1K diff 6 (likely captured by existing cappuccino-vs-latte page)
 - **Pulse 11 keyword research:** flat-white-vs-latte 22.2K/mo diff 5 (✅ WRITTEN); latte-vs-macchiato 6.6K/mo diff 2 (✅ WRITTEN); how-long-do-coffee-beans-last 2.9K/mo diff 8 no featured snippet (✅ WRITTEN); espresso-vs-americano 1.6K/mo diff 1 (✅ WRITTEN); REJECTED: how-to-store-coffee-beans HIGH 89/100, types-of-espresso-machines HIGH 100/100, espresso-tamping HIGH 100/100, single-origin-espresso HIGH 94/100
 
@@ -78,10 +78,13 @@ Day 6 of indexing — **51 pages published.** SC: milk-steaming-beginners holdin
 | how to make cold foam | 33,100 | 8/100 ULTRA-LOW | /recipes/cold-foam/ | **Published (NEW Pulse 16 - PRIORITY — SERP desert: Reddit #1, Facebook #4/#7)** |
 | vietnamese iced coffee | 14,800 | 6/100 ULTRA-LOW | /recipes/vietnamese-iced-coffee/ | **Published (NEW Pulse 16 - PRIORITY — "recipes" feature, no featured snippet)** |
 | how to use french press | 9,900 | 30/100 LOW | /guides/how-to-use-french-press/ | **Published (NEW Pulse 16 — completes french press cluster)** |
+| brown sugar shaken espresso | 27,100 | 3/100 ULTRA-LOW | /recipes/brown-sugar-shaken-espresso/ | **Published (NEW Pulse 17 - PRIORITY — SERP: Starbucks #1, small food blogs #2-3, Facebook #6-7, no featured snippet)** |
+| dirty chai latte | 9,900 | 3/100 ULTRA-LOW | /recipes/dirty-chai-latte/ | **Published (NEW Pulse 17 — SERP: small food blogs #1-2, Instagram #3, YouTube #4, no featured snippet)** |
 
 ## Biggest Opportunities Found So Far
 
-0. **"how to make cold foam"** — 33,100/mo, diff 8 ULTRA-LOW. Pulse 16 find. THE WEAKEST SERP we've found: Reddit #1, myeverydaytable.com #2, anerdcooks.com #3 (personal blog!), Facebook #4 and #7. No featured snippet. "recipes" SERP feature + AI overview = maximum rich result opportunity. A comprehensive recipe + technique guide WILL rank in top 3 once indexed.
+0a. **"brown sugar shaken espresso"** — 27,100/mo, diff 3/100 ULTRA-LOW. Pulse 17 find. SERP: Starbucks.com #1 (brand — unbeatable for brand query), espressomykitchen.com #2 (small food blog), cheneetoday.com #3 (small blog), Reddit #4, Instagram #5, Facebook #6+#7, pinchmeimeating.com #8. No featured snippet. "recipes" SERP feature + AI overview present. Our copycat recipe guide (full brown sugar syrup recipe, shaking technique, 6 variations, FAQ with PAA) is comprehensively better than any non-Starbucks result. Target positions #2-3 once indexed.
+0b. **"how to make cold foam"** — 33,100/mo, diff 8 ULTRA-LOW. Pulse 16 find. THE WEAKEST SERP we've found: Reddit #1, myeverydaytable.com #2, anerdcooks.com #3 (personal blog!), Facebook #4 and #7. No featured snippet. "recipes" SERP feature + AI overview = maximum rich result opportunity. A comprehensive recipe + technique guide WILL rank in top 3 once indexed.
 0b. **"siphon coffee"** — 12,100/mo, diff 24 LOW. Pulse 15 find. SERP dominated by a physical coffee shop at #1 (siphoncoffee.com = coffee shop brand!), Reddit #2, Instagram #3. Pure informational gap — no real content site in the top 3. Bon Appétit at #4 but no featured snippet. One of the most exploitable SERPs we've found.
 1. **"cold brew coffee recipe"** — 18,100/mo, diff 23 LOW. Pulse 15 find. Different intent from cold-brew-ratio: recipe-seekers want instructions, not just ratios. SERP: simplyrecipes at #1 (authority) but small blogs at #3, #7. "recipes" SERP feature present → Recipe schema gives rich result eligibility.
 2. **"turkish coffee"** — 60,500/mo, diff 32 LOW + "how to make turkish coffee" 4,400/mo diff 18. Pulse 14 find. SERP: Wikipedia #1, food blog #2 (beatable), no featured snippet, PAA gaps wide open. Same pattern as affogato/macchiato wins.
@@ -125,9 +128,9 @@ Day 6 of indexing — **51 pages published.** SC: milk-steaming-beginners holdin
 ### In Progress
 *(none currently)*
 
-### Published (51 pages)
+### Published (53 pages)
 - **Pillar:** /guides/getting-started/
-- **Recipes cluster (18):** cortado, americano, flat-white, cappuccino, latte, iced-latte, lungo, ristretto, affogato, espresso-con-panna, caramel-macchiato (Pulse 9 — 74K/mo), mocha (Pulse 9 — 24.2K cluster), espresso-tonic (Pulse 10 — 9.9K/mo diff 1), cold-brew-coffee-recipe (Pulse 15 — 18.1K/mo diff 23), **cold-foam** (NEW Pulse 16 — 33.1K/mo diff 8 ULTRA-LOW), **vietnamese-iced-coffee** (NEW Pulse 16 — 14.8K/mo diff 6 ULTRA-LOW)
+- **Recipes cluster (20):** cortado, americano, flat-white, cappuccino, latte, iced-latte, lungo, ristretto, affogato, espresso-con-panna, caramel-macchiato (Pulse 9 — 74K/mo), mocha (Pulse 9 — 24.2K cluster), espresso-tonic (Pulse 10 — 9.9K/mo diff 1), cold-brew-coffee-recipe (Pulse 15 — 18.1K/mo diff 23), cold-foam (Pulse 16 — 33.1K/mo diff 8 ULTRA-LOW), vietnamese-iced-coffee (Pulse 16 — 14.8K/mo diff 6 ULTRA-LOW), **brown-sugar-shaken-espresso** (NEW Pulse 17 — 27.1K/mo diff 3 ULTRA-LOW), **dirty-chai-latte** (NEW Pulse 17 — 9.9K/mo diff 3 ULTRA-LOW)
 - **Guides cluster (36):** best-espresso-machines-beginners, best-espresso-grinders, milk-steaming-beginners, espresso-troubleshooting, espresso-vs-coffee, espresso-ratio-guide, espresso-caffeine-guide, moka-pot-vs-espresso-machine, what-is-crema, what-is-a-macchiato, cappuccino-vs-latte, compact-espresso-machine-guide, espresso-grind-size-guide, water-for-espresso, espresso-beans-vs-coffee-beans, espresso-machine-cleaning-guide, what-is-a-doppio, espresso-glossary (Pulse 9), cortado-vs-macchiato (Pulse 10), flat-white-vs-latte (Pulse 11), latte-vs-macchiato (Pulse 11), how-long-do-coffee-beans-last (Pulse 11), espresso-vs-americano (Pulse 11), how-to-use-espresso-machine (Pulse 12), coffee-to-water-ratio (Pulse 12), french-press-ratio (Pulse 13), cold-brew-ratio (Pulse 13), arabica-vs-robusta (Pulse 13), what-is-turkish-coffee (Pulse 14 — 60.5K/mo diff 32), pour-over-ratio (Pulse 14), how-to-use-moka-pot (Pulse 14), what-is-siphon-coffee (Pulse 15 — 12.1K/mo diff 24), aeropress-guide (Pulse 15 — 5.5K combined diff 8/15), **how-to-use-french-press** (NEW Pulse 16 — 9.9K/mo diff 30)
 - **About page** (E-E-A-T)
 - **3 section index pages**
@@ -170,6 +173,11 @@ Day 6 of indexing — **51 pages published.** SC: milk-steaming-beginners holdin
 - **"latte art" (Pulse 12):** 14,800/mo, diff 4 initially looked excellent. SERP check confirmed: dominated by Wikipedia #1, YouTube x2, Reddit, Instagram x2, only 1 text site at #7. SERP features: short_videos, video, knowledge_graph. Inherently visual content — text-based guide can't compete. SKIP.
 - **"pour over coffee" (Pulse 13):** 40,500/mo BUT HIGH competition 100/100 — skip despite massive volume.
 - **"french press coffee" (Pulse 13):** 27,100/mo BUT HIGH competition 100/100 — skip. "french press ratio" (22.2K, diff 19) is the viable entry point instead.
+- **"matcha latte" head term (Pulse 17):** 110,000/mo MEDIUM 43/100 — too competitive. "iced matcha latte" (14.8K, diff 9) is the viable sub-query if we return to matcha.
+- **"chai latte" head term (Pulse 17):** 49,500/mo MEDIUM 41/100 — head term dominated, skip. Captured adjacent query via dirty-chai-latte (9.9K, diff 3).
+- **"how to make matcha latte" (Pulse 17):** 12,100/mo MEDIUM 35/100 — borderline competition. Not written this pulse. Worth SERP check future.
+- **"shaken espresso" head term (Pulse 17):** 9,900/mo, diff 4. Not checked SERP — the "brown sugar shaken espresso" specific query (27.1K, diff 3) is more specific and comprehensive. Head term may be captured via the recipe page.
+- **"lavender latte" (Pulse 17):** 4,400/mo, diff 29 LOW. Volume too low to justify standalone page given our pipeline depth.
 - **"how to make pour over coffee" (Pulse 13):** 5,400/mo MEDIUM 66/100 — borderline, not written. Worth SERP check future.
 - **"aeropress coffee" head term (Pulse 14):** 12,100/mo but HIGH 100/100 — skip. Same pattern as other head terms.
 - **"chemex coffee" head term (Pulse 14):** 12,100/mo but HIGH 100/100 — skip. We captured "chemex ratio" 1K/diff 2 inside pour-over-ratio guide instead.

@@ -4,6 +4,42 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-09 22:00 IDT — Pulse 17: Brown Sugar Shaken Espresso + Dirty Chai Latte
+
+**Action:**
+1. Pulled latest, read strategy.md + journal.md for context
+2. Consulted SEO skill (Ch4.1, Ch6.2, Ch4.2) for phase guidance at 51 pages, Day 6
+3. Assessed GA4 + SC data
+4. Ran DataForSEO: 1x search-volume batch (8 keywords: iced matcha latte, matcha latte, how to make matcha latte, brown sugar shaken espresso, shaken espresso, dirty chai latte, lavender latte, chai latte) + 2x SERP checks (brown sugar shaken espresso, dirty chai latte)
+5. REJECTED: "matcha latte" MEDIUM 43/100; "chai latte" MEDIUM 41/100; "how to make matcha latte" MEDIUM 35/100; "lavender latte" 4.4K too low volume; "shaken espresso" head term — captured via specific query
+6. WRITTEN: brown-sugar-shaken-espresso (27.1K/mo diff 3), dirty-chai-latte (9.9K/mo diff 3)
+7. Updated internal links: iced-latte → brown-sugar-shaken-espresso; caramel-macchiato → dirty-chai-latte; getting-started pillar → both new pages
+8. Committed and pushed (de045b8) — 53 pages total
+
+**Reasoning:**
+- GA4: Sessions Apr 8: 1, Apr 7: 11, Apr 6: 8, Apr 5: 7, Apr 4: 21 — no organic traffic yet, consistent with Day 6 post-indexing.
+- SC: milk-steaming-beginners still the only indexed page. 11 query variants, positions 45–81. Best position: "how to steam milk for flat white" at 45. Total impressions growing slowly. Normal for Day 6 of domain age.
+- "brown sugar shaken espresso" 27.1K/mo, diff 3/100 ULTRA-LOW: SERP check delivered the expected pattern. Starbucks.com at #1 (unbeatable — the original brand menu item) but #2-8 is: small food blog, small food blog, Reddit, Instagram, Facebook, Facebook, small food blog. No featured snippet despite "recipes" + AI overview SERP features. Our comprehensive guide (original Starbucks breakdown, homemade brown sugar syrup recipe, shaking technique guide, 6 variations, complete FAQ covering PAA questions) is substantially better than anything ranking #2+. Target: positions #2-4 once indexed.
+- "dirty chai latte" 9.9K/mo, diff 3/100 ULTRA-LOW: SERP dominated by texanerin.com #1 (small food blog), anediblemosaic.com #2 (food blog), Instagram #3, YouTube #4, Reddit #5, myeverydaytable.com #6, plumdeluxe.com #7, indiaphile.info #8. No featured snippet. "recipes" SERP feature + AI overview present. No authoritative comprehensive guide exists in top 8. Our guide covers both hot + iced versions, chai tea vs concentrate comparison, caffeine calculation, spice profile breakdown, 5+ variations. Definitively better than current top results.
+- Ch4.2 note: Both pages open with bold 1-sentence definition answers — immediately extractable for featured snippets + AI answers. PAA questions directly addressed in FAQ sections.
+
+**SEO Skill Reference:**
+- **Ch4.1 (keyword intent + query fan-out):** Both "brown sugar shaken espresso" and "dirty chai latte" are recipe-intent queries with "recipes" SERP features. This confirmed Recipe schema is the right call. The "chai latte" head term (MEDIUM 41/100) vs "dirty chai latte" specific variant (diff 3) perfectly illustrates the pattern: head terms are always competitive, specific intent sub-queries at the same volume tier are accessible. We've now validated this pattern across 17 pulses consistently.
+- **Ch4.2 (answer-first formatting):** Brown sugar shaken espresso opens with bold direct definition + what makes "shaken" different. Dirty chai opens with bold definition of what "dirty" means. Both have ratio tables, step-by-step procedures, FAQ sections targeting PAA questions — fully extractable for featured snippets and AI citations.
+- **Ch6.2 (linkable assets):** Noted that our growing ratio cluster + unique guides (siphon coffee, cold foam 3-method, now brown sugar syrup how-to) are building real linkable asset inventory. Not starting active outreach yet, but the brown sugar shaken espresso page (includes a complete homemade syrup recipe + shaking technique) is the type of useful, non-obvious content that earns food/coffee blog links organically.
+
+**Outcome:**
+- 2 new pages written and deployed (53 total)
+- brown-sugar-shaken-espresso: 27,100/mo diff 3 — Starbucks copycat angle, homemade brown sugar syrup recipe, shaking technique guide, ingredient ratio table, sweetener guide (3-level), 5 variations (oat milk, dairy-free, double, sugar-free, latte-style), complete FAQ (7 PAA questions); Recipe schema; competitor context: Starbucks at #1 can't be beaten but #2-8 are all small food blogs + social media
+- dirty-chai-latte: 9,900/mo diff 3 — hot + iced versions, chai steeping time guide, spice profile breakdown, caffeine calculation (tea + espresso), milk options table, 5 variations (double dirty, dirty matcha chai, vanilla, brown sugar, pumpkin spice); Recipe schema; SERP gap: no authoritative comprehensive guide exists in top 8
+- Internal linking: 3 pages updated (iced-latte, caramel-macchiato, getting-started pillar)
+- DataForSEO spend this pulse: $0.079 (1x search-volume $0.075 + 2x SERP $0.004)
+- Cumulative DataForSEO spend: ~$1.760
+
+**Next:** Pulse 18 — Explore "iced matcha latte" (14.8K/mo diff 9 — run SERP check), "shaken espresso" head term SERP check, potentially "pumpkin spice latte" seasonality angle. Monitor SC for additional pages indexing (Day 7+ — expect more pages to enter impressions). Consider exploring comparison content gaps we haven't filled yet.
+
+---
+
 ## 2026-04-09 14:00 IDT — Pulse 16: Cold Foam + Vietnamese Iced Coffee + French Press How-To
 
 **Action:**
