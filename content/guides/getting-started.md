@@ -206,3 +206,6 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [How to Make Cold Foam](/recipes/cold-foam/) — Homemade cold foam in 3 minutes — sweet cream, vanilla, and dairy-free versions
 - [Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/) — The Starbucks copycat recipe: espresso shaken over ice with brown sugar syrup and cinnamon
 - [Dirty Chai Latte Recipe](/recipes/dirty-chai-latte/) — Chai spices meet espresso: how to make hot and iced dirty chai at home
+- [Espresso Martini Recipe](/recipes/espresso-martini/) — The classic cocktail with vodka, espresso, and coffee liqueur — plus how to get that iconic foam
+- [Vanilla Sweet Cream Cold Brew](/recipes/vanilla-sweet-cream-cold-brew/) — Starbucks copycat with homemade vanilla sweet cream you can make in 5 minutes
+- [Iced Matcha Latte Recipe](/recipes/iced-matcha-latte/) — Ceremonial matcha whisked smooth, poured over ice and your milk of choice

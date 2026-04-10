@@ -159,3 +159,12 @@ That's iced coffee, not cold brew. Hot water extracts differently — cold brew'
 
 **What's the difference between cold brew and iced coffee?**
 Iced coffee is hot-brewed coffee poured over ice. Cold brew is never heated — it's steeped cold, which produces a different flavor profile: smoother, sweeter, less acidic.
+
+---
+
+## Related Recipes
+
+- [Vanilla Sweet Cream Cold Brew](/recipes/vanilla-sweet-cream-cold-brew/) — Cold brew with Starbucks-style homemade vanilla sweet cream
+- [Cold Brew Ratio Guide](/guides/cold-brew-ratio/) — Reference ratios for regular strength vs concentrate
+- [How to Make Cold Foam](/recipes/cold-foam/) — Add cold foam to your cold brew for a Starbucks upgrade
+- [Iced Latte Recipe](/recipes/iced-latte/) — Espresso-based alternative to cold brew iced drinks
