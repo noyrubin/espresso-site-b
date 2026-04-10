@@ -184,3 +184,7 @@ No. Barista-grade oat milk (Oatly Barista, Califia Barista Blend) froths into ex
 
 **What do baristas use for cold foam?**
 Commercial cafés use high-powered blenders or dedicated cold foam blenders (like the Vitamix blender cup that Starbucks uses). At home, a handheld milk frother produces very similar results in under 30 seconds.
+
+---
+
+*Related: [Dalgona Coffee (Whipped Coffee)](/recipes/dalgona-coffee/) — The viral whipped coffee foam that goes on top of milk · [Vanilla Sweet Cream Cold Brew](/recipes/vanilla-sweet-cream-cold-brew/) · [Iced Coffee Recipe](/recipes/iced-coffee-recipe/)*

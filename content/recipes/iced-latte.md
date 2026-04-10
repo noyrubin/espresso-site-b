@@ -189,3 +189,5 @@ An iced latte should be consumed immediately. Once made, the ice continues to me
 - [How Much Caffeine in a Shot of Espresso?](/guides/espresso-caffeine-guide/) — Caffeine content by drink
 - [Best Espresso Machines for Beginners](/guides/best-espresso-machines-beginners/) — Equipment guide
 - [Getting Started with Home Espresso](/guides/getting-started/) — Complete beginner's guide
+- [How to Make Iced Coffee (4 Methods)](/recipes/iced-coffee-recipe/) — Flash brew, cold brew, and blended iced coffee without an espresso machine
+- [Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/) — A shaken iced espresso drink with brown sugar and cinnamon

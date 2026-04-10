@@ -209,3 +209,6 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [Espresso Martini Recipe](/recipes/espresso-martini/) — The classic cocktail with vodka, espresso, and coffee liqueur — plus how to get that iconic foam
 - [Vanilla Sweet Cream Cold Brew](/recipes/vanilla-sweet-cream-cold-brew/) — Starbucks copycat with homemade vanilla sweet cream you can make in 5 minutes
 - [Iced Matcha Latte Recipe](/recipes/iced-matcha-latte/) — Ceremonial matcha whisked smooth, poured over ice and your milk of choice
+- [Pumpkin Spice Latte Recipe](/recipes/pumpkin-spice-latte/) — Homemade PSL with real pumpkin, warm spices, and espresso — better than Starbucks
+- [Dalgona Coffee (Whipped Coffee)](/recipes/dalgona-coffee/) — The viral whipped coffee recipe, with instant coffee foam over milk
+- [How to Make Iced Coffee (4 Methods)](/recipes/iced-coffee-recipe/) — Flash brew, cold brew, iced espresso, and blended — every iced coffee method explained
