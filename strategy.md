@@ -7,12 +7,12 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 7 of indexing — **59 pages published.** SC: 2 pages with impressions (homepage pos 44; milk-steaming-beginners 29 impressions best pos 45). No organic traffic yet — Day 7 normal. Pulse 19: Added pumpkin spice latte (40.5K/mo diff 8 + 14.8K/mo sub-query diff 5), dalgona coffee (27.1K/mo diff 6), iced coffee recipe (14.8K/mo diff 17). KEY INSIGHT: With 59 pages across espresso, guides, and recipe clusters, topical authority is building. Next 7-14 days expect more pages to enter SC impressions as Googlebot deepens crawl. Ch5.2 internal linking audit done this pulse — got-started pillar now links to all 59 pages.
+Day 8 of indexing — **65 pages published.** SC: 3 pages in impressions — ristretto pos 10 (2 impressions), milk-steaming-beginners pos 32.17 (30 impressions), homepage pos 44. No organic clicks yet — Day 8 normal. Pulse 21: Added breve coffee guide (22.2K diff 2 — SERP content gap: brand pages dominate), iced americano recipe (12.1K diff 1 — tiny food blogs at #3-5), cafe au lait guide (60.5K diff 1). KEY INSIGHT: "breve coffee" SERP is one of the most exploitable we've found — brevecoffee.com is a local coffee shop, thehumanbean.com is a chain, Amazon ranks #4. ZERO real content guides in top 5. Our comprehensive how-to guide fills this gap directly. DataForSEO spend this pulse: $0.158.
 
 ## Key Data Points
-- **GA4:** Sessions Apr 8: 1; Apr 7: 11; Apr 6: 8; Apr 5: 7 — still no organic traffic, all bot/test (Day 7 normal)
-- **Search Console Pulse 19:** 2 pages in SC (homepage: 1 impression pos 44; milk-steaming-beginners: 29 impressions pos 33.07, 12 query variants). Still no clicks. Normal for positions 33-81.
-- **DataForSEO spend to date:** ~$2.026 (~$0.093 this pulse: 1x search-volume $0.075 + 3x SERP $0.006 each)
+- **GA4 Pulse 21:** Sessions Apr 11: 68 (all bots/crawlers — 100% bounce, 0.46s avg session). Day 8 expected.
+- **Search Console Pulse 21:** 3 pages — ristretto pos 10 (2 impressions), milk-steaming-beginners pos 32.17 (30 impressions), homepage pos 44 (1 impression). No clicks yet.
+- **DataForSEO spend to date:** ~$2.287 (~$0.158 this pulse: 2x search-volume $0.150 + 4x SERP $0.008)
 - **Pulse 10 keyword research:** espresso tonic 9.9K diff 1 (✅ WRITTEN); cortado vs macchiato 2.9K diff 1 (✅ WRITTEN); cold brew cluster ALL high competition (skipped); latte vs cappuccino 27.1K diff 6 (likely captured by existing cappuccino-vs-latte page)
 - **Pulse 11 keyword research:** flat-white-vs-latte 22.2K/mo diff 5 (✅ WRITTEN); latte-vs-macchiato 6.6K/mo diff 2 (✅ WRITTEN); how-long-do-coffee-beans-last 2.9K/mo diff 8 no featured snippet (✅ WRITTEN); espresso-vs-americano 1.6K/mo diff 1 (✅ WRITTEN); REJECTED: how-to-store-coffee-beans HIGH 89/100, types-of-espresso-machines HIGH 100/100, espresso-tamping HIGH 100/100, single-origin-espresso HIGH 94/100
 
@@ -86,7 +86,14 @@ Day 7 of indexing — **59 pages published.** SC: 2 pages with impressions (home
 | pumpkin spice latte | 40,500 | 8/100 LOW | /recipes/pumpkin-spice-latte/ | **Published (NEW Pulse 19 — perennial seasonal keyword, SERP: ambitiouskitchen.com #1, small blogs #5-9, no featured snippet)** |
 | pumpkin spice latte recipe | 14,800 | 5/100 ULTRA-LOW | /recipes/pumpkin-spice-latte/ | **Published (NEW Pulse 19 — covered in same page as head term)** |
 | dalgona coffee | 27,100 | 6/100 LOW | /recipes/dalgona-coffee/ | **Published (NEW Pulse 19 — SERP: jessicainthekitchen.com #1, Wikipedia #2, seriouseats.com #3 strong, mykoreankitchen.com #4 beatable)** |
-| iced coffee recipe | 14,800 | 17/100 LOW | /recipes/iced-coffee-recipe/ | **Published (NEW Pulse 19 — SERP: loveandlemons.com #1, Folgers #2, spiritedandthensome.com #5 small blog beatable; 4-methods guide with flash brew + cold brew + espresso)** |
+| iced coffee recipe | 14,800 | 17/100 LOW | /recipes/iced-coffee-recipe/ | **Published (NEW Pulse 19 — SERP: loveandlemons.com #1, Folgers #2, spiritedandthensome.com #5 small blog beatable; 4-methods guide with flash brew + cold brew + espresso)**
+| matcha latte recipe | 27,100 | 12/100 LOW | /recipes/matcha-latte-recipe/ | **Published (NEW Pulse 20 — SERP: acozykitchen.com #1 food blog beatable, canalcoffeecompany.com #5 small blog; also targets "how to make matcha latte" 12.1K/mo diff 35)**
+| how to make matcha latte | 12,100 | 35/100 MEDIUM | /recipes/matcha-latte-recipe/ | **Published (NEW Pulse 20 — covered by matcha-latte-recipe, same SERP)**
+| latte macchiato | 8,100 | 2/100 ULTRA-LOW | /guides/latte-macchiato/ | **Published (NEW Pulse 20 — SERP: Wikipedia #1, canalcoffeecompany.com #3, mostly brands; no featured snippet; Ch4.2 answer-first format)**
+| white chocolate mocha | 12,100 | 29/100 LOW | /recipes/white-chocolate-mocha/ | **Published (NEW Pulse 20 — SERP: Starbucks #1 unbeatable, stressbaking.com #2 beatable, allrecipes.com #3 strong, midwestniceblog.com #7 beatable; homemade white chocolate sauce recipe)** |
+| breve coffee / breve latte | 22,200 | 2/100 ULTRA-LOW | /guides/what-is-breve-coffee/ | **Published (NEW Pulse 21 — SERP: brand pages dominate #1-4, aerialresupplycoffee.com #5 tiny blog — ZERO real content guides in top 5; half-and-half steaming technique, breve vs latte comparison)** |
+| iced americano | 12,100 | 1/100 ULTRA-LOW | /recipes/iced-americano/ | **Published (NEW Pulse 21 — SERP: Starbucks #1, Reddit #2, hildaskitchenblog.com #3, boutiquecoffeemadesimple.com #4, bakedbree.com #5 — tiny food blogs; Korean iced americano technique)** |
+| cafe au lait | 60,500 | 1/100 ULTRA-LOW | /guides/cafe-au-lait/ | **Published (NEW Pulse 21 — SERP: Wikipedia #1, coffeegeek #2, Starbucks #3, coffeeannan.com #6 tiny blog; French + New Orleans chicory styles; vs latte comparison table)** |
 
 ## Biggest Opportunities Found So Far
 
@@ -136,10 +143,10 @@ Day 7 of indexing — **59 pages published.** SC: 2 pages with impressions (home
 ### In Progress
 *(none currently)*
 
-### Published (56 pages)
+### Published (62 pages)
 - **Pillar:** /guides/getting-started/
-- **Recipes cluster (26):** cortado, americano, flat-white, cappuccino, latte, iced-latte, lungo, ristretto, affogato, espresso-con-panna, caramel-macchiato (Pulse 9 — 74K/mo), mocha (Pulse 9 — 24.2K cluster), espresso-tonic (Pulse 10 — 9.9K/mo diff 1), cold-brew-coffee-recipe (Pulse 15 — 18.1K/mo diff 23), cold-foam (Pulse 16 — 33.1K/mo diff 8 ULTRA-LOW), vietnamese-iced-coffee (Pulse 16 — 14.8K/mo diff 6 ULTRA-LOW), brown-sugar-shaken-espresso (Pulse 17 — 27.1K/mo diff 3 ULTRA-LOW), dirty-chai-latte (Pulse 17 — 9.9K/mo diff 3 ULTRA-LOW), espresso-martini (Pulse 18 — 246K/mo diff 19 LOW — BIGGEST FIND), vanilla-sweet-cream-cold-brew (Pulse 18 — 14.8K/mo diff 16 LOW), iced-matcha-latte (Pulse 18 — 14.8K/mo diff 9 ULTRA-LOW), **pumpkin-spice-latte** (NEW Pulse 19 — 40.5K/mo diff 8 LOW), **dalgona-coffee** (NEW Pulse 19 — 27.1K/mo diff 6 LOW), **iced-coffee-recipe** (NEW Pulse 19 — 14.8K/mo diff 17 LOW)
-- **Guides cluster (36):** best-espresso-machines-beginners, best-espresso-grinders, milk-steaming-beginners, espresso-troubleshooting, espresso-vs-coffee, espresso-ratio-guide, espresso-caffeine-guide, moka-pot-vs-espresso-machine, what-is-crema, what-is-a-macchiato, cappuccino-vs-latte, compact-espresso-machine-guide, espresso-grind-size-guide, water-for-espresso, espresso-beans-vs-coffee-beans, espresso-machine-cleaning-guide, what-is-a-doppio, espresso-glossary (Pulse 9), cortado-vs-macchiato (Pulse 10), flat-white-vs-latte (Pulse 11), latte-vs-macchiato (Pulse 11), how-long-do-coffee-beans-last (Pulse 11), espresso-vs-americano (Pulse 11), how-to-use-espresso-machine (Pulse 12), coffee-to-water-ratio (Pulse 12), french-press-ratio (Pulse 13), cold-brew-ratio (Pulse 13), arabica-vs-robusta (Pulse 13), what-is-turkish-coffee (Pulse 14 — 60.5K/mo diff 32), pour-over-ratio (Pulse 14), how-to-use-moka-pot (Pulse 14), what-is-siphon-coffee (Pulse 15 — 12.1K/mo diff 24), aeropress-guide (Pulse 15 — 5.5K combined diff 8/15), **how-to-use-french-press** (NEW Pulse 16 — 9.9K/mo diff 30)
+- **Recipes cluster (29):** cortado, americano, flat-white, cappuccino, latte, iced-latte, lungo, ristretto, affogato, espresso-con-panna, caramel-macchiato (Pulse 9 — 74K/mo), mocha (Pulse 9 — 24.2K cluster), espresso-tonic (Pulse 10 — 9.9K/mo diff 1), cold-brew-coffee-recipe (Pulse 15 — 18.1K/mo diff 23), cold-foam (Pulse 16 — 33.1K/mo diff 8 ULTRA-LOW), vietnamese-iced-coffee (Pulse 16 — 14.8K/mo diff 6 ULTRA-LOW), brown-sugar-shaken-espresso (Pulse 17 — 27.1K/mo diff 3 ULTRA-LOW), dirty-chai-latte (Pulse 17 — 9.9K/mo diff 3 ULTRA-LOW), espresso-martini (Pulse 18 — 246K/mo diff 19 LOW — BIGGEST FIND), vanilla-sweet-cream-cold-brew (Pulse 18 — 14.8K/mo diff 16 LOW), iced-matcha-latte (Pulse 18 — 14.8K/mo diff 9 ULTRA-LOW), pumpkin-spice-latte (Pulse 19 — 40.5K/mo diff 8 LOW), dalgona-coffee (Pulse 19 — 27.1K/mo diff 6 LOW), iced-coffee-recipe (Pulse 19 — 14.8K/mo diff 17 LOW), **matcha-latte-recipe** (NEW Pulse 20 — 27.1K/mo diff 12 LOW + captures how-to-make-matcha-latte 12.1K/mo), **white-chocolate-mocha** (NEW Pulse 20 — 12.1K/mo diff 29 LOW — Starbucks copycat with homemade sauce)
+- **Guides cluster (37):** best-espresso-machines-beginners, best-espresso-grinders, milk-steaming-beginners, espresso-troubleshooting, espresso-vs-coffee, espresso-ratio-guide, espresso-caffeine-guide, moka-pot-vs-espresso-machine, what-is-crema, what-is-a-macchiato, cappuccino-vs-latte, compact-espresso-machine-guide, espresso-grind-size-guide, water-for-espresso, espresso-beans-vs-coffee-beans, espresso-machine-cleaning-guide, what-is-a-doppio, espresso-glossary (Pulse 9), cortado-vs-macchiato (Pulse 10), flat-white-vs-latte (Pulse 11), latte-vs-macchiato (Pulse 11), how-long-do-coffee-beans-last (Pulse 11), espresso-vs-americano (Pulse 11), how-to-use-espresso-machine (Pulse 12), coffee-to-water-ratio (Pulse 12), french-press-ratio (Pulse 13), cold-brew-ratio (Pulse 13), arabica-vs-robusta (Pulse 13), what-is-turkish-coffee (Pulse 14 — 60.5K/mo diff 32), pour-over-ratio (Pulse 14), how-to-use-moka-pot (Pulse 14), what-is-siphon-coffee (Pulse 15 — 12.1K/mo diff 24), aeropress-guide (Pulse 15 — 5.5K combined diff 8/15), how-to-use-french-press (Pulse 16 — 9.9K/mo diff 30), **latte-macchiato** (NEW Pulse 20 — 8.1K/mo diff 2 ULTRA-LOW — inverted layered drink)
 - **About page** (E-E-A-T)
 - **3 section index pages**
 
@@ -198,6 +205,10 @@ Day 7 of indexing — **59 pages published.** SC: 2 pages with impressions (home
 - **"aeropress coffee" head term (Pulse 14):** 12,100/mo but HIGH 100/100 — skip. Same pattern as other head terms.
 - **"chemex coffee" head term (Pulse 14):** 12,100/mo but HIGH 100/100 — skip. We captured "chemex ratio" 1K/diff 2 inside pour-over-ratio guide instead.
 - **"aeropress recipe" full standalone guide (Pulse 14):** 3,600/mo diff 8 — SERP shows aeroprecipe.com (dedicated site at #1) + aeropress.com (#3). More competitive than typical opportunities. Deprioritized — may revisit.
+- **"honey latte" (Pulse 20):** 1,600/mo, diff 0. Volume too low for standalone page.
+- **"brown butter latte" (Pulse 20):** 390/mo, diff 0. Too niche/low volume.
+- **"gingerbread latte" (Pulse 20):** 2,900/mo, diff 33. Seasonal keyword (winter/holiday); low standalone value in April. Deprioritize to Q4.
+- **"how to make matcha latte" as separate page (Pulse 20):** 12,100/mo, diff 35 MEDIUM. Captured within matcha-latte-recipe.md — same SERP, same intent. No separate page needed.
 - **"moka pot guide" head term (Pulse 14):** Only 50/mo. Too low. We wrote "how to use moka pot" (3.6K) instead.
 - **"how to make cold brew coffee" (Pulse 15):** 27,100/mo but HIGH 67/100 — skip despite high volume.
 - **"cardamom coffee" (Pulse 15):** 1,900/mo MEDIUM 49/100 — too competitive for what it offers. Not worth writing standalone.
@@ -348,15 +359,23 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - **SEO skill ref:** Ch4.1 (fan-out coverage for espresso martini sub-queries), Ch5.2 (internal linking depth check — 59 pages, verify no new orphans)
 - **Rejected this pulse:** dalgona coffee seriouseats.com at #3 makes this harder than typical (still wrote it; target #4-5). Frappuccino variations too low volume for standalone.
 
-### Pulse 21 (22:00 IDT Apr 10)
-- SC watch: Day 7 → Day 8 transition — expect 5-10+ pages to have impressions by this point
-- Content: Explore "cold brew latte" (check volume), "shaken espresso" head term SERP check
-- Schema review: Verify all 59 pages have Recipe or Article schema applied correctly
-- Off-page groundwork: Ch6.2 — begin identifying coffee blogs and Reddit threads where our ratio content or espresso martini guide could be naturally cited
+### Pulse 21 — DONE (14:00 IDT Apr 11)
+- ✅ SC: 3 pages in impressions: ristretto pos 10 (2 impressions), milk-steaming-beginners pos 32.17 (30 impressions), homepage pos 44 (1 impression). No clicks yet — Day 8 normal.
+- ✅ DataForSEO: 2x search-volume batches ($0.150) + 4x SERP checks ($0.008) = $0.158 this pulse
+- ✅ MASSIVE FIND: "breve coffee" 22.2K/mo diff 2 — SERP dominated by brand pages (brevecoffee.com #1, thehumanbean.com #2, Amazon #4) — NO content guides in top 5. Biggest content gap since cold foam.
+- ✅ STRONG FIND: "cafe au lait" 60.5K/mo diff 1 ULTRA-LOW — Wikipedia #1, coffeegeek #2 (medium blog), Starbucks #3, coffeeannan.com #6 (tiny blog), thespruceeats.com #7. No featured snippet.
+- ✅ STRONG FIND: "iced americano" 12.1K/mo diff 1 — Starbucks #1, Reddit #2, then hildaskitchenblog.com #3, boutiquecoffeemadesimple.com #4, bakedbree.com #5 — tiny food blogs easily beatable.
+- ✅ WRITTEN: what-is-breve-coffee (22.2K diff 2), iced-americano (12.1K diff 1), cafe-au-lait (60.5K diff 1)
+- ✅ REJECTED: "nitro cold brew" 18.1K MEDIUM 47/100 — skip; "coffee cake recipe" 60.5K off-niche (no espresso); "flat white vs cappuccino" 6.6K — deprioritized for higher-volume finds
+- ✅ Internal links: latte, americano, milk-steaming-beginners, getting-started all updated
+- ✅ Committed and pushed (b769ec3) — 65 pages total
+- ✅ SEO skill: Ch2.1 (continue publishing for indexing inventory), Ch4.1 (intent clusters), Ch5.1 (pillar/cluster)
 
-### Pulse 22 (06:00 IDT Apr 11)
-- Full SC sweep: By Day 8, expect material increase in pages with impressions
-- Content batch: 3-4 more recipe/guide pages based on Pulse 20 research
+### Pulse 22 (22:00 IDT Apr 11)
+- SC watch: Day 8 — ristretto at position 10 is near click territory; watch for additional pages entering impressions
+- Content: Research remaining ultra-low competition opportunities — "red eye coffee" 14.8K/mo diff 1 (SERP: brand #1, Reddit #2, foodandwine #3), "flat white vs cappuccino" 6.6K diff 4, "shaken espresso" 9.9K diff 4 head term SERP check
+- Also check: "cortado vs flat white" (comparison cluster), "what is a lungo" sub-queries (fan-out from existing lungo recipe)
+- SEO skill: Ch4.2 — review ristretto page for featured snippet optimization (currently at pos 10, near page 1)
 - Consider: "best home coffee gifts" or seasonal gift guide if appropriate for E-E-A-T growth
 
 ---

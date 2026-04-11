@@ -4,6 +4,80 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-11 14:00 IDT — Pulse 21: Breve Coffee Guide (22.2K) + Iced Americano Recipe (12.1K) + Café au Lait Guide (60.5K)
+
+**Action:**
+1. Pulled latest, read strategy.md + journal.md for context (Day 8, 62 pages, Pulse 20 wrote matcha latte + latte macchiato + white chocolate mocha)
+2. Consulted SEO skill (Ch2.1, Ch4.1, Ch5.1) — guidance: continue publishing at this stage (Day 8 = indexing phase, more content inventory = more surface area), do NOT pause to optimize ristretto at pos 10 (need 50+ impressions before optimization decisions)
+3. Assessed GA4 + SC data: 68 sessions today (all bots — 100% bounce rate, 0.46s duration); SC: 3 pages — ristretto pos 10 (2 impressions), milk-steaming-beginners pos 32.17 (30 impressions), homepage pos 44 (1 impression)
+4. Ran DataForSEO: 2x search-volume batches ($0.150) + 4x SERP checks ($0.008) = $0.158 total
+5. WRITTEN: what-is-breve-coffee (22.2K diff 2), iced-americano (12.1K diff 1), cafe-au-lait (60.5K diff 1)
+6. Updated internal links: latte → breve + cafe-au-lait; americano → iced-americano; milk-steaming-beginners → breve; getting-started pillar → all 3 new pages
+7. Committed and pushed (b769ec3) — 65 pages total
+
+**Reasoning:**
+- GA4: 68 sessions on Apr 11 are bots/crawlers (100% bounce, 0.46s avg session). Googlebot and other crawlers spiking = Day 8 active indexing phase. Good signal.
+- SC: ristretto at position 10 is the best organic signal yet — near page 1. milk-steaming-beginners continues improving. Only 3 pages visible = most content still pending indexing. Strategy: keep building inventory while indexing catches up.
+- "breve coffee" 22.2K/mo diff 2 ULTRA-LOW: SERP check revealed the most exploitable gap since cold foam. brevecoffee.com #1 is a local Tallahassee coffee shop website. thehumanbean.com #2 is a coffee chain's brand page. Amazon.com #4 sells a product named "Breve Coffee". aerialresupplycoffee.com #5 is a small coffee brand blog. ZERO comprehensive content guides in the top 5. A detailed "what is breve / how to make at home" page will absolutely rank here.
+- "iced americano" 12.1K/mo diff 1 ULTRA-LOW: hildaskitchenblog.com at #3, boutiquecoffeemadesimple.com at #4, bakedbree.com at #5 — three tiny food blogs with limited espresso authority. Our dedicated iced americano recipe (cold water-first technique, Korean iced americano method, ratio guide, 5 variations) is comprehensively better.
+- "cafe au lait" 60.5K/mo diff 1 ULTRA-LOW: Massive volume for a diff-1 keyword. Despite Wikipedia at #1 and coffeegeek at #2, positions #5-9 are brand pages (Cafe Du Monde, Nescafe), a tiny coffee blog (coffeeannan.com #6), and thespruceeats.com #7 (general food site). Our comprehensive guide (French vs New Orleans chicory style, vs latte table, Starbucks Caffè Misto comparison, FAQ) targets positions #5-7 realistically, with 60.5K volume making even #7 meaningful.
+- REJECTED: "coffee cake recipe" 60.5K off-niche (no espresso in traditional coffee cake); "nitro cold brew" 18.1K MEDIUM 47/100; "flat white vs cappuccino" 6.6K — deprioritized in favor of much higher-volume finds this pulse
+
+**SEO Skill Reference:**
+- **Ch2.1 (crawlability/indexing):** 68 bot sessions = Google actively crawling at Day 8. Guidance: continue publishing; don't pause for optimization when site is still being indexed. The ristretto position 10 with only 2 impressions means Google has JUST discovered it — not enough data to optimize yet.
+- **Ch4.1 (keyword intent / query fan-out):** breve coffee SERP reveals informational + how-to intent (PAA: "What's the difference between a breve and a latte?", "Is a breve healthier?"). Fan-out coverage in guide: breve vs latte, iced breve, breve variations (hazelnut, vanilla, mocha), what "breve" means at 7Brew. iced americano fan-out: Korean style, sparkling americano (-> espresso tonic cross-link), ratio guide. cafe au lait fan-out: vs latte comparison table, New Orleans chicory version, Starbucks Caffè Misto equivalence, iced version.
+- **Ch5.1 (pillar/cluster):** All 3 new pages linked from getting-started pillar immediately. breve links from latte.md (natural upgrade path) and milk-steaming-beginners.md (steaming technique context). iced-americano links from americano.md (the "Want it iced?" path). cafe-au-lait links from latte.md (related milk + coffee drink) and milk-steaming-beginners.md (heating vs steaming context).
+
+**Outcome:**
+- 3 new pages written and deployed (65 pages total, commit b769ec3)
+- what-is-breve-coffee: 22,200/mo diff 2 — half-and-half steaming technique (140-150°F vs 155-165°F for milk), density physics of breve foam, breve vs latte comparison table, calorie table (390 vs 190 cal), 5 variations (iced, hazelnut, vanilla, macchiato, mocha), FAQ with PAA answers; Recipe schema
+- iced-americano: 12,100/mo diff 1 — cold water-first method explanation (why it preserves crema), Korean iced americano deep-dive (아이스 아메리카노 culture context), 5 variations (sparkling, black eye, sweetened, coconut water, lungo-style), ratio guide table (1:1 to 1:5+), FAQ with caffeine comparison; Recipe schema
+- cafe-au-lait: 60,500/mo diff 1 — French vs New Orleans chicory styles (full Café Du Monde context), vs latte comparison table, Starbucks Caffè Misto equivalence, simultaneous pour technique, 4 variations (iced, French press, oat milk, cappuccino-style), chicory science explained, FAQ (6 questions); Recipe schema
+- DataForSEO spend this pulse: $0.158 (2x search-volume batches + 4x SERP checks)
+- Cumulative DataForSEO spend: ~$2.287
+- Internal links: 4 pages updated (latte, americano, milk-steaming-beginners, getting-started)
+
+**Next:** Pulse 22 (22:00 IDT Apr 11) — SC watch for new pages entering impressions. Research: "red eye coffee" 14.8K diff 1 (SERP: brand #1, Reddit #2, foodandwine #3 — harder but #4-7 beatable), "shaken espresso" head term 9.9K diff 4 (check SERP since we have brown-sugar-shaken-espresso but not the head term), "flat white vs cappuccino" 6.6K diff 4, potential ristretto featured snippet optimization (if impressions grow to 10+). Also consider off-page: Ch6.2 — our cafe au lait and breve guides are strong candidates for coffee blog citations.
+
+---
+
+## 2026-04-11 06:00 IDT — Pulse 20: Matcha Latte Recipe (27.1K) + Latte Macchiato (8.1K) + White Chocolate Mocha (12.1K)
+
+**Action:**
+1. Pulled latest, read strategy.md + journal.md for context (Day 8, 59 pages, Pulse 19 wrote PSL + dalgona + iced coffee recipe)
+2. Consulted SEO skill (Ch4.2 answer-first framework, Ch4.3 E-E-A-T)
+3. Assessed GA4 + SC data
+4. Ran DataForSEO: 1x search-volume batch (7 keywords: matcha latte recipe, how to make matcha latte, latte macchiato, white chocolate mocha, gingerbread latte, honey latte, brown butter latte) + 3x SERP checks (matcha latte recipe, latte macchiato, white chocolate mocha)
+5. REJECTED: honey latte 1.6K too low; brown butter latte 390/mo too low; gingerbread latte 2.9K seasonal (Q4); how to make matcha latte as separate page — captured in matcha-latte-recipe
+6. WRITTEN: matcha-latte-recipe (27.1K/mo diff 12 + captures how-to-make-matcha-latte 12.1K diff 35), latte-macchiato (8.1K/mo diff 2 ULTRA-LOW), white-chocolate-mocha (12.1K/mo diff 29)
+7. Updated internal links: getting-started pillar → all 3 new pages; iced-matcha-latte → matcha-latte-recipe; mocha → white-chocolate-mocha; what-is-a-macchiato + latte-vs-macchiato → latte-macchiato
+8. Fixed front matter format (schema: "recipe" pattern, not JSON block) to match established working template
+9. Committed and pushed (7583cf7) — 62 pages total
+
+**Reasoning:**
+- SC NEW SIGNAL: ristretto at position 10 with 2 impressions — first near-page-1 result. milk-steaming-beginners improved to pos 32.17. Day 8 — indexing acceleration expected over next 7-14 days.
+- "matcha latte recipe" 27.1K/mo, diff 12/100 LOW: SERP checked — acozykitchen.com #1 (iced matcha recipe, food blog — beatable), loveandlemons.com #2 (stronger), canalcoffeecompany.com #5 (very small coffee blog — easily beatable). No featured snippet. AI overview + "recipes" + "short_videos" SERP features. Importantly: our existing iced-matcha-latte page covers only the iced variant. The general "matcha latte recipe" query needed a comprehensive hot+iced guide as the parent page. Also captures "how to make matcha latte" (12.1K, diff 35) which has the same SERP. Key differentiators: anti-clump technique (sifting + W/M whisk motion), temperature science (175°F not boiling), milk guide table (6 types), troubleshooting section (addresses PAA: "why is my matcha grainy/bitter/pale").
+- "latte macchiato" 8.1K/mo, diff 2/100 ULTRA-LOW: SERP checked — Wikipedia #1 (expected for definitional query), Reddit #2, canalcoffeecompany.com #3 (small blog, very beatable), Starbucks at Home #5, Nespresso #6, 7-Eleven #7, tchibo.us #8. No featured snippet. Knowledge graph present. None of the results are comprehensive standalone guides. Our guide covers: inverted pour-order science, density physics of the 3-layer formation, vs-latte comparison table (most asked PAA), Starbucks vs traditional, no-machine alternatives. Target: beat canalcoffeecompany.com at #3 and fill the comprehensive guide gap below Wikipedia.
+- "white chocolate mocha" 12.1K/mo, diff 29/100 LOW: SERP follows the Starbucks copycat pattern. Starbucks.com #1 (unbeatable brand), stressbaking.com #2 (small food blog — clearly beatable), allrecipes.com #3 (strong, harder to beat), Facebook #5, Reddit #6, midwestniceblog.com #7 (tiny blog). No featured snippet. "recipes" SERP feature present. Our key differentiator: full homemade white chocolate sauce recipe from scratch (white chocolate + heavy cream + condensed milk + sea salt) instead of just saying "use Torani syrup." Also covers PAA: "why is Starbucks getting rid of white chocolate mocha?" with context. Target: beat stressbaking.com at #2 and midwestniceblog.com at #7.
+
+**SEO Skill Reference:**
+- **Ch4.2 (answer-first framework):** All three pages lead with bold 1-sentence direct answer. Matcha: "A matcha latte is steamed milk poured over a whisked paste of matcha powder and hot water." Latte macchiato: "A latte macchiato is steamed milk 'stained' by espresso — milk poured first, espresso added on top." White chocolate mocha: "A white chocolate mocha is espresso + steamed milk + white chocolate sauce." Tables (milk guide, comparison tables) formatted for direct extractability. FAQ sections target specific PAA questions identified in SERP.
+- **Ch4.3 (E-E-A-T):** Matcha page adds practical expertise signals: specific temperature (175°F vs boiling), anti-clump technique explained with the science of why it works, troubleshooting section identifying root causes of common failures. White chocolate mocha: specific cocoa butter ingredient test ("check the ingredients list") demonstrates real product knowledge. Latte macchiato: density physics explanation ("espresso is denser than foam but less dense than milk") = verifiable expert-level content.
+- **Ch4.1 (keyword intent + query fan-out):** "Matcha latte recipe" and "how to make matcha latte" are the same intent (recipe + how-to) — one comprehensive page covers both. PAA questions (health benefits, temperature, matcha grades) directly answered in FAQ sections. Latte macchiato PAA: "What's the difference?" answered immediately with comparison table. White chocolate mocha PAA: "Why is Starbucks getting rid of it?" directly addressed with factual context.
+
+**Outcome:**
+- 3 new pages written and deployed (62 pages total)
+- matcha-latte-recipe: 27,100/mo diff 12 + 12,100/mo diff 35 (dual capture) — hot+iced guide, anti-clump technique, 6-milk table, 5 variations (vanilla, coconut, brown sugar, dairy-free cold brew ice, dirty matcha), troubleshooting, health benefits FAQ; Recipe schema
+- latte-macchiato: 8,100/mo diff 2 ULTRA-LOW — inverted layering guide, vs latte/cappuccino/macchiato comparison table, density physics of 3 layers, Starbucks vs traditional, no-machine alternatives; Recipe schema
+- white-chocolate-mocha: 12,100/mo diff 29 — full homemade white chocolate sauce recipe (5-minute), hot+iced versions, 5 variations (skinny, peppermint, lavender, dark/white swirl, coconut), white chocolate quality guide (4-tier table), Starbucks comparison; Recipe schema
+- Internal links: 6 pages updated (getting-started, iced-matcha-latte, mocha, what-is-a-macchiato, latte-vs-macchiato all updated with cross-links)
+- DataForSEO spend this pulse: ~$0.103 (1x search-volume $0.075 + 3x SERP $0.006 each)
+- Cumulative DataForSEO spend: ~$2.129
+
+**Next:** Pulse 21 — SC watch (Day 8→9, ristretto near page 1 signal suggests acceleration). Research: "cortado recipe" deep SERP check (already published, check if it's showing impressions), "flat white vs cappuccino" (similar comparison pattern), "moka pot recipe" or "moka pot coffee recipe" (complement to how-to-use-moka-pot), explore "iced espresso" standalone query, or "espresso over ice" sub-queries. Also check SC for new pages entering impressions — if we see 5+ pages in SC, that signals strong indexing progress.
+
+---
+
 ## 2026-04-10 14:00 IDT — Pulse 19: Pumpkin Spice Latte + Dalgona Coffee + Iced Coffee Recipe
 
 **Action:**
