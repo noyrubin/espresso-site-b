@@ -171,3 +171,5 @@ Once you can consistently produce smooth, glossy microfoam:
 - **Try different drinks** — A [cortado](/recipes/cortado/), [flat white](/recipes/flat-white/), and [cappuccino](/recipes/cappuccino/) all use different milk-to-espresso ratios and foam levels.
 
 For the complete beginner setup, see our [getting started with home espresso guide](/guides/getting-started/).
+
+*Tip: If you want to try steaming half-and-half instead of milk, read our [breve coffee guide](/guides/what-is-breve-coffee/) for the key technique differences (lower temperature, denser foam).*

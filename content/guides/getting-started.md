@@ -215,3 +215,6 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [Matcha Latte Recipe](/recipes/matcha-latte-recipe/) — Hot and iced matcha lattes with the anti-clump technique, milk guide, and 5 variations
 - [White Chocolate Mocha Recipe](/recipes/white-chocolate-mocha/) — Homemade white chocolate sauce + espresso + steamed milk — better than Starbucks
 - [What Is a Latte Macchiato?](/guides/latte-macchiato/) — The inverted layered espresso drink explained, with how-to and comparison table
+- [What Is Breve Coffee?](/guides/what-is-breve-coffee/) — The richer, creamier latte made with half-and-half instead of milk
+- [Iced Americano Recipe](/recipes/iced-americano/) — Cold water first method, Korean style, and 5 variations
+- [Café au Lait Guide](/guides/cafe-au-lait/) — Brewed coffee with hot milk (French and New Orleans chicory style)

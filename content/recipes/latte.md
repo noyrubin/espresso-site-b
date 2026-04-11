@@ -205,3 +205,5 @@ More milk drink recipes: [Cappuccino](/recipes/cappuccino/) | [Iced Latte](/reci
 Need help with steaming? Read our full [milk steaming guide](/guides/milk-steaming-beginners/).
 
 Not sure whether to make a cappuccino or a latte? See our side-by-side [Cappuccino vs Latte comparison](/guides/cappuccino-vs-latte/).
+
+Want a richer version? Try a [breve coffee](/guides/what-is-breve-coffee/) — the same drink made with half-and-half instead of milk. Or explore [café au lait](/guides/cafe-au-lait/), which uses brewed coffee instead of espresso for a milder profile.
