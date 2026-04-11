@@ -212,3 +212,6 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [Pumpkin Spice Latte Recipe](/recipes/pumpkin-spice-latte/) — Homemade PSL with real pumpkin, warm spices, and espresso — better than Starbucks
 - [Dalgona Coffee (Whipped Coffee)](/recipes/dalgona-coffee/) — The viral whipped coffee recipe, with instant coffee foam over milk
 - [How to Make Iced Coffee (4 Methods)](/recipes/iced-coffee-recipe/) — Flash brew, cold brew, iced espresso, and blended — every iced coffee method explained
+- [Matcha Latte Recipe](/recipes/matcha-latte-recipe/) — Hot and iced matcha lattes with the anti-clump technique, milk guide, and 5 variations
+- [White Chocolate Mocha Recipe](/recipes/white-chocolate-mocha/) — Homemade white chocolate sauce + espresso + steamed milk — better than Starbucks
+- [What Is a Latte Macchiato?](/guides/latte-macchiato/) — The inverted layered espresso drink explained, with how-to and comparison table

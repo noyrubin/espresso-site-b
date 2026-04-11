@@ -180,3 +180,9 @@ Same thing, just temperature. Hot matcha latte: matcha concentrate + steamed mil
 
 **Does Starbucks use real matcha?**
 Starbucks uses a pre-sweetened matcha blend (matcha powder + sugar) — not pure ceremonial matcha. This is why their drinks are sweeter and the matcha flavor is more muted than in a café using pure matcha. When you make it at home with ceremonial grade matcha, the flavor is noticeably more complex and vibrant.
+
+---
+
+## More Matcha Guides
+
+Looking for the hot version or a complete technique overview? See our [matcha latte recipe guide](/recipes/matcha-latte-recipe/) — it covers hot and iced versions, every milk type, and a full troubleshooting section.

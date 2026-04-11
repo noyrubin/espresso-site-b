@@ -144,4 +144,5 @@ See our [flat white vs latte guide](/guides/flat-white-vs-latte/) — the short 
 - [Caramel Macchiato Recipe](/recipes/caramel-macchiato/) — the Starbucks-style version
 - [Cortado vs Macchiato](/guides/cortado-vs-macchiato/) — two small milk espresso drinks compared
 - [Cappuccino vs Latte](/guides/cappuccino-vs-latte/) — another popular comparison
+- [What Is a Latte Macchiato?](/guides/latte-macchiato/) — Complete guide to the inverted layered espresso drink
 - [Flat White vs Latte](/guides/flat-white-vs-latte/) — size, ratio, and foam differences

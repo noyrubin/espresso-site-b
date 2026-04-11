@@ -163,3 +163,4 @@ If you enjoy a mocha, try:
 - [Iced Latte](/recipes/iced-latte/) — cold coffee base, easily add chocolate for an iced mocha
 - [Affogato](/recipes/affogato/) — espresso over ice cream, different but similarly indulgent
 - [Caramel Macchiato](/recipes/caramel-macchiato/) — another sweet espresso classic
+- [White Chocolate Mocha](/recipes/white-chocolate-mocha/) — the sweeter, vanilla-forward cousin with homemade white chocolate sauce
