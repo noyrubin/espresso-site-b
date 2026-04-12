@@ -218,3 +218,6 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [What Is Breve Coffee?](/guides/what-is-breve-coffee/) — The richer, creamier latte made with half-and-half instead of milk
 - [Iced Americano Recipe](/recipes/iced-americano/) — Cold water first method, Korean style, and 5 variations
 - [Café au Lait Guide](/guides/cafe-au-lait/) — Brewed coffee with hot milk (French and New Orleans chicory style)
+- [Red Eye Coffee](/recipes/red-eye-coffee/) — Drip coffee + espresso shot: maximum caffeine, two-method flavor
+- [Shaken Espresso Guide](/recipes/shaken-espresso/) — What shaken espresso is and how to make it at home (aeration technique)
+- [Flat White vs Cappuccino](/guides/flat-white-vs-cappuccino/) — Size, milk texture, foam, and taste differences explained

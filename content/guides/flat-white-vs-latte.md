@@ -140,6 +140,7 @@ Some cafés charge more for flat whites because they use extra shots or ristrett
 
 - [How to Make a Flat White](/recipes/flat-white/) — recipe and ratios
 - [Latte Recipe](/recipes/latte/) — step-by-step
+- [Flat White vs Cappuccino](/guides/flat-white-vs-cappuccino/) — how the flat white compares to cappuccino specifically
 - [Cappuccino vs Latte](/guides/cappuccino-vs-latte/) — another close comparison
 - [How to Steam Milk](/guides/milk-steaming-beginners/) — the technique that makes both possible
 - [What Is a Cortado?](/recipes/cortado/) — another small, strong milk espresso drink
