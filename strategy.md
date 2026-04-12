@@ -7,12 +7,12 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 9 of indexing — **68 pages published.** SC: 3 pages in impressions — ristretto pos 10 (2 impressions), milk-steaming-beginners pos 32.17 (30 impressions), homepage pos 46. No organic clicks yet — normal for Day 9. Pulse 22: Added red eye coffee recipe (14.8K diff 1 — SERP: Reddit #2, foodandwine #3, breville #4 — all beatable), shaken espresso guide (9.9K diff 4 — fills head-term gap vs our brown-sugar-shaken-espresso page; myeverydaytable.com #6 beatable), flat white vs cappuccino comparison (6.6K diff 4 — SERP: local cafe blog #3, Nescafe brand #5, small coffee blog #6 — all beatable; completes comparison trifecta). DataForSEO spend this pulse: ~$0.160.
+Day 10 of indexing — **71 pages published.** SC: Only 3 pages showing impressions still (ristretto pos 10/2 impressions, milk-steaming-beginners pos 32.17/30 impressions, homepage pos 46/2 impressions) — most content still pending indexing. SC query data shows milk-steaming page gathering multiple query variants ("how to steam milk for espresso", "how to steam milk for flat white", "milk steaming tips"). No organic clicks yet — Day 10 expected. Pulse 23: Added long black coffee (9.9K diff 1 — SERP: drinktrade.com #2, Nescafe #3, Lavazza #4, Reddit #5 — all beatable; vs-americano comparison table for #1 PAA), cortado vs flat white (5.4K diff 1 — AI overview present; angelinos.com #2, Nescafe #3, methodicalcoffee.com #4, houstoniamag.com #5 — all beatable; completes cortado comparison cluster), gibraltar coffee (5.4K diff 0 — AI overview; Medium.com #1, Reddit #2, kaldiscoffee.com #3 — origin story page beatable easily). DataForSEO spend this pulse: ~$0.083 (1x search-volume $0.075 + 3x SERP $0.006 + 0 = ~$0.083).
 
 ## Key Data Points
-- **GA4 Pulse 22:** Sessions Apr 12: 26 (bots — 100% bounce, 0s avg). Apr 11: 87 (bots). Still no organic traffic — Day 9 expected.
-- **Search Console Pulse 22:** 3 pages — ristretto pos 10 (2 impressions), milk-steaming-beginners pos 32.17 (30 impressions), homepage pos 46 (2 impressions). No clicks yet.
-- **DataForSEO spend to date:** ~$2.447 (~$0.160 this pulse: 2x search-volume $0.150 + 5x SERP $0.010)
+- **GA4 Pulse 23:** Sessions Apr 12: 26 (bots — 100% bounce, 0s avg). Apr 11: 87 (bots). Still no organic traffic — Day 10 expected.
+- **Search Console Pulse 23:** 3 pages only — ristretto pos 10 (2 impressions), milk-steaming-beginners pos 32.17 (30 impressions), homepage pos 46 (2 impressions). milk-steaming page has 12 query variants. No new pages indexed yet.
+- **DataForSEO spend to date:** ~$2.530 (~$0.083 this pulse: 1x search-volume $0.075 + 3x SERP $0.006 = ~$0.081 actual)
 - **Pulse 10 keyword research:** espresso tonic 9.9K diff 1 (✅ WRITTEN); cortado vs macchiato 2.9K diff 1 (✅ WRITTEN); cold brew cluster ALL high competition (skipped); latte vs cappuccino 27.1K diff 6 (likely captured by existing cappuccino-vs-latte page)
 - **Pulse 11 keyword research:** flat-white-vs-latte 22.2K/mo diff 5 (✅ WRITTEN); latte-vs-macchiato 6.6K/mo diff 2 (✅ WRITTEN); how-long-do-coffee-beans-last 2.9K/mo diff 8 no featured snippet (✅ WRITTEN); espresso-vs-americano 1.6K/mo diff 1 (✅ WRITTEN); REJECTED: how-to-store-coffee-beans HIGH 89/100, types-of-espresso-machines HIGH 100/100, espresso-tamping HIGH 100/100, single-origin-espresso HIGH 94/100
 
@@ -97,6 +97,9 @@ Day 9 of indexing — **68 pages published.** SC: 3 pages in impressions — ris
 | red eye coffee | 14,800 | 1/100 ULTRA-LOW | /recipes/red-eye-coffee/ | **Published (NEW Pulse 22 — SERP: Reddit #2, foodandwine.com #3, breville.com #4, 787coffee.com #5, sprudge.com #6 — all beatable; covers red eye + black eye + dead eye + shot in dark; also covers "black eye coffee" 1.9K diff 1)** |
 | shaken espresso | 9,900 | 4/100 ULTRA-LOW | /recipes/shaken-espresso/ | **Published (NEW Pulse 22 — SERP: myeverydaytable.com #6, thehumanbean.com #7, americastestkitchen.com #8 — beatable; fills head-term gap vs our brown-sugar-shaken-espresso; covers shakerato technique + aeration science)** |
 | flat white vs cappuccino | 6,600 | 4/100 LOW | /guides/flat-white-vs-cappuccino/ | **Published (NEW Pulse 22 — SERP: chapelstreet.cafe #3 (local blog), nescafe.com #5 (brand), canalcoffeecompany.com #6 (small blog) — all beatable; completes comparison trifecta with flat-white-vs-latte + cappuccino-vs-latte)** |
+| long black coffee | 9,900 | 1/100 ULTRA-LOW | /guides/long-black-coffee/ | **Published (NEW Pulse 23 — SERP: Wikipedia #1, drinktrade.com #2 (blog), Nescafe #3 (brand), Lavazza #4 (brand), Reddit #5, Yelp #6 (not content), YouTube #7 — all #2+ beatable; vs-americano comparison table; covers long black vs short black, how to make, ratio, origin story; captures "long black vs americano" PAA)** |
+| cortado vs flat white | 5,400 | 1/100 ULTRA-LOW | /guides/cortado-vs-flat-white/ | **Published (NEW Pulse 23 — AI overview present; SERP: Reddit #1, angelinos.com #2, Nescafe #3, methodicalcoffee.com #4, houstoniamag.com #5, esquirescoffee.co.uk #6, Facebook #7 — all beatable; 3-way comparison table (cortado/flat white/cappuccino); completes cortado comparison cluster with cortado-vs-macchiato)** |
+| gibraltar coffee | 5,400 | 0/100 ULTRA-LOW | /guides/what-is-gibraltar-coffee/ | **Published (NEW Pulse 23 — AI overview; SERP: Medium.com #1 (!), Reddit #2, kaldiscoffee.com #3 (small brand), Blue Bottle blog #4, clubandresortchef.com #5 — all beatable; Blue Bottle origin story, vs cortado comparison, 4-way comparison table, how to make at home at 130F, Gibraltar glass context)** |
 
 ## Biggest Opportunities Found So Far
 
@@ -374,12 +377,24 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ Committed and pushed (b769ec3) — 65 pages total
 - ✅ SEO skill: Ch2.1 (continue publishing for indexing inventory), Ch4.1 (intent clusters), Ch5.1 (pillar/cluster)
 
-### Pulse 22 (22:00 IDT Apr 11)
-- SC watch: Day 8 — ristretto at position 10 is near click territory; watch for additional pages entering impressions
-- Content: Research remaining ultra-low competition opportunities — "red eye coffee" 14.8K/mo diff 1 (SERP: brand #1, Reddit #2, foodandwine #3), "flat white vs cappuccino" 6.6K diff 4, "shaken espresso" 9.9K diff 4 head term SERP check
-- Also check: "cortado vs flat white" (comparison cluster), "what is a lungo" sub-queries (fan-out from existing lungo recipe)
-- SEO skill: Ch4.2 — review ristretto page for featured snippet optimization (currently at pos 10, near page 1)
-- Consider: "best home coffee gifts" or seasonal gift guide if appropriate for E-E-A-T growth
+### Pulse 22 — DONE (22:00 IDT Apr 12)
+- ✅ SC: 3 pages — ristretto pos 10 (2 impressions), milk-steaming-beginners pos 32.17 (30 impressions), homepage pos 46 (2 impressions). No clicks yet.
+- ✅ WRITTEN: red-eye-coffee (14.8K diff 1), shaken-espresso (9.9K diff 4), flat-white-vs-cappuccino (6.6K diff 4)
+- ✅ DataForSEO: $0.160 this pulse
+
+### Pulse 23 — DONE (06:00 IDT Apr 13)
+- ✅ SC: Same 3 pages — no change since last pulse. milk-steaming has 12 query variants now.
+- ✅ DataForSEO: search-volume batch ($0.075) + 3 SERP checks ($0.006) = ~$0.081 this pulse
+- ✅ WRITTEN: long-black-coffee (9.9K diff 1), cortado-vs-flat-white (5.4K diff 1), what-is-gibraltar-coffee (5.4K diff 0)
+- ✅ REJECTED: "espresso without machine" HIGH 87/100; "lungo vs americano" 590/mo too low; "piccolo latte" 590/mo too low
+- ✅ 71 pages total — committed 06cc682
+
+### Pulse 24 (14:00 IDT Apr 13)
+- **SC watch:** Day 10 — indexing should be accelerating. Watch for first new pages beyond milk-steaming/ristretto/homepage.
+- **Content priorities:** Research "what is a cortado" head term (likely already covered by /recipes/cortado/), "magic coffee" (Australian double ristretto with steamed milk — ~1-2K/mo but ultra-low comp), "bone dry cappuccino" or specialty coffee niche terms, "cold brew vs iced coffee" (separate query intent from our pages? check), "starbucks drinks guide" style query (high volume but brand-dominated SERP)
+- **Better leads:** Explore "espresso drinks guide" cluster sub-queries (listing queries: "types of espresso drinks" was HIGH 84/100 before, but "espresso drinks list" may differ); "how to froth milk without steamer" (manual frothing guide — may be ultra-low); "what is a lungo" in depth (we have a recipe, but no explainer guide)
+- **SEO skill:** Ch4.1 (query fan-out from existing high-performing pages — milk-steaming has 12 variants, expand coverage); Ch7.1 (if ristretto hits 10+ impressions, analyze position trend for optimization decision)
+- **Hypothesis:** Day 10-12 should see more pages enter SC impressions as Google works through the 71-page inventory. Watch for espresso martini (246K), cappuccino-vs-latte (49.5K), affogato (165K) in SC.
 
 ---
 ## New Hypotheses (Pulse 6+)

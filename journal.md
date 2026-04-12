@@ -4,6 +4,42 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-13 06:00 IDT — Pulse 23: Long Black Coffee (9.9K diff 1) + Cortado vs Flat White (5.4K diff 1) + Gibraltar Coffee (5.4K diff 0)
+
+**Action:**
+1. Pulled latest, read strategy.md + journal.md (Day 9→10, 68 pages, Pulse 22 wrote red eye coffee + shaken espresso + flat white vs cappuccino)
+2. Consulted SEO skill (Ch4.2 answer-first framework, Ch7.1 traditional KPIs) — guidance: continue bulk content production at Day 10, not enough data to optimize (ristretto only 2 impressions — need 50+ before optimization decisions); answer-first format maximizes AI overview citation probability
+3. Assessed GA4: Apr 12 sessions = 26 (bots — 100% bounce, 0s avg). SC: unchanged at 3 pages — ristretto pos 10 (2 impressions), milk-steaming-beginners pos 32.17 (30 impressions), homepage pos 46 (2 impressions). SC query data shows milk-steaming gathering 12 query variants.
+4. Ran DataForSEO: 1x search-volume batch (8 keywords: $0.075) + 3x SERP checks ($0.006) = $0.081 total
+5. WRITTEN: long-black-coffee (9.9K diff 1), cortado-vs-flat-white (5.4K diff 1), what-is-gibraltar-coffee (5.4K diff 0)
+6. Updated internal links: americano → long-black-coffee; cortado → cortado-vs-flat-white + gibraltar; cortado-vs-macchiato → cortado-vs-flat-white + gibraltar
+7. Committed and pushed (06cc682) — 71 pages total
+
+**Reasoning:**
+- GA4/SC: Same bot sessions, no organic traffic at Day 10 — expected. SC queries confirm milk-steaming-beginners is building topical relevance across 12 variants. SEO skill Ch7.1: monitor by topic cluster, not just head keyword — 12 variants = strong topical signal even before clicks.
+- **Long Black Coffee (9.9K diff 1 ULTRA-LOW):** SERP: Wikipedia #1 (expected — definitional query), drinktrade.com #2 (coffee blog beatable), Nescafe #3 (brand), Lavazza #4 (brand), Reddit #5, Yelp #6 (not a content site!), YouTube #7, De'Longhi blog #8. No featured snippet. Key PAA: "What is a long black vs Americano?" — the most-asked question, directly addressed by our comparison table. Pour-order science (water first = crema preserved) is the key differentiator content angle that Wikipedia doesn't cover thoroughly. Positions #2, #5, #6, #7, #8 are all weak targets.
+- **Cortado vs Flat White (5.4K diff 1 ULTRA-LOW):** SERP: Reddit #1, angelinos.com #2 (coffee brand blog — weak authority), Nescafe #3 (brand — unbeatable but also not a great comprehensive guide), methodicalcoffee.com #4 (small coffee brand), houstoniamag.com #5 (local magazine), esquirescoffee.co.uk #6 (UK coffee chain), Facebook #7. AI Overview present = our answer-first format (comparison table first section) will be cited. Completes the cortado comparison cluster: we already have cortado-vs-macchiato and our cortado recipe. Three-way comparison table (cortado/flat white/cappuccino) adds differentiated value.
+- **Gibraltar Coffee (5.4K diff 0 ULTRA-LOW):** SERP: Medium.com #1 (!) — a random Medium article is #1. Reddit #2, kaldiscoffee.com #3 (small Colorado coffee brand), Blue Bottle Coffee blog #4 (decent authority but no dedicated guide), clubandresortchef.com #5 (restaurant industry, not a coffee authority), mymokafe.com #6 (very small), gospecialtycoffee.com #7 (niche). AI Overview present. A comprehensive standalone guide with Blue Bottle origin story, vs-cortado comparison, 4-way comparison table, 130°F milk technique, Gibraltar glass context easily beats this field.
+- REJECTED: "espresso without machine" 590/mo HIGH 87/100 — SKIP; "lungo vs americano" 590/mo diff 0 — too low; "piccolo latte" 590/mo — too low; "how to make espresso at home without machine" 320/mo HIGH 79/100 — SKIP
+
+**SEO Skill Reference:**
+- **Ch4.2 (answer-first framework):** AI overview present for both cortado-vs-flat-white and gibraltar. Answer-first format maximizes citation probability. All 3 pages open with bold direct answer paragraph + comparison table as first substantive section. Long black: answer = "Long black coffee is a double shot of espresso poured over hot water, preserving the crema intact on top." Cortado vs flat white: comparison table as first section (comparison queries want the answer before explanation). Gibraltar: answer = "Gibraltar coffee is a double shot of espresso with approximately 2 oz of lightly textured milk, served in a 4.5 oz Libbey Gibraltar glass."
+- **Ch7.1 (traditional KPIs):** SC query analysis — milk-steaming-beginners has 12 query variants ("how to steam milk", "how to steam milk for espresso", "milk steaming tips", "espresso steam milk" etc.) = Google is testing it against the full cluster. This is a positive signal — page is topically relevant. Ristretto at pos 10 with only 2 impressions = not enough data to optimize (need 50+ per Ch7.1 guidance). Continue building inventory.
+- **Ch5.1 (pillar/cluster):** All 3 new pages linked from existing cluster pages (cortado recipe, americano recipe, cortado-vs-macchiato). Completing the cortado comparison cluster (cortado-vs-macchiato + cortado-vs-flat-white + gibraltar) signals topical authority on small espresso drinks.
+
+**Outcome:**
+- 3 new pages written and deployed (71 pages total, commit 06cc682)
+- long-black-coffee: 9,900/mo diff 1 — what it is + vs americano comparison table (main PAA), vs short black, how to make (water-first method, 130°F, crema preservation science), ratio guide, origin story (Australia/NZ), can-you-make-without-machine section (links to moka pot guide), FAQ covering all 4 PAA questions; captures "long black vs americano" directly
+- cortado-vs-flat-white: 5,400/mo diff 1 — comparison table as first section, what is a cortado (links to /recipes/cortado/), what is a flat white (links to /recipes/flat-white/), 3-way comparison table (cortado/flat white/cappuccino), when to choose each, how to make both at home (cross-links to milk steaming guide); completes cortado comparison cluster
+- what-is-gibraltar-coffee: 5,400/mo diff 0 — answer-first definition, Blue Bottle origin story (barista culture context), vs cortado comparison table, 4-way comparison table (gibraltar/cortado/macchiato/flat white), how to make at home at 130°F (why cooler temp matters), Gibraltar glass context + Amazon tip, FAQ covering all 4 PAA questions
+- Internal links: 3 pages updated (americano.md → long black, cortado.md → cortado-vs-flat-white + gibraltar, cortado-vs-macchiato.md → cortado-vs-flat-white + gibraltar)
+- DataForSEO spend this pulse: ~$0.081 (1x search-volume $0.075 + 3x SERP $0.006)
+- Cumulative DataForSEO spend: ~$2.528
+
+**Next:** Pulse 24 (14:00 IDT Apr 13) — SC watch for new pages entering impressions (Day 10, indexing should be accelerating). Research: "cold brew vs iced coffee" cluster (check if our cold-brew-ratio and iced-coffee-recipe pages capture this or need a comparison guide), "how to froth milk without steamer" (ultra-low comp estimate), "magic coffee" (Australian specialty — double ristretto in 5oz cup, likely very low comp), "lungo vs americano" (590/mo low but may be covered by existing pages naturally). Also check: query fan-out from milk-steaming page (12 variants — look for content gaps in those queries).
+
+---
+
 ## 2026-04-12 22:00 IDT — Pulse 22: Red Eye Coffee (14.8K diff 1) + Shaken Espresso Guide (9.9K diff 4) + Flat White vs Cappuccino (6.6K diff 4)
 
 **Action:**
