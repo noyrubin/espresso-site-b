@@ -4,6 +4,42 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-13 14:00 IDT — Pulse 24: Cold Brew vs Iced Coffee (8.1K diff 10) + Vanilla Latte (9.9K diff 10) + Hazelnut Latte (3.6K diff 2)
+
+**Action:**
+1. Pulled latest, read strategy.md + journal.md (Day 10, 71 pages, Pulse 23 wrote long black coffee + cortado vs flat white + gibraltar coffee)
+2. Consulted SEO skill (Ch4.1 query fan-out, Ch4.2 answer-first framework, Ch7.1 traditional KPIs) — guidance: continue bulk content production; SC query fan-out from milk-steaming page (12 variants at positions 45–81) is a positive signal but not actionable at this volume (need 50+ impressions before optimization); measure by topic cluster
+3. Assessed GA4 + SC: Still no organic traffic (GA4 organic empty). SC: 3 pages still — ristretto pos 10 (2 impressions), milk-steaming pos 32.17 (30 impressions, 12+ query variants), homepage pos 46. No new pages indexed — Day 10 expected.
+4. Ran DataForSEO: 2x search-volume batches ($0.150) + 3x SERP checks ($0.006) = $0.156 total
+5. WRITTEN: cold-brew-vs-iced-coffee (8.1K diff 10), vanilla-latte (9.9K diff 10), hazelnut-latte (3.6K diff 2)
+6. Updated internal links: cold-brew-coffee-recipe.md → cold-brew-vs-iced-coffee; cold-brew-ratio.md → cold-brew-vs-iced-coffee; latte.md → vanilla-latte + hazelnut-latte
+7. Committed and pushed (62f5f02) — 74 pages total
+
+**Reasoning:**
+- GA4/SC unchanged from Pulse 23. Day 10 of new site — no organic traffic expected. SEO skill Ch7.1: continue measuring by topic cluster, not just head keywords. milk-steaming's 12 query variants at positions 45–81 indicate Google is testing the page against the full topic cluster — this is a positive topical authority signal even before clicks.
+- **Cold Brew vs Iced Coffee (8.1K diff 10 LOW):** Checked SERP: javacity.com #6 (coffee brand blog), kitchenaid.com #7 (appliance brand — brand page not a coffee guide), dunkindonuts.com #8 (fast food brand). These are all low-quality/non-authoritative content positions. PAA confirms exactly what we cover: "Is cold brew stronger than iced coffee?", "What is healthier?", "Is cold brew better for GERD?", "What are the disadvantages of cold brew?" — all addressed directly. We have strong internal linkability: cold-brew-ratio + cold-brew-coffee-recipe + vanilla-sweet-cream-cold-brew + iced-coffee-recipe all cross-link to this guide. A comparison table (flavor, caffeine, acidity, brew time, cost, shelf life) targets featured snippet extraction per Ch4.2. Also covers flash brew (Japanese iced coffee) as differentiating technique.
+- **Vanilla Latte (9.9K diff 10 LOW):** SERP visible #6-9: realandvibrant.com #7 (small personal food blog), Nespresso #8 (brand page), snacksandsips.com #9 (small blog — "Starbucks Copycat" angle). The Starbucks copycat angle at #9 validates our approach. Our page covers: homemade vanilla syrup recipe (pure extract + vanilla bean variants), hot and iced recipes, Starbucks copycat ratios table (pump counts per cup size), 5 variations (oat milk, lavender vanilla, almond, brown sugar, iced shaken), best syrups to buy. This is substantially better than any of positions #7-9. Also builds the flavored latte cluster: links to/from vanilla-sweet-cream-cold-brew (vanilla + cold brew) and brown-sugar-shaken-espresso (brown sugar vanilla variant).
+- **Hazelnut Latte (3.6K diff 2 ULTRA-LOW):** SERP: position #7 is itch.io (!) — a game hosting platform with an unrelated community post. Reddit #5, Coffee Bean & Tea Leaf brand #6. This is one of our best SERP gaps: 3,600/mo volume with essentially no real content guides in the top results. Our page: hazelnut syrup recipe (hazelnut extract + optional Frangelico), hot + iced methods, ratio table, 4 variations (chocolate hazelnut, oat milk, vanilla hazelnut, hazelnut cold brew, toasted hazelnut), store-bought syrup guide. This completes the flavored latte cluster alongside vanilla latte.
+- REJECTED: "how to froth milk without steamer" — only 10/mo volume at MEDIUM 46/100; "how to froth milk without a frother" — 2.4K diff 25 but lower priority vs these three; "oat milk latte" 1.9K MEDIUM 56/100 — too competitive; "lungo vs americano" 590/mo too low; "piccolo latte" 590/mo too low; "rose latte" 1K diff 12 — low volume for now
+
+**SEO Skill Reference:**
+- **Ch4.1 (keyword intent + query fan-out):** Vanilla latte and hazelnut latte are perfect query fan-out expansions from our latte recipe hub. The pattern: [base drink] → [flavored variations] is a well-established query fan-out in food/drink content. Cold brew vs iced coffee = comparison intent distinct from our existing cold-brew-ratio (ratio intent) and cold-brew-coffee-recipe (recipe intent) — all three are different intent clusters. Ch4.1 guidance: continue building inventory; SC data shows only 3 pages in the indexing window so far — majority of our 74 pages still pending Google's processing.
+- **Ch4.2 (answer-first framework):** Cold brew vs iced coffee: comparison table as first substantive section after the direct answer sentence — maximum extractability for featured snippet. Vanilla latte: opens with direct answer ("a vanilla latte is a shot or two of espresso combined with steamed milk and vanilla syrup — one of the most popular coffee drinks in the world — and making it at home takes about 5 minutes"). Hazelnut latte: direct answer sentence + immediate ingredients list. All pages follow the answer-first pattern for AI overview citation optimization.
+- **Ch7.1 (measurement by topic cluster):** milk-steaming-beginners gathering 12 query variants at positions 45–81 = Google is testing topical coverage. Individual query volumes are sub-threshold but collectively they signal the page is being evaluated against the milk steaming topic cluster. Ch7.1 guidance: don't optimize based on 2-impression data — wait for 50+ before making changes.
+
+**Outcome:**
+- 3 new pages written and deployed (74 pages total, commit 62f5f02)
+- cold-brew-vs-iced-coffee: 8,100/mo diff 10 — comparison table (flavor/caffeine/acidity/time/cost/shelf life), caffeine science (concentrate vs ready-to-drink), acidity pH data, flash brew method, FAQ covering all 4 PAA questions; internal links from cold-brew-coffee-recipe + cold-brew-ratio
+- vanilla-latte: 9,900/mo diff 10 — homemade vanilla syrup recipe (extract + bean variants), hot + iced recipe, Starbucks copycat ratios table, 5 variations, store-bought syrup guide, comprehensive FAQ; internal link from latte.md
+- hazelnut-latte: 3,600/mo diff 2 — hazelnut syrup recipe, hot + iced methods, ratio table, 4 variations (chocolate hazelnut, oat milk, toasted hazelnut), store-bought syrup guide, FAQ; internal link from latte.md
+- Internal links: 3 pages updated (cold-brew-coffee-recipe → cold-brew-vs-iced-coffee; cold-brew-ratio → cold-brew-vs-iced-coffee; latte → vanilla-latte + hazelnut-latte)
+- DataForSEO spend this pulse: ~$0.156 (2x search-volume $0.150 + 3x SERP $0.006)
+- Cumulative DataForSEO spend: ~$2.686
+
+**Next:** Pulse 25 (22:00 IDT Apr 13) — SC watch for any new pages entering impressions (Day 10, end of day). Research: "lavender latte" 4.4K diff 29 (flavored latte cluster — worth SERP check), "pistachio latte" (Starbucks trending drink — check volume), "how to froth milk without a frother" 2.4K diff 25 (milk cluster expansion), "what is lungo" as explainer (we have the recipe but no guide — check volume), "rose latte" 1K diff 12.
+
+---
+
 ## 2026-04-13 06:00 IDT — Pulse 23: Long Black Coffee (9.9K diff 1) + Cortado vs Flat White (5.4K diff 1) + Gibraltar Coffee (5.4K diff 0)
 
 **Action:**
