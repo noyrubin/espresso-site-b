@@ -126,7 +126,7 @@ A standard café latte is 8–12 oz. At home, 8–10 oz is ideal — enough milk
 No steaming needed. Cold milk + ice + espresso = iced latte. The milk won't have microfoam texture, but that's fine for a cold drink.
 
 ### Vanilla Latte
-Add 1–2 pumps of vanilla syrup to the cup before pulling the espresso. Combine with steamed milk as normal. Vanilla softens the coffee bitterness and adds sweetness.
+Add 1–2 pumps of vanilla syrup to the cup before pulling the espresso. Combine with steamed milk as normal. Vanilla softens the coffee bitterness and adds sweetness. See the full [vanilla latte recipe](/recipes/vanilla-latte/) with homemade syrup instructions.
 
 ### Oat Milk Latte
 Use a "barista edition" oat milk (Oatly Barista, Minor Figures) — these are specifically formulated to steam well. Steam the same way as dairy, though the texture will be slightly less creamy. The slightly sweet, nutty flavor of oat milk pairs very well with espresso.
@@ -200,7 +200,7 @@ Start with a well-steamed milk (smooth, glossy, integrated foam). Tilt the cup, 
 
 ---
 
-More milk drink recipes: [Cappuccino](/recipes/cappuccino/) | [Iced Latte](/recipes/iced-latte/) | [Flat White](/recipes/flat-white/) | [Cortado](/recipes/cortado/)
+More milk drink recipes: [Cappuccino](/recipes/cappuccino/) | [Iced Latte](/recipes/iced-latte/) | [Flat White](/recipes/flat-white/) | [Cortado](/recipes/cortado/) | [Vanilla Latte](/recipes/vanilla-latte/) | [Hazelnut Latte](/recipes/hazelnut-latte/)
 
 Need help with steaming? Read our full [milk steaming guide](/guides/milk-steaming-beginners/).
 

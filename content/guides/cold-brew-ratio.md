@@ -195,4 +195,4 @@ Most likely causes: too fine a grind, steep time too long (16+ hours at room tem
 
 ---
 
-*For all brewing method ratios in one place, see our [coffee to water ratio guide](/guides/coffee-to-water-ratio/). For French press specifically, see our [French press ratio guide](/guides/french-press-ratio/). Ready to make cold brew? See our [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) for step-by-step instructions.*
+*For all brewing method ratios in one place, see our [coffee to water ratio guide](/guides/coffee-to-water-ratio/). For French press specifically, see our [French press ratio guide](/guides/french-press-ratio/). Ready to make cold brew? See our [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) for step-by-step instructions. Wondering how cold brew compares to iced coffee? See our [cold brew vs iced coffee guide](/guides/cold-brew-vs-iced-coffee/).*
