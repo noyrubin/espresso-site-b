@@ -4,6 +4,43 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-12 22:00 IDT — Pulse 22: Red Eye Coffee (14.8K diff 1) + Shaken Espresso Guide (9.9K diff 4) + Flat White vs Cappuccino (6.6K diff 4)
+
+**Action:**
+1. Pulled latest, read strategy.md + journal.md (Day 9, 65 pages, Pulse 21 wrote breve coffee + iced americano + cafe au lait)
+2. Consulted SEO skill (Ch4.1 keyword intent + query fan-out, Ch4.2 answer-first framework)
+3. Assessed GA4 + SC data: Apr 12 sessions = 26 bots (100% bounce, 0s duration); Apr 11 = 87 sessions. SC: 3 pages still — ristretto pos 10 (2 impressions), milk-steaming-beginners pos 32.17 (30 impressions), homepage pos 46 (2 impressions). No organic clicks yet — Day 9 normal.
+4. Ran DataForSEO: 2x search-volume batches ($0.150) + 5x SERP checks ($0.010) = $0.160 total
+5. WRITTEN: red-eye-coffee (14.8K diff 1), shaken-espresso (9.9K diff 4), flat-white-vs-cappuccino (6.6K diff 4)
+6. Updated internal links: getting-started pillar → all 3 new pages; brown-sugar-shaken-espresso → shaken-espresso; flat-white-vs-latte → flat-white-vs-cappuccino; cappuccino-vs-latte → flat-white-vs-cappuccino; iced-americano → red-eye-coffee
+7. Committed and pushed (c498e23) — 68 pages total
+
+**Reasoning:**
+- GA4: 26 sessions on Apr 12 are bots. 87 yesterday. Still pre-organic-traffic phase (Day 9). SEO skill Ch4.1 guidance: continue building content inventory during indexing phase.
+- SC: No change from Pulse 21 — ristretto still at pos 10 with only 2 impressions (not enough data to optimize), milk-steaming-beginners holding at pos 32. Stable signals but no new pages indexed yet.
+- **Red Eye Coffee (14.8K diff 1 ULTRA-LOW):** SERP: Reddit #2, foodandwine.com #3 (food/drink authority), breville.com #4 (appliance brand), 787coffee.com #5 (small brand blog), sprudge.com #6 (coffee journalism site). No featured snippet. Strong PAA questions: "What is the difference between black eye and red eye?", "Is a red eye stronger than an Americano?". Guide covers: red eye + black eye + dead eye (shot in dark) in a single comprehensive page — captures "black eye coffee" 1.9K diff 1 as bonus. Caffeine comparison table (espresso vs drip vs red eye vs black eye) is direct featured snippet target per Ch4.2.
+- **Shaken Espresso (9.9K diff 4 ULTRA-LOW):** SERP: Reddit #2/3, breville.com #4, juanvaldezcafeflorida.com #5 (local coffee shop), myeverydaytable.com #6 (personal blog — clearly beatable), thehumanbean.com #7 (chain), americastestkitchen.com #8. We already have brown-sugar-shaken-espresso but no head-term guide. This fills the gap: what IS shaken espresso, the science of shaking (aeration, rapid chilling, dilution control), how to make at home, variations, vs iced latte comparison table, shakerato (Italian original). Internal link from brown-sugar-shaken-espresso to this page creates a natural cluster.
+- **Flat White vs Cappuccino (6.6K diff 4 LOW):** SERP: chapelstreet.cafe #3 (local Melbourne cafe blog), lorespresso.com #4 (Nespresso brand content), nescafe.com #5 (brand), canalcoffeecompany.com #6 (small blog — repeatedly appearing in our SERPs, clearly beatable), sageappliances.com #7 (appliance brand). No featured snippet. This completes the flat white comparison trifecta: flat-white-vs-latte (22.2K ✅), cappuccino-vs-latte (49.5K ✅), flat-white-vs-cappuccino (6.6K ✅). Google rewards sites that thoroughly cover topic clusters — having all three comparison pages signals strong topical authority on milk espresso drinks.
+- REJECTED: "cortado vs flat white" (5.4K diff 1) — deprioritized because we have cortado-vs-macchiato already and this pulse had 3 higher-volume targets; "gibraltar coffee" (5.4K diff 0) — deprioritized due to lower volume vs the three written; "lungo vs americano" (590/mo) — too low; "piccolo latte" (590/mo) — too low.
+
+**SEO Skill Reference:**
+- **Ch4.1 (keyword intent + query fan-out):** Red eye coffee = recipe + informational intent (what is it AND how to make it). Fan-out: red eye → black eye → dead eye (three named variants in one page). Shaken espresso = how-to + what-is intent; the head term is the parent cluster for our brown sugar shaken espresso spoke. Flat white vs cappuccino = pure comparison intent; the "X vs Y" pattern is one of the best featured snippet targets for our niche. Ch4.1 guidance confirmed: continue building inventory vs optimizing at Day 9 — not enough search data to make optimization decisions.
+- **Ch4.2 (answer-first framework):** All three pages open with a bold direct answer sentence. Red eye coffee: "A red eye coffee is a cup of regular drip coffee with one shot of espresso added." Shaken espresso: "Shaken espresso is espresso shots shaken vigorously with ice (and usually a sweetener) in a cocktail shaker..." Flat white vs cappuccino: direct comparison table in first section — the most extractable format for a comparison query. Tables (caffeine comparison, red eye vs americano, shaken vs iced latte, flat white vs cappuccino vs latte) formatted for maximum snippet extraction.
+- **Ch5.1 (pillar/cluster):** All 3 new pages linked from getting-started pillar. Internal linking chain: brown-sugar-shaken-espresso → shaken-espresso (hub → spoke relationship); flat-white-vs-latte + cappuccino-vs-latte → flat-white-vs-cappuccino (completing the comparison cluster); iced-americano → red-eye-coffee (strength-focused iced drink cross-link). Bidirectional links created where relationship is genuine.
+
+**Outcome:**
+- 3 new pages written and deployed (68 pages total, commit c498e23)
+- red-eye-coffee: 14.8K/mo diff 1 — red/black/dead eye guide, caffeine comparison table, iced version recipe, PAA FAQ; Recipe schema; also captures "black eye coffee" 1.9K/mo diff 1
+- shaken-espresso: 9.9K/mo diff 4 — what is it, aeration science, step-by-step recipe, 5 variations (vanilla, hazelnut, cinnamon, espresso shakerato), vs iced latte comparison table, no-shaker alternatives; Recipe schema
+- flat-white-vs-cappuccino: 6.6K/mo diff 4 — direct comparison table, milk texture deep-dive, steaming technique guide, 3-way comparison (flat white/cappuccino/latte), FAQ; completes comparison trifecta
+- Internal links: 5 pages updated (getting-started, brown-sugar-shaken-espresso, flat-white-vs-latte, cappuccino-vs-latte, iced-americano)
+- DataForSEO spend this pulse: $0.160 (2x search-volume $0.150 + 5x SERP $0.010)
+- Cumulative DataForSEO spend: ~$2.447
+
+**Next:** Pulse 23 (06:00 IDT Apr 13) — SC watch for new pages indexing (Day 10). Research: "cortado vs flat white" (5.4K diff 1 — we rejected this pulse, still high value), "gibraltar coffee" (5.4K diff 0 — SERP mix of brand/Reddit/trade blogs, beatable), "lungo vs americano" (590/mo — too low standalone but could be covered within a comparison page), consider "what is long black coffee" (may be covered by existing americano content). Also explore new keyword territory: "how to make espresso without machine" or "espresso substitutes" cluster.
+
+---
+
 ## 2026-04-11 14:00 IDT — Pulse 21: Breve Coffee Guide (22.2K) + Iced Americano Recipe (12.1K) + Café au Lait Guide (60.5K)
 
 **Action:**
