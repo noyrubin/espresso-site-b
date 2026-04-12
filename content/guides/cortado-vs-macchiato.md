@@ -174,6 +174,8 @@ Technically yes — you can use a handheld frother or a French press to foam mil
 
 - [Cortado Recipe](/recipes/cortado/) — Full cortado preparation guide
 - [What Is a Macchiato?](/guides/what-is-a-macchiato/) — All three types (espresso, latte, and caramel macchiato) explained
+- [Cortado vs Flat White](/guides/cortado-vs-flat-white/) — How the cortado compares to the Antipodean milk drink
+- [Gibraltar Coffee](/guides/what-is-gibraltar-coffee/) — The San Francisco specialty coffee take on the cortado
 - [Cappuccino vs Latte](/guides/cappuccino-vs-latte/) — Another key comparison in the espresso drink spectrum
 - [Flat White Recipe](/recipes/flat-white/) — The cortado's closest relative
 - [How to Steam Milk for Beginners](/guides/milk-steaming-beginners/) — Essential technique for both drinks

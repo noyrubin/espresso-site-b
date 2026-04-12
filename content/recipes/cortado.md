@@ -84,4 +84,4 @@ The cortado sits between a macchiato (barely any milk) and a flat white (more mi
 
 For more espresso drink recipes, browse our [recipe collection](/recipes/). If you are still setting up your home espresso station, start with our [getting started guide](/guides/getting-started/).
 
-Wondering how a cortado compares to similar small espresso drinks? See our [cortado vs macchiato comparison](/guides/cortado-vs-macchiato/) for a full side-by-side breakdown.
+Wondering how a cortado compares to similar small espresso drinks? See our [cortado vs macchiato comparison](/guides/cortado-vs-macchiato/) for a full side-by-side breakdown. For the comparison with another popular small milk drink, see [Cortado vs Flat White](/guides/cortado-vs-flat-white/). Love the cortado format but interested in the San Francisco specialty coffee spin on it? Read about [Gibraltar Coffee](/guides/what-is-gibraltar-coffee/) — it's essentially a cortado served in a specific glass with a subtle milk technique twist.
