@@ -173,3 +173,5 @@ Once you can consistently produce smooth, glossy microfoam:
 For the complete beginner setup, see our [getting started with home espresso guide](/guides/getting-started/).
 
 *Tip: If you want to try steaming half-and-half instead of milk, read our [breve coffee guide](/guides/what-is-breve-coffee/) for the key technique differences (lower temperature, denser foam).*
+
+*Don't have a steam wand yet? See our guide to [frothing milk without a frother](/guides/how-to-froth-milk-without-frother/) — four methods ranked by foam quality.*
