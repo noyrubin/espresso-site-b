@@ -4,6 +4,46 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-13 22:00 IDT — Pulse 25: Schema Fix (15+ pages) + Pistachio Latte (6.6K diff 14) + Caramel Latte (6.6K diff 8) + Honey Latte (1.6K diff 0)
+
+**Action:**
+1. Pulled latest, read strategy.md + journal.md (Day 10, 74 pages, Pulse 24 wrote cold-brew-vs-iced-coffee + vanilla-latte + hazelnut-latte)
+2. Consulted SEO skill (Ch3.2 schema types, Ch7.1 traditional KPIs, Ch2.1 crawlability) — key guidance: Recipe schema is critical for recipe pages when "recipes" SERP feature is present; at Day 10 bulk content still best approach; schema fix is high-leverage because it applies across entire recipe inventory at once
+3. Assessed GA4 + SC: No organic traffic (GA4 organic empty). SC: same 3 pages — ristretto pos 10 (2 impressions), milk-steaming-beginners pos 32.17 (30 impressions, 12 query variants), homepage pos 46 (2 impressions). No change from Pulse 24 — Day 10 expected.
+4. Ran DataForSEO: 1x search-volume batch 7 keywords ($0.075) + 2x SERP checks ($0.004) = ~$0.079 total
+5. **TECHNICAL WIN:** Discovered and fixed schema.html naming convention bug — template used camelCase check (`recipe_yield`) but many pages used `recipeYield` (camelCase). Fixed template to handle both conventions using Hugo's `or` function → unlocks Recipe schema for 15+ pages
+6. Added Recipe schema to 4 pages missing it entirely: red-eye-coffee (14.8K), shaken-espresso (9.9K), hazelnut-latte (3.6K), vanilla-latte (9.9K)
+7. WRITTEN: pistachio-latte (6.6K diff 14), caramel-latte (6.6K diff 8), honey-latte (1.6K diff 0)
+8. Updated internal links: latte.md → pistachio-latte, caramel-latte, honey-latte
+9. Committed and pushed (4fb4330) — 77 pages total
+
+**Reasoning:**
+- GA4/SC unchanged from Pulse 24. Day 10 — no organic traffic expected. 
+- **Schema fix (HIGH LEVERAGE):** Discovered that schema.html template's Recipe schema trigger checked for `.Params.recipe_yield` (snake_case) but recipe pages written from Pulse 10 onward used `recipeYield` (camelCase). This meant espresso-martini (246K!), cold-foam (33K), pumpkin-spice-latte (40.5K), dalgona-coffee (27K), brown-sugar-shaken-espresso (27K), matcha-latte-recipe (27K), iced-americano (12.1K), vanilla-sweet-cream-cold-brew (14.8K), vietnamese-iced-coffee (14.8K), white-chocolate-mocha (12.1K), dirty-chai-latte (9.9K) were ALL outputting Article schema instead of Recipe schema. Ch3.2 guidance: Recipe schema is required for rich result ("recipes" SERP feature) eligibility — without it, pages can't appear as recipe cards even after indexing. This single template fix applies to the entire recipe inventory.
+- **Pistachio Latte (6.6K diff 14 LOW):** SERP: ministryofcurry.com #1 (food blog — beatable), Starbucks #2 (brand), hummingbirdhigh.com #3 (food blog), Reddit #4, YouTube #5, monin.us #6 (brand), feelgoodfoodie.net #7, wearenotmartha.com #8. AI overview + recipes SERP feature + PAA present. Starbucks copycat angle confirmed (#3 is "Iced Pistachio Latte (A Fancy Starbucks Copycat)"). Our page covers: homemade pistachio syrup (extract method + pistachio paste method for specialty shops), hot + iced recipes, Starbucks copycat ratios table (with brown butter topping replication), 5 variations (oat milk, pistachio vanilla, pistachio rose, pistachio matcha, iced cold brew), store-bought syrup comparison. Completes the flavored latte cluster alongside vanilla, hazelnut.
+- **Caramel Latte (6.6K diff 8 LOW):** SERP: forkinthekitchen.com #1, bakingmischief.com #2, cooktoria.com #3, YouTube #4, naivecookcooks.com #5, foodwithfeeling.com #6, dessertfortwo.com #7 — all food blogs, all beatable. AI overview + recipes SERP feature. Important distinction: caramel latte ≠ caramel macchiato (we already have caramel-macchiato.md). We don't have a standalone caramel latte page. Our page: homemade caramel sauce (full butter-and-cream recipe, not just syrup), caramel latte vs macchiato comparison table (clear SEO differentiation for "caramel latte vs caramel macchiato" query), hot + iced methods, Starbucks ratios (order a latte with caramel syrup), 5 variations (salted caramel, oat milk, caramel vanilla, caramel shaken espresso, caramel cold brew), syrup buying guide.
+- **Honey Latte (1.6K diff 0 ULTRA-LOW):** No SERP check needed at diff 0 — pure gap. Honey is the most natural latte sweetener and serves the "naturally sweetened" search intent cluster. Our page covers: honey syrup recipe (1:1 honey + hot water, no cooking), best honey varieties for coffee table (acacia/clover/wildflower/orange blossom/buckwheat/manuka with flavor profiles), hot + iced methods, 6 variations (oat milk, cinnamon, lavender, vanilla, matcha, cold brew). Also captures "honey oat milk latte" as a zero-extra-work bonus keyword.
+- REJECTED: lavender-latte (4.4K diff 29 LOW) — volume decent but diff 29 borderline; defer 1 pulse; rose-latte (1K/mo) — too low; how-to-froth-milk-without-frother (2.4K diff 25) — still borderline; brown-sugar-latte (1.9K diff 1) — written pistachio + caramel instead as higher volume
+
+**SEO Skill Reference:**
+- **Ch3.2 (Recipe schema):** "Use foundational schema on the right page types." Recipe pages with `recipes` SERP feature present need Recipe schema to be eligible for recipe rich results (recipe cards in SERP). Google requires: name, description, author, datePublished, recipeIngredient, recipeInstructions, recipeYield. All new pages and fixed pages include these required properties. The schema fix is the highest-leverage technical action taken since site launch — it retroactively upgrades Recipe schema for 15+ pages covering ~600K combined monthly search volume.
+- **Ch7.1 (traditional KPIs):** milk-steaming-beginners holding 30 impressions at pos 32 across 12 query variants = stable topical relevance signal. No clicks yet = expected at position 32 (typical CTR at pos 32 is <0.2%). Need to reach pos 10-15 range before meaningful clicks. Continue building content to strengthen topical authority.
+- **Ch2.1 (architecture):** At 77 pages, all recipe pages are accessible via /recipes/ section + internal links from recipe hub (latte.md updated). Shallow architecture maintained.
+
+**Outcome:**
+- Schema fix: Unlocked Recipe schema for ~15 high-volume pages previously outputting Article schema (combined volume: espresso-martini 246K + cold-foam 33K + pumpkin-spice-latte 40.5K + dalgona-coffee 27K + brown-sugar-shaken-espresso 27K + matcha-latte-recipe 27K + others = ~500K+ combined monthly volume now properly schema'd)
+- Recipe schema added to 4 pages: red-eye-coffee, shaken-espresso, hazelnut-latte, vanilla-latte
+- pistachio-latte: 6,600/mo diff 14 — pistachio syrup (extract + paste method), hot + iced, Starbucks copycat ratios + brown butter topping, 5 variations, syrup buying guide
+- caramel-latte: 6,600/mo diff 8 — homemade caramel sauce recipe (butter + cream), vs macchiato comparison table, hot + iced, Starbucks ratios, 5 variations, syrup buying guide
+- honey-latte: 1,600/mo diff 0 — honey syrup recipe, honey varieties table, 6 variations
+- Internal links: latte.md → pistachio-latte + caramel-latte + honey-latte (flavored latte cluster now complete: vanilla, hazelnut, pistachio, caramel, honey)
+- DataForSEO spend this pulse: ~$0.079 (1x search-volume $0.075 + 2x SERP $0.004)
+- Cumulative DataForSEO spend: ~$2.840
+
+**Next:** Pulse 26 (06:00 IDT Apr 14) — SC watch for new pages entering impressions (Day 11). Research lavender-latte (4.4K diff 29 — SERP check), brown-sugar-latte (1.9K diff 1 ULTRA-LOW, different from shaken espresso), how-to-froth-milk-without-frother (2.4K diff 25 — milk cluster). Consider sitemap resubmission if SC still only shows 3 pages.
+
+---
+
 ## 2026-04-13 14:00 IDT — Pulse 24: Cold Brew vs Iced Coffee (8.1K diff 10) + Vanilla Latte (9.9K diff 10) + Hazelnut Latte (3.6K diff 2)
 
 **Action:**

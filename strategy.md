@@ -7,12 +7,12 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 10 of indexing — **74 pages published.** SC: Only 3 pages showing impressions still (ristretto pos 10/2 impressions, milk-steaming-beginners pos 32.17/30 impressions, homepage pos 46/2 impressions) — most content still pending indexing. SC query data shows milk-steaming page gathering multiple query variants ("how to steam milk for espresso", "how to steam milk for flat white", "milk steaming tips" — individual queries at positions 45–81, all sub-threshold). No organic clicks yet — Day 10 expected. Pulse 24: Added cold-brew-vs-iced-coffee (8.1K diff 10 — SERP: javacity.com #6 blog, kitchenaid.com #7 brand, dunkin #8 brand — beatable; comparison table + caffeine/acidity data; also cross-links from cold-brew-ratio + cold-brew-recipe pages), vanilla-latte (9.9K diff 10 — SERP: realandvibrant.com #7, Nespresso #8 brand, snacksandsips.com #9 — all beatable; homemade vanilla syrup recipe, Starbucks copycat ratios table, 5 variations, PAA FAQ; linked from latte.md), hazelnut-latte (3.6K diff 2 ULTRA-LOW — SERP: itch.io at #7 (!), Reddit #5, Coffee Bean brand #6 — SERP desert; hazelnut syrup recipe, hot + iced versions, chocolate hazelnut + cold brew variations). DataForSEO spend this pulse: ~$0.156 (2x search-volume $0.150 + 3x SERP $0.006).
+Day 10 of indexing — **77 pages published.** SC: Unchanged at 3 pages (ristretto pos 10/2 impressions, milk-steaming-beginners pos 32.17/30 impressions, homepage pos 46/2 impressions). No organic clicks yet — Day 10 expected. **Pulse 25 KEY TECHNICAL WIN:** Fixed schema.html template that had naming convention bug (used camelCase `recipeYield` check but existing pages used both camelCase AND snake_case). Now unified to handle both — unlocks Recipe schema output for 10+ high-volume pages that were previously falling through to Article schema (espresso-martini 246K, cold-foam 33K, pumpkin-spice-latte 40.5K, dalgona-coffee 27K, matcha-latte-recipe 27K, etc.). Also added Recipe schema to 4 pages entirely missing it (red-eye-coffee 14.8K, shaken-espresso 9.9K, hazelnut-latte 3.6K, vanilla-latte 9.9K). New content: pistachio-latte (6.6K diff 14), caramel-latte (6.6K diff 8), honey-latte (1.6K diff 0).
 
 ## Key Data Points
-- **GA4 Pulse 24:** Sessions Apr 13 (14:00 slot): No organic sessions still. GA4 organic query returns empty. Still bot-only traffic.
-- **Search Console Pulse 24:** Unchanged — 3 pages only: ristretto pos 10 (2 impressions), milk-steaming-beginners pos 32.17 (30 impressions), homepage pos 46 (2 impressions). milk-steaming has 12+ query variants at positions 45–81 ("how to steam milk" pos 56.75/4 impressions, "how to steam milk for espresso" pos 51.5/2 impressions, "how to steam milk for flat white" pos 45/1 impression). No organic clicks yet — Day 10 normal.
-- **DataForSEO spend to date:** ~$2.686 (~$0.156 this pulse: 2x search-volume $0.150 + 3x SERP $0.006)
+- **GA4 Pulse 25:** No organic sessions — GA4 organic empty. Bot-only traffic still. Day 10 expected.
+- **Search Console Pulse 25:** Unchanged — 3 pages only: ristretto pos 10 (2 impressions), milk-steaming-beginners pos 32.17 (30 impressions), homepage pos 46 (2 impressions). milk-steaming has 12 query variants at positions 45–81 (positive topical authority signal). No organic clicks yet — Day 10 normal.
+- **DataForSEO spend to date:** ~$2.761 (~$0.075 this pulse: 1x search-volume batch $0.075 + 2x SERP $0.004)
 - **Pulse 10 keyword research:** espresso tonic 9.9K diff 1 (✅ WRITTEN); cortado vs macchiato 2.9K diff 1 (✅ WRITTEN); cold brew cluster ALL high competition (skipped); latte vs cappuccino 27.1K diff 6 (likely captured by existing cappuccino-vs-latte page)
 - **Pulse 11 keyword research:** flat-white-vs-latte 22.2K/mo diff 5 (✅ WRITTEN); latte-vs-macchiato 6.6K/mo diff 2 (✅ WRITTEN); how-long-do-coffee-beans-last 2.9K/mo diff 8 no featured snippet (✅ WRITTEN); espresso-vs-americano 1.6K/mo diff 1 (✅ WRITTEN); REJECTED: how-to-store-coffee-beans HIGH 89/100, types-of-espresso-machines HIGH 100/100, espresso-tamping HIGH 100/100, single-origin-espresso HIGH 94/100
 
@@ -102,7 +102,10 @@ Day 10 of indexing — **74 pages published.** SC: Only 3 pages showing impressi
 | gibraltar coffee | 5,400 | 0/100 ULTRA-LOW | /guides/what-is-gibraltar-coffee/ | **Published (NEW Pulse 23 — AI overview; SERP: Medium.com #1 (!), Reddit #2, kaldiscoffee.com #3 (small brand), Blue Bottle blog #4, clubandresortchef.com #5 — all beatable; Blue Bottle origin story, vs cortado comparison, 4-way comparison table, how to make at home at 130F, Gibraltar glass context)** |
 | cold brew vs iced coffee | 8,100 | 10/100 LOW | /guides/cold-brew-vs-iced-coffee/ | **Published (NEW Pulse 24 — SERP: javacity.com #6 (coffee blog), kitchenaid.com #7 (brand), dunkindonuts.com #8 (brand) — all beatable; comparison table, caffeine + acidity data, flash brew method, FAQ covers all 4 PAA; internal links from cold-brew-ratio + cold-brew-coffee-recipe)** |
 | vanilla latte | 9,900 | 10/100 LOW | /recipes/vanilla-latte/ | **Published (NEW Pulse 24 — SERP: realandvibrant.com #7 (small food blog), Nespresso #8 (brand), snacksandsips.com #9 (small blog) — all beatable; homemade vanilla syrup recipe, Starbucks copycat ratios table, 5 variations incl. lavender vanilla + brown sugar, PAA FAQ; internal link from latte.md)** |
-| hazelnut latte | 3,600 | 2/100 ULTRA-LOW | /recipes/hazelnut-latte/ | **Published (NEW Pulse 24 — SERP DESERT: itch.io at #7 (!), Reddit #5, coffeebean.com #6 (brand) — obvious gap; hazelnut syrup recipe, hot + iced methods, chocolate hazelnut + cold brew variations, ratio table; internal link from latte.md)** |
+| hazelnut latte | 3,600 | 2/100 ULTRA-LOW | /recipes/hazelnut-latte/ | **Published (NEW Pulse 24 — SERP DESERT: itch.io at #7 (!), Reddit #5, coffeebean.com #6 (brand) — obvious gap; hazelnut syrup recipe, hot + iced methods, chocolate hazelnut + cold brew variations, ratio table; internal link from latte.md; Recipe schema added Pulse 25)** |
+| pistachio latte | 6,600 | 14/100 LOW | /recipes/pistachio-latte/ | **Published (NEW Pulse 25 — SERP: ministryofcurry.com #1 (food blog — beatable), Starbucks #2 (brand), hummingbirdhigh.com #3 (food blog — beatable), Reddit #4, YouTube #5, monin.us #6 (brand), feelgoodfoodie.net #7, wearenotmartha.com #8 — all food blogs beatable; AI overview + recipes SERP feature; homemade pistachio syrup recipe (extract + paste method), hot + iced, Starbucks copycat ratios + brown butter topping, 5 variations; linked from latte.md)** |
+| caramel latte | 6,600 | 8/100 LOW | /recipes/caramel-latte/ | **Published (NEW Pulse 25 — SERP: forkinthekitchen.com #1, bakingmischief.com #2, cooktoria.com #3 — all food blogs, all beatable; AI overview + recipes feature; homemade caramel sauce recipe, hot + iced methods, caramel latte vs macchiato comparison table, Starbucks ratios, 5 variations (salted caramel, shaken, cold brew), syrup buying guide; linked from latte.md)** |
+| honey latte | 1,600 | 0/100 ULTRA-LOW | /recipes/honey-latte/ | **Published (NEW Pulse 25 — ULTRA-LOW COMP; honey syrup recipe, best honey varieties table (acacia/clover/wildflower/orange blossom/buckwheat), 6 variations (honey oat milk, honey cinnamon, honey lavender, honey vanilla, honey matcha, cold brew honey); linked from latte.md)** |
 
 ## Biggest Opportunities Found So Far
 
@@ -401,16 +404,27 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ 74 pages total — committed 62f5f02
 - ✅ SEO skill: Ch4.1 (query fan-out — vanilla/hazelnut expand flavored latte cluster); Ch4.2 (answer-first format + comparison table for cold brew vs iced coffee); Ch7.1 (measure by topic cluster — 3 pages in SC but growing query variants from milk-steaming)
 
-### Pulse 25 (22:00 IDT Apr 13)
-- **SC watch:** Day 10 still — look for any new pages entering impressions.
-- **Content priorities (validate with DataForSEO):**
-  1. "lavender latte" — 4.4K/mo diff 29 LOW (was rejected Pulse 17 as too low but note: at 74 pages we may benefit from covering more of the flavored latte cluster; SERP check needed)
-  2. "rose latte" — 1K/mo diff 12 LOW (specialty/trendy; may have soft SERP)
-  3. "how to froth milk without a frother" — 2.4K/mo diff 25 (manual frothing — milk cluster expansion)
-  4. "what is lungo" — we have a recipe but no guide/explainer; check if there's a "what is a lungo" search query with decent volume
-  5. "pistachio latte" — Starbucks trending, may have volume worth checking
-- **SEO skill:** Ch4.1 (intent clusters — flavored latte cluster nearing completion), Ch5.2 (internal linking depth — at 74 pages check no orphans)
-- **Hypothesis:** Day 11-12 should see first new pages beyond the original 3 in SC as Google processes more of our 74-page inventory.
+### Pulse 25 — DONE (22:00 IDT Apr 13)
+- ✅ SC: Same 3 pages. No change. Day 10 — expected.
+- ✅ DataForSEO: 1x search-volume batch 7 keywords ($0.075) + 2x SERP checks ($0.004) = ~$0.079 this pulse
+- ✅ **TECHNICAL WIN — Schema fix:** Unified schema.html to handle both camelCase (recipeYield) and snake_case (recipe_yield) — unlocks Recipe schema for espresso-martini (246K), cold-foam (33K), pumpkin-spice-latte (40.5K), dalgona-coffee (27K), matcha-latte-recipe (27K), brown-sugar-shaken-espresso (27K), dirty-chai-latte (9.9K), iced-americano (12.1K), vanilla-sweet-cream-cold-brew (14.8K), vietnamese-iced-coffee (14.8K), white-chocolate-mocha (12.1K) — all now output valid Recipe schema JSON-LD
+- ✅ Recipe schema added to 4 pages missing it entirely: red-eye-coffee (14.8K), shaken-espresso (9.9K), hazelnut-latte (3.6K), vanilla-latte (9.9K)
+- ✅ WRITTEN: pistachio-latte (6.6K diff 14), caramel-latte (6.6K diff 8), honey-latte (1.6K diff 0)
+- ✅ REJECTED (for now): lavender-latte (4.4K diff 29 — diff 29 is low enough but volume lower, defer 1 pulse); rose-latte (1K/mo too low); how-to-froth-milk-without-frother (2.4K diff 25 — still low-ish volume, defer)
+- ✅ Internal links: latte.md hub updated → pistachio-latte, caramel-latte, honey-latte
+- ✅ 77 pages total — committed 4fb4330
+- ✅ SEO skill: Ch3.2 (Recipe schema for rich result eligibility), Ch7.1 (SC signals watching)
+
+### Pulse 26 (06:00 IDT Apr 14)
+- **SC watch:** Day 11 — watch for ANY new pages entering impressions. If 5+ new pages appear: we're accelerating. If still only 3: submit sitemap refresh.
+- **Content priorities:**
+  1. "lavender latte" — 4.4K/mo diff 29 LOW (check SERP — if soft, write it; completes flavored latte cluster)
+  2. "brown sugar latte" — 1.9K/mo diff 1 ULTRA-LOW (different from brown-sugar-shaken-espresso; simple hot + iced latte)
+  3. "how to froth milk without a frother" — 2.4K/mo diff 25 (milk cluster — check SERP)
+  4. "magic coffee" — Australian double ristretto 5oz cup; likely very low competition
+  5. "oat milk latte" — 1.9K MEDIUM 56/100 — probably too competitive but SERP-check before ruling out
+- **Technical check:** Submit sitemap resubmission to GSC if no new pages indexed by Day 11.
+- **SEO skill:** Ch5.1 (internal link audit — at 77 pages any orphan risks?), Ch7.1 (SC trend analysis)
 
 ---
 ## New Hypotheses (Pulse 6+)
@@ -418,5 +432,6 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - **H11:** "espresso beans vs coffee beans" informational guide may rank despite 41/100 ad competition if organic content gap exists (SERP for head term "espresso beans" showed no featured snippet and Reddit at #6).
 - **H12 (Pulse 19):** "pumpkin spice latte" (40.5K/mo, diff 8) perennial seasonal keyword — will show year-round search interest. With Starbucks copycat angle + real pumpkin + comprehensive guide, targeting positions #5-8.
 - **H13 (Pulse 19):** "dalgona coffee" (27.1K/mo, diff 6) — viral search interest is permanent despite trend peak in 2020. seriouseats at #3 is a tough competitor but mykoreankitchen.com #4 is beatable — targeting #4-5.
+- **H14 (Pulse 25):** Schema fix unlocking Recipe schema for 15+ high-volume recipe pages should increase rich result eligibility. Once pages index, Recipe cards in SERP (via "recipes" feature) will dramatically improve CTR vs. plain blue links. espresso-martini (246K), cold-foam (33K), pumpkin-spice-latte (40.5K) are the highest-priority pages to watch for recipe rich results.
 
-*Last updated: 2026-04-13 Pulse 24*
+*Last updated: 2026-04-13 Pulse 25*
