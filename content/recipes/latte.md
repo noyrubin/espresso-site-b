@@ -200,7 +200,7 @@ Start with a well-steamed milk (smooth, glossy, integrated foam). Tilt the cup, 
 
 ---
 
-More milk drink recipes: [Cappuccino](/recipes/cappuccino/) | [Iced Latte](/recipes/iced-latte/) | [Flat White](/recipes/flat-white/) | [Cortado](/recipes/cortado/) | [Vanilla Latte](/recipes/vanilla-latte/) | [Hazelnut Latte](/recipes/hazelnut-latte/) | [Pistachio Latte](/recipes/pistachio-latte/) | [Caramel Latte](/recipes/caramel-latte/) | [Honey Latte](/recipes/honey-latte/)
+More milk drink recipes: [Cappuccino](/recipes/cappuccino/) | [Iced Latte](/recipes/iced-latte/) | [Flat White](/recipes/flat-white/) | [Cortado](/recipes/cortado/) | [Vanilla Latte](/recipes/vanilla-latte/) | [Hazelnut Latte](/recipes/hazelnut-latte/) | [Pistachio Latte](/recipes/pistachio-latte/) | [Caramel Latte](/recipes/caramel-latte/) | [Honey Latte](/recipes/honey-latte/) | [Lavender Latte](/recipes/lavender-latte/) | [Cinnamon Dolce Latte](/recipes/cinnamon-dolce-latte/) | [Brown Sugar Latte](/recipes/brown-sugar-latte/)
 
 Need help with steaming? Read our full [milk steaming guide](/guides/milk-steaming-beginners/).
 
