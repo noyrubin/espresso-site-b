@@ -7,12 +7,12 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 11 of indexing — **80 pages published.** SC: Slight positive movement — milk-steaming-beginners improved to pos 29.9 (was 32.17) with 33 impressions (was 30). Still only 3 pages indexed but movement is positive. **Sitemap resubmitted Pulse 26** to prompt Googlebot to crawl the 77 new pages still pending indexing. New content: cinnamon-dolce-latte (5.4K diff 8), lavender-latte (4.4K diff 29), brown-sugar-latte (1.9K diff 1). Flavored latte cluster now 8 pages strong (vanilla, hazelnut, pistachio, caramel, honey, lavender, cinnamon dolce, brown sugar).
+Day 11 of indexing — **82 pages published.** SC: No change from Pulse 26 — still only 3 pages indexed (milk-steaming-beginners pos 29.9 / 33 impressions, ristretto pos 10 / 2 impressions, homepage pos 44 / 3 impressions). Sitemap resubmitted Pulse 26; indexing acceleration expected Day 12-14. **Pulse 27 additions:** butter-coffee (4.4K diff 18), how-to-froth-milk-without-frother (2.4K diff 25), **E-E-A-T upgrade to about.md** (Ch4.3: named author bio, editorial methodology, firsthand experience claims, contact info). Milk cluster now: milk-steaming-beginners → how-to-froth-milk-without-frother (bidirectional).
 
 ## Key Data Points
-- **GA4 Pulse 26:** No organic sessions — GA4 organic empty. Bot-only traffic. Day 11 expected.
-- **Search Console Pulse 26:** milk-steaming-beginners pos 29.9 (↑ from 32.17) / 33 impressions (↑ from 30). ristretto pos 10 / 2 impressions. homepage pos 44 / 3 impressions (↑ from 2). Positive movement on milk-steaming is a ranking signal.
-- **DataForSEO spend to date:** ~$2.915 (~$0.154 this pulse: 2x search-volume batches $0.150 + 2x SERP $0.004)
+- **GA4 Pulse 27:** No organic sessions — GA4 organic empty. Day 11 expected.
+- **Search Console Pulse 27:** milk-steaming-beginners pos 29.9 / 33 impressions (same as Pulse 26). ristretto pos 10 / 2 impressions. homepage pos 44 / 3 impressions. No new pages indexed yet (sitemap resubmitted last pulse, crawl queue takes days).
+- **DataForSEO spend to date:** ~$3.223 (~$0.154 this pulse: 2x search-volume batches $0.150 + 2x SERP $0.004)
 - **Pulse 10 keyword research:** espresso tonic 9.9K diff 1 (✅ WRITTEN); cortado vs macchiato 2.9K diff 1 (✅ WRITTEN); cold brew cluster ALL high competition (skipped); latte vs cappuccino 27.1K diff 6 (likely captured by existing cappuccino-vs-latte page)
 - **Pulse 11 keyword research:** flat-white-vs-latte 22.2K/mo diff 5 (✅ WRITTEN); latte-vs-macchiato 6.6K/mo diff 2 (✅ WRITTEN); how-long-do-coffee-beans-last 2.9K/mo diff 8 no featured snippet (✅ WRITTEN); espresso-vs-americano 1.6K/mo diff 1 (✅ WRITTEN); REJECTED: how-to-store-coffee-beans HIGH 89/100, types-of-espresso-machines HIGH 100/100, espresso-tamping HIGH 100/100, single-origin-espresso HIGH 94/100
 
@@ -109,6 +109,8 @@ Day 11 of indexing — **80 pages published.** SC: Slight positive movement — 
 | cinnamon dolce latte | 5,400 | 8/100 ULTRA-LOW | /recipes/cinnamon-dolce-latte/ | **Published (NEW Pulse 26 — SERP: Reddit #2, thegirlonbloor.com #3, diethood.com #4, smells-like-home.com #5 all beatable food blogs; no featured snippet; AI overview; PAA includes Taylor Swift's Starbucks order; homemade cinnamon dolce syrup (brown sugar+cinnamon+vanilla), hot+iced, Starbucks copycat ratios table, 5 variations; linked from latte.md)** |
 | lavender latte | 4,400 | 29/100 LOW | /recipes/lavender-latte/ | **Published (NEW Pulse 26 — SERP: gimmesomeoven.com #2 (strong food blog), Starbucks #3 (brand), monicanedeff.com #5 (small blog), coffeecopycat.com #8; Starbucks added to permanent menu 2024; culinary lavender sourcing guide, lavender syrup (steep warning), hot+iced, Starbucks Blonde Espresso copycat ratios table, 5 variations incl. lavender honey + lavender cold foam; linked from latte.md)** |
 | brown sugar latte | 1,900 | 1/100 ULTRA-LOW | /recipes/brown-sugar-latte/ | **Published (NEW Pulse 26 — ULTRA-LOW COMP; distinction table vs brown-sugar-shaken-espresso (hot/steamed vs cold/shaken); brown sugar syrup recipe (light vs dark brown sugar), hot+iced, 5 variations; linked from latte.md; cross-links brown-sugar-shaken-espresso)** |
+| butter coffee / bulletproof coffee | 4,400 | 18/100 LOW | /guides/butter-coffee/ | **Published (NEW Pulse 27 — SERP: Buzzfeed #1 (old 2016), Healthline #2, Reddit #3, somedayilllearn.com #4 (small blog BEATABLE), tasteaholics.com #6 (keto blog BEATABLE); no featured snippet; AI overview; covers MCT oil science, grassfed butter table, espresso version, keto variations, honest health claims review, FAQ with PAA)** |
+| how to froth milk without frother | 2,400 | 25/100 LOW | /guides/how-to-froth-milk-without-frother/ | **Published (NEW Pulse 27 — extends milk cluster; 4 methods: mason jar (shake), French press (pump), whisk, blender; milk comparison table; cold foam section; troubleshooting; frother upgrade table; links to milk-steaming-beginners + cold-foam)** |
 
 ## Biggest Opportunities Found So Far
 
@@ -158,7 +160,7 @@ Day 11 of indexing — **80 pages published.** SC: Slight positive movement — 
 ### In Progress
 *(none currently)*
 
-### Published (80 pages)
+### Published (82 pages)
 - **Pillar:** /guides/getting-started/
 - **Recipes cluster (38):** cortado, americano, flat-white, cappuccino, latte, iced-latte, lungo, ristretto, affogato, espresso-con-panna, caramel-macchiato (Pulse 9 — 74K/mo), mocha (Pulse 9 — 24.2K cluster), espresso-tonic (Pulse 10 — 9.9K/mo diff 1), cold-brew-coffee-recipe (Pulse 15 — 18.1K/mo diff 23), cold-foam (Pulse 16 — 33.1K/mo diff 8 ULTRA-LOW), vietnamese-iced-coffee (Pulse 16 — 14.8K/mo diff 6 ULTRA-LOW), brown-sugar-shaken-espresso (Pulse 17 — 27.1K/mo diff 3 ULTRA-LOW), dirty-chai-latte (Pulse 17 — 9.9K/mo diff 3 ULTRA-LOW), espresso-martini (Pulse 18 — 246K/mo diff 19 LOW — BIGGEST FIND), vanilla-sweet-cream-cold-brew (Pulse 18 — 14.8K/mo diff 16 LOW), iced-matcha-latte (Pulse 18 — 14.8K/mo diff 9 ULTRA-LOW), pumpkin-spice-latte (Pulse 19 — 40.5K/mo diff 8 LOW), dalgona-coffee (Pulse 19 — 27.1K/mo diff 6 LOW), iced-coffee-recipe (Pulse 19 — 14.8K/mo diff 17 LOW), matcha-latte-recipe (Pulse 20 — 27.1K/mo diff 12 LOW), white-chocolate-mocha (Pulse 20 — 12.1K/mo diff 29 LOW), iced-americano (Pulse 21 — 12.1K/mo diff 1 ULTRA-LOW), **red-eye-coffee** (NEW Pulse 22 — 14.8K/mo diff 1 + covers black eye 1.9K), **shaken-espresso** (NEW Pulse 22 — 9.9K/mo diff 4 — head term guide), **vanilla-latte** (NEW Pulse 24 — 9.9K/mo diff 10 — homemade syrup + Starbucks copycat), **hazelnut-latte** (NEW Pulse 24 — 3.6K/mo diff 2 ULTRA-LOW — SERP desert with itch.io at #7), **cinnamon-dolce-latte** (NEW Pulse 26 — 5.4K/mo diff 8 — food blogs at #3-5 beatable), **lavender-latte** (NEW Pulse 26 — 4.4K/mo diff 29 — Starbucks permanent menu 2024, culinary lavender guide), **brown-sugar-latte** (NEW Pulse 26 — 1.9K/mo diff 1 ULTRA-LOW — hot steamed version distinct from shaken espresso)
 - **Guides cluster (39):** best-espresso-machines-beginners, best-espresso-grinders, milk-steaming-beginners, espresso-troubleshooting, espresso-vs-coffee, espresso-ratio-guide, espresso-caffeine-guide, moka-pot-vs-espresso-machine, what-is-crema, what-is-a-macchiato, cappuccino-vs-latte, compact-espresso-machine-guide, espresso-grind-size-guide, water-for-espresso, espresso-beans-vs-coffee-beans, espresso-machine-cleaning-guide, what-is-a-doppio, espresso-glossary (Pulse 9), cortado-vs-macchiato (Pulse 10), flat-white-vs-latte (Pulse 11), latte-vs-macchiato (Pulse 11), how-long-do-coffee-beans-last (Pulse 11), espresso-vs-americano (Pulse 11), how-to-use-espresso-machine (Pulse 12), coffee-to-water-ratio (Pulse 12), french-press-ratio (Pulse 13), cold-brew-ratio (Pulse 13), arabica-vs-robusta (Pulse 13), what-is-turkish-coffee (Pulse 14 — 60.5K/mo diff 32), pour-over-ratio (Pulse 14), how-to-use-moka-pot (Pulse 14), what-is-siphon-coffee (Pulse 15 — 12.1K/mo diff 24), aeropress-guide (Pulse 15 — 5.5K combined diff 8/15), how-to-use-french-press (Pulse 16 — 9.9K/mo diff 30), **latte-macchiato** (NEW Pulse 20 — 8.1K/mo diff 2 ULTRA-LOW — inverted layered drink), **cold-brew-vs-iced-coffee** (NEW Pulse 24 — 8.1K/mo diff 10 — comparison guide; SERP: javacity #6, kitchenaid #7, dunkin #8 — all beatable)
@@ -433,16 +435,25 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ REJECTED: "espresso powder" HIGH 98/100 — skip; "rose latte" 1K too low; "spiced latte" 720/mo too low; "froth milk without frother" 320/mo too low; "how to froth milk without a frother" 2.4K diff 25 — deferred to Pulse 27
 - ✅ SEO skill: Ch4.1 (fan-out — flavored latte cluster complete), Ch2.1 (sitemap resubmission for indexing), Ch4.2 (answer-first format)
 
-### Pulse 27 (14:00 IDT Apr 14)
-- **SC watch:** Day 11 — did milk-steaming-beginners move further? Any new pages entering impressions after sitemap resubmission?
-- **Content priorities:**
-  1. "how to froth milk without a frother" — 2.4K/mo diff 25 LOW — links to milk-steaming-beginners (our best-indexed page, pos 29.9). Completing the milk technique cluster.
-  2. "what is espresso powder" — 2.4K/mo diff 32 — check SERP before writing. Could be informational guide on uses, substitutes, how it differs from instant coffee.
-  3. "magic coffee" (Australian) — check volume; likely very low competition
-  4. New cluster ideas: dessert/baking coffee drinks? "coffee cake recipe" — off-niche; "tiramisu recipe" — off-niche. Avoid.
-  5. "lungo vs americano" — 590/mo diff 0 — very low; probably only as a section inside lungo.md
-- **Consider:** Chapter 5.2 internal link audit — 80 pages now, verify no orphan pages in recipe cluster
-- **SEO skill:** Ch4.2 (milk froth guide — HowTo schema opportunity?), Ch7.1 (SC trend watching for indexing acceleration)
+### Pulse 27 — DONE (14:00 IDT Apr 14)
+- ✅ SC: Same 3 pages (milk-steaming-beginners pos 29.9 / 33 impressions, ristretto pos 10 / 2 impressions, homepage pos 44 / 3 impressions). No new pages indexed yet — sitemap resubmission effect expected Day 12-14.
+- ✅ DataForSEO: 2x search-volume batches ($0.150) + 2x SERP checks ($0.004) = $0.154 this pulse
+- ✅ WRITTEN: butter-coffee (4.4K diff 18 LOW — espresso version included, MCT table, keto angle, honest health claims), how-to-froth-milk-without-frother (2.4K diff 25 LOW — 4 methods, comparison table, cold foam section, milk type table)
+- ✅ E-E-A-T UPGRADE: about.md enhanced with named author bio (home barista since 2014, specialty coffee bar experience), editorial methodology, firsthand testing claims, contact info, why-we-built-this section
+- ✅ Internal link: milk-steaming-beginners → how-to-froth-milk-without-frother added
+- ✅ REJECTED: "nitro cold brew" 18.1K MEDIUM 47/100 — skip (product/transactional intent SERP, popular_products feature); "oat milk latte" 1.9K MEDIUM 56/100 — skip; "mushroom coffee" 246K HIGH 100/100 — skip; "cold brew concentrate" 18.1K HIGH 100/100 — skip; "how to make nitro cold brew at home" 260/mo HIGH 100/100 — skip; "what is bulletproof coffee" 1.3K diff 21 — covered inside butter-coffee.md as FAQ answer; "types of coffee drinks" 27.1K MEDIUM 53/100 — borderline, may revisit
+- ✅ SEO skill: Ch4.1 (fan-out — butter coffee extends coffee guide cluster), Ch4.2 (answer-first format both pages), Ch4.3 (E-E-A-T about page upgrade — named author bio, methodology, firsthand experience)
+- ✅ 82 pages total — committed 7c1d43e
+
+### Pulse 28 (22:00 IDT Apr 14)
+- **SC watch:** Day 11 → Day 12 — watch for indexing acceleration after sitemap resubmission. Milk-steaming improving (pos 29.9); expect to see more pages enter SC impressions.
+- **Content priorities (to validate with DataForSEO):**
+  1. "types of coffee drinks" 27.1K MEDIUM 53/100 — needs SERP check. If SERP shows beatable content, could be a major pillar page covering all our drink types.
+  2. "how to make pour over coffee" 5.4K MEDIUM 66/100 — SERP check needed, may be beatable. Completes pour-over cluster (we have pour-over-ratio but no how-to).
+  3. "what is espresso powder" 2.4K diff 32 — informational guide on uses, substitutes, baking uses.
+  4. "iced brown sugar latte" or "iced caramel latte" — check volume for iced variants of our flavored latte cluster.
+- **E-E-A-T continuation (Ch4.3):** Consider adding author structured data (Person schema) to hugo.toml or layouts. Currently about.md has no machine-readable author entity.
+- **SEO skill:** Ch2.1 (check sitemap crawl status via SC), Ch5.2 (link audit — 82 pages, check no orphan guides)
 
 ---
 ## New Hypotheses (Pulse 6+)
