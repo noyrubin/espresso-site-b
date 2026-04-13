@@ -4,6 +4,45 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-14 06:00 IDT — Pulse 26: Cinnamon Dolce Latte (5.4K diff 8) + Lavender Latte (4.4K diff 29) + Brown Sugar Latte (1.9K diff 1) + Sitemap Resubmission
+
+**Action:**
+1. Pulled latest, read strategy.md + journal.md (Day 11, 77 pages, Pulse 25 fixed Recipe schema + wrote pistachio/caramel/honey lattes)
+2. Consulted SEO skill (Ch4.1 query fan-out, Ch2.1 architecture/indexing, Ch4.2 answer-first framework) — key guidance: sitemap resubmission is a valid lever for accelerating crawl discovery; flavored latte query fan-out still has clear gaps; answer-first formatting for all new pages
+3. Assessed GA4 + SC: No organic sessions (GA4 organic empty). SC: milk-steaming-beginners improved to pos 29.9 (was 32.17) / 33 impressions (was 30) — positive movement. ristretto pos 10 / 2 impressions. homepage pos 44 / 3 impressions. Still only 3 pages indexed — Day 11 expected.
+4. Resubmitted sitemap to Search Console (https://myhomebarista.com/sitemap.xml) — success confirmed
+5. Ran DataForSEO: 2x search-volume batches ($0.150) + 2x SERP checks ($0.004) = $0.154 total
+6. WRITTEN: cinnamon-dolce-latte (5.4K diff 8), lavender-latte (4.4K diff 29), brown-sugar-latte (1.9K diff 1)
+7. Updated internal links: latte.md hub → cinnamon-dolce-latte + lavender-latte + brown-sugar-latte
+8. Committed and pushed (4522207) — 80 pages total
+
+**Reasoning:**
+- GA4/SC: milk-steaming-beginners showing upward movement (pos 29.9 from 32.17, impressions 33 from 30). Still only 3 pages indexed but the positive position movement is a good signal. No organic traffic expected at Day 11 — Day 12-14 is likely when meaningful indexing acceleration begins after sitemap resubmission.
+- **Sitemap resubmission:** Ch2.1 guidance: sitemaps are inventory maps — resubmitting after bulk content additions tells Googlebot we have new pages. With 77 pages published but only 3 indexed, resubmission should accelerate the crawl queue.
+- **Cinnamon Dolce Latte (5.4K diff 8 ULTRA-LOW):** SERP: Reddit #2, thegirlonbloor.com #3 (food blog — beatable), diethood.com #4 (food blog — beatable), smells-like-home.com #5 (small blog — beatable), Starbucks #6 (nutrition page, not a recipe guide). No featured snippet. AI overview present. PAA includes "What is Taylor Swift's Starbucks order?" (answered in FAQ). This is a classic cinnamon dolce latte: brown sugar + cinnamon + vanilla syrup with espresso + steamed milk. Starbucks copycat angle validated by top-3 result titles. Our page: homemade cinnamon dolce syrup (full brown sugar recipe with light vs dark comparison), hot + iced versions, Starbucks copycat ratios table (Grande = 4 pumps), 5 variations (oat milk, cold foam, dark brown sugar, breve, skinny), comprehensive FAQ with PAA answers.
+- **Lavender Latte (4.4K diff 29 LOW):** SERP: gimmesomeoven.com #2 (strong food blog — harder to beat), Starbucks #3+#7 (brand), YouTube #4, monicanedeff.com #5 (small blog — beatable), coffeecopycat.com #8. Diff 29 is our upper threshold. Starbucks added Lavender Latte to permanent menu in 2024 — spring seasonal demand locked in. Our differentiating content: culinary lavender sourcing guide (food-safe vs cosmetic), soap-flavour prevention (over-steeping warning), Lavandula angustifolia vs dentata comparison, lavender honey variant, Starbucks Blonde Espresso copycat ratios table, 5 variations (lavender honey, lavender vanilla, oat milk, iced lavender cold foam, lavender matcha). Better than any of positions #5, #8 — target those spots.
+- **Brown Sugar Latte (1.9K diff 1 ULTRA-LOW):** Distinct from brown-sugar-shaken-espresso (which we already have at 27.1K/mo). The brown sugar latte is the hot/warm steamed version; the shaken espresso is cold and shaken. Including an explicit comparison table to prevent confusing both queries. Light vs dark brown sugar flavour profiles explained. Internal cross-link from brown-sugar-latte → brown-sugar-shaken-espresso and vice versa.
+- REJECTED: "espresso powder" 22,200/mo HIGH 98/100 — skip; "rose latte" 1K too low standalone; "spiced latte" 720/mo too low; "froth milk without frother" 320/mo too low; "how to froth milk without a frother" 2.4K diff 25 — viable but deferred to Pulse 27 (lower volume than today's picks); "starbucks drinks to make at home" only 260/mo
+
+**SEO Skill Reference:**
+- **Ch4.1 (query fan-out):** The flavored latte cluster is now 8 strong: vanilla, hazelnut, pistachio, caramel, honey, lavender, cinnamon dolce, brown sugar. This covers virtually every major flavored latte search query. Ch4.1 guidance: fan-out from base latte recipe → all flavored variations → specialty technique pages (froth without frother). Each new page strengthens topical authority for "latte" as a topic cluster.
+- **Ch2.1 (sitemap/indexing):** Resubmitting the sitemap after adding 77+ pages triggers Googlebot to re-evaluate our crawl queue. SC showing only 3 pages at Day 11 is not unusual for a new domain — the crawl budget takes time to build. Sitemap resubmission combined with positive position movement on milk-steaming suggests indexing is proceeding normally.
+- **Ch4.2 (answer-first format):** Cinnamon dolce latte opens with direct answer (2 sentences, mentions "brown sugar" as the distinguishing flavour). Lavender latte leads with the key warning (culinary-grade lavender, don't over-steep). Brown sugar latte leads with the explicit comparison to shaken espresso — answering the "is this the same as brown sugar shaken espresso?" question before users need to ask it.
+
+**Outcome:**
+- Sitemap resubmission: confirmed success
+- cinnamon-dolce-latte: 5,400/mo diff 8 — homemade cinnamon dolce syrup (brown sugar + cinnamon + vanilla), hot + iced, Taylor Swift FAQ, Starbucks copycat ratios table, 5 variations
+- lavender-latte: 4,400/mo diff 29 — culinary lavender sourcing guide, soap-flavour prevention warning, lavender syrup recipe, hot + iced, Starbucks Blonde Espresso copycat ratios, 5 variations
+- brown-sugar-latte: 1,900/mo diff 1 — brown sugar syrup recipe, explicit vs-shaken-espresso comparison table, hot + iced, 5 variations
+- Internal links: latte.md hub updated (now links to 12 recipe variants)
+- Flavored latte cluster complete: vanilla, hazelnut, pistachio, caramel, honey, lavender, cinnamon dolce, brown sugar = 8 pages
+- DataForSEO spend this pulse: ~$0.154 (2x search-volume $0.150 + 2x SERP $0.004)
+- Cumulative DataForSEO spend: ~$3.069
+
+**Next:** Pulse 27 (14:00 IDT Apr 14) — SC watch for movement after sitemap resubmission. Research "how to froth milk without a frother" (2.4K diff 25 — milk cluster linked to our indexed milk-steaming page), "what is espresso powder" (2.4K diff 32 — informational guide), "magic coffee" Australian drink (check volume). Consider Ch5.2 internal link audit for 80-page inventory.
+
+---
+
 ## 2026-04-13 22:00 IDT — Pulse 25: Schema Fix (15+ pages) + Pistachio Latte (6.6K diff 14) + Caramel Latte (6.6K diff 8) + Honey Latte (1.6K diff 0)
 
 **Action:**
