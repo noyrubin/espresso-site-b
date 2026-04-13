@@ -8,6 +8,20 @@ author: "Barista At Home"
 showToc: true
 TocOpen: false
 draft: false
+recipeYield: "1 serving (12 oz)"
+prepTime: "PT5M"
+totalTime: "PT10M"
+recipeCategory: "Beverage"
+recipeIngredient:
+  - "2 shots espresso (2 oz)"
+  - "6-8 oz whole milk (or milk of choice)"
+  - "2 tablespoons vanilla syrup (store-bought or homemade)"
+recipeInstructions:
+  - "Make vanilla syrup: simmer 1 cup sugar, 1 cup water, and 1 tsp pure vanilla extract for 5 minutes, then cool."
+  - "Pull 2 shots of espresso directly into your mug."
+  - "Add vanilla syrup to the espresso and stir."
+  - "Steam milk to 140-150°F with light, velvety microfoam."
+  - "Pour steamed milk over espresso, holding back foam, then spoon foam on top."
 ---
 
 **A vanilla latte is a shot (or two) of espresso combined with steamed milk and vanilla syrup. It's one of the most popular coffee drinks in the world — and making it at home takes about 5 minutes once you have your vanilla syrup ready.**

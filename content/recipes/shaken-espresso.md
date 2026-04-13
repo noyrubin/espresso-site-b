@@ -9,6 +9,21 @@ showToc: true
 TocOpen: false
 draft: false
 schema: "recipe"
+recipeYield: "1 serving (12 oz)"
+prepTime: "PT3M"
+totalTime: "PT3M"
+recipeCategory: "Beverage"
+recipeIngredient:
+  - "2 shots espresso (2 oz)"
+  - "1 tablespoon simple syrup or sweetener of choice"
+  - "Ice"
+  - "2-3 oz oat milk or milk of choice"
+recipeInstructions:
+  - "Pull 2 shots of espresso."
+  - "Add espresso, sweetener, and a large handful of ice to a cocktail shaker."
+  - "Shake vigorously for 15 seconds until cold and frothy."
+  - "Fill a glass with fresh ice and pour shaken espresso over it."
+  - "Top with oat milk or milk of choice. Do not stir — let it layer."
 ---
 
 **Shaken espresso is espresso shots shaken vigorously with ice (and usually a sweetener) in a cocktail shaker, then poured over fresh ice and topped with milk or cream. The shaking aerates the espresso, creating a frothy, chilled drink with a silky, lighter texture than a standard iced latte.**

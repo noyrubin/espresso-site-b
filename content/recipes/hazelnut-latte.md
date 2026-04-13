@@ -8,6 +8,20 @@ author: "Barista At Home"
 showToc: true
 TocOpen: false
 draft: false
+recipeYield: "1 serving (12 oz)"
+prepTime: "PT5M"
+totalTime: "PT10M"
+recipeCategory: "Beverage"
+recipeIngredient:
+  - "2 shots espresso (2 oz)"
+  - "6-8 oz whole milk (or milk of choice)"
+  - "2 tablespoons hazelnut syrup (store-bought or homemade)"
+recipeInstructions:
+  - "Make hazelnut syrup: simmer 1 cup sugar, 1 cup water, and 1 tsp hazelnut extract for 5 minutes, then cool."
+  - "Pull 2 shots of espresso directly into your mug."
+  - "Add hazelnut syrup to the espresso and stir."
+  - "Steam milk to 140-150°F with light microfoam."
+  - "Pour steamed milk over espresso, holding back foam with a spoon, then spoon foam on top."
 ---
 
 **A hazelnut latte is espresso and steamed milk sweetened with hazelnut syrup — nutty, warm, and slightly sweet. It's one of the easiest flavored lattes to make at home, and with homemade hazelnut syrup, it tastes significantly better than most coffee shop versions.**

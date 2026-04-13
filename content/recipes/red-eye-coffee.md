@@ -9,6 +9,18 @@ showToc: true
 TocOpen: false
 draft: false
 schema: "recipe"
+recipeYield: "1 serving (9 oz)"
+prepTime: "PT2M"
+totalTime: "PT7M"
+recipeCategory: "Beverage"
+recipeIngredient:
+  - "8 oz freshly brewed drip coffee"
+  - "1 shot espresso (1 oz)"
+recipeInstructions:
+  - "Brew 8 oz of drip coffee using your preferred method."
+  - "Pull a fresh shot of espresso."
+  - "Pour the espresso directly into the brewed coffee."
+  - "Serve black, or add milk and sweetener to taste."
 ---
 
 **A red eye coffee is a cup of regular drip coffee with one shot of espresso added. It combines the larger volume of brewed coffee with the concentrated intensity of espresso — giving you a significantly stronger, more caffeinated drink than either alone.**
