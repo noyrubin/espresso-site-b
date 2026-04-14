@@ -164,6 +164,7 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 
 ## Keep Reading
 
+- [What Is Espresso?](/guides/what-is-espresso/) — The complete beginner's guide to espresso: how it's made, what makes it different, shot types, and crema
 - [Espresso vs Regular Coffee: What's the Difference?](/guides/espresso-vs-coffee/) — Understand how espresso differs from drip coffee before you invest in equipment
 - [Espresso Ratio Guide: Dial In Your Shots](/guides/espresso-ratio-guide/) — Learn the dose/yield/time framework for consistent espresso
 - [How Much Caffeine in a Shot of Espresso?](/guides/espresso-caffeine-guide/) — The exact numbers, plus how espresso compares to drip coffee and cold brew

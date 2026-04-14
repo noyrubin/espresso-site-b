@@ -147,6 +147,10 @@ Espresso, steamed milk, honey. Lower in processed sugar — honey provides a dif
 Espresso, steamed milk, cinnamon syrup, whipped cream, and cinnamon topping. Sweet, spiced, warming.  
 → [Cinnamon dolce latte](/recipes/cinnamon-dolce-latte/)
 
+### Spanish Latte
+Espresso with sweetened condensed milk and steamed (or cold) milk. Richer and creamier than a standard latte, with a natural caramel-like sweetness. Served hot or iced.  
+→ [Spanish latte recipe](/recipes/spanish-latte/)
+
 ---
 
 ## Iced Coffee Drinks
