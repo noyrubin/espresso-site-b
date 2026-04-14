@@ -60,3 +60,32 @@ If you make an espresso drink at home every day, the quality of that drink is a 
 Questions, corrections, recipe requests, or suggestions: **hello@myhomebarista.com**
 
 If you find a factual error, we want to know. We will update the page and credit you if you like.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Barista At Home",
+  "url": "https://myhomebarista.com/about/",
+  "sameAs": [],
+  "jobTitle": "Home Barista & Coffee Writer",
+  "description": "Home espresso enthusiast since 2014. Tested equipment across every price tier, from Delonghi Dedica to Profitec Pro 500. Specialty coffee bar experience. Writes for myhomebarista.com.",
+  "knowsAbout": [
+    "Espresso",
+    "Home Espresso Machines",
+    "Coffee Brewing Methods",
+    "Milk Steaming",
+    "Coffee Recipes",
+    "Coffee Grinders"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "My Home Barista",
+    "url": "https://myhomebarista.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://myhomebarista.com/about/"
+  }
+}
+</script>

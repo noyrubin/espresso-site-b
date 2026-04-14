@@ -180,6 +180,7 @@ Home espresso is a rewarding daily practice. The learning curve is real but shor
 - [Flat White vs Latte](/guides/flat-white-vs-latte/) — Size, milk ratio, and foam differences explained
 - [Latte vs Macchiato](/guides/latte-vs-macchiato/) — How traditional macchiatos differ from lattes (and why the Starbucks version confused everyone)
 - [Espresso vs Americano](/guides/espresso-vs-americano/) — What changes when you add hot water to espresso
+- [Types of Coffee Drinks: Complete Guide](/guides/types-of-coffee-drinks/) — Every espresso, milk, and cold brew drink explained with comparisons
 - [How Long Do Coffee Beans Last?](/guides/how-long-do-coffee-beans-last/) — Shelf life by storage method, signs of staleness, and whether freezing works
 - [Are Espresso Beans Different from Coffee Beans?](/guides/espresso-beans-vs-coffee-beans/) — What "espresso beans" actually means and how to choose them
 - [How to Clean Your Espresso Machine](/guides/espresso-machine-cleaning-guide/) — Daily, weekly, and monthly cleaning schedule plus descaling guide
