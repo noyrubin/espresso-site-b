@@ -445,15 +445,29 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ SEO skill: Ch4.1 (fan-out — butter coffee extends coffee guide cluster), Ch4.2 (answer-first format both pages), Ch4.3 (E-E-A-T about page upgrade — named author bio, methodology, firsthand experience)
 - ✅ 82 pages total — committed 7c1d43e
 
-### Pulse 28 (22:00 IDT Apr 14)
-- **SC watch:** Day 11 → Day 12 — watch for indexing acceleration after sitemap resubmission. Milk-steaming improving (pos 29.9); expect to see more pages enter SC impressions.
+### Pulse 28 — DONE (22:00 IDT Apr 14)
+- ✅ SC: Same 3 pages (milk-steaming pos 29.9 / 33 impressions, ristretto pos 10 / 2 impressions, homepage pos 44 / 3 impressions). Day 11 — sitemap resubmission effect expected Day 12-14.
+- ✅ DataForSEO: 1x search-volume batch 7 keywords ($0.075) + 2x SERP checks ($0.004) = $0.079 this pulse
+- ✅ WRITTEN: types-of-coffee-drinks (27.1K MEDIUM 53/100 — SERP: folgerscoffee.com #1, webstaurantstore.com B2B #2, esquirescoffee franchise #3, no authority coffee sites — BEATABLE hub page linking to all 86 pages)
+- ✅ WRITTEN: iced-caramel-latte (5.4K diff 2 — SERP: bakingmischief.com #1, forkinthekitchen.com #2, brighteyedbaker.com #4 — tiny food blogs, no featured snippet, recipes feature present)
+- ✅ WRITTEN: iced-vanilla-latte (5.4K diff 6 — standalone iced variant, completes flavored latte iced cluster)
+- ✅ WRITTEN: what-is-espresso-powder (2.4K diff 32 — baking uses, substitutes, storage, tiramisu application)
+- ✅ E-E-A-T: Person schema added to about.md as inline JSON-LD (Ch4.3 + Ch3.1 — machine-readable author entity)
+- ✅ Internal links: getting-started → types-of-coffee-drinks; latte → iced-vanilla-latte + iced-caramel-latte; vanilla-latte → iced-vanilla-latte
+- ✅ REJECTED: "how to make pour over coffee" MEDIUM 66/100 — borderline, deferred to next pulse; "iced hazelnut latte" 260/mo too low
+- ✅ 86 pages total — committed 70e3c0a
+- ✅ SEO skill: Ch2.1 (indexing patience — Day 11, sitemap resubmitted), Ch4.1 (fan-out — iced variants, types hub), Ch4.3 (E-E-A-T — Person schema)
+
+### Pulse 29 (06:00 IDT Apr 15)
+- **SC watch:** Day 12 — first real test of sitemap resubmission effect. Watch for new pages in impressions. Expect milk-steaming to continue improving.
 - **Content priorities (to validate with DataForSEO):**
-  1. "types of coffee drinks" 27.1K MEDIUM 53/100 — needs SERP check. If SERP shows beatable content, could be a major pillar page covering all our drink types.
-  2. "how to make pour over coffee" 5.4K MEDIUM 66/100 — SERP check needed, may be beatable. Completes pour-over cluster (we have pour-over-ratio but no how-to).
-  3. "what is espresso powder" 2.4K diff 32 — informational guide on uses, substitutes, baking uses.
-  4. "iced brown sugar latte" or "iced caramel latte" — check volume for iced variants of our flavored latte cluster.
-- **E-E-A-T continuation (Ch4.3):** Consider adding author structured data (Person schema) to hugo.toml or layouts. Currently about.md has no machine-readable author entity.
-- **SEO skill:** Ch2.1 (check sitemap crawl status via SC), Ch5.2 (link audit — 82 pages, check no orphan guides)
+  1. "how to make pour over coffee" 5.4K MEDIUM 66/100 — needs SERP check. If SERP shows small blogs, write it. Completes pour-over cluster.
+  2. "iced hazelnut latte" 260/mo — too low, skip
+  3. "moka pot coffee recipe" — check volume; we have how-to-use-moka-pot but no recipe variant
+  4. "coffee at home" / "make coffee at home" — broad informational, check volume + SERP
+  5. "best coffee for beginners" — check volume, may be moderate with low competition
+- **Technical:** No new technical issues identified this pulse
+- **SEO skill:** Ch5.1 (internal linking — with 86 pages, run an orphan check), Ch7.1 (measure SC trends)
 
 ---
 ## New Hypotheses (Pulse 6+)
@@ -463,4 +477,4 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - **H13 (Pulse 19):** "dalgona coffee" (27.1K/mo, diff 6) — viral search interest is permanent despite trend peak in 2020. seriouseats at #3 is a tough competitor but mykoreankitchen.com #4 is beatable — targeting #4-5.
 - **H14 (Pulse 25):** Schema fix unlocking Recipe schema for 15+ high-volume recipe pages should increase rich result eligibility. Once pages index, Recipe cards in SERP (via "recipes" feature) will dramatically improve CTR vs. plain blue links. espresso-martini (246K), cold-foam (33K), pumpkin-spice-latte (40.5K) are the highest-priority pages to watch for recipe rich results.
 
-*Last updated: 2026-04-14 Pulse 26*
+*Last updated: 2026-04-14 Pulse 28*

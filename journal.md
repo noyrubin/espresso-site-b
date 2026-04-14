@@ -4,6 +4,62 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-14 22:00 IDT — Pulse 28: Types of Coffee Drinks Hub (27.1K) + Iced Latte Cluster (2x 5.4K) + Espresso Powder Guide + Person Schema
+
+**Action:**
+1. Pulled latest, read strategy.md (Day 11, 82 pages, Pulse 27 wrote butter-coffee + froth-without-frother + E-E-A-T about upgrade)
+2. Consulted SEO skill (Ch2.1 indexing patience, Ch4.1 fan-out, Ch4.3 E-E-A-T + Person schema, Ch3 structured data)
+3. Assessed GA4: Sessions minimal/bot traffic only — no organic. SC: milk-steaming pos 29.9 / 33 impressions, ristretto pos 10 / 2 impressions, homepage pos 44 / 3 impressions. Same 3 pages — Day 11, sitemap resubmission effect expected Day 12-14.
+4. Ran DataForSEO: 1x search-volume batch 7 keywords ($0.075) + 2x SERP checks ($0.004) = $0.079 this pulse
+5. SERP-validated "iced caramel latte" (5.4K diff 2) — bakingmischief.com #1, forkinthekitchen.com #2, brighteyedbaker.com #4 — tiny food blogs, NO featured snippet, recipes feature present → WRITE
+6. SERP-validated "types of coffee drinks" (27.1K MEDIUM 53/100) — folgerscoffee.com #1 (brand), webstaurantstore.com #2 (B2B), esquirescoffee.co.uk #3 (UK franchise), reddit.com #4 — NO specialized coffee authority in top 5 → WRITE comprehensive hub
+7. WRITTEN: types-of-coffee-drinks (27.1K hub page, 86 drink entries spanning all clusters), iced-caramel-latte (5.4K diff 2), iced-vanilla-latte (5.4K diff 6), what-is-espresso-powder (2.4K diff 32)
+8. E-E-A-T: Person schema added to about.md as inline JSON-LD (@type Person, knowsAbout, worksFor)
+9. Internal links: getting-started → types-of-coffee-drinks; latte.md → iced-vanilla-latte + iced-caramel-latte; vanilla-latte → iced-vanilla-latte
+10. Committed and pushed (70e3c0a) — 86 pages total
+
+**Reasoning:**
+- **types-of-coffee-drinks (27.1K MEDIUM 53/100):** SERP analysis showed zero specialist coffee content sites in top 8 results. A brand (folgers), a B2B supplier (webstaurantstore), a UK franchise chain (esquires), Reddit, a Substack newsletter, and small blogs. Our site with 86 pages covering every single drink in depth is the natural authority for this query. Per Ch4.1 fan-out: this page links to all our specific drink guides, creating hub → cluster internal links that reinforce topical authority signals. The hub will also capture AI overview citations by being a comprehensive reference.
+- **iced-caramel-latte + iced-vanilla-latte:** SERP for iced caramel showed food blogs in top positions (bakingmischief, forkinthekitchen, brighteyedbaker) — none are coffee-specialist authorities. Recipes SERP feature means our Recipe schema immediately helps. These are 5.4K/mo each at effectively zero organic competition. Per Ch4.1 query fan-out: iced variants of existing flavored lattes are a distinct intent cluster — someone searching "iced caramel latte" wants a cold recipe, not the hot caramel latte page.
+- **what-is-espresso-powder:** 2.4K diff 32, informational intent. Espresso powder is a common ingredient in baking + cooking; our home barista angle (baking uses, substitutes, tiramisu, savory rubs) covers the full query landscape without just duplicating manufacturer copy.
+- **Person schema:** Ch4.3 guidance: "Attach content to real editorial accountability. Use named authors, bios." The about.md has a strong human author narrative but no machine-readable author entity. Adding Person schema with @type, knowsAbout, worksFor creates a structured signal that Google's quality systems and AI answer engines can use to establish the author as a real entity associated with the site.
+
+**SEO Skill Reference:**
+- **Ch2.1 (crawlability/indexing):** Day 11 with sitemap resubmitted — indexing lag is normal for new domains. Continue publishing. Quality > speed.
+- **Ch4.1 (keyword intent + fan-out):** types-of-coffee-drinks = head term hub capturing all our cluster content. Iced variants = distinct intent from hot versions — fan-out justifies standalone pages.
+- **Ch4.3 (E-E-A-T):** Person schema makes the author machine-readable. Combined with the enriched about.md narrative from Pulse 27, the author entity now has both human-readable trust signals AND structured data for AI systems.
+- **Ch3 (structured data):** Person @type with sameAs, knowsAbout, worksFor — all fields relevant for entity disambiguation in knowledge graph contexts.
+
+**Key DataForSEO Findings (Pulse 28):**
+- "types of coffee drinks" — 27,100/mo, MEDIUM 53/100 — SERP: no authority coffee sites → WROTE hub page
+- "iced caramel latte" — 5,400/mo, LOW 2/100 — SERP: small food blogs → WROTE
+- "iced vanilla latte" — 5,400/mo, LOW 6/100 — similar pattern → WROTE
+- "what is espresso powder" — 2,400/mo, LOW 32/100 → WROTE
+- "how to make pour over coffee" — 5,400/mo, MEDIUM 66/100 — DEFERRED (borderline, need SERP check)
+- "iced hazelnut latte" — 260/mo — SKIP (too low volume)
+- DataForSEO spend this pulse: $0.079. Running total Day 11: ~$0.079 (well under $1 limit)
+
+**Content Created (4 pages):**
+1. `content/guides/types-of-coffee-drinks.md` — 27,100/mo, MEDIUM 53/100. Hub page covering 30+ coffee drinks across 7 categories (espresso, hot milk, flavored, iced, cold brew, dessert, specialty brewing). Every entry has internal link to specific recipe/guide. Also answers PAA questions (most caffeinated, least bitter, beginner choice).
+2. `content/recipes/iced-caramel-latte.md` — 5,400/mo, diff 2. Recipe + caramel syrup vs. sauce comparison + Starbucks copycat ratios + anti-watery-latte techniques + 5 variations + FAQ. Recipe schema.
+3. `content/recipes/iced-vanilla-latte.md` — 5,400/mo, diff 6. Recipe + homemade vanilla syrup + Starbucks copycat + milk comparison table + 5 variations + FAQ. Recipe schema.
+4. `content/guides/what-is-espresso-powder.md` — 2,400/mo, diff 32. What it is, vs. instant coffee, 4 use cases (baking, drinks, dry rubs, ice cream), substitute table, storage guide, tiramisu application, FAQ.
+
+**Analytics (Day 11, Pulse 28):**
+- GA4: Minimal sessions, no organic traffic
+- SC: milk-steaming-beginners 33 impressions pos 29.9 | ristretto 2 impressions pos 10 | homepage 3 impressions pos 44
+- Total published pages: 86
+
+**Outcome:** 4 pages + Person schema + internal links deployed. types-of-coffee-drinks hub is the broadest new content type this project — a comprehensive pillar covering everything the site contains.
+
+**Next (Pulse 29 — 06:00 IDT Apr 15):**
+1. SC: Day 12 check — expect indexing to accelerate after sitemap resubmission
+2. DataForSEO SERP check: "how to make pour over coffee" 5.4K MEDIUM 66/100 — validate if SERP is beatable
+3. Research: "coffee at home," "make coffee at home," "best beginner coffee" — broad informational, check volume
+4. Skill ref: Ch5.1 (internal linking orphan check — 86 pages), Ch7.1 (SC signal trends)
+
+---
+
 ## 2026-04-14 14:00 IDT — Pulse 27: Butter Coffee Guide (4.4K diff 18) + Froth Without Frother (2.4K diff 25) + E-E-A-T About Page Upgrade
 
 **Action:**
