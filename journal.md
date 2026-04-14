@@ -4,6 +4,42 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-15 06:00 IDT — Pulse 29: What Is Espresso Hub (18.1K diff 15) + Spanish Latte Recipe (12.1K diff 0 ULTRA-LOW)
+
+**Action:**
+1. Pulled latest, read strategy.md (Day 12, 86 pages, Pulse 28 wrote types-of-coffee-drinks + iced-caramel-latte + iced-vanilla-latte + espresso-powder + Person schema)
+2. Consulted SEO skill (Ch4.1 keyword intent, Ch4.2 answer-first format, Ch3.2 Recipe schema)
+3. Assessed GA4: Still 0 organic sessions. SC: milk-steaming pos 29.9 / 33 impressions (unchanged), ristretto pos 10 / 2 impressions (unchanged), homepage pos 51.25 / 4 impressions (up from 3 impressions). Still 3 pages indexed — Day 12, sitemap resubmission effect pending.
+4. Ran DataForSEO: 1x search-volume batch 9 keywords ($0.075) + 2x SERP checks ($0.004) = $0.079 this pulse
+5. FOUND: "what is espresso" 18.1K/mo diff 15 LOW — SERP: Reddit #1, Folgers #2, Wikipedia #3, small coffee sites #4-7 (compasscoffee, drinktrade, flairespresso — all beatable). AI overview present. → WRITE as comprehensive espresso 101 hub
+6. FOUND: "spanish latte" 12.1K/mo diff 0 ULTRA-LOW — SERP: brighteyedbaker.com #1, thehintofrosemary.com #2, littlesugarsnaps.com #3, Medium.com #4 — ALL tiny food blogs. Recipes feature + AI overview. → WRITE immediately
+7. REJECTED: "how to make pour over coffee" MEDIUM 66/100 — skip; "moka pot coffee recipe" 210/mo too low; "best coffee for beginners" 210/mo too low; "how to make espresso at home" HIGH 98/100 skip; "coffee brewing guide" HIGH 73/100 skip
+8. WRITTEN: what-is-espresso (18.1K diff 15 — comprehensive espresso 101; brewing physics, crema, shot types table, grind/dose/ratio, all espresso drinks hub with 15+ internal links)
+9. WRITTEN: spanish-latte (12.1K diff 0 — hot + iced recipe; condensed milk ratios table, café con leche vs Spanish latte comparison, oat milk + cold brew + spiced variations, FAQ with all PAA answers; Recipe schema via front matter)
+10. Internal links: latte.md hub → spanish-latte; getting-started pillar → what-is-espresso; types-of-coffee-drinks → spanish-latte
+11. Committed and pushed (f009f8e) — 88 pages total
+
+**Reasoning:**
+- **what-is-espresso (18.1K diff 15 LOW):** "What is X" queries are the most fundamental entry point to any topic. We had espresso-vs-coffee (9.9K) and espresso-ratio-guide but no single page that directly answers "what is espresso" as the canonical definition. The SERP showed Reddit #1 (user content), Folgers #2 (brand, limited depth), Wikipedia #3 (factual but no home-barista angle), and small coffee sites at #4-7. A comprehensive, answer-first guide written from a home barista perspective is significantly better than anything in #4-7. The AI overview presence means this page will also get cited in answer engine results. This page now functions as the hub for all espresso knowledge, linking out to 15+ other pages on the site.
+- **spanish-latte (12.1K diff 0 ULTRA-LOW):** This is one of the clearest SERP deserts we've found since cold-foam and breve-coffee. At diff 0 with 12.1K/mo volume, the gap between demand and content quality is massive. All top 3 results are tiny personal food blogs (brighteyedbaker, thehintofrosemary, littlesugarsnaps) — none are coffee-specialist sites. Medium.com at #4 is inherently beatable for informational content. The "recipes" SERP feature means Recipe schema directly improves rich result eligibility. Per Ch4.1: the Spanish latte is a distinct cultural variant of the latte family — not covered by any existing page — that extends our flavored latte cluster.
+
+**SEO Skill Reference:**
+- **Ch4.1 (keyword intent + fan-out):** what-is-espresso is the foundational definition query that anchors the espresso category. It should link to the full intent map: shot types, grind, ratio, caffeine, all drinks. Spanish latte extends the flavored latte cluster (fan-out from latte → condensed milk variant).
+- **Ch4.2 (answer-first format):** Both pages open with a direct, boxed answer (bold first sentence). what-is-espresso gives the one-sentence definition immediately; spanish-latte opens with the condensed milk + espresso + milk definition. Tables and ordered lists throughout for extractability.
+- **Ch3.2 (Recipe schema):** spanish-latte uses the recipe front matter pattern (recipe_ingredients + recipe_instructions) to trigger Recipe schema JSON-LD output via Hugo schema template.
+
+**Outcome:**
+- 2 pages published covering 30.2K/mo total search volume at near-zero competition
+- what-is-espresso: 18 internal links pointing to existing guides + recipes — strongest hub page written yet
+- spanish-latte: SERP desert with recipes feature + AI overview → positioned for top-3 ranking once indexed
+
+**Next:**
+- Day 12-13: Watch for sitemap resubmission effect — expect new pages entering SC impressions
+- Pulse 30 research: "cortado coffee" head term check, coconut latte, more espresso definition fan-out queries
+- Continue growing content library — still in indexing build phase
+
+---
+
 ## 2026-04-14 22:00 IDT — Pulse 28: Types of Coffee Drinks Hub (27.1K) + Iced Latte Cluster (2x 5.4K) + Espresso Powder Guide + Person Schema
 
 **Action:**
