@@ -147,4 +147,4 @@ Yes — brew a dark roast pod at the smallest cup size (strongest setting), and 
 
 ---
 
-*Explore more coffee drinks: [how to steam milk like a barista](/guides/milk-steaming-beginners/), [what is a latte (full guide)](/recipes/latte/), or see how café au lait compares to a [cappuccino vs latte breakdown](/guides/cappuccino-vs-latte/).*
+*Explore more coffee drinks: [how to steam milk like a barista](/guides/milk-steaming-beginners/), [what is a latte (full guide)](/recipes/latte/), or see how café au lait compares to a [cappuccino vs latte breakdown](/guides/cappuccino-vs-latte/). For the Spanish and Cuban version of this style, see our [Café con Leche guide](/guides/cafe-con-leche/).*

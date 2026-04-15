@@ -154,7 +154,7 @@ Brew coarsely ground dark roast overnight in cold water (1:8 ratio, 12–24 hour
 | Time to make | 8–10 min | 2 min | 12–24 hours |
 | Calories | 130–200 | 80–200 | 5–20 |
 
-See our [iced latte recipe](/recipes/iced-latte/) for comparison.
+See our [iced latte recipe](/recipes/iced-latte/) for comparison. For a deeper dive into Vietnamese coffee culture, the phin filter, and all styles (egg coffee, coconut coffee, bac xiu), see our [Vietnamese Coffee guide](/guides/vietnamese-coffee/).
 
 ## Frequently Asked Questions
 

@@ -170,3 +170,13 @@ In Spain: "cortado." In Portugal: "meia de leite" or "pingado" (a smaller versio
 
 **Is cortado stronger than espresso?**
 No — espresso is stronger by definition (no milk dilution). A cortado contains the same amount of espresso as a double shot, but the milk reduces the overall concentration. It is stronger than a latte or cappuccino for the same serving size.
+
+---
+
+## Related Guides
+
+- [Cortado vs Latte](/guides/cortado-vs-latte/) — the full size, ratio, and flavor comparison
+- [Cortado vs Macchiato](/guides/cortado-vs-macchiato/) — two small espresso drinks compared
+- [Cortado vs Flat White](/guides/cortado-vs-flat-white/) — similar size, different milk ratios
+- [What Is a Gibraltar Coffee?](/guides/what-is-gibraltar-coffee/) — the American specialty coffee twin
+- [Cortado Recipe](/recipes/cortado/) — step-by-step guide to making one at home

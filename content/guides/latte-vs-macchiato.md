@@ -1,8 +1,8 @@
 ---
-title: "Latte vs Macchiato: What's the Difference?"
+title: "Macchiato vs Latte: What's the Difference? (All Three Types Explained)"
 date: 2026-04-07
-description: "A latte is a large milk-forward espresso drink. A macchiato is much smaller and espresso-forward. Here's how traditional macchiatos, latte macchiatos, and lattes actually differ."
-tags: ["latte", "macchiato", "espresso drinks", "comparison", "milk drinks"]
+description: "A macchiato is a tiny 2–3 oz espresso stained with a dot of foam. A latte is 8–12 oz with lots of steamed milk. Here's how traditional macchiatos, latte macchiatos, and lattes actually differ."
+tags: ["latte", "macchiato", "espresso drinks", "comparison", "milk drinks", "macchiato vs latte"]
 categories: ["guides"]
 author: "Barista At Home"
 showToc: true
@@ -10,7 +10,9 @@ TocOpen: false
 draft: false
 ---
 
-**A latte is 8–12 oz of espresso with lots of steamed milk and a thin microfoam layer. A traditional macchiato is just 2–3 oz — a shot of espresso "stained" with a small dollop of foam or milk.** They are not similar drinks. The confusion mostly comes from the Starbucks latte macchiato, which is a completely different animal.
+**A macchiato is a tiny 2–3 oz drink — a shot of espresso "stained" with a small dollop of foam. A latte is 8–12 oz of espresso with lots of steamed milk and a thin microfoam layer.** They are not similar drinks. The macchiato is espresso-forward and intense; the latte is milk-forward and mild. The confusion mostly comes from the Starbucks latte macchiato, which is a completely different animal from the traditional Italian espresso macchiato.
+
+**Macchiato vs latte at a glance:** If you want a small, intense espresso-dominant drink → macchiato. If you want a large, mild, milk-dominant drink → latte. They are almost opposites despite both containing espresso and milk.
 
 This guide covers all three: traditional espresso macchiato, latte macchiato, and the classic caffè latte.
 
@@ -122,6 +124,9 @@ Neither is "wrong" — they've just evolved into different things. Know which on
 ---
 
 ## Common Questions
+
+**Is a Starbucks macchiato just a latte?**
+The Starbucks caramel macchiato is closer to a latte macchiato than a traditional macchiato — it's a large milk-based drink (10–16 oz) with vanilla syrup, steamed milk, espresso poured over the top, and caramel drizzle. The espresso is added last, creating a loose layering effect similar to a latte macchiato. It's not a traditional Italian espresso macchiato (which is tiny and unsweetened) and not exactly a latte, but it's definitely milk-dominant and more similar to a flavored latte than a true macchiato.
 
 **Is a macchiato stronger than a latte?**
 The traditional espresso macchiato is much stronger — it's nearly straight espresso. A latte macchiato (the large layered version) is roughly similar to a latte in actual espresso concentration, though the espresso hits you in distinct sips rather than mixed throughout.
