@@ -167,4 +167,6 @@ No — a flat white is smaller and more concentrated than a latte. See our [Flat
 - [Flat White vs Cappuccino](/guides/flat-white-vs-cappuccino/) — same milk, different foam depth
 - [Cappuccino vs Latte](/guides/cappuccino-vs-latte/) — the classic milk drink comparison
 - [Cortado vs Macchiato](/guides/cortado-vs-macchiato/) — the small espresso-with-milk comparison
+- [What Is a Flat White?](/guides/what-is-a-flat-white/) — origin, ratio, and how it compares to all drinks
+- [What Is Cortado Coffee?](/guides/what-is-cortado-coffee/) — the complete cortado guide
 - [Getting Started with Home Espresso](/guides/getting-started/)

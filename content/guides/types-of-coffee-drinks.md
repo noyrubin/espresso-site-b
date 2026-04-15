@@ -60,13 +60,13 @@ Everything in this guide either uses espresso as its base, or uses an alternativ
 **What it is:** Equal parts espresso and steamed milk. Usually 2 oz espresso + 2 oz milk.  
 **Flavor:** Strong espresso flavor with just enough milk to smooth it. Not sweet unless you add syrup.  
 **Best for:** Anyone who finds lattes too milky but straight espresso too intense.  
-→ [Cortado vs. macchiato](/guides/cortado-vs-macchiato/) | [Cortado vs. flat white](/guides/cortado-vs-flat-white/)
+→ [Cortado vs. macchiato](/guides/cortado-vs-macchiato/) | [Cortado vs. flat white](/guides/cortado-vs-flat-white/) | [What is cortado coffee?](/guides/what-is-cortado-coffee/)
 
 ### [Flat White](/recipes/flat-white/)
 **What it is:** 2 shots of espresso with 4 oz of microfoamed whole milk. Smaller and stronger than a latte.  
 **Flavor:** Rich, creamy, espresso-forward. Proportionally more coffee than a latte.  
 **vs. latte:** Smaller, stronger, less milk foam.  
-→ [Flat white vs. latte](/guides/flat-white-vs-latte/) | [Flat white vs. cappuccino](/guides/flat-white-vs-cappuccino/)
+→ [Flat white vs. latte](/guides/flat-white-vs-latte/) | [Flat white vs. cappuccino](/guides/flat-white-vs-cappuccino/) | [What is a flat white?](/guides/what-is-a-flat-white/)
 
 ### Cappuccino
 **What it is:** Equal thirds: 2 oz espresso, 2 oz steamed milk, 2 oz milk foam.  
