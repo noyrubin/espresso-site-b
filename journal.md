@@ -4,6 +4,49 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-16 06:00 IDT — Pulse 32: Vietnamese Egg Coffee (6.6K Trending) + Café Bombón (4.5K) + Cardamom Latte (1K) — 7 Pages Now With SC Impressions
+
+**Action:**
+1. Pulled latest, read strategy.md (Day 13, 93 pages, Pulse 31 wrote vietnamese-coffee + cafe-con-leche + cortado-vs-latte)
+2. Consulted SEO skill (Ch4.1 query fan-out, Ch4.2 answer-first format, Ch5.2 internal linking, Ch6.2 linkable assets for trending content)
+3. Assessed GA4: 0 organic sessions (expected Day 13). SC IMPROVEMENT: **7 pages with impressions** (was 5). NEW: vietnamese-iced-coffee (1 imp pos 73), lavender-latte (1 imp pos 96). brown-sugar-shaken-espresso grew 6→8 impressions. Ristretto pos 7.75 / 4 impressions (unchanged — still near page 1 threshold). Query data shows "shaken espresso recipe" pos 29, "ca phe sua da" pos 73 (Vietnamese pages indexing), "at home barista" pos 46.
+4. DataForSEO: 2x search-volume batches (18 keywords total = $0.150) + 3x SERP checks ($0.006) = $0.156 this pulse
+5. KEY SKIP: "espresso macchiato" 12.1K diff 0 — SERP 100% dominated by Eurovision 2025 song by Tommy Cash (Estonia). YouTube x4, Wikipedia (song article), Spotify, Reddit. Not a coffee SERP. Skipped indefinitely.
+6. KEY SKIP: "golden latte" (3.6K diff 21) — turmeric/caffeine-free wellness drink, completely off-niche for a home espresso site. SERP confirmed: PAA about diabetes, caffeine-free, Martha Stewart #2.
+7. TRENDING FIND: "egg coffee vietnam" 6.6K/mo diff 2 — Fox News article published TODAY: "'Egg coffee' drink going viral on social media as doctor warns hidden health risk." AI overview present. Recipes feature present. SERP: ethnicspoon.com #1 (food blog 2019), legalnomads.com #2 (travel blog March 2026) — both beatable. This is a timely content opportunity with a trending news hook.
+8. CONFIRMED: "cafe bombon" 3.6K + "cafe bon bon" 880 = ~4.5K/mo diff 2 LOW. SERP: theworktop.com #1 (food/travel blog — beatable), coffee.fandom.com #2 (Fandom wiki), Starbucks At Home #3 (brand). No featured snippet. Natural cluster extension from cafe-con-leche + spanish-latte. PAA bridges to Vietnamese coffee comparison.
+9. CONFIRMED: "cardamom latte" 1K/mo diff 1 ULTRA-LOW. SERP: lucismorsels.com #1, aubreyskitchen.com #2, cheneetoday.com #3 — ALL tiny food blogs. AI overview + recipes feature. No featured snippet. Quick write, completes spiced latte cluster.
+10. WRITTEN: vietnamese-egg-coffee (Hanoi Cà Phê Trứng — history, recipe, safety guide, iced version, variations, 4 PAA; Recipe schema)
+11. WRITTEN: cafe-bombon (Valencia Spain 1:1 ratio layered drink — recipe, hot + iced, comparison table vs Vietnamese coffee + cafe con leche, 4 PAA; Recipe schema)
+12. WRITTEN: cardamom-latte (cardamom syrup recipe, green vs black cardamom table, Middle Eastern tradition context, 5 variations including cold brew + honey + vanilla; links to turkish-coffee, honey-latte, lavender-latte; Recipe schema)
+13. Internal links added: vietnamese-coffee guide → egg-coffee + cafe-bombon; vietnamese-iced-coffee recipe → egg-coffee + cafe-bombon (footer block); what-is-turkish-coffee → cardamom-latte (inline at cardamom mention); latte hub → cardamom-latte; types-of-coffee-drinks → all 3 new entries
+14. Committed and pushed (412fc79) — 96 pages total
+
+**Reasoning:**
+- **Vietnamese egg coffee (6.6K diff 2 — TRENDING):** The Fox News article published today ("egg coffee going viral on social media") is a real-time signal that search interest in this topic is spiking. Our vietnamese-coffee guide mentions egg coffee briefly but the specific query "egg coffee vietnam" (6.6K/mo) has distinct recipe intent — someone who searches this wants a step-by-step recipe, not a general guide. Per Ch4.1 fan-out: "vietnamese coffee" (our new 135K guide) → "vietnamese iced coffee" (existing recipe) → "egg coffee vietnam" (new recipe) is the logical query tree, and we now cover all three. The safety guidance angle (pasteurized eggs) is also compelling for AEO — exactly the kind of "doctor warns" hook that drives AI overview citations.
+- **Café bombón (4.5K diff 2):** We now have cafe-con-leche (Spanish), spanish-latte (Southeast Asian/global), and vietnamese-iced-coffee — all condensed milk coffee drinks. Café bombón is the specifically Spanish Valencia version with the 1:1 ratio and visual layering presentation. The PAA question "What is the difference between Vietnamese coffee and bombon coffee?" shows Google already understands the semantic relationship between our existing Vietnamese coffee content and this new page. Theworktop.com #1 (beatable), Fandom wiki #2 (beatable), Starbucks At Home #3 (brand but secondary). No featured snippet = our anchor-definition + comparison table should win it.
+- **Cardamom latte (1K diff 1 ULTRA-LOW):** Small volume but trivially easy SERP — lucismorsels (2018), aubreyskitchen (2020), cheneetoday (2026 — same small blog we've seen elsewhere). AI overview + recipes feature means our content will appear in both traditional and AI search results. The Middle Eastern tradition context (Arabic qahwa, Turkish coffee with cardamom) creates unique angle vs. all existing results which just give the recipe. Cross-links to turkish-coffee (cardamom mention) creates a bidirectional authority signal per Ch5.2.
+- **"espresso macchiato" skip (important decision):** 12.1K/mo diff 0 ULTRA-LOW normally = instant write. But the SERP check confirmed the query is 100% about the Eurovision 2025 song by Tommy Cash (Estonia) — representing Estonia, won Eurovision. The PAA questions were all about the song ("What is Estonia's song about?"). Coffee content would be completely irrelevant to the current search intent. This is a rare case where a previously-coffee SERP has been hijacked by viral pop culture. Note for monitoring: once Eurovision trend fades (likely months), the coffee intent may return.
+
+**SEO Skill Reference:**
+- **Ch4.1 (query fan-out):** Egg coffee fans out from vietnamese-coffee hub. Cafe bombon extends condensed milk espresso cluster (cafe-con-leche → cafe-bombon is a natural cross-link). Cardamom latte completes the spiced latte cluster (cinnamon dolce, lavender, honey, brown sugar → cardamom).
+- **Ch4.2 (answer-first format):** All 3 pages open with a bolded direct definition. All include labeled comparison tables. All FAQ sections directly address all visible PAA questions.
+- **Ch5.2 (internal linking):** Added internal links from 5 existing pages to new content: vietnamese-coffee guide, vietnamese-iced-coffee recipe, what-is-turkish-coffee, latte hub, types-of-coffee-drinks hub. Bidirectional — new pages link back to existing cluster pages.
+- **Ch6.2 (digital PR / linkable assets):** Vietnamese egg coffee trending today = real media hook. The page includes cultural history (Giảng Café, Hanoi 1940s, WWII milk shortage) + safety guide + recipe variations. Comprehensive enough to be cited by food media covering the viral trend.
+
+**Outcome:**
+- 3 new pages covering 11.1K/mo combined search volume at ultra-low competition
+- Vietnamese egg coffee page timed with viral trend signal (Fox News today) — could capture elevated search interest as indexing proceeds
+- SC acceleration confirmed: 7 pages with impressions, up from 5 last pulse. New pages entering impressions regularly now.
+- 96 total pages published
+
+**Next:**
+- Pulse 33: Research "cafe cubano" sub-queries (head term was HIGH 68/100 — check "cafe cubano recipe", "cuban espresso recipe"), "irish coffee recipe", "bulletproof coffee recipe" (distinct from butter-coffee); internal linking audit for all 96 pages
+- Watch for ristretto to break into page 1 (currently pos 7.75 — one SERP shift away)
+- Day 13-14: Expect more pages entering SC impressions as indexing continues accelerating
+
+---
+
 ## 2026-04-15 22:00 IDT — Pulse 31: Vietnamese Coffee (135K diff 26) + Café con Leche (49.5K diff 5) + Cortado vs Latte (9.9K diff 1) + Macchiato vs Latte Featured Snippet Optimization
 
 **Action:**
