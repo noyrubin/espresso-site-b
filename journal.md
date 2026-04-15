@@ -4,6 +4,42 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-15 14:00 IDT — Pulse 30: Flat White Guide (90.5K diff 6) + Cortado Coffee Guide (33.1K diff 3) — Indexing Accelerating
+
+**Action:**
+1. Pulled latest, read strategy.md (Day 12, 88 pages, Pulse 29 wrote what-is-espresso + spanish-latte)
+2. Consulted SEO skill (Ch4.1 query fan-out, Ch4.2 answer-first format)
+3. Assessed GA4: 0 organic sessions (expected Day 12). SC MAJOR UPDATE: **5 pages with impressions** (was 3) — cortado-vs-flat-white NEW (1 imp pos 66), brown-sugar-shaken-espresso NEW (6 imp pos 75.3), ristretto IMPROVED to pos 7.75 / 4 imp (was pos 10 / 2), homepage IMPROVED to 6 imp pos 55 (was 4 imp pos 51). Sitemap resubmission effect kicking in.
+4. Ran DataForSEO: 2x search-volume batches ($0.150) + 4x SERP checks ($0.008) = $0.158 this pulse
+5. FOUND: "flat white" 90,500/mo diff 6 LOW — MASSIVE find. No head term guide on site. SERP: Wikipedia #1, Reddit #2, chapelstreet.cafe #3 (LOCAL coffee shop — not a content site!), Starbucks #4, thekitchn.com #5, cafebritt.com #6, outin.com #7, bbcgoodfood.com #8. No featured snippet. Also covers "what is a flat white" 22,200/mo diff 9.
+6. FOUND: "cortado coffee" 33,100/mo diff 3 LOW — head term for cortado. We have recipe + comparison pages but no head term guide. SERP: Wikipedia #1, Starbucks #2, Reddit #3, baristamagazine.com #4, nescafe.com #5, bbcgoodfood.com #6, copenhagencoffeelab.com #7. All beatable. No featured snippet.
+7. FOUND: "cafe con leche" 49,500/mo diff 5 LOW — SERP has local_pack (restaurants named Cafe Con Leche), perfectdailygrind.com #4 and thespruceeats.com #5 beatable. Deferred to Pulse 31 (writing 2 major guides this pulse already).
+8. REJECTED: "types of coffee" MEDIUM 53/100 — too competitive, our types-of-coffee-drinks page covers same intent; "ginger latte" 2.9K diff 33 — minimalistbaker.com #1 (strong food blog); "v60 coffee" HIGH 95/100; coconut latte/oat milk cappuccino too low volume
+9. WRITTEN: what-is-a-flat-white (90.5K + 22.2K = 112.7K/mo combined coverage — origin debate AU vs NZ, microfoam technique, 4-drink comparison table, Starbucks flat white, what it's called in America, FAQ answers all 4 PAA questions)
+10. WRITTEN: what-is-cortado-coffee (33.1K diff 3 — Spanish/Basque origin, 1:1 ratio explained, 4-drink comparison table, Starbucks cortado details, Gibraltar/condensado/iced variations, FAQ answers all 4 PAA questions)
+11. Internal links: flat-white-vs-latte → what-is-a-flat-white; cortado-vs-flat-white → both new guides; types-of-coffee-drinks hub → both new guides
+12. Committed and pushed (dd06c21) — 90 pages total
+
+**Reasoning:**
+- **what-is-a-flat-white (90.5K diff 6 LOW):** This is the second-largest head term opportunity found in the experiment (after espresso martini at 246K). We had flat-white-vs-latte (Pulse 11) and flat-white-vs-cappuccino (Pulse 22) but no page targeting the head term "flat white" itself. The SERP gap is clear: position #3 is a LOCAL COFFEE SHOP blog post (chapelstreet.cafe), not a content authority. Positions #5-8 are small blogs. No featured snippet means we can win it. The page also captures "what is a flat white" (22.2K/mo diff 9) in the same URL, making it a 112.7K/mo combined target. Per Ch4.1: "what is X" queries are definitional anchors for topic clusters.
+- **what-is-cortado-coffee (33.1K diff 3 LOW):** We have cortado recipe, cortado-vs-macchiato, cortado-vs-flat-white, and what-is-gibraltar-coffee — but no page for the HEAD TERM "cortado coffee" (33.1K/mo). The SERP shows Wikipedia #1 and Starbucks #2 (both unbeatable) but then baristamagazine.com #4 (trade magazine with limited home-barista depth), nescafe.com #5 (brand page), bbcgoodfood.com #6 (recipe only), copenhagencoffeelab.com #7 (small lab blog) — all very beatable with a comprehensive home-barista guide.
+
+**SEO Skill Reference:**
+- **Ch4.1 (query fan-out):** "flat white" head term → "what is a flat white" → "flat white vs latte" → "flat white vs cappuccino" → "flat white recipe" — we now have coverage across the entire flat white query cluster. Same pattern with cortado: "cortado coffee" head term → comparison pages → recipe → Gibraltar variation.
+- **Ch4.2 (answer-first format):** Both pages open with a bolded, direct one-sentence definition. Tables throughout for comparison extractability. FAQ sections directly address all 4 PAA questions for each page's SERP.
+
+**Outcome:**
+- 2 pages published covering 123.7K/mo total search volume at very low competition
+- Indexing acceleration confirmed: 5 pages now showing SC impressions (was 3). Ristretto improved from pos 10 to pos 7.75.
+- Both new guides now serve as head term hubs linking to all cluster pages
+
+**Next:**
+- Pulse 31: "cafe con leche" (49.5K diff 5 — deferred from this pulse), "espresso macchiato" standalone check, "cortado vs latte" (9.9K diff 1)
+- Watch SC for more pages entering impressions at next pulse
+- GA4 organic may start showing sessions once ranked pages get clicked
+
+---
+
 ## 2026-04-15 06:00 IDT — Pulse 29: What Is Espresso Hub (18.1K diff 15) + Spanish Latte Recipe (12.1K diff 0 ULTRA-LOW)
 
 **Action:**

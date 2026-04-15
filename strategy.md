@@ -7,12 +7,12 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 12 of indexing — **88 pages published.** SC Pulse 29: Still only 3 pages indexed (milk-steaming-beginners pos 29.9 / 33 impressions, ristretto pos 10 / 2 impressions, homepage pos 51.25 / 4 impressions — homepage impressions crept up from 3→4, position worsened 44→51 fluctuation). GA4 organic still 0. Sitemap resubmission effect not yet visible — expected Day 12-14. **Pulse 29 additions:** what-is-espresso (18.1K diff 15 LOW — comprehensive espresso 101 hub), spanish-latte (12.1K diff 0 ULTRA-LOW — SERP desert, all small food blogs #1-3, recipes feature).
+Day 12 of indexing — **90 pages published.** SC Pulse 30: **5 pages with impressions** (up from 3). New: cortado-vs-flat-white (1 impression pos 66) + brown-sugar-shaken-espresso (6 impressions pos 75.3). Ristretto improved: pos 7.75 / 4 impressions (was pos 10 / 2). Homepage: 6 impressions pos 55 (was 4 impressions). Indexing acceleration underway — sitemap resubmission kicking in. GA4 organic still 0. **Pulse 30 additions:** what-is-a-flat-white (90.5K diff 6 — MASSIVE; chapelstreet.cafe local at #3, all beatable), what-is-cortado-coffee (33.1K diff 3 — head term guide completing cortado cluster).
 
 ## Key Data Points
-- **GA4 Pulse 29:** No organic sessions — GA4 organic empty. Day 12, expected.
-- **Search Console Pulse 29:** milk-steaming-beginners pos 29.9 / 33 impressions (unchanged). ristretto pos 10 / 2 impressions (unchanged). homepage pos 51.25 / 4 impressions (impressions +1, position fluctuation). Still only 3 pages indexed. Sitemap resubmit effect expected any time now.
-- **DataForSEO spend to date:** ~$3.381 (~$0.158 this pulse: 1x search-volume batch $0.075 + 2x SERP $0.004; total $0.079 Note: DataForSEO API showed $0.075 for 9-keyword batch)
+- **GA4 Pulse 30:** No organic sessions — GA4 organic empty. Day 12, expected.
+- **Search Console Pulse 30:** 5 pages with impressions. milk-steaming-beginners pos 29.9 / 33 impressions (unchanged). ristretto pos 7.75 / 4 impressions (IMPROVED from pos 10 / 2). homepage pos 55.17 / 6 impressions (IMPROVED from pos 51.25 / 4). cortado-vs-flat-white NEW: 1 impression pos 66. brown-sugar-shaken-espresso NEW: 6 impressions pos 75.3. Indexing accelerating.
+- **DataForSEO spend to date:** ~$3.539 (~$0.158 this pulse: 2x search-volume batches $0.150 + 4x SERP checks $0.008)
 - **Pulse 10 keyword research:** espresso tonic 9.9K diff 1 (✅ WRITTEN); cortado vs macchiato 2.9K diff 1 (✅ WRITTEN); cold brew cluster ALL high competition (skipped); latte vs cappuccino 27.1K diff 6 (likely captured by existing cappuccino-vs-latte page)
 - **Pulse 11 keyword research:** flat-white-vs-latte 22.2K/mo diff 5 (✅ WRITTEN); latte-vs-macchiato 6.6K/mo diff 2 (✅ WRITTEN); how-long-do-coffee-beans-last 2.9K/mo diff 8 no featured snippet (✅ WRITTEN); espresso-vs-americano 1.6K/mo diff 1 (✅ WRITTEN); REJECTED: how-to-store-coffee-beans HIGH 89/100, types-of-espresso-machines HIGH 100/100, espresso-tamping HIGH 100/100, single-origin-espresso HIGH 94/100
 
@@ -113,6 +113,9 @@ Day 12 of indexing — **88 pages published.** SC Pulse 29: Still only 3 pages i
 | how to froth milk without frother | 2,400 | 25/100 LOW | /guides/how-to-froth-milk-without-frother/ | **Published (NEW Pulse 27 — extends milk cluster; 4 methods: mason jar (shake), French press (pump), whisk, blender; milk comparison table; cold foam section; troubleshooting; frother upgrade table; links to milk-steaming-beginners + cold-foam)** |
 | what is espresso | 18,100 | 15/100 LOW | /guides/what-is-espresso/ | **Published (NEW Pulse 29 — comprehensive espresso 101 hub; SERP: Reddit #1, Folgers #2, Wikipedia #3, compasscoffee #4, drinktrade #5 — all beatable except top 3; AI overview present; covers brewing physics, crema, shot types, grind/dose/ratio, all espresso drinks)** |
 | spanish latte | 12,100 | 0/100 ULTRA-LOW | /recipes/spanish-latte/ | **Published (NEW Pulse 29 — SERP DESERT: brighteyedbaker.com #1, thehintofrosemary.com #2, littlesugarsnaps.com #3 — all tiny food blogs; Medium.com #4; AI overview + recipes feature; condensed milk recipe hot + iced, ratios table, comparison to regular latte, café con leche history)** |
+| flat white | 90,500 | 6/100 LOW | /guides/what-is-a-flat-white/ | **Published (NEW Pulse 30 — MASSIVE: 2nd largest head term. SERP: chapelstreet.cafe #3 (local coffee shop!), thekitchn.com #5, cafebritt.com #6, outin.com #7 — all beatable. No featured snippet. Also covers "what is a flat white" 22.2K/mo diff 9)** |
+| what is a flat white | 22,200 | 9/100 LOW | /guides/what-is-a-flat-white/ | **Published (NEW Pulse 30 — covered in same page as "flat white" head term)** |
+| cortado coffee | 33,100 | 3/100 LOW | /guides/what-is-cortado-coffee/ | **Published (NEW Pulse 30 — head term guide. SERP: baristamagazine.com #4, nescafe.com #5, bbcgoodfood.com #6, copenhagencoffeelab.com #7 — all beatable. No featured snippet. Covers all 4 PAA questions, 4-drink comparison table, Starbucks cortado, Gibraltar variations)** |
 
 ## Biggest Opportunities Found So Far
 
@@ -162,10 +165,10 @@ Day 12 of indexing — **88 pages published.** SC Pulse 29: Still only 3 pages i
 ### In Progress
 *(none currently)*
 
-### Published (88 pages)
+### Published (90 pages)
 - **Pillar:** /guides/getting-started/
 - **Recipes cluster (39):** cortado, americano, flat-white, cappuccino, latte, iced-latte, lungo, ristretto, affogato, espresso-con-panna, caramel-macchiato (Pulse 9 — 74K/mo), mocha (Pulse 9 — 24.2K cluster), espresso-tonic (Pulse 10 — 9.9K/mo diff 1), cold-brew-coffee-recipe (Pulse 15 — 18.1K/mo diff 23), cold-foam (Pulse 16 — 33.1K/mo diff 8 ULTRA-LOW), vietnamese-iced-coffee (Pulse 16 — 14.8K/mo diff 6 ULTRA-LOW), brown-sugar-shaken-espresso (Pulse 17 — 27.1K/mo diff 3 ULTRA-LOW), dirty-chai-latte (Pulse 17 — 9.9K/mo diff 3 ULTRA-LOW), espresso-martini (Pulse 18 — 246K/mo diff 19 LOW — BIGGEST FIND), vanilla-sweet-cream-cold-brew (Pulse 18 — 14.8K/mo diff 16 LOW), iced-matcha-latte (Pulse 18 — 14.8K/mo diff 9 ULTRA-LOW), pumpkin-spice-latte (Pulse 19 — 40.5K/mo diff 8 LOW), dalgona-coffee (Pulse 19 — 27.1K/mo diff 6 LOW), iced-coffee-recipe (Pulse 19 — 14.8K/mo diff 17 LOW), matcha-latte-recipe (Pulse 20 — 27.1K/mo diff 12 LOW), white-chocolate-mocha (Pulse 20 — 12.1K/mo diff 29 LOW), iced-americano (Pulse 21 — 12.1K/mo diff 1 ULTRA-LOW), **red-eye-coffee** (NEW Pulse 22 — 14.8K/mo diff 1 + covers black eye 1.9K), **shaken-espresso** (NEW Pulse 22 — 9.9K/mo diff 4 — head term guide), **vanilla-latte** (NEW Pulse 24 — 9.9K/mo diff 10 — homemade syrup + Starbucks copycat), **hazelnut-latte** (NEW Pulse 24 — 3.6K/mo diff 2 ULTRA-LOW — SERP desert with itch.io at #7), **cinnamon-dolce-latte** (NEW Pulse 26 — 5.4K/mo diff 8 — food blogs at #3-5 beatable), **lavender-latte** (NEW Pulse 26 — 4.4K/mo diff 29 — Starbucks permanent menu 2024, culinary lavender guide), **brown-sugar-latte** (NEW Pulse 26 — 1.9K/mo diff 1 ULTRA-LOW — hot steamed version distinct from shaken espresso), **spanish-latte** (NEW Pulse 29 — 12.1K/mo diff 0 ULTRA-LOW — SERP desert all small food blogs #1-3; condensed milk recipe hot + iced)
-- **Guides cluster (41):** best-espresso-machines-beginners, best-espresso-grinders, milk-steaming-beginners, espresso-troubleshooting, espresso-vs-coffee, espresso-ratio-guide, espresso-caffeine-guide, moka-pot-vs-espresso-machine, what-is-crema, what-is-a-macchiato, cappuccino-vs-latte, compact-espresso-machine-guide, espresso-grind-size-guide, water-for-espresso, espresso-beans-vs-coffee-beans, espresso-machine-cleaning-guide, what-is-a-doppio, espresso-glossary (Pulse 9), cortado-vs-macchiato (Pulse 10), flat-white-vs-latte (Pulse 11), latte-vs-macchiato (Pulse 11), how-long-do-coffee-beans-last (Pulse 11), espresso-vs-americano (Pulse 11), how-to-use-espresso-machine (Pulse 12), coffee-to-water-ratio (Pulse 12), french-press-ratio (Pulse 13), cold-brew-ratio (Pulse 13), arabica-vs-robusta (Pulse 13), what-is-turkish-coffee (Pulse 14 — 60.5K/mo diff 32), pour-over-ratio (Pulse 14), how-to-use-moka-pot (Pulse 14), what-is-siphon-coffee (Pulse 15 — 12.1K/mo diff 24), aeropress-guide (Pulse 15 — 5.5K combined diff 8/15), how-to-use-french-press (Pulse 16 — 9.9K/mo diff 30), **latte-macchiato** (NEW Pulse 20 — 8.1K/mo diff 2 ULTRA-LOW — inverted layered drink), **cold-brew-vs-iced-coffee** (NEW Pulse 24 — 8.1K/mo diff 10 — comparison guide; SERP: javacity #6, kitchenaid #7, dunkin #8 — all beatable), **what-is-espresso** (NEW Pulse 29 — 18.1K/mo diff 15 LOW — comprehensive espresso 101 hub page)
+- **Guides cluster (43):** best-espresso-machines-beginners, best-espresso-grinders, milk-steaming-beginners, espresso-troubleshooting, espresso-vs-coffee, espresso-ratio-guide, espresso-caffeine-guide, moka-pot-vs-espresso-machine, what-is-crema, what-is-a-macchiato, cappuccino-vs-latte, compact-espresso-machine-guide, espresso-grind-size-guide, water-for-espresso, espresso-beans-vs-coffee-beans, espresso-machine-cleaning-guide, what-is-a-doppio, espresso-glossary (Pulse 9), cortado-vs-macchiato (Pulse 10), flat-white-vs-latte (Pulse 11), latte-vs-macchiato (Pulse 11), how-long-do-coffee-beans-last (Pulse 11), espresso-vs-americano (Pulse 11), how-to-use-espresso-machine (Pulse 12), coffee-to-water-ratio (Pulse 12), french-press-ratio (Pulse 13), cold-brew-ratio (Pulse 13), arabica-vs-robusta (Pulse 13), what-is-turkish-coffee (Pulse 14 — 60.5K/mo diff 32), pour-over-ratio (Pulse 14), how-to-use-moka-pot (Pulse 14), what-is-siphon-coffee (Pulse 15 — 12.1K/mo diff 24), aeropress-guide (Pulse 15 — 5.5K combined diff 8/15), how-to-use-french-press (Pulse 16 — 9.9K/mo diff 30), **latte-macchiato** (NEW Pulse 20 — 8.1K/mo diff 2 ULTRA-LOW — inverted layered drink), **cold-brew-vs-iced-coffee** (NEW Pulse 24 — 8.1K/mo diff 10 — comparison guide; SERP: javacity #6, kitchenaid #7, dunkin #8 — all beatable), **what-is-espresso** (NEW Pulse 29 — 18.1K/mo diff 15 LOW — comprehensive espresso 101 hub page), **what-is-a-flat-white** (NEW Pulse 30 — 90.5K/mo diff 6 LOW — MASSIVE head term; chapelstreet.cafe local at #3, thekitchn.com #5 beatable; also covers "what is a flat white" 22.2K), **what-is-cortado-coffee** (NEW Pulse 30 — 33.1K/mo diff 3 LOW — cortado head term guide; baristamagazine.com #4, nescafe.com #5, bbcgoodfood.com #6 beatable)
 - **About page** (E-E-A-T)
 - **3 section index pages**
 
@@ -470,17 +473,28 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ 88 pages total — committed f009f8e
 - ✅ SEO skill: Ch4.1 (intent clusters — what-is-espresso is the fundamental definition query anchoring the entire espresso category), Ch4.2 (answer-first format on both pages), Ch3.2 (Recipe schema — spanish-latte has recipe_ingredients + recipe_instructions front matter for schema output)
 
-### Pulse 30 (14:00 IDT Apr 15)
-- **SC watch:** Day 12 afternoon — watch for first signs of indexing acceleration (sitemap resubmit Day 11). Expect new pages to appear in SC impressions.
+### Pulse 30 — DONE (14:00 IDT Apr 15)
+- ✅ SC IMPROVEMENT: Now 5 pages in impressions (was 3)! cortado-vs-flat-white (NEW, 1 impression pos 66) + brown-sugar-shaken-espresso (NEW, 6 impressions pos 75.3) + ristretto improved to pos 7.75 / 4 impressions (was pos 10 / 2) + homepage 6 impressions (was 4). Indexing accelerating — sitemap resubmit effect kicking in.
+- ✅ DataForSEO: 2x search-volume batches ($0.150) + 4x SERP checks ($0.008) = $0.158 this pulse
+- ✅ MASSIVE FIND: "flat white" 90,500/mo diff 6 LOW — LOCAL COFFEE SHOP at #3, cafebritt.com #6, outin.com #7 — all beatable. No featured snippet. 2nd largest head term found after espresso martini (246K).
+- ✅ STRONG FIND: "cortado coffee" 33,100/mo diff 3 LOW — baristamagazine.com #4, nescafe.com #5, bbcgoodfood.com #6, copenhagencoffeelab.com #7 — all beatable. No featured snippet.
+- ✅ FIND: "cafe con leche" 49,500/mo diff 5 LOW — SERP cluttered with local restaurants + local_pack; perfectdailygrind.com #4, thespruceeats.com #5 beatable. Deferred to Pulse 31.
+- ✅ WRITTEN: what-is-a-flat-white (90.5K + 22.2K combined → 112.7K/mo coverage); what-is-cortado-coffee (33.1K diff 3)
+- ✅ Internal links: flat-white-vs-latte → what-is-a-flat-white; cortado-vs-flat-white → both new guides; types-of-coffee-drinks hub → both new guides
+- ✅ 90 pages total — committed dd06c21
+- ✅ REJECTED: "types of coffee" MEDIUM 53/100 — same intent as our types-of-coffee-drinks page, too competitive for standalone; "ginger latte" 2.9K diff 33 — minimalistbaker.com #1 (strong); "coconut latte" 1.3K too low; "piccolo latte" 590/mo too low; "lungo vs americano" 590/mo too low; "oat milk cappuccino" 210/mo too low; "v60 coffee" HIGH 95/100 skip
+- ✅ SEO skill: Ch4.1 (fan-out — what-is-X head term guides complete the cortado + flat white clusters), Ch4.2 (answer-first format — both open with bolded definition, tables throughout for extractability), Ch4.1 (PAA coverage — all 4 PAA questions for both SERP addressed in FAQ sections)
+
+### Pulse 31 (22:00 IDT Apr 15)
+- **SC watch:** 5 pages in impressions — expect further acceleration. Watch for any new keywords appearing for recently published pages.
 - **Content priorities (to validate with DataForSEO):**
-  1. "what is coffee" or "types of coffee" — broad head terms, check volume + competition. May complete the foundational content triangle (we have what-is-espresso, espresso-vs-coffee).
-  2. "cortado coffee" — check if different from our cortado recipe; may be the head term (5.4K diff 0 ULTRA-LOW)
-  3. "rose latte" — 1K/mo diff 12 (low volume, probably skip)
-  4. "coconut latte" — check volume; trending plant-based drink
-  5. "oat milk cappuccino" — check volume; might be low
-  6. More keyword-ideas off "what is espresso" — query fan-out (Ch4.1)
-- **Technical:** No new issues identified
-- **SEO skill:** Ch5.1 (internal linking — with 86 pages, run an orphan check), Ch7.1 (measure SC trends)
+  1. **"cafe con leche"** — 49,500/mo diff 5 LOW — SERP cluttered but perfectdailygrind.com #4 beatable. Deferred from Pulse 30. Check if recipe or guide intent.
+  2. **"espresso macchiato"** — 12,100/mo diff 0 ULTRA-LOW — currently covered inside what-is-a-macchiato.md. SERP check to see if standalone page warrants writing.
+  3. **"cortado vs latte"** — 9,900/mo diff 1 ULTRA-LOW — completes cortado comparison cluster (we have vs-macchiato + vs-flat-white)
+  4. **"latte vs coffee"** — 2,900/mo diff 1 ULTRA-LOW — simple comparison covered partially by espresso-vs-coffee + latte guides
+  5. **"flat white coffee"** fan-out — check "Australian flat white", "flat white recipe" volume
+- **Technical:** No new issues
+- **SEO skill:** Ch4.1 (query fan-out — cortado + flat white clusters), Ch7.1 (SC trends tracking)
 
 ---
 ## New Hypotheses (Pulse 6+)
