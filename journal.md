@@ -4,6 +4,48 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-15 22:00 IDT — Pulse 31: Vietnamese Coffee (135K diff 26) + Café con Leche (49.5K diff 5) + Cortado vs Latte (9.9K diff 1) + Macchiato vs Latte Featured Snippet Optimization
+
+**Action:**
+1. Pulled latest, read strategy.md (Day 12, 90 pages, Pulse 30 wrote what-is-a-flat-white + what-is-cortado-coffee)
+2. Consulted SEO skill (Ch4.1 query fan-out, Ch4.2 answer-first format + featured snippet optimization, Ch2.1 indexing)
+3. Assessed GA4: 0 organic sessions (expected Day 12). SC: same 5 pages with impressions — no change from Pulse 30 (milk-steaming pos 29.9 / 33 imps, ristretto pos 7.75 / 4 imps, homepage pos 55.17 / 6 imps, cortado-vs-flat-white 1 imp pos 66, brown-sugar-shaken-espresso 6 imp pos 75.3). NEW from query data: "shaken espresso recipe" 1 impression pos 29 — shaken-espresso page entering SC.
+4. Ran DataForSEO: 2x search-volume batches (7 + 8 keywords = $0.150) + 4x SERP checks (cafe-con-leche + macchiato-vs-latte + vietnamese-coffee + cortado-vs-latte = $0.006) = $0.156 this pulse
+5. MASSIVE FIND: "vietnamese coffee" 135K/mo diff 26 LOW — 3rd largest head term found in this experiment (behind espresso martini 246K, flat white 90.5K). SERP: thewoksoflife.com #1 (recipe guide, no phin culture/egg coffee/coconut coffee depth), Wikipedia #2, nguyencoffeesupply.com #3 (product), capheroasters.com #4 (tiny roaster), Reddit #5, hungryhuy.com #6 (food blog). No featured snippet. ENTIRELY DISTINCT from our existing vietnamese-iced-coffee recipe page.
+6. FEATURED SNIPPET OPPORTUNITY: "macchiato vs latte" 27.1K diff 3 — featured snippet held by nescafe.com GB (beatable — UK brand site vs our US-optimized content authority). Our existing latte-vs-macchiato.md covers this thoroughly but was titled for the lower-volume term. Updated title to "Macchiato vs Latte" for 27.1K capture.
+7. CONFIRMED: "cafe con leche" 49.5K diff 5 LOW — SERP has local_pack at #1 (restaurant, not beatable for head term), but perfectdailygrind.com #4, thespruceeats.com #5, dinnerthendessert.com #10 — all beatable for informational + recipe intent.
+8. CONFIRMED: "cortado vs latte" 9.9K diff 1 ULTRA-LOW — completes the cortado comparison cluster (we had vs-macchiato + vs-flat-white; latte was the missing comparison)
+9. WRITTEN: cafe-con-leche (49.5K diff 5 — Spanish, Cuban, Puerto Rican variants; recipe + guide hybrid; vs latte table + vs cafe-au-lait comparison; Recipe schema via front matter)
+10. WRITTEN: vietnamese-coffee (135K diff 26 — comprehensive cultural + technique guide; phin filter how-to; hot + iced methods; egg coffee recipe; coconut coffee method; bac xiu; bean selection; vs espresso comparison table — completely distinct from vietnamese-iced-coffee.md recipe page)
+11. WRITTEN: cortado-vs-latte (9.9K diff 1 — comparison table, ratio analysis, flavor profiles, how-to-choose section)
+12. UPDATED: latte-vs-macchiato.md — title changed to "Macchiato vs Latte: What's the Difference?" (27.1K primary term), meta description updated, added snippet-ready intro paragraph "Macchiato vs latte at a glance", added "Is a Starbucks macchiato just a latte?" PAA answer
+13. Internal links: cafe-au-lait → cafe-con-leche; vietnamese-iced-coffee → vietnamese-coffee guide; what-is-cortado-coffee → cortado-vs-latte (new Related Guides section added)
+14. Committed and pushed (1cc8bd1) — 93 pages total
+
+**Reasoning:**
+- **vietnamese-coffee (135K diff 26 LOW):** The "what is X" + "how to make X" dual intent query at 135K/mo represents a top-3 head term discovery. The current SERP leader (thewoksoflife.com) is a recipe page that doesn't cover phin filter mechanics, Vietnamese coffee culture, egg coffee, coconut coffee, bac xiu, or bean selection. Our comprehensive guide covers all of these with comparison tables and step-by-step phin instructions — significantly more valuable than existing #1 result. Distinct from our existing vietnamese-iced-coffee.md (which is a recipe page). Per Ch4.1 fan-out: the head term "vietnamese coffee" anchors a cluster that our iced recipe page only partially covers.
+- **cafe-con-leche (49.5K diff 5 LOW):** This was planned in Pulse 30 and deferred. The SERP shows #1 is a restaurant (cafeconlechels.com — local listing, not a content page, unbeatable for local intent) but #4-10 are beatable: perfectdailygrind.com, thespruceeats.com, instructables.com, dinnerthendessert.com — none are coffee-specialist authorities. Our recipe + guide hybrid covers three distinct regional variants (Spanish, Cuban, Puerto Rican) that no existing top-10 page covers comprehensively. Recipe schema output via front matter fields.
+- **cortado-vs-latte (9.9K diff 1):** With cortado-vs-macchiato, cortado-vs-flat-white, and what-is-cortado-coffee all published, the cortado cluster was missing its most obvious comparison. "Cortado vs latte" is the most searched cortado comparison query (9.9K vs 5.4K for vs-flat-white, 2.9K for vs-macchiato). Per Ch5.1: completing this comparison cluster strengthens topical authority signals for the entire cortado topic cluster.
+- **latte-vs-macchiato title optimization:** The existing page (written Pulse 11 for 6.6K/mo "latte vs macchiato") is comprehensive but titled for the lower-volume query direction. "Macchiato vs latte" gets 27.1K/mo and has a featured snippet taken by nescafe.com GB — a UK brand page. Title change + intro paragraph update maintains our content quality while targeting the 4x higher-volume term. Per Ch4.2: the opening paragraph now contains a concise snippet-extractable "macchiato vs latte at a glance" sentence.
+
+**SEO Skill Reference:**
+- **Ch4.1 (query fan-out):** "vietnamese coffee" is the head term that fans out to "vietnamese iced coffee" (our existing recipe), "egg coffee recipe", "phin filter", "ca phe sua da", "vietnamese coffee recipe". Our new guide covers the entire fan-out from one comprehensive page. Same pattern for cafe-con-leche → "cafe con leche recipe", "what is cafe con leche", "Spanish coffee drink".
+- **Ch4.2 (answer-first format):** All three new pages open with a bolded direct definition. Tables throughout for comparison extractability. FAQ sections cover all PAA questions visible in SERP. latte-vs-macchiato intro updated to include "macchiato vs latte at a glance" summary sentence for featured snippet extractability.
+- **Ch2.1 (indexing patience):** Day 12, same 5 pages with impressions. Indexing continues — sitemap resubmission effect from Pulse 26 is still propagating through the 93-page inventory.
+
+**Outcome:**
+- 3 new pages covering 194.4K/mo combined volume (135K + 49.5K + 9.9K) at very low competition
+- 1 updated page now targets "macchiato vs latte" 27.1K featured snippet (4x improvement over previous keyword target)
+- Cortado comparison cluster complete: cortado-vs-macchiato + cortado-vs-flat-white + cortado-vs-latte + what-is-cortado-coffee + cortado recipe
+- 93 pages total — comprehensive topical coverage across home espresso niche
+
+**Next:**
+- Pulse 32: "espresso macchiato" standalone check (12.1K diff 0), "cafe bombon" (3.6K diff 2), fan-out from vietnamese-coffee cluster
+- Watch SC for ristretto breaking into top 10 (currently pos 7.75 — one more SERP shift away from page 1)
+- Day 13: expect continued indexing acceleration from sitemap resubmission + publishing volume
+
+---
+
 ## 2026-04-15 14:00 IDT — Pulse 30: Flat White Guide (90.5K diff 6) + Cortado Coffee Guide (33.1K diff 3) — Indexing Accelerating
 
 **Action:**
