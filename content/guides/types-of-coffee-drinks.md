@@ -151,6 +151,10 @@ Espresso, steamed milk, cinnamon syrup, whipped cream, and cinnamon topping. Swe
 Espresso with sweetened condensed milk and steamed (or cold) milk. Richer and creamier than a standard latte, with a natural caramel-like sweetness. Served hot or iced.  
 → [Spanish latte recipe](/recipes/spanish-latte/)
 
+### Cardamom Latte
+Espresso, steamed milk, and cardamom syrup. Warm, floral, and aromatic — rooted in the Middle Eastern tradition of adding cardamom to coffee. Subtler than chai, brighter than a plain latte.  
+→ [Cardamom latte recipe](/recipes/cardamom-latte/)
+
 ---
 
 ## Iced Coffee Drinks
@@ -199,6 +203,12 @@ Whipped cold milk (no steam, no heat) that floats on top of iced drinks. A toppi
 
 ### [Vietnamese Iced Coffee](/recipes/vietnamese-iced-coffee/)
 Very strong drip coffee brewed through a Vietnamese phin filter over sweetened condensed milk and ice. Intensely sweet, rich, and caffeinated. One of the most distinctive regional coffee traditions.
+
+### [Vietnamese Egg Coffee (Cà Phê Trứng)](/recipes/vietnamese-egg-coffee/)
+Strong Vietnamese coffee topped with a thick, mousse-like whipped egg yolk and condensed milk cream. A Hanoi specialty dating to the 1940s — tastes like coffee met a tiramisu custard. Served hot in a small glass inside a bowl of hot water.
+
+### [Café Bombón](/recipes/cafe-bombon/)
+A Spanish espresso layered over sweetened condensed milk in a 1:1 ratio in a small clear glass. The visual two-layer presentation is the signature. Stirred before drinking. Originally from Valencia.
 
 ---
 

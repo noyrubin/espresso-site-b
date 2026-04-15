@@ -173,8 +173,10 @@ Yes — some people drink it black (cà phê đen đá), either unsweetened or w
 ## Related Guides
 
 - [Vietnamese Iced Coffee Recipe](/recipes/vietnamese-iced-coffee/) — step-by-step iced cà phê sữa đá with variations
+- [Vietnamese Egg Coffee (Cà Phê Trứng)](/recipes/vietnamese-egg-coffee/) — the Hanoi specialty with whipped egg yolk cream
 - [Arabica vs Robusta](/guides/arabica-vs-robusta/) — understanding the bean behind Vietnamese coffee
 - [What Is Espresso?](/guides/what-is-espresso/) — how espresso compares to Vietnamese coffee concentrate
 - [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) — another cold concentrate method
 - [How to Use a Moka Pot](/guides/how-to-use-moka-pot/) — stovetop alternative for making Vietnamese coffee at home
 - [Spanish Latte Recipe](/recipes/spanish-latte/) — condensed milk in a latte format; similar sweet-milk concept
+- [Café Bombón Recipe](/recipes/cafe-bombon/) — Spanish condensed milk espresso; same ingredient, different tradition

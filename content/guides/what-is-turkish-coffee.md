@@ -98,7 +98,7 @@ Turkish coffee has a **rich, bold, slightly bitter flavor** with a thick, almost
 
 - **Without sugar (sade):** Bitter, intense, full-bodied. For those who love their coffee black.
 - **With a little sugar:** The bitterness is balanced — this is the most common way it's drunk in Turkey.
-- **With cardamom:** Aromatic, slightly floral/spicy — traditional in some Middle Eastern preparations.
+- **With cardamom:** Aromatic, slightly floral/spicy — traditional in some Middle Eastern preparations. If you enjoy cardamom in coffee, see our [cardamom latte recipe](/recipes/cardamom-latte/) for a modern espresso take on this ancient pairing.
 
 **Is Turkish coffee stronger than espresso?**
 

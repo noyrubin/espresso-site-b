@@ -175,3 +175,7 @@ Café Du Monde (with chicory) is the most widely available traditional option in
 
 **Is Vietnamese iced coffee stronger than espresso?**
 Not necessarily in caffeine — espresso has 60–70mg per ounce, phin-brewed coffee has less per ounce. But Vietnamese iced coffee is typically served as a strong concentrate with 2–4 tablespoons of condensed milk, which means the total coffee volume is high. The strong flavor makes it feel very intense. See our [espresso caffeine guide](/guides/espresso-caffeine-guide/) for a detailed comparison.
+
+---
+
+*Explore more Vietnamese coffee: [Vietnamese Coffee: Complete Guide](/guides/vietnamese-coffee/) | [Vietnamese Egg Coffee (Cà Phê Trứng)](/recipes/vietnamese-egg-coffee/) | [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) | [Café Bombón — Spanish Condensed Milk Espresso](/recipes/cafe-bombon/)*
