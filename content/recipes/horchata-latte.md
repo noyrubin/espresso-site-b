@@ -159,4 +159,4 @@ Only when you add espresso. Traditional horchata is coffee-free. The "latte" ver
 
 ---
 
-*Also in the specialty latte collection: [Cardamom Latte →](/recipes/cardamom-latte/) · [Spanish Latte →](/recipes/spanish-latte/) · [Café Cubano →](/recipes/cafe-cubano/) · [Cinnamon Dolce Latte →](/recipes/cinnamon-dolce-latte/)*
+*Also in the specialty latte collection: [Cardamom Latte →](/recipes/cardamom-latte/) · [Spanish Latte →](/recipes/spanish-latte/) · [Café Cubano →](/recipes/cafe-cubano/) · [Cinnamon Dolce Latte →](/recipes/cinnamon-dolce-latte/) · [Coconut Latte →](/recipes/coconut-latte/) · [Taro Latte →](/recipes/taro-latte/)*
