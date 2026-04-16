@@ -4,6 +4,46 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-16 14:00 IDT — Pulse 33: Irish Coffee Recipe (27.1K diff 12) + Café Cubano (14.8K diff 18) — 9 Pages Now With SC Impressions
+
+**Action:**
+1. Pulled latest, read strategy.md (Day 13, 96 pages, Pulse 32 wrote vietnamese-egg-coffee + cafe-bombon + cardamom-latte)
+2. Consulted SEO skill (Ch4.1 query fan-out, Ch4.2 answer-first format, Ch5.2 internal linking)
+3. Assessed GA4: 0 organic sessions (expected Day 13). SC IMPROVEMENT: **9 pages with impressions** (UP from 7). NEW: what-is-siphon-coffee (2 imp pos 87.5), cortado-vs-flat-white UP to 2 imp pos 62. Brown-sugar-shaken-espresso UP to 12 impressions pos 74.5 (was 8). Milk-steaming-beginners 34 impressions pos 29.2 (was 33). Vietnamese-iced-coffee 2 impressions pos 83.5 (was 1). Ristretto unchanged pos 7.75 / 4 impressions. Tag page: tags/latte-macchiato 3 impressions pos 86 (tag pages indexed — note for future). Query data: "shaken espresso recipe" pos 29, "how to steam milk without foam" pos 48, "milk steaming tips" pos 58.
+4. DataForSEO: 2x search-volume batches (16 keywords total = $0.150) + 2x SERP checks ($0.004) = $0.154 this pulse. Total to date ~$4.00
+5. CONFIRMED: "irish coffee recipe" 27.1K/mo diff 12 LOW — SERP: boulderlocavore.com #5, planninginspired.com #6, thedeliciousspoon.com #7 — all small food blogs beatable. No featured snippet. PAA confirms 4 questions. Completes coffee cocktail cluster (espresso-martini is our #1 page at 246K).
+6. CONFIRMED: "cafe cubano" 14.8K/mo diff 18 LOW — "cafe cubano recipe" 2.9K diff 4 covers on same page. SERP: asassyspoon.com #4 (beatable food blog 2021), Starbucks At Home #5, Amazon product #6, YouTube Shorts #4+#8 — non-content results dominating. PAA includes "What is the difference between Café Cubano and cortado?" — natural link to cortado pages.
+7. SKIPPED: "cuban coffee" 49.5K — HIGH 68/100. "iced espresso" 2.4K — MEDIUM 65/100. "types of espresso drinks" 2.9K — MEDIUM 60/100. "lungo recipe" 30/mo — trivially low.
+8. WRITTEN: irish-coffee-recipe (Joe Sheridan 1943/Foynes; Buena Vista SF 1952; whiskey comparison table; cream float technique; 5 variations incl. espresso version; Baileys FAQ; Recipe schema)
+9. WRITTEN: cafe-cubano (espumita technique as key differentiator; colada/cortadito/cafe-con-leche-cubano comparison table; Café Bustelo origin story corrected — Spanish immigrant NYC 1928; Café Bustelo/Pilon/La Llave brand table; Recipe schema)
+10. Internal links added: espresso-martini → irish-coffee-recipe; red-eye-coffee → irish-coffee-recipe; cafe-con-leche → cafe-cubano; how-to-use-moka-pot → cafe-cubano
+11. Committed and pushed (876ed58) — 98 pages total
+
+**Reasoning:**
+- **Irish coffee recipe (27.1K diff 12 LOW):** With espresso-martini (246K/mo) as our flagship cocktail page, adding Irish coffee completes the "hot coffee cocktail" cluster. The SERP is cleanly beatable — boulderlocavore.com (#5), planninginspired.com (#6), thedeliciousspoon.com (#7) are all small food/travel blogs. The espresso version angle is a natural differentiator for an espresso-focused site. Internal link from espresso-martini is the most natural possible connection — same audience, complementary intent. Per Ch4.1 fan-out: espresso-martini → irish-coffee-recipe is a logical follow-on query for cocktail-curious readers.
+- **Café cubano (14.8K diff 18 LOW):** The SERP for "cafe cubano" is surprisingly weak for a 14.8K keyword — asassyspoon.com (Oct 2021) at #4, Starbucks brand page #5, Amazon product listing #6, YouTube Shorts x2. The existing #4 is a brief recipe post without the espumita technique depth, cultural context (ventanita culture, Miami), or comparison table. Our page covers the espumita technique in detail (the key differentiator that no existing page explains well), plus colada/cortadito/cafe con leche cubano in a single table. Natural extension of our Latin coffee cluster: cafe-con-leche → cafe-cubano (Cuban espresso base, same condensed-milk-and-strong-coffee family) + cafe-bombon → cafe-cubano (both condensed milk espresso drinks, different cultures). Per Ch4.1: "cafe cubano" also covers "cafe cubano recipe" 2.9K diff 4 via the same page — combined effective coverage is 17.7K/mo.
+- **SC acceleration note:** 9 pages with impressions (up from 7) on Day 13. Siphon-coffee page entering SC without explicit sitemap submit this pulse — organic indexing crawl coverage improving. Tag pages indexing (tags/latte-macchiato) is notable — PaperMod generates these automatically. Not actionable but confirms Google is crawling all site structure.
+
+**SEO Skill Reference:**
+- **Ch4.1 (query fan-out):** Irish coffee fans out from espresso-martini (coffee cocktail cluster). Cafe cubano fans out from cafe-con-leche (Latin coffee cluster). Both follow the pattern of completing existing clusters rather than starting new ones.
+- **Ch4.2 (answer-first format):** Both pages open with a bolded 1-sentence direct definition. Irish coffee: lead with the cream float secret (that's what makes it Irish coffee — not just whiskey in coffee). Cafe cubano: lead with espumita as the differentiator — that's the non-obvious thing people need to understand.
+- **Ch5.2 (internal linking):** 4 existing pages updated with links to new content: espresso-martini (strong authority page), red-eye-coffee (same coffee-strong-drink category), cafe-con-leche (same Latin coffee cluster), how-to-use-moka-pot (the authentic brewing method for cafe cubano). Both new pages link back to their respective clusters.
+
+**Outcome:**
+- 2 new pages covering 44K/mo combined search volume at LOW competition
+- Coffee cocktail cluster now has: espresso-martini (246K) + irish-coffee-recipe (27.1K)
+- Latin coffee cluster now complete: cafe-con-leche (49.5K) + cafe-bombon (4.5K) + spanish-latte (12.1K) + cafe-cubano (14.8K) + vietnamese-coffee (135K) + vietnamese-iced-coffee (14.8K) + vietnamese-egg-coffee (6.6K)
+- SC: 9 pages with impressions, continued acceleration
+- 98 total pages published
+
+**Next:**
+- Pulse 34: Investigate "hot toddy with coffee", "irish cream coffee", "kahlua coffee recipe" (complete coffee cocktail/spiked coffee cluster); OR "iced chai latte" (iced version of dirty chai); research "cappuccino recipe variations" PAA gaps
+- Watch for milk-steaming-beginners to break page 3 (currently pos 29.2 — strong acceleration signal, first click candidate)
+- Day 14+: Expect ristretto to enter page 1 (pos 7.75 — one SERP shift)
+- Consider a "coffee cocktails" category hub page to link all cocktail content together
+
+---
+
 ## 2026-04-16 06:00 IDT — Pulse 32: Vietnamese Egg Coffee (6.6K Trending) + Café Bombón (4.5K) + Cardamom Latte (1K) — 7 Pages Now With SC Impressions
 
 **Action:**
