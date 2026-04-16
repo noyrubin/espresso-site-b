@@ -163,6 +163,7 @@ The cream must be lightly whipped — not still liquid, not stiff peaks. Pour it
 ## Related Recipes
 
 - [Espresso Martini Recipe](/recipes/espresso-martini/) — the cold coffee cocktail counterpart
+- [Coffee Cocktails Guide](/guides/coffee-cocktails/) — 10 best coffee cocktails to make at home
 - [Red Eye Coffee](/recipes/red-eye-coffee/) — a shot of espresso in a cup of drip coffee
 - [Butter Coffee Guide](/guides/butter-coffee/) — another coffee-fat combination with different origins
 - [Shaken Espresso](/recipes/shaken-espresso/) — espresso techniques without the alcohol

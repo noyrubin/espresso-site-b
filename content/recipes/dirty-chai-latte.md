@@ -181,4 +181,4 @@ Very good iced. The iced version is arguably more refreshing than the hot versio
 
 ---
 
-*Explore more espresso drink recipes: [caramel macchiato](/recipes/caramel-macchiato/), [mocha latte](/recipes/mocha/), [cortado](/recipes/cortado/), [iced latte](/recipes/iced-latte/), and [pumpkin spice latte](/recipes/pumpkin-spice-latte/).*
+*Explore more espresso drink recipes: [caramel macchiato](/recipes/caramel-macchiato/), [mocha latte](/recipes/mocha/), [cortado](/recipes/cortado/), [iced latte](/recipes/iced-latte/), and [pumpkin spice latte](/recipes/pumpkin-spice-latte/). For the cold version with cold-steep chai concentrate, see the [iced chai latte recipe →](/recipes/iced-chai-latte/).*
