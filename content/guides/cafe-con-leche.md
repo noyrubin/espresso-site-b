@@ -151,6 +151,7 @@ Both use a 1:1 coffee-to-milk ratio, but they differ in coffee base: café con l
 
 - [Café au Lait](/guides/cafe-au-lait/) — the French version (different coffee base, same 1:1 ratio)
 - [Spanish Latte Recipe](/recipes/spanish-latte/) — condensed milk variation popular in Southeast Asia
+- [Café Cubano Recipe](/recipes/cafe-cubano/) — Cuban sweetened espresso with espumita foam, the cafecito tradition
 - [What Is a Cortado?](/guides/what-is-cortado-coffee/) — 1:1 espresso to steamed milk, café con leche's sibling
 - [Latte Recipe](/recipes/latte/) — the full milky version with microfoam
 - [Cappuccino vs Latte](/guides/cappuccino-vs-latte/) — two Italian classics compared

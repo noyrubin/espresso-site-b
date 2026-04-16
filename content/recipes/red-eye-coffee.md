@@ -129,4 +129,4 @@ Red eye coffee has a layered, complex flavor: the rounded, slightly acidic profi
 
 ---
 
-*Want more strong espresso drinks? Try our [espresso con panna](/recipes/espresso-con-panna/) or explore the [iced americano](/recipes/iced-americano/) for a different way to combine espresso with water. For a caffeine comparison, see our [espresso caffeine guide](/guides/espresso-caffeine-guide/).*
+*Want more strong espresso drinks? Try our [espresso con panna](/recipes/espresso-con-panna/) or explore the [iced americano](/recipes/iced-americano/) for a different way to combine espresso with water. For a caffeine comparison, see our [espresso caffeine guide](/guides/espresso-caffeine-guide/). For the classic coffee cocktail that combines espresso with whiskey, see our [Irish coffee recipe](/recipes/irish-coffee-recipe/).*
