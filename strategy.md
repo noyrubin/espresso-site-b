@@ -7,12 +7,12 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 13 of indexing — **98 pages published.** SC Pulse 33: **9 pages with impressions** (UP from 7 — strong acceleration). NEW: what-is-siphon-coffee 2 impressions pos 87.5 (NEW!), cortado-vs-flat-white 2 impressions pos 62 (was 1). tags/latte-macchiato tag page 3 impressions pos 86. Milk-steaming-beginners 34 impressions (UP from 33). Brown-sugar-shaken-espresso 12 impressions (UP from 8). Vietnamese-iced-coffee 2 impressions (was 1). Ristretto unchanged at pos 7.75 / 4 impressions. GA4 organic still 0 (Day 13, expected). **Pulse 33 additions:** irish-coffee-recipe (27.1K diff 12 LOW — coffee cocktail cluster anchored by espresso-martini), cafe-cubano (14.8K diff 18 LOW + covers cafe cubano recipe 2.9K diff 4 — extends Latin coffee cluster). SEO skill: Ch4.1 fan-out (cocktail cluster completion), Ch4.2 answer-first (espumita technique as key differentiator), Ch5.2 internal linking (4 existing pages linked to new content).
+Day 13 of indexing — **101 pages published.** SC Pulse 34: **9 pages with impressions** (stable). brown-sugar-shaken-espresso UP to 14 impressions (was 12). what-is-siphon-coffee UP to 6 impressions (was 2 — strong jump). milk-steaming-beginners 34 impressions pos 29.2 (unchanged). ristretto 4 impressions pos 7.75 (unchanged — page 1 threshold). GA4 organic still 0 (Day 13, expected). **Pulse 34 additions:** coffee-cocktails hub (9.9K diff 6 ULTRA-LOW — liquor.com #1 + Reddit #2 + YouTube x2 = no coffee-focused content hub in top 5), iced-chai-latte (9.9K diff 9 — dirty iced chai angle with espresso differentiator + cold-steep concentrate method), horchata-latte (3.6K diff 8 — SERP desert of 2014-2017 food blogs). SEO skill: Ch4.1 fan-out (coffee cocktail hub anchors espresso-martini + irish-coffee cluster), Ch5.2 internal linking (4 existing pages linked to new content).
 
 ## Key Data Points
-- **GA4 Pulse 33:** No organic sessions — GA4 organic empty. Day 13, still expected.
-- **Search Console Pulse 33:** 9 pages with impressions (UP from 7). milk-steaming-beginners pos 29.2 / 34 impressions (UP from 33). ristretto pos 7.75 / 4 impressions (unchanged — page 1 threshold). homepage pos 55.2 / 6 impressions (unchanged). cortado-vs-flat-white 2 impressions pos 62 (UP from 1). brown-sugar-shaken-espresso 12 impressions pos 74.5 (UP from 8). vietnamese-iced-coffee 2 impressions pos 83.5 (UP from 1). what-is-siphon-coffee 2 impressions pos 87.5 (NEW!). lavender-latte 1 impression pos 96 (unchanged). tags/latte-macchiato tag page 3 impressions pos 86 (tag pages indexed). Query data: "shaken espresso recipe" pos 29, "how to steam milk without foam" pos 48, "latte macchiato" pos 83.5, "lavender latte" pos 96.
-- **DataForSEO spend to date:** ~$4.00 (~$0.154 this pulse: 2x search-volume batches = $0.150 + 2x SERP checks = $0.004)
+- **GA4 Pulse 34:** No organic sessions — GA4 organic empty. Day 13, still expected.
+- **Search Console Pulse 34:** 9 pages with impressions (stable). milk-steaming-beginners pos 29.2 / 34 impressions (stable). ristretto pos 7.75 / 4 impressions (unchanged — page 1 threshold). homepage pos 55.2 / 6 impressions. cortado-vs-flat-white 2 impressions pos 62. brown-sugar-shaken-espresso **14 impressions** pos 76.5 (UP from 12). vietnamese-iced-coffee 2 impressions pos 83.5. what-is-siphon-coffee **6 impressions** pos 82.7 (UP from 2 — strong jump!). lavender-latte 1 impression pos 96. tags/latte-macchiato 3 impressions pos 86. Query data: "how to steam milk" pos 56.75 (4 imps), "brown sugar shaken espresso" pos 76.7 (3 imps), "at home barista" pos 46 (2 imps).
+- **DataForSEO spend to date:** ~$4.33 (~$0.33 this pulse: 2x search-volume batches = $0.150 + 4x SERP checks = $0.008)
 - **Pulse 10 keyword research:** espresso tonic 9.9K diff 1 (✅ WRITTEN); cortado vs macchiato 2.9K diff 1 (✅ WRITTEN); cold brew cluster ALL high competition (skipped); latte vs cappuccino 27.1K diff 6 (likely captured by existing cappuccino-vs-latte page)
 - **Pulse 11 keyword research:** flat-white-vs-latte 22.2K/mo diff 5 (✅ WRITTEN); latte-vs-macchiato 6.6K/mo diff 2 (✅ WRITTEN); how-long-do-coffee-beans-last 2.9K/mo diff 8 no featured snippet (✅ WRITTEN); espresso-vs-americano 1.6K/mo diff 1 (✅ WRITTEN); REJECTED: how-to-store-coffee-beans HIGH 89/100, types-of-espresso-machines HIGH 100/100, espresso-tamping HIGH 100/100, single-origin-espresso HIGH 94/100
 
@@ -125,6 +125,9 @@ Day 13 of indexing — **98 pages published.** SC Pulse 33: **9 pages with impre
 | cardamom latte | 1,000 | 1/100 ULTRA-LOW | /recipes/cardamom-latte/ | **Published (NEW Pulse 32 — SERP DESERT: lucismorsels.com #1, aubreyskitchen.com #2, cheneetoday.com #3 — all tiny food blogs. AI overview + recipes feature. No featured snippet. Cardamom syrup recipe; green vs black cardamom table; hot + iced; Middle Eastern coffee tradition context; 5 variations; links to turkish-coffee + honey-latte + lavender-latte.)** |
 | irish coffee recipe | 27,100 | 12/100 LOW | /recipes/irish-coffee-recipe/ | **Published (NEW Pulse 33 — SERP: boulderlocavore.com #5, planninginspired.com #6, thedeliciousspoon.com #7 — all small food blogs beatable. Joe Sheridan 1943 origin story; Buena Vista SF 1952; whiskey comparison table (Jameson/Bushmills/Tullamore/Redbreast/Teeling); cream float technique; Baileys variation FAQ; 5 variations incl. espresso version; covers 4 PAA questions. Completes coffee cocktail cluster with espresso-martini.)** |
 | cafe cubano / cafecito | 14,800 | 18/100 LOW | /recipes/cafe-cubano/ | **Published (NEW Pulse 33 — covers "cafe cubano recipe" 2.9K diff 4 too; SERP: asassyspoon.com #4 (beatable food blog), Starbucks At Home #5, Amazon product #6 — non-content results. Espumita technique (key differentiator); colada/cortadito/cafe con leche cubano comparison table; Café Bustelo history (NYC 1928 Spanish immigrant, not Cuban-owned); 4 PAA answers. Extends Latin coffee cluster (cafe-con-leche + cafe-bombon + spanish-latte).)** |
+| coffee cocktails | 9,900 | 6/100 ULTRA-LOW | /guides/coffee-cocktails/ | **Published (NEW Pulse 34 — hub page. SERP: liquor.com #1 (cocktail site), Reddit #2, imbibemagazine.com #3 (cocktail mag), YouTube x2 #4-5, coffeebeancorral.com #6 (beatable), jamesonwhiskey.com #7 (whiskey brand beatable), mrblack.co #8 (coffee liqueur brand). No coffee-focused content hub in top 5. AI overview + recipes SERP feature. Hub links to espresso-martini (246K) + irish-coffee-recipe (27.1K). Covers: white Russian, cold fashioned, coffee negroni, Kahlúa sour, coffee mezcal, affogato al caffè.)** |
+| iced chai latte | 9,900 | 9/100 ULTRA-LOW | /recipes/iced-chai-latte/ | **Published (NEW Pulse 34 — SERP: Starbucks #1 (brand unbeatable), bakingmischief.com #2 (beatable food blog), simplyrecipes.com #3 (authority), munchingwithmariyah.com #4 (beatable), plumdeluxe.com #5 (tea brand beatable). AI overview + recipes SERP feature. Dirty iced chai (with espresso) angle = home barista differentiator. Cold-steep concentrate method, overnight cold brew method, brand comparison table, caffeine table. Extends iced drinks cluster (iced-latte + iced-americano + iced-matcha-latte + vietnamese-iced-coffee).)** |
+| horchata latte | 3,600 | 8/100 ULTRA-LOW | /recipes/horchata-latte/ | **Published (NEW Pulse 34 — SERP DESERT of old 2014-2017 food blogs: tablefortwoblog.com #1 (2016), thelittleepicurean.com #2 (2014), oatly.com #3 (brand), Reddit #4, 787coffee.com #5 (brand), kitchenconfidante.com #6 (2017). Knowledge graph + recipes feature. Homemade rice milk (overnight soak method), store-bought shortcut, hot version + iced, horchata cold brew variation, horchata affogato, piloncillo sweetener. Natural extension of cardamom-latte + spanish-latte spiced milk cluster.)** |
 
 ## Biggest Opportunities Found So Far
 
@@ -265,6 +268,13 @@ Day 13 of indexing — **98 pages published.** SC Pulse 33: **9 pages with impre
 - **"golden latte" (Pulse 32):** 3,600/mo diff 21. Turmeric latte = caffeine-free wellness drink. Not an espresso/coffee drink. Off-niche for myhomebarista.com. SERP confirmed: Martha Stewart #2, PAA about diabetes + caffeine-free. Skip.
 - **"turmeric latte" (Pulse 32):** 5,400/mo HIGH 68/100 — doubly disqualified (high comp + off-niche).
 - **"phin coffee" (Pulse 32):** 4,400/mo MEDIUM 39/100 — competition too high for a new domain. Skip standalone; covered inside vietnamese-coffee guide.
+- **"kahlua coffee" (Pulse 34):** 5,400/mo HIGH 87/100 — skip. Too competitive.
+- **"irish cream coffee" (Pulse 34):** 2,900/mo HIGH 99/100 — skip. Near-perfect competition, not viable for new domain.
+- **"hot toddy with coffee" (Pulse 34):** 390/mo — too low standalone. Covered as variation inside coffee-cocktails hub page.
+- **"cafe mocha" (Pulse 34):** 14.8K/mo diff 12 — SERP dominated by Wikipedia #1, Starbucks #2, Allrecipes #5. Already covered by our mocha.md page. Knowledge graph + local pack present (suggests restaurant/commercial intent, not purely informational). No separate page warranted.
+- **"oat milk latte" (Pulse 34):** 1,900/mo MEDIUM 56/100 — too competitive.
+- **"chai latte recipe" (Pulse 34):** 9,900/mo diff 22 — lower priority, closely overlapping with our new iced-chai-latte page. Covered by existing dirty-chai-latte + new iced-chai-latte content.
+- **"coconut cold brew" (Pulse 34):** 480/mo MEDIUM 33/100 — low volume + too competitive. Skip.
 - **"lungo vs americano" (Pulse 32):** 590/mo diff 0 — too low standalone. May be covered inside lungo page as comparison section.
 - **"how to make black coffee" (Pulse 32):** 1,300/mo diff 2 — low volume. Black coffee = no recipe; it's just brewing. Not substantive enough for standalone page.
 
@@ -298,6 +308,36 @@ Day 13 of indexing — **98 pages published.** SC Pulse 33: **9 pages with impre
 DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, organic difficulty 0. However, search-volume (Pulse 5) shows advertising competition 100/100 (CPC $3.72). These are different metrics — organic difficulty vs ad competition. The space is heavily monetized by coffee brands/retailers. Informational angle ("how to choose espresso beans") may still be viable but needs SERP validation before writing. Pushed to Pulse 6+.
 
 ## Next 3 Pulses Roadmap
+
+### Pulse 34 — DONE ✅
+- ✅ SC: 9 pages with impressions (stable). brown-sugar-shaken-espresso UP to 14 imps. siphon-coffee UP to 6 imps. ristretto pos 7.75 / 4 imps (page 1 threshold). GA4 organic: 0 (Day 13, expected).
+- ✅ coffee-cocktails hub (9.9K diff 6 ULTRA-LOW) — hub page linking espresso-martini + irish-coffee-recipe + affogato. SERP gap: no coffee-focused content hub in top 5.
+- ✅ iced-chai-latte (9.9K diff 9 ULTRA-LOW) — dirty iced chai angle (espresso differentiator), cold-steep concentrate, overnight cold brew method, brand table. Iced drinks cluster extended.
+- ✅ horchata-latte (3.6K diff 8 ULTRA-LOW) — SERP desert of 2014-2017 food blogs. Homemade rice milk recipe + store-bought shortcut. Hot + iced versions.
+- ✅ Internal links: espresso-martini → coffee-cocktails hub; irish-coffee → coffee-cocktails hub; dirty-chai-latte → iced-chai-latte; cardamom-latte → horchata-latte
+- ✅ DataForSEO spend: ~$0.33 (2x search-volume batches $0.15 + 4x SERP $0.008)
+- Total pages: 101
+
+### Pulse 35 — NEXT (22:00 IDT 2026-04-16)
+**Priority focus:** 
+- Research "taro latte" (1.3K diff 6) — SERP check needed; could be quick win
+- Research "coconut latte" (1.3K diff 2 ULTRA-LOW) — check SERP quality
+- Research "rose latte" variants — small volume but trending floral drinks
+- Consider: "types of coffee drinks" or "coffee drinks guide" — large umbrella query, check if HIGH comp
+- Consider: "what is a flat white" — covered but meta title optimization check
+- Monitor: ristretto pos 7.75 — very close to page 1. Any movement?
+- SC trend: siphon-coffee jumped from 2→6 impressions. Indexing acceleration continuing.
+
+### Pulse 36 — 2 PULSES AHEAD (06:00 IDT 2026-04-17)
+- Begin investigating "how to make whipped coffee" — trending Dalgona adjacent
+- Research equipment cluster gaps: "best aeropress" (10K+?), "best moka pot" 
+- Internal linking audit: verify all 101 pages have at least 2 inbound internal links
+- Consider "coffee gifts" cluster for commercial intent (different audience, holiday traffic)
+
+### Pulse 37 — 3 PULSES AHEAD (14:00 IDT 2026-04-17)
+- Content cluster analysis: identify any major coffee drink categories still uncovered
+- First organic clicks expected around Day 14-21 (ristretto, milk-steaming-beginners)
+- GA4 organic monitoring — any sign of first clicks?
 
 ### Pulse 7 — DONE
 - ✅ SC: milk-steaming-beginners 9 impressions across 5 query variants, avg pos 43.8

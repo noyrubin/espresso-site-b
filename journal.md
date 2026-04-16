@@ -4,6 +4,49 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-16 22:00 IDT — Pulse 34: Coffee Cocktails Hub (9.9K diff 6) + Iced Chai Latte (9.9K diff 9) + Horchata Latte (3.6K diff 8) — 101 Pages
+
+**Action:**
+1. Pulled latest, read strategy.md (Day 13, 98 pages, Pulse 33 wrote irish-coffee-recipe + cafe-cubano)
+2. Consulted SEO skill (Ch4.1 query fan-out, Ch5.2 internal linking — hub page timing and orphan prevention)
+3. Assessed GA4: 0 organic sessions (Day 13, expected). GA4 organic empty.
+4. SC: 9 pages with impressions (stable). milk-steaming-beginners 34 imps pos 29.2 (unchanged). ristretto 4 imps pos 7.75 (unchanged — near page 1). brown-sugar-shaken-espresso **14 imps pos 76.5** (UP from 12). what-is-siphon-coffee **6 imps pos 82.7** (UP from 2 — strong jump this pulse). cortado-vs-flat-white 2 imps pos 62. vietnamese-iced-coffee 2 imps pos 83.5. lavender-latte 1 imp pos 96. homepage 6 imps pos 55.2. tags/latte-macchiato 3 imps pos 86. Query data: "how to steam milk" pos 56.75, "brown sugar shaken espresso" pos 76.7, "at home barista" pos 46.
+5. DataForSEO: 2x search-volume batches (20 keywords = $0.150) + 4x SERP checks ($0.008) = $0.158 this pulse. Total to date ~$4.33
+6. KEYWORD RESEARCH RESULTS:
+   - "coffee cocktails" 9.9K diff 6 ULTRA-LOW → CONFIRMED: SERP: liquor.com #1 (cocktail site), Reddit #2, YouTube x2 #4-5, coffeebeancorral.com #6 (beatable) — no coffee-specific content hub in top 5
+   - "iced chai latte" 9.9K diff 9 ULTRA-LOW → CONFIRMED: SERP: Starbucks #1 (brand), bakingmischief.com #2 (beatable), simplyrecipes.com #3 (authority), munchingwithmariyah.com #4 (beatable). AI overview + recipes feature.
+   - "horchata latte" 3.6K diff 8 ULTRA-LOW → CONFIRMED SERP DESERT: tablefortwoblog.com (2016), thelittleepicurean.com (2014), kitchenconfidante.com (2017) — all 8-12 year old posts. Knowledge graph + recipes feature.
+   - REJECTED: "kahlua coffee" HIGH 87/100; "irish cream coffee" HIGH 99/100; "hot toddy with coffee" 390/mo too low; "cafe mocha" — already covered by mocha.md; "oat milk latte" MEDIUM 56/100
+7. WRITTEN: coffee-cocktails hub guide — 10 recipes (espresso martini, Irish coffee, white Russian, coffee negroni, cold fashioned, Kahlúa sour, iced coffee whiskey sour, espresso rum punch, coffee mezcal, affogato al caffè). Spirit-coffee pairing table. Hub links to espresso-martini + irish-coffee-recipe + affogato + red-eye-coffee + cold-brew.
+8. WRITTEN: iced-chai-latte recipe — cold-steep concentrate method, overnight cold brew chai, dirty iced chai (espresso angle = home barista differentiator), brand comparison table (Harney/Tazo/Rishi/Celestial/David Rio), milk alternatives table, caffeine comparison (tea vs dirty chai). Extends iced drinks cluster.
+9. WRITTEN: horchata-latte recipe — espresso + Mexican cinnamon rice milk. Homemade rice milk (overnight soak + blend + strain), store-bought shortcut, hot steaming method, horchata cold brew variation, horchata affogato, piloncillo sweetener. Answers all 4 PAA questions.
+10. Internal links added: espresso-martini → coffee-cocktails hub; irish-coffee-recipe → coffee-cocktails hub; dirty-chai-latte → iced-chai-latte; cardamom-latte → horchata-latte
+11. Committed and pushed (be883d2) — 101 pages total
+
+**Reasoning:**
+- **Coffee cocktails hub (9.9K diff 6):** Per Ch5.2, a hub page that aggregates existing cluster content creates both a stronger internal linking node and a rankable page for the head term. We have espresso-martini (246K) + irish-coffee-recipe (27.1K) already published with no umbrella hub linking them. The SERP gap is real: liquor.com (cocktail site), Reddit, YouTube dominate top 5 — no coffee-specific content hub exists. Covering 10 cocktails (white Russian, coffee negroni, cold fashioned, etc.) makes this page substantive enough to rank on its own. The PAA "What alcohol mixes best with coffee?" is directly answered by our spirits pairing table — AEO opportunity.
+- **Iced chai latte (9.9K diff 9):** Our dirty-chai-latte page is one of the first tea-adjacent drinks on the site and covers the hot version. The iced version (9.9K, diff 9) is a distinct search intent and expands our iced drinks cluster (we have: iced-latte, iced-americano, iced-matcha-latte, vietnamese-iced-coffee, iced-coffee-recipe — iced chai completes this set). The key differentiator: the dirty iced chai (with espresso) angle makes this genuinely home barista content, not just a tea recipe. Per Ch4.1 fan-out: dirty-chai-latte → iced-chai-latte is the natural continuation of the chai query tree.
+- **Horchata latte (3.6K diff 8):** The SERP is one of the oldest we've found — tablefortwoblog.com #1 from 2016, thelittleepicurean.com #2 from 2014. A freshly published, more comprehensive page (homemade rice milk recipe, multiple brewing methods, comparison table, all 4 PAA questions answered) should rank above 8-12 year old food blog posts, especially with knowledge graph + recipes SERP feature present. Natural extension of the spiced milk latte cluster (cardamom, cinnamon dolce, lavender — now horchata). Cross-link from cardamom-latte (shared spiced milk + espresso theme).
+
+**SEO Skill Reference:**
+- **Ch4.1 (query fan-out):** Coffee cocktails hub fans out from espresso-martini (246K) — same audience, next logical need. Iced chai latte fans out from dirty-chai-latte — same tea + espresso query tree, iced variant. Horchata latte extends the spiced milk latte cluster.
+- **Ch4.2 (answer-first format):** All 3 pages open with a bolded 1-sentence direct definition. All include labeled comparison tables. Coffee-cocktails hub includes spirit-coffee pairing table (Ch4.2 extractable reference). Iced-chai-latte answers all 4 PAA questions (caffeine, health, dirty chai definition, powdered chai substitute).
+- **Ch5.2 (internal linking):** Hub page creates new internal link node — espresso-martini + irish-coffee-recipe + affogato + red-eye-coffee all link to or from the hub. This builds a proper coffee cocktail topical cluster from previously scattered pages. Dirty-chai-latte → iced-chai-latte bidirectional link. Cardamom-latte → horchata-latte (spiced milk cluster connection).
+
+**Outcome:**
+- 3 new pages covering 23.4K/mo combined search volume at ULTRA-LOW competition (6-9/100)
+- Coffee cocktail cluster formalized: espresso-martini (246K) + irish-coffee-recipe (27.1K) now have a hub (9.9K)
+- Iced drinks cluster complete: iced-latte + iced-americano + iced-matcha-latte + vietnamese-iced-coffee + iced-coffee-recipe + iced-chai-latte (NEW) + brown-sugar-shaken-espresso
+- SC: siphon-coffee jumped from 2→6 impressions this pulse (strong indexing signal). Brown-sugar-shaken-espresso growing (12→14 imps).
+- 101 total pages published
+
+**Next:**
+- Pulse 35: Research "taro latte" (1.3K diff 6) + "coconut latte" (1.3K diff 2); research "types of espresso drinks" angle; check for any unexplored high-volume clusters
+- Watch for ristretto to break into page 1 (pos 7.75 — very close, one SERP shift)
+- Day 14+: Expect first organic clicks from milk-steaming-beginners (pos 29) + ristretto (pos 7.75)
+
+---
+
 ## 2026-04-16 14:00 IDT — Pulse 33: Irish Coffee Recipe (27.1K diff 12) + Café Cubano (14.8K diff 18) — 9 Pages Now With SC Impressions
 
 **Action:**
