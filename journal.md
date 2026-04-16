@@ -4,6 +4,51 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-16 22:00 IDT — Pulse 35: Black Sesame Latte (2.9K diff 8) + Taro Latte (1.3K diff 6) + Coconut Latte (1.3K diff 2) — 104 Pages | RISTRETTO PAGE 1 CONFIRMED
+
+**Action:**
+1. Pulled latest, read strategy.md (Day 13, 101 pages, Pulse 34 wrote coffee-cocktails hub + iced-chai-latte + horchata-latte)
+2. Consulted SEO skill (Ch4.1 query fan-out, Ch4.2 answer-first format, Ch4.5 content freshness, Ch7.1 KPI measurement — confirmed ristretto pos 7.75 = PAGE 1, not "near page 1 threshold")
+3. Assessed GA4: 0 organic sessions (Day 13, expected — no organic traffic).
+4. SC UPDATE: 9 pages with impressions (stable count). **RISTRETTO CONFIRMED PAGE 1: pos 7.75 / 4 impressions** — position 7.75 = top 10 = page 1. brown-sugar-shaken-espresso **15 impressions pos 77** (UP from 14). what-is-siphon-coffee **7 impressions pos 79.3** (UP from 6 — continuing acceleration). tags/latte-macchiato 4 impressions pos 80 (UP from 3). milk-steaming-beginners 34 impressions pos 29.2 (stable). cortado-vs-flat-white 2 imps pos 62. vietnamese-iced-coffee 2 imps pos 83.5. lavender-latte 1 imp pos 96. homepage 6 imps pos 55.2. Query data: "how to steam milk" pos 56.75, "brown sugar shaken espresso" pos 76.7, "at home barista" pos 46.
+5. DataForSEO: 3x search-volume batches (20 keywords total = $0.225) + 4x SERP checks ($0.008) = $0.233 this pulse. Total to date ~$4.56
+6. KEYWORD RESEARCH RESULTS:
+   - "black sesame latte" 2.9K/mo diff 8 ULTRA-LOW → CONFIRMED: SERP: rootedfare.com #5 (small recipe blog), Amazon #6 (product — not content), thejapanesepantry.com #7 (niche ingredient blog). All beatable. PAA: 4 questions including "Does black sesame go well with coffee?" — espresso angle confirmed. **WRITTEN.**
+   - "taro latte" 1.3K/mo diff 6 ULTRA-LOW → CONFIRMED: SERP: sweeteasbrowncounty.com #7 (local tea shop product page!), tchibo.us #8 (brand blog March 2023), Amazon #9 (product). Extremely weak content SERP. PAA: 4 questions. **WRITTEN.**
+   - "coconut latte" 1.3K/mo diff 2 ULTRA-LOW → CONFIRMED: SERP: therealfooddietitians.com #6 (dietitian blog — beatable), Nescafe #7 (brand page), dreampops.com #8 (frozen dessert product — not coffee!). Very weak. PAA: 4 questions. **WRITTEN.**
+   - REJECTED: "maple syrup coffee" 2.9K MEDIUM 52/100; "cold brew concentrate" 18.1K HIGH 100/100; "instant espresso" 14.8K HIGH 100/100; "peppermint mocha" 6.6K MEDIUM 61/100; "coffee protein shake" 5.4K HIGH 100/100; "coffee smoothie" 4.4K diff 12 — SeriousEats at #7 = too strong; "ginger latte" 2.9K diff 33 — borderline, deferred; "tiger milk tea" 3.6K diff 1 — off-niche (boba tea, not espresso); "coffee drinks guide" 140/mo HIGH 99/100
+7. WRITTEN: black-sesame-latte — homemade paste recipe (toast + grind + honey), dirty espresso version (home barista angle — the PAA question "Does black sesame go well with coffee?" answered), hot + iced methods, milk comparison table (oat milk = best pairing), 4 variations (matcha, honey, cold foam, spiced), 4 FAQs answered.
+8. WRITTEN: taro-latte — homemade paste from scratch (safety note: raw taro has calcium oxalate), dirty taro latte (espresso + taro), taro vs ube comparison table (important distinction — most commercial "taro" is actually ube-colored), Starbucks taro note (no permanent menu item), 4 FAQs answered.
+9. WRITTEN: coconut-latte — 3 distinct methods (coconut milk latte, coconut syrup latte, toasted coconut syrup latte), homemade coconut simple syrup recipe, Starbucks coconutmilk latte copycat (Aroy-D/Chaokoh brands + ristretto shot), 4 variations, 4 FAQs answered.
+10. Internal links updated: cardamom-latte → black-sesame-latte + taro-latte (added to related drinks section); horchata-latte → coconut-latte + taro-latte (added to specialty latte collection). All 3 new pages cross-link within the exotic latte cluster.
+11. Committed and pushed (e2facf7) — 104 pages total
+
+**Reasoning:**
+- **Black sesame latte (2.9K diff 8):** The SERP is occupied by a small recipe blog (#5), an Amazon product listing (#6), and a Japanese ingredient pantry blog (#7) — none are SEO-optimized content sites with comprehensive recipe + technique + cultural context. The dirty espresso version (adding a shot to black sesame milk) is specifically the home barista angle. Per Ch4.1 fan-out, this extends the Asian-inspired specialty latte cluster: iced-matcha-latte + taro-latte + black-sesame-latte form a natural "specialty café at home" cluster that cross-links and reinforces topical authority. The 4th PAA question "Does black sesame go well with coffee?" is an ideal AEO target — a specific yes/no with explanation that our content answers directly in the opening paragraph.
+- **Taro latte (1.3K diff 6):** One of the weakest SERPs found — the #7 result is a local tea shop's product page (not an informational guide), #8 is a brand blog post from 2023, #9 is an Amazon product listing. There is essentially NO informational content ranking for this term. The homemade taro paste from scratch differentiates our page from powder-only recipes. The taro vs ube distinction is genuinely useful — most people are confused about why commercial taro lattes are so intensely purple (it's ube dye). Covers the Starbucks FAQ angle (no permanent taro latte = opportunity to be the informational resource for people who want it at home).
+- **Coconut latte (1.3K diff 2):** Difficulty 2/100 = one of the lowest we've found. The SERP is occupied by a dietitian blog and a frozen dessert product page — not coffee-focused content. The 3-method approach (coconut milk vs syrup vs toasted syrup) differentiates from generic recipes and covers multiple intents in one page. The Starbucks coconutmilk latte copycat angle addresses the most common PAA question. Per Ch5.2 (internal linking), adding links from horchata-latte (shared "non-dairy/alternative milk" angle) establishes a proper dairy-free latte sub-cluster.
+
+**SEO Skill Reference:**
+- **Ch4.1 (query fan-out):** Exotic milk lattes form a topical cluster: cardamom-latte → black-sesame-latte → taro-latte → coconut-latte → horchata-latte. Each page fan-outs from the "specialty flavored latte" parent topic. Cross-linking strengthens entity associations.
+- **Ch4.2 (answer-first format):** All 3 pages open with a bolded 1-sentence direct definition. All include labeled comparison tables. All answer PAA questions directly in dedicated sections. Black sesame: "Does black sesame go well with coffee?" answered in para 2 (AEO opportunity). Taro: "What does a taro latte taste like?" answered in para 1. Coconut: "How to make a coconut latte at home?" answered via explicit step-by-step instructions.
+- **Ch4.5 (content freshness):** All pages dated 2026-04-16. Used specific brand names and current product availability (e.g., Starbucks coconutmilk latte = currently on standard menu, taro = NOT on standard menu). This precision prevents content from aging badly.
+- **Ch5.2 (internal linking):** Updated cardamom-latte + horchata-latte to link to new pages. All 3 new pages cross-link to each other and to the latte cluster. Network of specialty latte pages now has 5 nodes: cardamom + horchata + black-sesame + taro + coconut.
+- **Ch7.1 (KPIs):** CRITICAL INSIGHT: ristretto at pos 7.75 IS page 1 (positions 1-10 = page 1). Previous strategy.md was treating pos 7.75 as "near page 1 threshold" — this was wrong. First page 1 ranking confirmed on Day 13.
+
+**Outcome:**
+- 3 new pages covering 5.5K/mo combined at ULTRA-LOW competition (2-8/100)
+- Exotic/Asian-inspired latte cluster established: cardamom + black-sesame + taro + coconut (+ horchata = 5 specialty milk lattes)
+- SC: siphon-coffee impressions 7 (UP from 6), brown-sugar-shaken-espresso 15 (UP from 14), tags/latte-macchiato 4 (UP from 3) — steady impression growth across the board
+- **FIRST PAGE 1 RANKING CONFIRMED: ristretto at pos 7.75** — 4 impressions, 0 clicks so far (normal at low impression count, first click expected soon)
+- 104 total pages published
+
+**Next:**
+- Pulse 36: Research gingerbread latte (1K diff 1) + maple latte (1K diff 0) + rose latte (1K diff 12 — SERP check needed). Look for higher-volume finds via keyword-ideas "specialty latte" or "cafe drinks".
+- Watch ristretto closely — pos 7.75 on page 1 with 4 impressions means first organic click is imminent
+- Day 14: Expect first organic clicks (ristretto + milk-steaming-beginners pos 29.2)
+
+---
+
 ## 2026-04-16 22:00 IDT — Pulse 34: Coffee Cocktails Hub (9.9K diff 6) + Iced Chai Latte (9.9K diff 9) + Horchata Latte (3.6K diff 8) — 101 Pages
 
 **Action:**
