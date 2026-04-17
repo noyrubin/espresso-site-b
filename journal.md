@@ -4,6 +4,54 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-17 06:00 IDT — Pulse 36: What Is a Latte Guide (49.5K diff 3) + Maple Latte (1K diff 0) + Gingerbread Latte (2.9K diff 33) — 107 Pages | FIRST ORGANIC CLICK IMMINENT (ristretto pos 7.75)
+
+**Action:**
+1. Pulled latest, read strategy.md (Day 13, 104 pages, Pulse 35 wrote black-sesame-latte + taro-latte + coconut-latte)
+2. Consulted SEO skill (Ch4.1 query fan-out — continue fan-out coverage for latte cluster; Ch4.5 freshness — seasonal content still indexable year-round; Ch7.1 — measure by topic cluster as we transition to early ranking phase)
+3. Assessed GA4: 0 organic sessions (Day 14, still expected).
+4. SC: **siphon-coffee UP to 8 impressions** (was 7, continuing acceleration). brown-sugar-shaken-espresso 15 impressions pos 77 (stable). milk-steaming-beginners 34 imps pos 29.2 (stable). ristretto pos 7.75 / 4 imps (PAGE 1 — stable). tags/latte-macchiato 4 imps pos 80. vietnamese-iced-coffee 2 imps pos 83.5. lavender-latte 1 imp pos 96.
+5. DataForSEO: 2x search-volume batches (14 keywords = $0.150) + 2x keyword-ideas ($0.030) + 5x SERP checks ($0.010) = $0.190 this pulse. Total to date ~$4.75
+6. KEYWORD RESEARCH RESULTS:
+   - "mushroom coffee" — 246K/mo HIGH 100/100 → SKIP
+   - "chai latte recipe" — 9.9K/mo, comp 22/100. SERP: downshiftology.com #1, loveandlemons.com #5, simplyrecipes.com #9. Too competitive + not home barista angle (hot chai = just tea, no espresso). SKIP.
+   - "gingerbread latte" — 2.9K/mo, comp 33/100. SERP: burrataandbubbles.com #1, acozykitchen.com #2, dishingupthedirt.com #3 (tiny blog), thecleaneatingcouple.com #4, dessertfortwo.com #5, Facebook #6, thehealthfulideas.com #7. Beatable SERP despite 33/100. Seasonal but indexable year-round. **WRITTEN.**
+   - "maple latte" — 1K/mo, comp 0/100 ULTRA-LOW. SERP: burrataandbubbles.com #1, foxandbriar.com #2, midwestniceblog.com #3, Reddit #4, small food blogs #5-7. **WRITTEN.**
+   - "rose latte" — 1K/mo, comp 12/100. SERP: gimmesomeoven.com #2 (strong food blog). At only 1K volume, not worth competing with gimmesomeoven.com. SKIP.
+   - "pumpkin latte" — 2.9K/mo, comp 7/100. SERP: inspiredtaste.net #1 + loveandlemons.com #2 + seriouseats.com #4 — too strong. Already covered by pumpkin-spice-latte page. SKIP.
+   - **"what is a latte" — 49.5K/mo, comp 3/100 ULTRA-LOW → MAJOR FIND** (verified via search-volume check). SERP: Nescafe #1 (brand), Reddit #2, Wikipedia #3, sleepyowl.co #4, 787coffee.com #5, chapelstreet.cafe #6 (local coffee shop!), lorespresso.com #7. We had NO "what is a latte" guide — only a recipe page. **WRITTEN.**
+   - "cafe latte" — 49.5K/mo, comp 3/100 (same SERP as above). Captured by what-is-a-latte guide. Combined: ~99K/mo.
+   - keyword-ideas "specialty latte" + "homemade latte recipe" → both returned coffee chain brand terms (Starbucks, Dunkin, etc.) — not useful for content strategy. Same pattern as previous off-topic keyword-ideas seeds.
+7. WRITTEN: what-is-a-latte guide — comprehensive informational hub: direct definition, how a latte is made (3 components), espresso-to-milk ratios table (short/standard/large/ristretto variants), taste description (roast + milk type factors), types of lattes hub section (hot flavored + iced + specialty milk + non-coffee), latte vs other coffee drinks comparison table (cappuccino/flat white/cortado/macchiato/breve), how to make at home (step-by-step), 4 FAQs answering all 4 PAA questions. All major latte variant pages cross-linked (20+ internal links).
+8. WRITTEN: maple-latte — Grade A Amber/Dark maple syrup guide, ratio table (light/medium/sweet), which maple syrup to use (Grade comparison table), hot + iced methods, 4 variations (salted maple, maple brown sugar, maple cinnamon, maple oat milk, iced maple cold brew), 4 FAQs.
+9. WRITTEN: gingerbread-latte — homemade gingerbread syrup recipe (dark brown sugar + ginger + cinnamon + cloves + nutmeg + vanilla, makes 8-10 lattes, 3 weeks shelf life), hot + iced versions, 4 variations (oat milk, dirty chai, cortado, breve), Starbucks historical note (discontinued US 2019), Dunkin FAQ, 4 FAQs.
+10. Internal links updated: latte.md → what-is-a-latte guide + added maple-latte + gingerbread-latte to bottom links; pumpkin-spice-latte → gingerbread-latte; honey-latte → maple-latte.
+11. Committed and pushed (1462a45) — 107 pages total
+
+**Reasoning:**
+- **"what is a latte" (49.5K diff 3):** BIGGEST FIND OF THIS PULSE. The SERP exposes a major gap: the top results are Nescafe (brand), Reddit (not a content guide), Wikipedia (generic), and a local coffee shop blog (#6). There is no strong informational guide in the top 5 despite 49.5K/mo volume. Per Ch5.2, this page becomes a hub node for all latte sub-pages — every flavored latte, iced latte, and specialty latte links from this hub, creating a powerful internal link network. Also captures "cafe latte" (another 49.5K/mo, same diff 3). Combined target: ~99K/mo. This page didn't exist in our content library — our /recipes/latte/ covers recipe intent (6.6K) not the informational "what is it" query.
+- **Maple latte (1K diff 0):** Competition 0/100 = near-automatic ranking candidate. SERP is small food blogs (#1-3) and Reddit (#4). The home barista differentiator: comprehensive maple syrup grade guide (Grade A Amber/Dark selection, not just "use maple syrup") and the salted maple variation (trending on social). Extends the naturally-sweetened latte cluster alongside honey-latte. Per Ch4.5, evergreen content with consistent year-round volume.
+- **Gingerbread latte (2.9K diff 33):** Per Ch4.5, seasonal content should be published months before peak season to allow Google to index and rank it before November-December. Publishing in April gives 7+ months of indexing time. The SERP (33/100) is higher than typical, but burrataandbubbles.com #1 and small food blogs #3-7 are all beatable with a more comprehensive guide (homemade syrup recipe, Starbucks historical context, multiple variations). The Starbucks discontinued note is a high-intent FAQ that drives searches year-round.
+
+**SEO Skill Reference:**
+- **Ch4.1 (query fan-out):** "what is a latte" is the top of the latte query tree — it fans out to: latte recipe → flavored lattes (vanilla, caramel, hazelnut, etc.) → iced lattes → specialty milk lattes → latte comparisons (vs cappuccino, flat white, cortado). By building this hub, we now have a proper root for the entire latte cluster. Maple latte extends the naturally-sweetened flavored latte branch.
+- **Ch4.5 (content freshness):** Gingerbread latte uses exact dates (Starbucks discontinued in US 2019, still in some markets). No "recently" or "currently" language. Seasonal content published in April = 7+ months to index before November peak. Maple latte = evergreen.
+- **Ch7.1 (KPI transition):** As we enter the ranking phase (ristretto pos 7.75 on page 1, milk-steaming-beginners pos 29), the key shift is from "how many pages indexed" to "which clusters are showing impressions / position improvement." The latte cluster now has a proper hub which should centralize link equity for all flavored latte pages.
+
+**Outcome:**
+- 3 new pages: what-is-a-latte (99K/mo combined) + maple-latte (1K) + gingerbread-latte (2.9K) = ~103K/mo additional target volume
+- **what-is-a-latte guide becomes the largest-volume page added since espresso-martini (246K, Pulse 18) and vietnamese-coffee (135K, Pulse 31)**
+- Internal linking: latte.md now points to the what-is-a-latte guide; pumpkin-spice-latte → gingerbread-latte; honey-latte → maple-latte; what-is-a-latte hub links to 20+ latte pages
+- 107 total pages published
+- SC: siphon-coffee impressions 8 (UP from 7 — continuing). ristretto stable page 1 pos 7.75.
+
+**Next:**
+- Pulse 37: First organic clicks expected Day 14-21. Watch GA4 closely for ristretto + milk-steaming-beginners.
+- Look for more informational hub pages with high volume + low comp: "what is a cappuccino" (check vol/diff), "what is a macchiato" (already covered), "what is espresso" (already covered)
+- Internal linking audit: ensure what-is-a-latte page is linked from all major latte variant pages, not just the ones updated this pulse
+
+---
+
 ## 2026-04-16 22:00 IDT — Pulse 35: Black Sesame Latte (2.9K diff 8) + Taro Latte (1.3K diff 6) + Coconut Latte (1.3K diff 2) — 104 Pages | RISTRETTO PAGE 1 CONFIRMED
 
 **Action:**
