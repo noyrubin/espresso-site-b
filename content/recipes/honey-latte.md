@@ -180,3 +180,7 @@ It's a naturally sweetened option compared to flavored syrups with artificial in
 
 **Can I make a honey latte without an espresso machine?**
 Yes — use strong instant coffee, a moka pot, or strong brewed coffee. The honey flavor comes through clearly regardless of the espresso method.
+
+---
+
+*Other naturally sweetened lattes: [Maple Latte](/recipes/maple-latte/) · [Cinnamon Dolce Latte](/recipes/cinnamon-dolce-latte/) · [Lavender Latte](/recipes/lavender-latte/) · [Cardamom Latte](/recipes/cardamom-latte/)*

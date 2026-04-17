@@ -200,7 +200,9 @@ Start with a well-steamed milk (smooth, glossy, integrated foam). Tilt the cup, 
 
 ---
 
-More milk drink recipes: [Cappuccino](/recipes/cappuccino/) | [Iced Latte](/recipes/iced-latte/) | [Flat White](/recipes/flat-white/) | [Cortado](/recipes/cortado/) | [Spanish Latte](/recipes/spanish-latte/) | [Vanilla Latte](/recipes/vanilla-latte/) | [Iced Vanilla Latte](/recipes/iced-vanilla-latte/) | [Hazelnut Latte](/recipes/hazelnut-latte/) | [Pistachio Latte](/recipes/pistachio-latte/) | [Caramel Latte](/recipes/caramel-latte/) | [Iced Caramel Latte](/recipes/iced-caramel-latte/) | [Honey Latte](/recipes/honey-latte/) | [Lavender Latte](/recipes/lavender-latte/) | [Cinnamon Dolce Latte](/recipes/cinnamon-dolce-latte/) | [Brown Sugar Latte](/recipes/brown-sugar-latte/) | [Cardamom Latte](/recipes/cardamom-latte/)
+**New to lattes?** Read our [what is a latte guide](/guides/what-is-a-latte/) — covering types of lattes, ratios, and how a latte compares to a cappuccino, flat white, and cortado.
+
+More milk drink recipes: [Cappuccino](/recipes/cappuccino/) | [Iced Latte](/recipes/iced-latte/) | [Flat White](/recipes/flat-white/) | [Cortado](/recipes/cortado/) | [Spanish Latte](/recipes/spanish-latte/) | [Vanilla Latte](/recipes/vanilla-latte/) | [Iced Vanilla Latte](/recipes/iced-vanilla-latte/) | [Hazelnut Latte](/recipes/hazelnut-latte/) | [Pistachio Latte](/recipes/pistachio-latte/) | [Caramel Latte](/recipes/caramel-latte/) | [Iced Caramel Latte](/recipes/iced-caramel-latte/) | [Honey Latte](/recipes/honey-latte/) | [Lavender Latte](/recipes/lavender-latte/) | [Cinnamon Dolce Latte](/recipes/cinnamon-dolce-latte/) | [Brown Sugar Latte](/recipes/brown-sugar-latte/) | [Cardamom Latte](/recipes/cardamom-latte/) | [Maple Latte](/recipes/maple-latte/) | [Gingerbread Latte](/recipes/gingerbread-latte/)
 
 Need help with steaming? Read our full [milk steaming guide](/guides/milk-steaming-beginners/).
 
