@@ -4,6 +4,81 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-17 14:00 IDT — Pulse 37: What Is a Cappuccino (22.2K diff 10) + What Is an Americano (22.2K diff 2) + Ristretto PAA Optimization — 109 Pages | Day 14
+
+**Action:**
+1. Pulled latest, read strategy.md + journal.md (Day 14, 107 pages, Pulse 36 wrote what-is-a-latte + maple-latte + gingerbread-latte)
+2. Consulted SEO skill (Ch4.2 — answer-first/featured snippet optimization for ristretto PAA; Ch4.1 — informational hub gaps; Ch5.2 — internal linking audit; Ch7.1 — ranking phase KPIs)
+3. Assessed GA4: 0 organic sessions (Day 14 — expected)
+4. SC assessment: Same 9 pages as Pulse 36. ristretto pos 7.75 / 4 imp (stable, PAGE 1). milk-steaming-beginners pos 29.2 / 34 imp (stable). siphon-coffee 8 imp, brown-sugar-shaken-espresso 15 imp, homepage 6 imp. No clicks yet.
+5. DataForSEO: 1x search-volume batch (7 keywords = $0.075) + 4x SERP checks ($0.008) = $0.083 this pulse
+6. KEYWORD RESEARCH:
+   - "what is a cappuccino" 22.2K diff 10 — SERP: Reddit #1, Folgers #2. Content desert. WRITTEN.
+   - "what is an americano" 22.2K diff 2 ULTRA-LOW — SERP: Reddit #1 only. Extreme gap. WRITTEN.
+   - "what is a cortado" 27.1K diff 2 — already have what-is-cortado-coffee.md. ✅ Skip.
+   - "what is a flat white" 22.2K diff 9 — already have what-is-a-flat-white.md. ✅ Skip.
+   - "what is cold brew" 9.9K diff 12 — DEFERRED to Pulse 38.
+7. OPTIMIZED: ristretto.md — added 3 missing PAA FAQ answers: "What is the point of ristretto?", "How do you drink ristretto?", "What is a blonde shot?" (Starbucks-related trending question appearing as PAA on ristretto SERP)
+8. INTERNAL LINKS: vanilla-latte + hazelnut-latte + caramel-latte → what-is-a-latte; types-of-coffee-drinks → what-is-a-cappuccino + what-is-an-americano; cappuccino.md + americano.md → respective new what-is pages
+9. Committed and pushed (621d0c8) — 109 pages total
+
+**Reasoning:**
+- **"what is a cappuccino" (22.2K diff 10):** Our existing cappuccino.md covers recipe intent ("How to Make a Cappuccino at Home"). The SERP for "what is a cappuccino" is completely different intent — definitional, not procedural — and is occupied by Reddit and a Folgers brand blog. Per Ch4.1, Google treats these as separate queries deserving separate pages. The informational hub page follows the exact same pattern as what-is-a-flat-white, what-is-cortado-coffee, what-is-a-latte — all of which have begun collecting impressions.
+- **"what is an americano" (22.2K diff 2):** Only Reddit shown in SERP results. This is one of the weakest content SERPs found in the experiment — diff 2 with Reddit as the top result is the maximum content gap signal. Our americano.md is recipe-focused; this fills the definitional gap. Covers: ratio table, flavor profile, vs drip coffee comparison table, iced americano, vs long black, caffeine comparison, WWII origin story.
+- **Ristretto PAA optimization (Ch4.2):** Page at pos 7.75 (page 1). The 4 PAA questions on the ristretto SERP: (1) "Is ristretto stronger than espresso?" — already answered; (2) "What is the point of ristretto?" — NOT answered explicitly (was only implied); (3) "How do you drink ristretto?" — NOT answered; (4) "What is a blonde shot?" — not covered at all. Adding these PAA answers increases featured snippet eligibility and click-through rate for the page already on page 1. Per Ch4.2: each FAQ answer leads with a direct bolded response.
+- **Internal linking audit (Ch5.2):** what-is-a-latte (Pulse 36, 49.5K/mo) had outbound links to all latte variants but needed inbound links FROM those variants to pass authority back to the hub. Added links from vanilla-latte, hazelnut-latte, caramel-latte — three of the highest-traffic latte variant pages.
+
+**SEO Skill Reference:**
+- **Ch4.2 (Answer-First):** Ristretto optimization: each new FAQ opens with a bolded 1-2 sentence direct answer. "What is the point of ristretto?" → bolded answer explaining the early-extraction sweetness capture. "What is a blonde shot?" → bolded answer distinguishing roast level (Starbucks terminology) from extraction volume. All new what-is pages open with bolded direct definitions.
+- **Ch4.1 (Query Fan-Out):** "What is a cappuccino" and "what is an americano" are top-of-funnel informational queries that fan out to: recipe pages → comparison pages → technique guides. By building these hub pages, we create proper entry points for users unfamiliar with the drink. The informational hub pattern (what-is-X) is now established for: latte, flat white, cortado, espresso, macchiato, cappuccino, americano — 7 fundamental drink definitions covered.
+- **Ch5.2 (Internal Linking):** Bidirectional linking: what-is-a-latte links to 20+ latte variants (outbound); now 3 key latte variants link back to what-is-a-latte (inbound). Types-of-coffee-drinks hub updated with links to both new what-is pages. cappuccino.md and americano.md each now reference their corresponding what-is guide.
+- **Ch7.1 (KPIs):** Day 14, ristretto on page 1 (pos 7.75) with 4 impressions. No clicks yet — at 4 impressions with ~8% CTR for position 7-8, statistically 0 clicks is expected. As impressions grow (more people search "ristretto"), clicks will follow. The key metric shift: from "pages in impressions" to "pages with clicks".
+
+**Key DataForSEO Findings (Pulse 37):**
+- "what is a cappuccino" — 22,200/mo, comp 10/100 LOW ✅ WRITTEN
+- "what is an americano" — 22,200/mo, comp 2/100 ULTRA-LOW ✅ WRITTEN
+- "what is a cortado" — 27,100/mo, comp 2/100 — SKIP (already have what-is-cortado-coffee.md)
+- "what is a flat white" — 22,200/mo, comp 9/100 — SKIP (already have what-is-a-flat-white.md)
+- "what is cold brew" — 9,900/mo, comp 12/100 — DEFERRED to Pulse 38
+- DataForSEO spend this pulse: $0.083. Total to date: ~$4.83
+
+**Content Created (2 pages):**
+1. `content/guides/what-is-a-cappuccino.md` — 22.2K diff 10. Definition, 1:1:1 ratio table, dry/wet cappuccino table, types table, cappuccino vs latte/macchiato/flat white comparison table, history, FAQ (5 PAA questions answered). Internal links to cappuccino.md + what-is-a-latte + cappuccino-vs-latte + flat-white-vs-cappuccino + milk-steaming-beginners.
+2. `content/guides/what-is-an-americano.md` — 22.2K diff 2. Definition, ratio table (1:2/1:3/1:4), flavor profile, vs black coffee comparison table (5 dimensions), iced americano, vs long black, vs espresso table, WWII origin, FAQ (5 PAA questions). Internal links to americano.md + iced-americano + long-black-coffee + espresso-vs-americano + what-is-espresso.
+
+**Pages Optimized:**
+- `content/recipes/ristretto.md` — Added 3 FAQ answers (PAA optimization per Ch4.2)
+
+**Internal Links Updated:**
+- cappuccino.md → what-is-a-cappuccino (new)
+- americano.md → what-is-an-americano (new)
+- vanilla-latte.md → what-is-a-latte (new)
+- hazelnut-latte.md → what-is-a-latte (new)
+- caramel-latte.md → what-is-a-latte (new)
+- types-of-coffee-drinks.md → what-is-a-cappuccino + what-is-an-americano (new)
+
+**Analytics (Day 14, Pulse 37):**
+- GA4: 0 organic sessions (still expected at Day 14)
+- SC pages: 9 pages with impressions (same count as Pulse 36 — no new pages entered today)
+- ristretto: pos 7.75 / 4 impressions (PAGE 1 — stable)
+- milk-steaming-beginners: pos 29.2 / 34 impressions (stable)
+- Total published pages: 109
+
+**Outcome:**
+- 2 new informational hub pages filling the "what is" definitional gap for cappuccino (22.2K) and americano (22.2K)
+- Ristretto page now answers ALL 4 PAA questions from the SERP (previously missing 3 of 4)
+- what-is-a-latte hub now receives inbound links from 3 key latte variant pages
+- Informational hub coverage: 7 fundamental drink definitions complete (latte, flat white, cortado, espresso, macchiato, cappuccino, americano)
+- 109 total pages published
+
+**Next (Pulse 38):**
+1. Check SC for any new pages entering impressions — Day 14 may show acceleration
+2. Research: "what is cold brew" (9.9K diff 12) SERP check; "irish coffee recipe" vol/diff; "cafe cubano recipe" subquery check
+3. Consider milk-steaming-beginners featured snippet optimization (pos 29.2 → targeting top 20)
+4. Watch GA4 for first organic click — ristretto pos 7.75 with growing impressions
+
+---
+
 ## 2026-04-17 06:00 IDT — Pulse 36: What Is a Latte Guide (49.5K diff 3) + Maple Latte (1K diff 0) + Gingerbread Latte (2.9K diff 33) — 107 Pages | FIRST ORGANIC CLICK IMMINENT (ristretto pos 7.75)
 
 **Action:**

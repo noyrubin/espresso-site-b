@@ -607,17 +607,29 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ 96 pages total — committed 412fc79
 - ✅ SEO skill: Ch4.1 (query fan-out — egg coffee fans out from vietnamese-coffee hub; cafe bombon extends condensed milk espresso cluster), Ch4.2 (answer-first + FAQ covering all PAA), Ch6.2 (egg coffee trending = earned media/citations moment), Ch5.2 (internal links from 5 existing pages to new content)
 
-### Pulse 33 (14:00 IDT Apr 16)
-- **SC watch:** Day 13. Expect ristretto to move toward page 1 — currently at pos 7.75. More pages should enter impressions.
+### Pulse 37 — DONE (14:00 IDT Apr 17)
+- ✅ SC: Same 9 pages as Pulse 36 (no new pages). ristretto pos 7.75 / 4 imp (stable — PAGE 1). milk-steaming pos 29.2 / 34 imp (stable). siphon-coffee pos 80.5 / 8 imp. brown-sugar-shaken-espresso pos 77 / 15 imp. No clicks yet — Day 14.
+- ✅ GA4: Still 0 organic sessions. Expected — ristretto is page 1 but 4 impressions → click probability ~5-10% per impression cycle.
+- ✅ DataForSEO: 1x search-volume batch 7 keywords ($0.075) + 4x SERP checks ($0.008) = $0.083 this pulse. Total to date ~$4.83
+- ✅ STRONG FIND: "what is a cappuccino" 22.2K/mo diff 10 — SERP: Reddit #1, Folgers #2. No featured snippet. SERP is a content desert — brand blog + forum. Our existing cappuccino.md is recipe intent (6-word title: "How to Make a Cappuccino") — different intent. WRITTEN new page.
+- ✅ STRONG FIND: "what is an americano" 22.2K/mo diff 2 ULTRA-LOW — SERP: Reddit #1 (only result shown). No featured snippet. Perspectives feature. Extreme content gap. WRITTEN new page.
+- ✅ OPTIMIZATION: ristretto.md — Added 3 missing PAA FAQ answers: "What is the point of ristretto?", "How do you drink ristretto?", "What is a blonde shot?" (trending Starbucks FAQ). Per Ch4.2 — all PAA questions now answered explicitly with bolded direct answers.
+- ✅ INTERNAL LINKS: vanilla-latte → what-is-a-latte; hazelnut-latte → what-is-a-latte; caramel-latte → what-is-a-latte; types-of-coffee-drinks → what-is-a-cappuccino + what-is-an-americano; cappuccino.md → what-is-a-cappuccino; americano.md → what-is-an-americano
+- ✅ 109 pages total — committed 621d0c8
+- ✅ SEO skill: Ch4.2 (answer-first + PAA optimization for ristretto), Ch4.1 (informational hub intent gap — "what is" queries distinct from recipe pages), Ch5.2 (internal linking audit — latte cluster now has bidirectional links to hub)
+
+### Pulse 38 (22:00 IDT Apr 17)
+- **SC watch:** Day 14. Ristretto at pos 7.75 = page 1. First click may occur this pulse or next few. Watch milk-steaming-beginners for position improvement toward top 20.
 - **Content priorities (to validate with DataForSEO):**
-  1. **"piccolo latte"** 590/mo — low, but check "piccolo coffee" and related terms for cluster value
-  2. **"cafe cubano" / "cuban espresso"** — we previously saw "cuban coffee" HIGH 68/100; recheck specific sub-queries like "cafe cubano recipe" which may be lower competition
-  3. **"irish coffee recipe"** — cultural coffee drink with espresso/coffee angle; check SERP
-  4. **"bulletproof coffee recipe"** — distinct from butter-coffee FAQ; 4.4K/mo — check if standalone warranted
-  5. **"iced latte ratio"** — check volume; completes the ratio cluster pattern
-  6. **Internal linking audit** — Ch5.2: with 96 pages, verify all new Pulse 32 pages get inbound links beyond what was added today
-- **Technical:** Continue watching SC for ristretto page 1 breakthrough
-- **SEO skill:** Ch4.1 (query fan-out), Ch5.2 (internal linking audit), Ch7.1 (SC signals)
+  1. **"what is cold brew"** — 9.9K/mo diff 12. We have cold-brew-coffee-recipe + cold-brew-ratio but no "what is" hub. Check SERP.
+  2. **"cafe cubano" / "cafe cubano recipe"** — HIGH head term, but subqueries may be lower. Check.
+  3. **"irish coffee recipe"** — cultural coffee + whiskey drink. Check vol/diff.
+  4. **"affogato recipe"** — 165K/mo is our head term page; check if "affogato recipe" standalone subquery has different SERP
+  5. **"home espresso tips"** or "beginner espresso tips"** — check vol; could be a high-E-E-A-T guide
+- **Optimization priorities:**
+  - Check if milk-steaming-beginners can benefit from any featured snippet optimization (pos 29.2 — improving schema/structure could move it toward top 20)
+  - Review any new pages in SC impressions
+- **SEO skill:** Ch4.2 (featured snippet optimization for milk-steaming-beginners), Ch4.1 (query fan-out — "what is cold brew" hub), Ch7.1 (first click measurement)
 
 ---
 ## New Hypotheses (Pulse 6+)
