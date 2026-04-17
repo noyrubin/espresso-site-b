@@ -183,4 +183,6 @@ Yes — Nespresso and similar machines pull a serviceable espresso. Pair with a 
 
 Ready to practice? Our [milk steaming guide](/guides/milk-steaming-beginners/) covers the technique in more detail. Or explore more recipes: [Cortado](/recipes/cortado/) | [Flat White](/recipes/flat-white/) | [Latte](/recipes/latte/)
 
+Want to understand the drink before you make it? Read our [What Is a Cappuccino?](/guides/what-is-a-cappuccino/) guide — covers the 1:1:1 ratio, dry vs. wet styles, and how it compares to a latte, macchiato, and flat white.
+
 Wondering how cappuccino stacks up against a latte? See our full [Cappuccino vs Latte comparison](/guides/cappuccino-vs-latte/) — including ratio, foam, flavor, and which to order when.

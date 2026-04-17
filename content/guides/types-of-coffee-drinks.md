@@ -43,7 +43,7 @@ Everything in this guide either uses espresso as its base, or uses an alternativ
 **What it is:** Espresso diluted with hot water. Usually 2 oz espresso + 4–6 oz hot water.  
 **Flavor:** Similar to drip coffee in strength, but with the flavor profile of espresso — cleaner, no bitter drip taste.  
 **vs. drip coffee:** Americano uses espresso as the base. The result is different in taste even at the same strength.  
-→ [Full Americano guide](/recipes/americano/)
+→ [What is an Americano?](/guides/what-is-an-americano/) | [Full Americano guide](/recipes/americano/)
 
 ### [Long Black](/recipes/long-black-coffee/)
 **What it is:** The Australian/New Zealand version of an Americano — hot water first, espresso poured on top to preserve crema.  
@@ -72,7 +72,7 @@ Everything in this guide either uses espresso as its base, or uses an alternativ
 **What it is:** Equal thirds: 2 oz espresso, 2 oz steamed milk, 2 oz milk foam.  
 **Flavor:** Balanced — strong espresso, creamy milk, with that thick foam layer.  
 **Types:** Wet cappuccino (more milk, less foam), dry cappuccino (all foam, minimal liquid milk), bone dry (no steamed milk — just espresso and dry foam).  
-→ [Full cappuccino guide](/recipes/cappuccino/) | [Cappuccino vs. latte](/guides/cappuccino-vs-latte/)
+→ [What is a cappuccino?](/guides/what-is-a-cappuccino/) | [Full cappuccino guide](/recipes/cappuccino/) | [Cappuccino vs. latte](/guides/cappuccino-vs-latte/)
 
 ### Latte
 **What it is:** The most popular espresso drink — 2 oz espresso with 6–8 oz of steamed milk and a thin layer of microfoam.  

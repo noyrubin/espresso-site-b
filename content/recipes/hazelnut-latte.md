@@ -175,6 +175,7 @@ Yes — it contains espresso. A 12oz hazelnut latte with 2 espresso shots has ap
 
 ## Related Recipes
 
+- [What Is a Latte?](/guides/what-is-a-latte/) — the full guide to latte ratios, types, and comparisons
 - [Vanilla Latte](/recipes/vanilla-latte/) — the classic flavored latte to compare
 - [Classic Latte Recipe](/recipes/latte/) — master the base technique first
 - [Milk Steaming Guide for Beginners](/guides/milk-steaming-beginners/) — get smooth microfoam

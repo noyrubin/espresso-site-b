@@ -173,3 +173,7 @@ Whole milk produces the richest, creamiest result. Oat milk is the best dairy-fr
 
 **Does Starbucks have a caramel latte?**
 Starbucks doesn't list "Caramel Latte" by name, but you can order it by asking for a latte with caramel syrup. Their Caramel Macchiato is the closest menu item — different construction, but similar flavor profile.
+
+---
+
+*New to lattes? Read [What Is a Latte?](/guides/what-is-a-latte/) — covers the espresso-to-milk ratio, latte types, and how lattes compare to cappuccinos, flat whites, and cortados.*

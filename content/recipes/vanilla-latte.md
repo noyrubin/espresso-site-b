@@ -177,6 +177,7 @@ Yes. Use strong moka pot coffee (see [how to use a moka pot](/guides/how-to-use-
 
 ## Related Recipes
 
+- [What Is a Latte?](/guides/what-is-a-latte/) — the full guide to latte ratios, types, and comparisons
 - [Classic Latte Recipe](/recipes/latte/) — master the base first
 - [Milk Steaming Guide for Beginners](/guides/milk-steaming-beginners/) — get perfect microfoam
 - [Hazelnut Latte](/recipes/hazelnut-latte/) — another flavored latte variation

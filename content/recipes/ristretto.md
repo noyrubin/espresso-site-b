@@ -119,6 +119,15 @@ A ristretto base produces a sweeter, more concentrated shot that doesn't disappe
 **Can I make ristretto with any espresso machine?**
 Yes. Any machine that can pull a standard espresso shot can pull a ristretto — you simply stop the shot earlier. You don't need any special setting or mode.
 
+**What is the point of ristretto?**
+The point of ristretto is to capture only the sweetest, most aromatic compounds that extract first from the coffee grounds — stopping before the bitter, astringent compounds come through. In practical terms, it produces a sweeter, more intense shot with no bitterness. It is also the preferred base for specialty milk drinks because the concentrated flavor cuts through steamed milk and stays present, rather than getting lost.
+
+**How do you drink ristretto?**
+Ristretto is traditionally sipped straight, without milk or sugar, in a small espresso cup. Because it is naturally sweeter and less bitter than espresso, it needs no sweetening. Drink it immediately after pulling — the crema and aromatics fade quickly. Some baristas serve it with a small glass of sparkling water to cleanse the palate first.
+
+**What is a blonde shot?**
+A blonde shot (also called a blonde espresso) refers to espresso made from light-roasted beans rather than the traditional dark roast. It is not a different extraction technique — it is a roast level choice. Starbucks popularized the term. Blonde espresso is brighter, more acidic, and higher in caffeine than dark-roast espresso. It is distinct from ristretto, which refers to extraction volume, not roast level.
+
 ---
 
 *Looking to explore all espresso shot sizes? See also: [Lungo Recipe](/recipes/lungo/) | [What Is a Doppio?](/guides/what-is-a-doppio/) | [Espresso Ratio Guide](/guides/espresso-ratio-guide/) | [Affogato: Espresso Over Gelato](/recipes/affogato/) | [Getting Started with Home Espresso](/guides/getting-started/)*
