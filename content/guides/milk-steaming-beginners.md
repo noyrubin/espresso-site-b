@@ -175,3 +175,38 @@ For the complete beginner setup, see our [getting started with home espresso gui
 *Tip: If you want to try steaming half-and-half instead of milk, read our [breve coffee guide](/guides/what-is-breve-coffee/) for the key technique differences (lower temperature, denser foam).*
 
 *Don't have a steam wand yet? See our guide to [frothing milk without a frother](/guides/how-to-froth-milk-without-frother/) — four methods ranked by foam quality.*
+
+## Frequently Asked Questions
+
+### How can I steam milk at home?
+
+**You can steam milk at home using an espresso machine with a built-in steam wand — the most common home barista setup.** Fill a stainless steel pitcher one-third to half full with cold milk, purge the steam wand, position the tip just below the milk surface to introduce air for 2–5 seconds, then submerge the tip and heat to 140–155°F (60–68°C). The entire process takes about 30–45 seconds.
+
+If you do not have a steam wand, see the no-equipment methods below.
+
+### How do I steam milk without a steamer?
+
+**The four most effective ways to froth or heat milk without a steam wand are: a handheld electric frother, a French press pump method, a mason jar shake method, and a whisk combined with microwave heat.**
+
+- **Handheld frother:** Heat milk in a microwave for 45–60 seconds (not boiling), then plunge the frother in and run for 20–30 seconds. Produces real microfoam, closest to a steam wand.
+- **French press pump:** Heat milk, pour into your French press, and rapidly pump the plunger 20–30 times. Creates thick foam suitable for cappuccinos.
+- **Mason jar shake:** Shake cold milk vigorously in a sealed jar for 45–60 seconds, then microwave for 30 seconds (uncovered) to set the foam. Produces coarser foam but works in a pinch.
+- **Whisk:** Heat milk in a small saucepan over medium heat, then whisk vigorously with a balloon whisk until frothy. Creates lighter foam, good for hot lattes.
+
+See our full guide to [frothing milk without a frother](/guides/how-to-froth-milk-without-frother/) for step-by-step instructions and foam quality rankings.
+
+### Is steamed milk just warm milk?
+
+**No — steamed milk is fundamentally different from warm milk.** Steaming does three things that warming alone cannot:
+
+1. **Introduces air microfoam:** The steam wand injects thousands of tiny air bubbles, creating a thick, velvety texture. Warm milk has no foam structure.
+2. **Enhances sweetness:** Heating milk to 140–155°F triggers partial breakdown of lactose into simpler sugars, making steamed milk noticeably sweeter than the same milk heated in a microwave. Above 165°F (74°C), this sweetness is destroyed.
+3. **Changes texture:** The denatured whey proteins in properly steamed milk create a silky, glossy consistency that coats the palate differently from thin warm milk.
+
+The result is why a latte tastes so different from espresso with hot milk poured from a saucepan.
+
+### Does steaming milk help lactose intolerance?
+
+**No — steaming does not reduce lactose content.** Lactose is a sugar, and steam heat does not break it down into digestible simple sugars (that requires the enzyme lactase, not heat). People with lactose intolerance who consume steamed dairy milk will still experience the same symptoms.
+
+**Better alternatives for lactose intolerance:** Barista-edition oat milk, soy milk, and almond milk all steam well and are naturally lactose-free. Lactose-free dairy milk (where lactase has been pre-added commercially) is also an option and steams almost identically to regular whole milk.

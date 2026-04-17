@@ -162,8 +162,9 @@ Iced coffee is hot-brewed coffee poured over ice. Cold brew is never heated — 
 
 ---
 
-## Related Recipes
+## Related Guides
 
+- [What Is Cold Brew Coffee?](/guides/what-is-cold-brew/) — complete guide: types, science, and cold brew vs. iced coffee
 - [Vanilla Sweet Cream Cold Brew](/recipes/vanilla-sweet-cream-cold-brew/) — Cold brew with Starbucks-style homemade vanilla sweet cream
 - [Cold Brew Ratio Guide](/guides/cold-brew-ratio/) — Reference ratios for regular strength vs concentrate
 - [How to Make Cold Foam](/recipes/cold-foam/) — Add cold foam to your cold brew for a Starbucks upgrade

@@ -194,6 +194,7 @@ Yes — cold brew is a form of iced coffee. When people say "iced coffee" vs "co
 
 ## Related Guides
 
+- [What Is Cold Brew Coffee?](/guides/what-is-cold-brew/) — complete guide to cold brew, types, and science
 - [Cold Brew Ratio Guide](/guides/cold-brew-ratio/) — exact ratios for concentrate and ready-to-drink
 - [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) — step-by-step with storage tips
 - [Vanilla Sweet Cream Cold Brew](/recipes/vanilla-sweet-cream-cold-brew/) — Starbucks copycat recipe
