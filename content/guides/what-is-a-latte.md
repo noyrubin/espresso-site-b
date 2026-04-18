@@ -137,3 +137,7 @@ A latte has more steamed milk (6–8 oz) and thin microfoam. A cappuccino is sma
 
 **Why do people drink lattes?**
 The mild, creamy flavor makes lattes accessible for people who find straight espresso too intense. The large milk volume dilutes the bitterness, and the natural sweetness from steamed milk means many people drink lattes without added sugar. They also take well to flavored syrups, making them the most customizable espresso drink on most café menus.
+
+---
+
+*Related: [Espresso Drink Calories Guide](/guides/espresso-drink-calories/) | [Cappuccino vs Latte](/guides/cappuccino-vs-latte/) | [Milk Steaming Guide for Beginners](/guides/milk-steaming-beginners/)*

@@ -1,7 +1,7 @@
 ---
-title: "Ristretto: What It Is, How to Make It, and How It Differs from Espresso"
+title: "Ristretto: What It Is, How to Make It & Espresso Comparison"
 date: 2026-04-06
-description: "A ristretto is a short, concentrated espresso shot pulled with less water. Learn what ristretto tastes like, how to make one, and how it compares to espresso and lungo."
+description: "Learn what a ristretto is, how to pull one at home, and how it compares to espresso and lungo — with troubleshooting tips, a comparison table, and a complete FAQ."
 tags: ["ristretto", "espresso", "recipe", "technique"]
 categories: ["recipes"]
 author: "Barista At Home"
@@ -130,4 +130,4 @@ A blonde shot (also called a blonde espresso) refers to espresso made from light
 
 ---
 
-*Looking to explore all espresso shot sizes? See also: [Lungo Recipe](/recipes/lungo/) | [What Is a Doppio?](/guides/what-is-a-doppio/) | [Espresso Ratio Guide](/guides/espresso-ratio-guide/) | [Affogato: Espresso Over Gelato](/recipes/affogato/) | [Getting Started with Home Espresso](/guides/getting-started/)*
+*Looking to explore all espresso shot sizes? See also: [Ristretto vs Espresso: Key Differences](/guides/ristretto-vs-espresso/) | [Lungo Recipe](/recipes/lungo/) | [What Is a Doppio?](/guides/what-is-a-doppio/) | [Espresso Ratio Guide](/guides/espresso-ratio-guide/) | [Affogato: Espresso Over Gelato](/recipes/affogato/) | [Getting Started with Home Espresso](/guides/getting-started/)*

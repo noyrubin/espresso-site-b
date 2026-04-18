@@ -123,4 +123,4 @@ One shot of espresso: **63–75 mg of caffeine**. One double shot: **126–150 m
 
 Keep daily intake under 400 mg, stop drinking espresso by early afternoon, and you'll stay well within both safety guidelines and good sleep hygiene.
 
-*Ready to pull better shots at home? Start with our [complete beginner's guide to home espresso](/guides/getting-started/) or learn how to [dial in your espresso ratio](/guides/espresso-ratio-guide/) for consistent results.*
+*Ready to pull better shots at home? Start with our [complete beginner's guide to home espresso](/guides/getting-started/) or learn how to [dial in your espresso ratio](/guides/espresso-ratio-guide/) for consistent results. Also see: [Espresso Drink Calories Guide](/guides/espresso-drink-calories/).*
