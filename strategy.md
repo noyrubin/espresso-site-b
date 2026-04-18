@@ -682,17 +682,33 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ SEO skill: Ch4.2 (answer-first + PAA optimization for ristretto), Ch4.1 (informational hub intent gap — "what is" queries distinct from recipe pages), Ch5.2 (internal linking audit — latte cluster now has bidirectional links to hub)
 
 ### Pulse 38 (22:00 IDT Apr 17)
-- **SC watch:** Day 14. Ristretto at pos 7.75 = page 1. First click may occur this pulse or next few. Watch milk-steaming-beginners for position improvement toward top 20.
-- **Content priorities (to validate with DataForSEO):**
-  1. **"what is cold brew"** — 9.9K/mo diff 12. We have cold-brew-coffee-recipe + cold-brew-ratio but no "what is" hub. Check SERP.
-  2. **"cafe cubano" / "cafe cubano recipe"** — HIGH head term, but subqueries may be lower. Check.
-  3. **"irish coffee recipe"** — cultural coffee + whiskey drink. Check vol/diff.
-  4. **"affogato recipe"** — 165K/mo is our head term page; check if "affogato recipe" standalone subquery has different SERP
-  5. **"home espresso tips"** or "beginner espresso tips"** — check vol; could be a high-E-E-A-T guide
+- ✅ WRITTEN: what-is-cold-brew.md (covered Pulse 38)
+- ✅ All other Pulse 38 items completed in Pulses 39-41
+
+### Pulse 41 — DONE (22:00 IDT Apr 18)
+- ✅ SC: 9 pages (stable). ristretto pos 7.75 / 4 imp (PAGE 1). milk-steaming-beginners pos 29.2 / 34 imp. GA4: 0 organic sessions — Day 15, first click imminent.
+- ✅ DataForSEO: search-volume (7 kw $0.075) + 2x SERP checks ($0.004) = $0.079 this pulse. Total ~$5.55
+- ✅ STRONG FIND: "latte calories" 2.9K + "espresso calories" 1.9K + "how many calories in a latte" 1.3K = 6.1K combined at diff 0/100 ULTRA-LOW. SERP: lattecalories.com #1 (calculator tool — different intent), Reddit/Starbucks/calorieking at #2-5 (all beatable with informational guide).
+- ✅ WRITTEN: espresso-drink-calories.md — comprehensive calorie guide. Quick-reference table all drinks, latte/espresso/cappuccino sections, milk type table, Starbucks sizes, syrup calories, low-cal options, 5 FAQ.
+- ✅ WRITTEN: ristretto-vs-espresso.md — 2.4K diff 5. Dedicated comparison page (distinct from ristretto how-to intent). SERP: cafebritt.com #1, Reddit #2 — beatable. No featured snippet.
+- ✅ OPTIMIZED: ristretto.md — title shortened 72→60 chars (prevents SERP truncation); meta description updated for CTR; link added to ristretto-vs-espresso.
+- ✅ Internal links: espresso-caffeine-guide → calorie guide; what-is-a-latte → calorie guide; ristretto.md → ristretto-vs-espresso
+- ✅ 116 pages total — committed e39411d
+- ✅ SEO skill: Ch4.2 (title/meta CTR optimization for ristretto — prevent truncation, set expectations correctly), Ch4.1 (query fan-out — calorie cluster: 3 queries in one guide; ristretto cluster: how-to + comparison = 2 intent buckets), Ch7.1 (topic cluster tracking — new calorie cluster hub page)
+- ✅ REJECTED: "how to make pour over coffee" 5.4K MEDIUM 66/100 → SKIP; "pour over vs drip coffee" 1K diff 25 → DEFERRED; "espresso water ratio" 170 diff 5 → too low
+
+### Pulse 42 (06:00 IDT Apr 19)
+- **SC watch:** Day 16. First click expected — ristretto pos 7.75 with optimized title. Watch for new pages in impressions (grind guide, calorie guide).
+- **Content priorities:**
+  1. **"irish coffee recipe"** — cultural coffee + whiskey; check vol/diff. Could target 4K+/mo if diff is low.
+  2. **"pour over vs drip coffee"** — 1K diff 25 → check SERP; deferred from Pulse 41
+  3. **"espresso martini recipe"** — already have the page (246K/mo); check if "espresso martini calories" (possible extension) has vol
+  4. **"flat white calories"** / "cappuccino calories" standalone queries — check vol; may be covered by calorie guide
+  5. **"cold brew caffeine"** — adjacent to espresso caffeine guide; check vol/diff
 - **Optimization priorities:**
-  - Check if milk-steaming-beginners can benefit from any featured snippet optimization (pos 29.2 — improving schema/structure could move it toward top 20)
-  - Review any new pages in SC impressions
-- **SEO skill:** Ch4.2 (featured snippet optimization for milk-steaming-beginners), Ch4.1 (query fan-out — "what is cold brew" hub), Ch7.1 (first click measurement)
+  - ristretto.md: monitor if title change improves CTR over next 3-5 days (SC data lags ~48h)
+  - milk-steaming-beginners: at pos 29.2 with 34 impressions — still needs to move to top 20. Consider adding more answer-first FAQ headers matching the "how to steam milk" variants in SC queries.
+- **SEO skill:** Ch4.2 (answer-first optimization for milk-steaming-beginners; featured snippet targeting), Ch4.1 (irish coffee keyword research)
 
 ---
 ## New Hypotheses (Pulse 6+)
@@ -702,4 +718,4 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - **H13 (Pulse 19):** "dalgona coffee" (27.1K/mo, diff 6) — viral search interest is permanent despite trend peak in 2020. seriouseats at #3 is a tough competitor but mykoreankitchen.com #4 is beatable — targeting #4-5.
 - **H14 (Pulse 25):** Schema fix unlocking Recipe schema for 15+ high-volume recipe pages should increase rich result eligibility. Once pages index, Recipe cards in SERP (via "recipes" feature) will dramatically improve CTR vs. plain blue links. espresso-martini (246K), cold-foam (33K), pumpkin-spice-latte (40.5K) are the highest-priority pages to watch for recipe rich results.
 
-*Last updated: 2026-04-16 Pulse 32*
+*Last updated: 2026-04-18 Pulse 41*

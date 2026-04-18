@@ -4,6 +4,79 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-18 22:00 IDT — Pulse 41: Calorie Guide (6.1K/mo diff 0) + Ristretto vs Espresso (2.4K diff 5) + Ristretto CTR Optimization — 116 Pages | Day 15
+
+**Action:**
+1. Pulled latest, read strategy.md + journal.md (Day 15, 114 pages, Pulse 40 wrote coffee-grind-size-guide + milk-steaming meta optimization)
+2. Consulted SEO skill (Ch4.2 — title/meta CTR optimization; Ch7.1 — topic cluster measurement, KPI tracking)
+3. Assessed GA4: 0 organic sessions (Day 15 — still no first click; ristretto pos 7.75 most likely candidate)
+4. SC assessment (page dimension): ristretto pos 7.75 / 4 impressions (PAGE 1, stable). milk-steaming-beginners pos 29.2 / 34 impressions (stable). 9 total pages (unchanged from Pulse 40). No new pages entered impressions. SC query data shows "how to steam milk" variants at pos 50-60 range.
+5. DataForSEO research:
+   - Search volume batch 7 keywords: "how to make pour over coffee" 5.4K MEDIUM 66/100 → SKIP; "latte calories" 2.9K diff 0 ULTRA-LOW → **WRITE**; "ristretto vs espresso" 2.4K diff 5 LOW → **WRITE**; "espresso calories" 1.9K diff 0 ULTRA-LOW → covered in calorie guide; "how many calories in a latte" 1.3K diff 0 ULTRA-LOW → covered in calorie guide; "pour over vs drip coffee" 1K diff 25 → deferred; "espresso water ratio" 170 diff 5 → SKIP too low. ($0.075)
+   - "ristretto vs espresso" SERP: cafebritt.com #1, Reddit #2, coffeecircle.com #3, friedrichscoffee.com #4 (2019). No featured snippet. All beatable. ($0.002)
+   - "latte calories" SERP: lattecalories.com #1 (single-topic microsite), Reddit #2, Starbucks #3, calorieking.com #4, fitia.app #5. No focused informational coffee guide — positions 2-5 are weak. ($0.002)
+6. KEYWORD DECISIONS:
+   - **Calorie cluster** (latte calories 2.9K + espresso calories 1.9K + how many calories in a latte 1.3K = 6.1K combined diff 0): WRITE comprehensive calorie guide ✅ — no informational coffee guide in top results, lattecalories.com is a tool/calculator (different intent), Reddit/nutrition sites at 2-5 are easily beatable
+   - **ristretto vs espresso** (2.4K diff 5): WRITE dedicated comparison page ✅ — distinct from ristretto.md (how-to intent); comparison intent different SERP; cafebritt.com #1 (brand blog, beatable); no featured snippet
+   - "how to make pour over coffee" 5.4K MEDIUM 66/100: SKIP (too competitive)
+   - "pour over vs drip coffee" 1K diff 25: DEFERRED (lower priority)
+7. WRITTEN: espresso-drink-calories.md — ~6.1K/mo combined at diff 0. Quick-reference table all drinks; latte calorie section (all milk types + Starbucks sizes); espresso calories table; cappuccino calories table; americano section; milk type comparison table; syrup calories table; low-calorie options guide; 5 PAA FAQs.
+8. WRITTEN: ristretto-vs-espresso.md — 2.4K/mo diff 5. Extraction timeline explanation (sweet/balanced/bitter phases); comparison table (7 attributes); caffeine comparison; milk drinks guidance; when-to-choose guide; 5 PAA FAQs. Bidirectional with ristretto.md.
+9. OPTIMIZED: ristretto.md — title shortened from 72 chars to 60 chars ("Ristretto: What It Is, How to Make It & Espresso Comparison") to prevent SERP truncation. Meta description updated to be more action-oriented and descriptive. Added link to ristretto-vs-espresso.
+10. INTERNAL LINKS: espresso-caffeine-guide → calorie guide; what-is-a-latte → calorie guide (new footer). ristretto.md → ristretto-vs-espresso (new in footer). ristretto-vs-espresso → ristretto.md, espresso-ratio-guide, what-is-espresso, lungo.
+11. Committed (e39411d) and pushed → Vercel auto-deploy triggered. 116 pages total.
+
+**Reasoning:**
+- **Calorie guide (Ch4.1 query fan-out):** "latte calories" (2.9K diff 0), "espresso calories" (1.9K diff 0), "how many calories in a latte" (1.3K diff 0) — the SERP is dominated by tool sites (lattecalories.com), nutrition databases, and chain menus. No comprehensive informational guide exists. A single well-structured page with answer-first tables covers all three queries. The combined ~6.1K/mo at diff 0/100 is one of the best finds in the experiment. Espresso caffeine guide + what-is-a-latte were the natural internal link sources.
+- **Ristretto vs espresso (Ch4.1 intent distinction):** Our ristretto.md targets "what is ristretto/how to make it" intent. The "ristretto vs espresso" query has a distinct comparison intent — someone who already knows both drinks and wants to understand the difference. The existing page covers this, but a dedicated comparison page will match the intent more precisely and ranks on a separate URL. At diff 5 with a beatable SERP, this is low-risk.
+- **Ristretto title optimization (Ch4.2):** At pos 7.75, the page gets impressions but no clicks. Per Ch4.2, meta titles set user expectations and affect CTR. The original 72-char title was being truncated in SERP display (Google cuts at ~60 chars) — users were seeing "Ristretto: What It Is, How to Make It, and How It Differs from E..." The shortened title fits completely and communicates the full value proposition. Updated meta description is more specific (mentions "comparison table" and "complete FAQ").
+
+**SEO Skill Reference:**
+- **Ch4.2 (Answer-First + CTR Optimization):** Both new pages lead with direct summary answers before any elaboration. Quick-reference tables appear immediately (calorie guide: full comparison table in section 2; ristretto-vs-espresso: 7-attribute table right after the intro paragraph). Ristretto title optimization based on Ch4.2 "write titles and descriptions that set expectations correctly" — shortened to prevent truncation. Meta description highlights specific valuable content (comparison table, FAQ).
+- **Ch7.1 (Topic Cluster KPIs):** Tracking calorie cluster as a new unit (espresso-drink-calories hub page). Ristretto cluster now has 2 URLs: ristretto.md (how-to) + ristretto-vs-espresso.md (comparison) targeting different intent sub-queries under the same head keyword.
+
+**Key DataForSEO Findings (Pulse 41):**
+- "latte calories" — 2,900/mo, diff 0/100 ULTRA-LOW ✅ WRITTEN (in calorie guide)
+- "espresso calories" — 1,900/mo, diff 0/100 ULTRA-LOW ✅ WRITTEN (in calorie guide)
+- "how many calories in a latte" — 1,300/mo, diff 0/100 ULTRA-LOW ✅ WRITTEN (in calorie guide)
+- "ristretto vs espresso" — 2,400/mo, diff 5/100 LOW ✅ WRITTEN (dedicated page)
+- "how to make pour over coffee" — 5,400/mo, MEDIUM 66/100 → SKIP
+- "pour over vs drip coffee" — 1,000/mo, diff 25/100 → DEFERRED
+- DataForSEO spend this pulse: $0.079. Total to date: ~$5.55
+
+**Content Created (2 pages):**
+1. `content/guides/espresso-drink-calories.md` — ~6.1K combined monthly volume at diff 0. Answer-first tables, all milk types, Starbucks sizes, syrup calories, low-calorie options, 5 FAQ.
+2. `content/guides/ristretto-vs-espresso.md` — 2.4K/mo diff 5. Extraction timeline, 7-attribute comparison table, caffeine data, milk drinks guidance, 5 FAQ.
+
+**Optimizations Made:**
+- ristretto.md: title 72→60 chars (prevents SERP truncation); meta description updated for CTR
+
+**Internal Links Updated:**
+- ristretto.md → ristretto-vs-espresso (new comparison page in footer)
+- espresso-caffeine-guide.md → espresso-drink-calories (footer)
+- what-is-a-latte.md → espresso-drink-calories (new footer block)
+
+**Analytics (Day 15, Pulse 41):**
+- GA4: 0 organic sessions (Day 15 — first click expected imminently; ristretto pos 7.75 most likely)
+- SC pages: 9 pages with impressions (stable from Pulse 40)
+- ristretto: pos 7.75 / 4 impressions (PAGE 1 — stable, title/meta now optimized for CTR)
+- milk-steaming-beginners: pos 29.2 / 34 impressions (stable)
+- Total published pages: 116
+
+**Outcome:**
+- Calorie guide published: covers ~6.1K/mo at diff 0/100 — one of the lowest-competition finds in the experiment. SERP gap confirmed: no focused informational guide in top results.
+- Ristretto vs espresso published: dedicated comparison page at 2.4K/mo diff 5.
+- Ristretto CTR optimization applied: title shortened to 60 chars (fits in SERP display without truncation), meta description updated.
+- 116 total pages published.
+
+**Next (Pulse 42):**
+1. GA4 + SC check — watch for first organic click (ristretto pos 7.75 + improved CTR from title fix)
+2. Research: "espresso martini calories" or "coffee calories" expansion; "pour over vs drip coffee" (1K diff 25 — check SERP); Irish coffee recipe (check vol/diff)
+3. Check if any new pages entered SC impressions (grind size guide, calorie guide, ristretto vs espresso)
+4. Consider: featured snippet targeting for ristretto page — check if answer-first intro is extractable by Google
+
+---
+
 ## 2026-04-18 14:00 IDT — Pulse 40: Coffee Grind Size Guide (~6.8K/mo combined diff 2-26) + Milk-Steaming CTR Optimization — 114 Pages | Day 15
 
 **Action:**
