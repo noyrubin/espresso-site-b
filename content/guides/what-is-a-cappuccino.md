@@ -113,4 +113,4 @@ Italian coffee culture holds that milk is a digestive that belongs only in the m
 
 ---
 
-*Related guides: [Cappuccino Recipe (How to Make at Home)](/recipes/cappuccino/) | [What Is a Latte?](/guides/what-is-a-latte/) | [Cappuccino vs. Latte](/guides/cappuccino-vs-latte/) | [Flat White vs. Cappuccino](/guides/flat-white-vs-cappuccino/) | [Milk Steaming for Beginners](/guides/milk-steaming-beginners/)*
+*Related guides: [Cappuccino Recipe (How to Make at Home)](/recipes/cappuccino/) | [What Is a Latte?](/guides/what-is-a-latte/) | [Cappuccino vs. Latte](/guides/cappuccino-vs-latte/) | [Macchiato vs. Cappuccino](/guides/macchiato-vs-cappuccino/) | [Flat White vs. Cappuccino](/guides/flat-white-vs-cappuccino/) | [Milk Steaming for Beginners](/guides/milk-steaming-beginners/)*

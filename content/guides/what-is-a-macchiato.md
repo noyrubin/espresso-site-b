@@ -166,4 +166,5 @@ A cortado uses a 1:1 ratio of espresso to warm (not foamy) milk — typically 2 
 - [Cappuccino Recipe: The Classic Ratio](/recipes/cappuccino/) — Dense foam technique
 - [Cortado: The 1:1 Espresso Drink](/recipes/cortado/) — For espresso-forward milk drinks
 - [What Is a Latte Macchiato?](/guides/latte-macchiato/) — Deep dive into the inverted layered espresso drink
+- [Macchiato vs. Cappuccino](/guides/macchiato-vs-cappuccino/) — Head-to-head size and milk comparison
 - [Getting Started with Home Espresso](/guides/getting-started/) — Equipment and technique overview
