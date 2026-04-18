@@ -7,14 +7,14 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 14 of indexing — **110 pages published.** SC Pulse 38: **9 pages with impressions** (stable). milk-steaming-beginners 34 imps pos 29.2 (stable — FAQ section added Pulse 38 to target featured snippet). ristretto pos 7.75 / 4 imps (PAGE 1 — stable). siphon-coffee 8 imps, brown-sugar-shaken-espresso 15 imps. GA4 organic still 0 (Day 14, still expected). **Pulse 37 additions (14:00 IDT):** what-is-a-cappuccino (22.2K diff 10), what-is-an-americano (22.2K diff 2), ristretto PAA optimization (+3 FAQ answers). **Pulse 38 additions (22:00 IDT):** what-is-cold-brew (9.9K diff 12), milk-steaming-beginners FAQ optimization (4 PAA answers, Ch4.2 answer-first). SEO skill: Ch4.2 (PAA optimization, featured snippet formatting), Ch5.2 (bidirectional cluster linking for cold brew hub).
+Day 15 of indexing — **113 pages published.** SC Pulse 39: **9 pages with impressions** (stable — no new pages entered since Pulse 38). milk-steaming-beginners 34 imps pos 29.2 (FAQ-optimized Pulse 38 — awaiting position shift). ristretto pos 7.75 / 4 imps (PAGE 1 — stable). GA4 organic still 0 (Day 15 — first clicks expected any day). **Pulse 39 additions (06:00 IDT 2026-04-18):** what-is-drip-coffee (4.4K diff 2), americano-vs-coffee (4.4K diff 1), macchiato-vs-cappuccino (6.5K diff 2). SEO skill: Ch4.2 (answer-first format + PAA FAQ answers on all 3 pages), Ch4.1 (query fan-out intent mapping), Ch7.1 (cluster measurement framework).
 
-**IMPORTANT: ristretto (pos 7.75) is confirmed PAGE 1. milk-steaming-beginners at pos 29.2 with 34 impressions — optimized with 4 PAA FAQ answers (Pulse 38). what-is-a-latte is the primary hub for all 25+ latte pages. Cold brew cluster now fully interlinked: what-is-cold-brew ↔ cold-brew-ratio ↔ cold-brew-coffee-recipe ↔ cold-brew-vs-iced-coffee.**
+**IMPORTANT: ristretto (pos 7.75) is confirmed PAGE 1. milk-steaming-beginners at pos 29.2 with 34 impressions — optimized with 4 PAA FAQ answers (Pulse 38). what-is-a-latte is the primary hub for all 25+ latte pages. Cold brew cluster now fully interlinked: what-is-cold-brew ↔ cold-brew-ratio ↔ cold-brew-coffee-recipe ↔ cold-brew-vs-iced-coffee. New comparison cluster: macchiato-vs-cappuccino ↔ what-is-a-macchiato ↔ what-is-a-cappuccino ↔ cappuccino-vs-latte ↔ latte-vs-macchiato.**
 
 ## Key Data Points
-- **GA4 Pulse 38:** No organic sessions — Day 14, still expected. First organic clicks imminent.
-- **Search Console Pulse 38:** 9 pages with impressions (stable). milk-steaming-beginners pos 29.2 / 34 impressions (stable, FAQ added). ristretto pos 7.75 / 4 impressions (**PAGE 1**). siphon-coffee **8 impressions** pos 80.5. brown-sugar-shaken-espresso **15 impressions** pos 77 (stable). homepage 6 imps pos 55. cortado-vs-flat-white 2 imps pos 62. vietnamese-iced-coffee 2 imps pos 83.5. lavender-latte 1 imp pos 96. tags/latte-macchiato 4 imps pos 80.
-- **DataForSEO spend to date:** ~$5.08 (~$0.156 this pulse: 2x SERP checks $0.004 + 2x search-volume batches $0.150 + 1x SERP check nitro-cold-brew $0.002)
+- **GA4 Pulse 39:** No organic sessions — Day 15. First click expected imminently.
+- **Search Console Pulse 39:** 9 pages with impressions (stable from Pulse 38). milk-steaming-beginners pos 29.2 / 34 impressions (stable, FAQ added Pulse 38). ristretto pos 7.75 / 4 impressions (**PAGE 1**). siphon-coffee **9 impressions** pos 78.4. brown-sugar-shaken-espresso **15 impressions** pos 77. homepage 8 imps pos 48.6. cortado-vs-flat-white 2 imps pos 62. vietnamese-iced-coffee 2 imps pos 83.5. lavender-latte 1 imp pos 96. tags/latte-macchiato 5 imps pos 80.
+- **DataForSEO spend to date:** ~$5.32 (~$0.235 this pulse: 5x SERP checks $0.010 + 3x search-volume batches $0.225)
 - **Pulse 10 keyword research:** espresso tonic 9.9K diff 1 (✅ WRITTEN); cortado vs macchiato 2.9K diff 1 (✅ WRITTEN); cold brew cluster ALL high competition (skipped); latte vs cappuccino 27.1K diff 6 (likely captured by existing cappuccino-vs-latte page)
 - **Pulse 11 keyword research:** flat-white-vs-latte 22.2K/mo diff 5 (✅ WRITTEN); latte-vs-macchiato 6.6K/mo diff 2 (✅ WRITTEN); how-long-do-coffee-beans-last 2.9K/mo diff 8 no featured snippet (✅ WRITTEN); espresso-vs-americano 1.6K/mo diff 1 (✅ WRITTEN); REJECTED: how-to-store-coffee-beans HIGH 89/100, types-of-espresso-machines HIGH 100/100, espresso-tamping HIGH 100/100, single-origin-espresso HIGH 94/100
 
@@ -136,6 +136,9 @@ Day 14 of indexing — **110 pages published.** SC Pulse 38: **9 pages with impr
 | what is a latte / cafe latte | 49,500 + 49,500 (~99K combined) | 3/100 ULTRA-LOW | /guides/what-is-a-latte/ | **Published (NEW Pulse 36 — MAJOR FIND: largest-volume page since vietnamese-coffee (135K Pulse 31). SERP: Nescafe #1 (brand), Reddit #2, Wikipedia #3, sleepyowl.co #4, 787coffee.com #5, chapelstreet.cafe #6 (local coffee shop!), lorespresso.com #7. All beatable. No featured snippet, AI overview present. Hub page with 20+ internal links to all latte recipe pages. Covers: definition, how it's made, ratio table, taste, types of lattes (comprehensive section with links), comparison table vs cappuccino/flat white/cortado/macchiato/breve, how to make at home, 4 FAQs. Also targets "cafe latte" (49.5K same diff). Combined ~99K/mo.)** |
 | maple latte | 1,000 | 0/100 ULTRA-LOW | /recipes/maple-latte/ | **Published (NEW Pulse 36 — SERP: burrataandbubbles.com #1, foxandbriar.com #2, midwestniceblog.com #3, Reddit #4, small food blogs #5-7. Grade A Amber/Dark maple syrup guide, ratio table (light/medium/sweet), 4 variations (salted maple, maple brown sugar, maple cinnamon, maple oat milk), 4 FAQs. Internal links from honey-latte + pumpkin-spice-latte.)** |
 | gingerbread latte | 2,900 | 33/100 LOW | /recipes/gingerbread-latte/ | **Published (NEW Pulse 36 — SEASONAL, INDEXED IN APRIL FOR NOV-DEC PEAK (Ch4.5). SERP: burrataandbubbles.com #1, acozykitchen.com #2, dishingupthedirt.com #3 (tiny blog), thecleaneatingcouple.com #4, dessertfortwo.com #5, Facebook #6. Homemade gingerbread syrup recipe (brown sugar + ginger + cinnamon + cloves + nutmeg + vanilla, 3-week shelf life, 8-10 lattes). Starbucks discontinued US 2019 historical note. 4 variations. 4 FAQs. Internal links from pumpkin-spice-latte.)** |
+| what is drip coffee | 4,400 | 2/100 ULTRA-LOW | /guides/what-is-drip-coffee/ | **Published (NEW Pulse 39 — SERP: Wikipedia #1, coffeebros.com #2, Reddit #3, Nescafe #4, KitchenAid #5 — all beatable. Covers: how drip works, drip vs pour over comparison table, drip vs espresso table, americano vs drip section (links to dedicated page), SCA certification guide, 5 steps to better drip, 4 PAA FAQs. Also captures "how to make drip coffee" 1.9K diff 23. Internal links to pour-over-ratio + coffee-to-water-ratio + espresso-vs-coffee + americano-vs-coffee.)** |
+| americano vs coffee / americano vs drip coffee | 4,400 + 1,600 = 6,000/mo | 1/100 ULTRA-LOW | /guides/americano-vs-coffee/ | **Published (NEW Pulse 39 — SERP: coffeebean.com #3, javvycoffee.com #4, Quora #5, tradecraft.me #6 — all beatable. Comparison table (base/crema/oil/flavor/acidity/caffeine), caffeine math table, "Is americano just black coffee?" section, long black note, healthier comparison, choosing guide, 4 PAA FAQs. Internal links to what-is-an-americano + what-is-drip-coffee + espresso-vs-coffee + espresso-vs-americano.)** |
+| macchiato vs cappuccino / cappuccino vs macchiato | 3,600 + 2,900 = 6,500/mo | 2/100 ULTRA-LOW | /guides/macchiato-vs-cappuccino/ | **Published (NEW Pulse 39 — SERP: methodicalcoffee.com #1 (3-way comparison, not direct head-to-head), Reddit #2, Healthline #3, Philips #4, bonlifecoffee.com #5, javapresse.com #6 — our dedicated 2-way comparison is more targeted. Comparison table (espresso/milk/foam/size/calories/strength), flavor contrast section, 3-drink table (macchiato/cappuccino/latte), caffeine table, how-to-make both, 4 PAA FAQs. Internal links to what-is-a-macchiato + what-is-a-cappuccino + cappuccino-vs-latte + latte-vs-macchiato + cortado-vs-macchiato.)** |
 
 ## Biggest Opportunities Found So Far
 
@@ -311,6 +314,14 @@ Day 14 of indexing — **110 pages published.** SC Pulse 38: **9 pages with impr
 - **"tiger milk tea" (Pulse 35):** 3,600/mo diff 1 — NOT espresso/coffee content. Tiger milk tea is a boba tea drink (brown sugar milk tea). Off-niche for myhomebarista.com.
 - **"oat milk coffee" (Pulse 35):** 390/mo HIGH 87/100 — doubly disqualified.
 - **"coffee drinks guide" (Pulse 35):** 140/mo HIGH 99/100 — doubly disqualified.
+- **"what is pour over coffee" (Pulse 39):** 3.6K/mo diff 30 LOW — borderline competition. SERP: counterculturecoffee.com #2 (authority), food52.com #3, breakfastwithnick.com #4 (old personal blog beatable). Not written — we already have pour-over-ratio guide. May revisit if we add a "what is pour over" definitional section to the existing page.
+- **"espresso powder" (Pulse 39, reverified):** 22.2K/mo HIGH 98/100 — skip. Dominated by King Arthur Baking, Amazon, Starbucks.
+- **"coffee brewing methods" (Pulse 39):** 1.6K/mo HIGH 76/100 — doubly disqualified.
+- **"types of espresso drinks" (Pulse 39, reverified):** 2.9K/mo MEDIUM 60/100 — too competitive.
+- **"best milk for lattes" (Pulse 39):** 880/mo LOW 13/100 — volume too low for standalone page.
+- **"almond milk latte" (Pulse 39):** 880/mo LOW 28/100 — volume too low standalone.
+- **"what is a french press" (Pulse 39):** 2.4K/mo MEDIUM 34/100 — we already have french-press-ratio + how-to-use-french-press. The "what is french press" query is likely captured by how-to-use-french-press. Not worth standalone definitional page.
+- **"drip coffee" head term (Pulse 39, checked):** 40.5K/mo diff 36 MEDIUM — SERP: positions 4-8 are food52/787coffee/Amazon/Reddit/Instagram. Need to check positions 1-3 to evaluate. Deferred to Pulse 40.
 
 ## Hypotheses Being Tested
 - **H1:** "espresso vs coffee" + "latte recipe" high-volume / ultra-low competition keywords rankable in 4-8 weeks (Ch4.1)
@@ -386,22 +397,27 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ DataForSEO spend: ~$0.156 (3x SERP checks $0.006 + 2x search-volume batches $0.150)
 - Total pages: 110
 
-### Pulse 39 — NEXT (06:00 IDT 2026-04-18)
+### Pulse 39 — DONE ✅ (06:00 IDT 2026-04-18)
+- ✅ SC: 9 pages with impressions (stable). ristretto pos 7.75 (PAGE 1 — stable). milk-steaming-beginners 34 imps pos 29.2 (stable, FAQ added Pulse 38 — awaiting shift). GA4: 0 organic (Day 15 — first click expected imminently).
+- ✅ what-is-drip-coffee (4.4K diff 2 ULTRA-LOW) — SERP gap: Wikipedia + brand/Reddit results. Drip vs pour over + drip vs espresso + americano vs drip sections. 4 PAA FAQs.
+- ✅ americano-vs-coffee (4.4K diff 1 ULTRA-LOW) — SERP: brand/Quora/small blogs all beatable. Covers "americano vs drip coffee" (1.6K diff 2). Caffeine table, long black comparison, 4 PAA FAQs.
+- ✅ macchiato-vs-cappuccino (6.5K combined diff 2 ULTRA-LOW) — fills direct head-to-head comparison gap (existing SERP has 3-way guides, not 2-way). 4 PAA FAQs. Internal links to full macchiato/cappuccino comparison cluster.
+- ✅ Internal links: what-is-an-americano → americano-vs-coffee + what-is-drip-coffee; what-is-a-cappuccino → macchiato-vs-cappuccino; what-is-a-macchiato → macchiato-vs-cappuccino; espresso-vs-coffee → what-is-drip-coffee + americano-vs-coffee
+- ✅ DataForSEO spend: ~$0.235 (5x SERP $0.010 + 3x search-volume $0.225)
+- Total pages: 113
+
+### Pulse 40 — NEXT (14:00 IDT 2026-04-18)
 **Priority focus:**
-- **GA4 organic: watch closely — Day 14+. ristretto pos 7.75 (page 1). First click could happen anytime.**
-- SC: check for new pages entering impressions. Expect milk-steaming-beginners position to shift after FAQ addition.
-- Keyword research: "drip coffee" (40.5K diff 36 MEDIUM — needs SERP check); "aeropress vs french press" (1.6K diff 25 LOW — check SERP); "what is espresso powder" (2.4K diff 32 — borderline worth checking)
-- Content opportunity: "what is a pour over" or "pour over coffee guide" — needs diff/SERP check (separate from "pour over coffee" head term at 100/100)
-- Consider: milk frother comparison guide, milk types for coffee comparison — extends milk cluster
+- **GA4 organic: Day 15. ristretto pos 7.75 (page 1) — watch for first click.**
+- SC: check if any new pages entered impressions. Watch milk-steaming-beginners position for FAQ impact.
+- Keyword research: check "what is espresso powder" (2.4K diff 32 — needs SERP check); "what is pour over coffee" (3.6K diff 30 — checked SERP: food52.com #3 + counterculturecoffee.com #2, borderline); "drip coffee" head term (40.5K diff 36 — SERP showed #4-8 are all beatable food/brand blogs, check #1-3 to decide)
+- Consider: meta description optimization pass for impression pages (CTR optimization per Ch7.1)
+- New content: if "what is espresso powder" SERP is weak, write it (informational angle)
 
-### Pulse 40 — 2 PULSES AHEAD (14:00 IDT 2026-04-18)
-- SC week 3 review: expect first clicks soon
+### Pulse 41 — 2 PULSES AHEAD (22:00 IDT 2026-04-18)
+- Day 15 end — SC weekly pattern check
 - Link-building prep (Ch6): identify our best linkable assets (espresso-glossary, cold-brew-ratio, espresso-caffeine-guide)
-- Continue "what is" informational hub gaps if found
-
-### Pulse 41 — 3 PULSES AHEAD (22:00 IDT 2026-04-18)
-- Day 15 — watch for ranking position changes across top impression pages
-- Consider SERP re-check on ristretto (pos 7.75) — look for featured snippet gaps now that PAA answers added
+- Consider SERP re-check on ristretto (pos 7.75) — look for featured snippet format opportunities
 
 ### Pulse 7 — DONE
 - ✅ SC: milk-steaming-beginners 9 impressions across 5 query variants, avg pos 43.8
