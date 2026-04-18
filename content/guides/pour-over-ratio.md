@@ -158,7 +158,7 @@ The Kalita Wave's flat-bottomed design creates a more even extraction than a con
 
 **Too bitter?** The coffee may be over-extracted — grind coarser or brew for less time.
 
-Ratio affects strength. Grind size and brew time affect extraction quality. Both matter.
+Ratio affects strength. Grind size and brew time affect extraction quality. Both matter. For grind size guidance specific to pour over (and a full chart across all brewing methods), see our [Coffee Grind Size Guide](/guides/coffee-grind-size-guide/).
 
 ---
 

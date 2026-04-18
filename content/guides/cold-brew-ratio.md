@@ -78,7 +78,7 @@ Cold brew uses coarse grounds because the long steep time compensates for lower 
 - **Too coarse:** Weak, thin, under-extracted — tastes watery even at the right ratio
 - **Right:** Same as French press — coarse and uniform, like sea salt or breadcrumbs
 
-Use a consistent grind. Uneven grounds (some fine, some coarse) extract unevenly — the fines over-extract while the coarse pieces under-extract.
+Use a consistent grind. Uneven grounds (some fine, some coarse) extract unevenly — the fines over-extract while the coarse pieces under-extract. For a full grind size chart covering cold brew, French press, pour over, AeroPress, and espresso, see our [Coffee Grind Size Guide](/guides/coffee-grind-size-guide/).
 
 ---
 

@@ -186,6 +186,7 @@ Adjust whenever shots taste off — usually when you open a new bag of coffee, a
 
 ## Related Guides
 
+- [Coffee Grind Size Guide](/guides/coffee-grind-size-guide/) — Grind chart for all brewing methods (pour over, French press, AeroPress, cold brew, drip)
 - [Best Espresso Grinders](/guides/best-espresso-grinders/) — Grinder buying guide
 - [Espresso Ratio Guide](/guides/espresso-ratio-guide/) — Dose, yield, and ratio explained
 - [Espresso Troubleshooting Guide](/guides/espresso-troubleshooting/) — Full diagnostic guide for bad shots

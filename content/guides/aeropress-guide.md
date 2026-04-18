@@ -106,7 +106,7 @@ The inverted method prevents water from dripping through the filter before you'r
 | Medium | Raw sugar | 2 min | Cleaner, lighter body |
 | Coarse | Sea salt | 2–3 min | Mild, clean, great for cold brew-style |
 
-**Start with medium-fine and adjust from there.** If coffee tastes sour → grind finer. If bitter → grind coarser.
+**Start with medium-fine and adjust from there.** If coffee tastes sour → grind finer. If bitter → grind coarser. For a full breakdown of grind sizes across all brewing methods, see our [Coffee Grind Size Guide](/guides/coffee-grind-size-guide/).
 
 ---
 

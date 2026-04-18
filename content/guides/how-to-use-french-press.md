@@ -91,7 +91,7 @@ The biggest mistake people make with French press is using the wrong grind size.
 
 If you're using pre-ground coffee, look for bags labeled "French press" or "coarse grind." Most pre-ground coffee sold as "French press" is ground correctly.
 
-If you're grinding your own: start at the coarsest setting on your grinder and work your way finer until you dial in the taste you want.
+If you're grinding your own: start at the coarsest setting on your grinder and work your way finer until you dial in the taste you want. See our [coffee grind size guide](/guides/coffee-grind-size-guide/) for a full comparison chart including grinder-specific starting settings for popular models.
 
 ## Water Temperature
 
