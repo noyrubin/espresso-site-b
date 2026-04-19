@@ -210,4 +210,4 @@ Espresso is a type of coffee — specifically a brewing method using pressure, f
 
 ---
 
-*Continue learning: [Espresso vs. Coffee](/guides/espresso-vs-coffee/) · [Espresso Ratio Guide](/guides/espresso-ratio-guide/) · [How to Steam Milk](/guides/milk-steaming-beginners/) · [Types of Coffee Drinks](/guides/types-of-coffee-drinks/)*
+*Continue learning: [Espresso vs. Coffee](/guides/espresso-vs-coffee/) · [Espresso vs. Latte](/guides/espresso-vs-latte/) · [Espresso Ratio Guide](/guides/espresso-ratio-guide/) · [How to Steam Milk](/guides/milk-steaming-beginners/) · [What Is a Lungo?](/guides/what-is-a-lungo/)*

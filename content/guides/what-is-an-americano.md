@@ -121,4 +121,4 @@ Not a true Americano — the espresso base requires 9 bars of pressure. However,
 
 ---
 
-*Related guides: [Americano Recipe](/recipes/americano/) | [Iced Americano](/recipes/iced-americano/) | [Long Black Coffee](/guides/long-black-coffee/) | [Espresso vs. Americano](/guides/espresso-vs-americano/) | [Americano vs. Coffee (Drip)](/guides/americano-vs-coffee/) | [What Is Drip Coffee?](/guides/what-is-drip-coffee/) | [What Is Espresso?](/guides/what-is-espresso/)*
+*Related guides: [Americano Recipe](/recipes/americano/) | [Iced Americano](/recipes/iced-americano/) | [Long Black Coffee](/guides/long-black-coffee/) | [Espresso vs. Americano](/guides/espresso-vs-americano/) | [Americano vs. Latte](/guides/americano-vs-latte/) | [Americano vs. Coffee (Drip)](/guides/americano-vs-coffee/) | [What Is Drip Coffee?](/guides/what-is-drip-coffee/) | [What Is Espresso?](/guides/what-is-espresso/)*
