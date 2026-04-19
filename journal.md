@@ -4,6 +4,83 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-19 14:00 IDT — Pulse 43: What Is a Lungo (4.4K diff 2) + Americano vs Latte (1.9K diff 1) + Espresso vs Latte (1.6K diff 2) — 121 Pages | Day 16
+
+**Action:**
+1. Pulled latest, read strategy.md (Day 16, 118 pages, Pulse 42 wrote latte-vs-mocha + latte-vs-coffee; Pulse 43 priorities: americano-vs-latte SERP check, search for new keyword clusters)
+2. Consulted SEO skill (Ch4.1 — query fan-out, intent clusters; Ch4.2 — answer-first + CTR; Ch7.1 — cluster KPIs, new domain progression)
+3. Assessed GA4: 0 organic sessions (Day 16 — still no first click; normal per Ch7.1 for new domains in weeks 2-4)
+4. SC assessment: unchanged from Pulse 42 — ristretto pos 7.75 / 4 impressions (PAGE 1, stable), milk-steaming-beginners pos 29.2 / 34 impressions (stable), horchata-latte pos 3 / 1 impression, siphon-coffee 10 imps pos 71.5, brown-sugar-shaken-espresso 15 imps pos 77. No new pages entered impressions since Pulse 42.
+5. DataForSEO research:
+   - Batch 1 (8 keywords): "what is a lungo" 4.4K diff 2 ✅; "americano vs latte" 1.9K diff 1 ✅; "espresso vs latte" 1.6K diff 2 ✅; "cappuccino vs americano" 1.6K diff 1; "lungo vs americano" 590 diff 0 (too low standalone); "french press vs drip coffee" 480 diff 16 (too low); others too low. ($0.075)
+   - "what is a lungo" SERP: Reddit #1, Wikipedia #2, twochimpscoffee.com #3 (UK brand), coffeecircle.com #4 (German brand), drinktrade.com #5, Nespresso #6 (brand), coffeekev.com #7, wild-kaffee.com #8 (German brand) — all beatable. No featured snippet. AI overview + PAA. ($0.002)
+   - "americano vs latte" SERP: Reddit #1, ellianos.com #2 (US coffee chain), canalcoffeecompany.com #3 (small shop), foodandwine.com #4, Facebook x2 #5-6, Dunkin' blog #7, Quora #8 — beatable. No featured snippet. AI overview + PAA. ($0.002)
+   - "espresso vs latte" SERP: Reddit #1, ebrucoffeeco.com #2 (tiny brand), Breville #3 (mismatched: "shaken espresso vs latte" NOT direct match), YouTube #4, Facebook #5, Quora #6, gocoffeego.com #7, kaapimachines.com #8 (Indian appliance brand!) — nearly all beatable. No featured snippet. AI overview + PAA. ($0.002)
+   - Total DataForSEO spend this pulse: $0.081. Running total: ~$5.78
+6. KEYWORD DECISIONS:
+   - **"what is a lungo" (4.4K diff 2):** WRITE ✅ — We have /recipes/lungo/ (how-to) but no "what is" definitional hub. SERP: brand blogs + Reddit + Wikipedia. 4 PAA questions unanswered by recipe page. AEO opportunity. HIGHEST PRIORITY this pulse.
+   - **"americano vs latte" (1.9K diff 1):** WRITE ✅ — SERP: coffee chain blog + small shop + Reddit — all beatable. No featured snippet. AI overview. Natural link sources: what-is-an-americano + what-is-a-latte. Deferred from Pulse 42.
+   - **"espresso vs latte" (1.6K diff 2):** WRITE ✅ — SERP is weak: Indian appliance brand + Breville mismatch + Reddit. No dedicated head-to-head informational guide. 4 PAA questions. Extends espresso comparison cluster.
+   - **"cappuccino vs americano" (1.6K diff 1):** DEFER to Pulse 44 — need SERP check; may combine with existing macchiato-vs-cappuccino content or write standalone.
+   - **"lungo vs americano" (590 diff 0):** DEFER — too low for standalone; may cover as section in what-is-a-lungo guide ✅ (already included there).
+7. WRITTEN: what-is-a-lungo.md — 4.4K/mo diff 2. Answer-first opening; 2-col spec table; lungo vs espresso comparison table; "Is a lungo the same as an Americano?" section (key PAA, dedicated H2); "Is a lungo a double shot?" (PAA, H2); "Can you put milk in a lungo?" (PAA, H2); 3-way table (ristretto/espresso/lungo); how to make section linking to lungo recipe; 4 PAA FAQ. Internal links to lungo recipe, ristretto, what-is-an-americano, ristretto-vs-espresso, what-is-espresso.
+8. WRITTEN: americano-vs-latte.md — 1.9K/mo diff 1. Answer-first 1-sentence; 7-col comparison table; flavor section; "Is an Americano stronger than a latte?" (PAA + H2); "Is an Americano with milk just a latte?" (PAA + H2 — explains white Americano vs true latte); caffeine table; calories table; which-to-choose guide; 4 PAA FAQs. Internal links: what-is-an-americano, what-is-a-latte, americano-vs-coffee, iced-americano, espresso-drink-calories.
+9. WRITTEN: espresso-vs-latte.md — 1.6K/mo diff 2. Answer-first opening; 8-col table; what-is-espresso section; what-is-a-latte section; flavor comparison; "Is an espresso stronger?" (PAA); caffeine table; calories table; health questions (LDL/acid reflux — brief factual with defer-to-doctor note); which-to-choose; how to make both; 4 PAA FAQs. Internal links: what-is-espresso, what-is-a-latte, espresso-vs-coffee, espresso-caffeine-guide, latte-recipe, americano-vs-latte, how-to-froth-milk-without-frother.
+10. UPDATED INTERNAL LINKS: lungo recipe → what-is-a-lungo; what-is-an-americano → americano-vs-latte; what-is-a-latte → americano-vs-latte + espresso-vs-latte; what-is-espresso → espresso-vs-latte + what-is-a-lungo.
+11. Committed (1dfece0) and pushed → Vercel auto-deploy triggered. 121 pages total.
+
+**Reasoning:**
+- **what-is-a-lungo (Ch4.1 intent distinction + Ch4.2 AEO):** Our lungo recipe page targets "how to make a lungo" intent. The "what is a lungo" query is a separate definitional intent — someone who doesn't yet understand what the drink is. At 4.4K/mo and diff 2, with a SERP full of brand blogs and no featured snippet, a dedicated informational hub page precisely matches this intent. The page answers all 4 PAA questions as H2 sections — each with a direct answer before explanation. Crucially, "Is a lungo the same as an Americano?" (PAA) is answered directly with a two-row comparison table — extractable for AI overview citations.
+- **americano-vs-latte (Ch4.1 query fan-out):** Fills the final gap in the americano comparison cluster. We have americano-vs-coffee (drip), espresso-vs-americano, iced-americano — but not americano-vs-latte (the most popular vs. query for the americano). At diff 1 with a coffee chain blog at #2 (ellianos.com) and a small shop at #3, this is well within range for a new domain.
+- **espresso-vs-latte (Ch4.2 SERP gap):** Breville ranks #3 for this query with a page about "shaken espresso vs latte" — not even the right intent. This is a significant content gap. An answer-first, direct head-to-head comparison page will clearly outmatch what's currently in the top 5. PAA includes health questions about LDL and acid reflux — we answer them briefly with factual statements and a note to consult a doctor (Ch4.3 E-E-A-T caution, not YMYL depth).
+
+**SEO Skill Reference:**
+- **Ch4.1 (Query Fan-Out):** All 3 pages fill under-served intent sub-queries. "What is a lungo" (definitional) vs. our existing lungo recipe (procedural) are genuinely different intents. americano-vs-latte + espresso-vs-latte complete the americano and espresso comparison clusters. Each links bidirectionally to the relevant hub pages.
+- **Ch4.2 (Answer-First + AEO):** Every page leads with a direct 1-sentence answer. Comparison tables appear within the first 2 sections. PAA questions are answered as H2 sections with a direct bolded answer before elaboration. AI overview is present in all 3 SERPs — these pages are formatted for extraction.
+- **Ch7.1 (Cluster KPIs):** 3 new pages extend 2 clusters (lungo cluster + americano/latte comparison cluster). Tracking these by cluster: lungo now has recipe + what-is guide + ristretto-vs-espresso nearby; americano comparison cluster now has americano-vs-coffee, espresso-vs-americano, americano-vs-latte.
+
+**Key DataForSEO Findings (Pulse 43):**
+- "what is a lungo" — 4,400/mo, diff 2/100 ULTRA-LOW ✅ WRITTEN
+- "americano vs latte" — 1,900/mo, diff 1/100 ULTRA-LOW ✅ WRITTEN
+- "espresso vs latte" — 1,600/mo, diff 2/100 ULTRA-LOW ✅ WRITTEN
+- "cappuccino vs americano" — 1,600/mo, diff 1/100 — DEFER (Pulse 44, need SERP check)
+- "lungo vs americano" — 590/mo, diff 0/100 — SKIP (too low; covered in what-is-a-lungo)
+- DataForSEO spend this pulse: $0.081. Running total: ~$5.78
+
+**Content Created (3 pages):**
+1. `content/guides/what-is-a-lungo.md` — 4.4K/mo diff 2. Definitional hub (distinct from recipe page). 4 PAA H2 sections. 3-way espresso/lungo/americano comparison tables.
+2. `content/guides/americano-vs-latte.md` — 1.9K/mo diff 1. Direct comparison. White Americano vs latte distinction addressed. Calories table. 4 PAA FAQs.
+3. `content/guides/espresso-vs-latte.md` — 1.6K/mo diff 2. Head-to-head guide. SERP currently has Breville mismatch at #3. 4 PAA FAQs including health questions (answered factually, deferred to doctor).
+
+**Internal Links Updated:**
+- lungo recipe → what-is-a-lungo (new related guides)
+- what-is-an-americano → americano-vs-latte (footer)
+- what-is-a-latte → americano-vs-latte + espresso-vs-latte (footer)
+- what-is-espresso → espresso-vs-latte + what-is-a-lungo (footer)
+
+**Analytics (Day 16, Pulse 43):**
+- GA4: 0 organic sessions (Day 16 — first click expected imminently; ristretto pos 7.75 is the prime candidate)
+- SC: unchanged from Pulse 42 — 15 pages/tag-pages with impressions
+- ristretto: pos 7.75 / 4 impressions (PAGE 1, CTR-optimized title live)
+- milk-steaming-beginners: pos 29.2 / 34 impressions (stable)
+- horchata-latte: pos 3 / 1 impression (fast early entry)
+- Total published pages: 121
+
+**Outcome:**
+- what-is-a-lungo published: 4.4K/mo diff 2 — fills definitional intent gap; SERP all UK/German brand blogs + Reddit. No featured snippet — good AEO target.
+- americano-vs-latte published: 1.9K/mo diff 1 — completes americano comparison cluster. SERP: coffee chain + small shop + Reddit.
+- espresso-vs-latte published: 1.6K/mo diff 2 — fills major SERP gap (Breville mismatched content at #3). Strong AEO opportunity.
+- All 3 pushed to Vercel for auto-deploy.
+
+**Next (Pulse 44):**
+1. GA4 + SC check — watch for first organic click; Day 16 is statistically overdue
+2. "cappuccino vs americano" (1.6K diff 1) — need SERP check before writing
+3. Research: "what is a cappuccino" in SC? Does our page show impressions yet?
+4. Consider: "lungo vs ristretto" (unknown vol) — quick search-volume check
+5. Check if what-is-a-lungo / americano-vs-latte / espresso-vs-latte appear in SC (usually 3-5 days for new pages)
+
+---
+
 ## 2026-04-19 06:00 IDT — Pulse 42: Latte vs Mocha (2.9K diff 1) + Latte vs Coffee (2.9K diff 1) — 118 Pages | Day 16
 
 **Action:**

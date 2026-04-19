@@ -7,14 +7,14 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 16 of indexing — **118 pages published.** SC Pulse 42: **15 pages/tags with impressions** (9 content pages + 6 tag pages). milk-steaming-beginners 34 imps pos 29.2 (stable). ristretto pos 7.75 / 4 imps (PAGE 1 — CTR-optimized title live since Pulse 41). **horchata-latte NEW at pos 3 / 1 imp** (published 3 days ago — fast indexing signal!). GA4 organic still 0 (Day 16 — first click expected any time). **Pulse 42 additions (06:00 IDT 2026-04-19):** latte-vs-mocha (2.9K diff 1 — SERP: Breville brand blog + Reddit + 2012 Q&A, no featured snippet) + latte-vs-coffee (2.9K diff 1 — SERP: Reddit #1 + brand blogs, ai_overview present, no featured snippet). SEO skill: Ch4.1 (query fan-out — latte comparison cluster), Ch4.2 (answer-first + AEO targeting for ai_overview), Ch7.1 (cluster KPIs, new domain progression).
+Day 16 of indexing — **121 pages published.** SC Pulse 43: **15 pages/tags with impressions** (unchanged from Pulse 42). milk-steaming-beginners 34 imps pos 29.2 (stable). ristretto pos 7.75 / 4 imps (PAGE 1 — CTR-optimized). **horchata-latte pos 3 / 1 imp** (3 days old, fast indexing). GA4 organic still 0 (Day 16 — first click expected any time; ristretto pos 7.75 prime candidate). **Pulse 43 additions (14:00 IDT 2026-04-19):** what-is-a-lungo (4.4K diff 2 — definitional hub, SERP: UK/German brand blogs + Reddit; 4 PAA H2 sections) + americano-vs-latte (1.9K diff 1 — SERP: coffee chain blog + small shop; ai_overview) + espresso-vs-latte (1.6K diff 2 — SERP: Breville MISMATCHED content at #3, major gap). SEO skill: Ch4.1 (query fan-out — lungo definitional vs procedural intent; americano+espresso comparison clusters), Ch4.2 (answer-first + AEO, PAA targeting), Ch7.1 (cluster KPIs).
 
-**IMPORTANT: ristretto (pos 7.75) is confirmed PAGE 1 — CTR-optimized title (60 chars, no truncation) live. milk-steaming-beginners at pos 29.2 / 34 imps — FAQ-optimized + meta updated. what-is-a-latte is the primary hub for all 27+ latte pages — now links to latte-vs-mocha + latte-vs-coffee. Latte comparison cluster complete: cappuccino-vs-latte ↔ flat-white-vs-latte ↔ latte-vs-macchiato ↔ cortado-vs-latte ↔ latte-vs-mocha ↔ latte-vs-coffee. Cold brew cluster: what-is-cold-brew ↔ cold-brew-ratio ↔ cold-brew-coffee-recipe ↔ cold-brew-vs-iced-coffee. Grind cluster: coffee-grind-size-guide ↔ espresso-grind-size-guide ↔ pour-over-ratio ↔ how-to-use-french-press ↔ aeropress-guide ↔ cold-brew-ratio.**
+**IMPORTANT: ristretto (pos 7.75) is confirmed PAGE 1 — CTR-optimized title (60 chars, no truncation) live. milk-steaming-beginners at pos 29.2 / 34 imps — FAQ-optimized + meta updated. what-is-a-latte is the primary hub for all 27+ latte pages — now links to americano-vs-latte + espresso-vs-latte. Latte comparison cluster complete: cappuccino-vs-latte ↔ flat-white-vs-latte ↔ latte-vs-macchiato ↔ cortado-vs-latte ↔ latte-vs-mocha ↔ latte-vs-coffee ↔ americano-vs-latte ↔ espresso-vs-latte. Lungo cluster: lungo-recipe ↔ what-is-a-lungo ↔ ristretto ↔ ristretto-vs-espresso. Cold brew cluster: what-is-cold-brew ↔ cold-brew-ratio ↔ cold-brew-coffee-recipe ↔ cold-brew-vs-iced-coffee. Grind cluster: coffee-grind-size-guide ↔ espresso-grind-size-guide ↔ pour-over-ratio ↔ how-to-use-french-press ↔ aeropress-guide ↔ cold-brew-ratio.**
 
 ## Key Data Points
-- **GA4 Pulse 42:** No organic sessions — Day 16. First click expected imminently.
-- **Search Console Pulse 42:** 15 pages/tags with impressions. ristretto pos 7.75 / 4 impressions (**PAGE 1** — CTR-optimized title live). milk-steaming-beginners pos 29.2 / 34 imps (stable). **horchata-latte pos 3 / 1 imp (NEW!)**. siphon-coffee 10 imps pos 71.5 (UP from 9). brown-sugar-shaken-espresso 15 imps pos 77. homepage 9 imps pos 43. cortado-vs-flat-white 2 imps pos 62. vietnamese-iced-coffee 2 imps pos 83.5. lavender-latte 1 imp pos 96. Tag pages: /tags/mocha/ pos 2, /tags/iced-latte/ pos 4, /tags/coffee-terminology/ pos 6, /tags/caramel-macchiato/ pos 7, /tags/turkish-coffee/ pos 8, /tags/latte-macchiato/ 6 imps pos 67.5.
-- **DataForSEO spend to date:** ~$5.70 (~$0.154 this pulse: 2x search-volume batches $0.150 + 2x SERP checks $0.004)
+- **GA4 Pulse 43:** No organic sessions — Day 16. First click expected imminently. Ristretto pos 7.75 PAGE 1 with CTR-optimized title is prime candidate.
+- **Search Console Pulse 43:** 15 pages/tags with impressions (unchanged from Pulse 42). ristretto pos 7.75 / 4 impressions (**PAGE 1** — CTR-optimized title live). milk-steaming-beginners pos 29.2 / 34 imps (stable). **horchata-latte pos 3 / 1 imp**. siphon-coffee 10 imps pos 71.5. brown-sugar-shaken-espresso 15 imps pos 77. homepage 9 imps pos 43. cortado-vs-flat-white 2 imps pos 62. vietnamese-iced-coffee 2 imps pos 83.5. lavender-latte 1 imp pos 96. Tag pages: /tags/mocha/ pos 2, /tags/iced-latte/ pos 4, /tags/coffee-terminology/ pos 6, /tags/caramel-macchiato/ pos 7, /tags/turkish-coffee/ pos 8, /tags/latte-macchiato/ 6 imps pos 67.5.
+- **DataForSEO spend to date:** ~$5.78 (~$0.081 this pulse: 1x search-volume batch $0.075 + 3x SERP checks $0.006)
 - **Pulse 10 keyword research:** espresso tonic 9.9K diff 1 (✅ WRITTEN); cortado vs macchiato 2.9K diff 1 (✅ WRITTEN); cold brew cluster ALL high competition (skipped); latte vs cappuccino 27.1K diff 6 (likely captured by existing cappuccino-vs-latte page)
 - **Pulse 11 keyword research:** flat-white-vs-latte 22.2K/mo diff 5 (✅ WRITTEN); latte-vs-macchiato 6.6K/mo diff 2 (✅ WRITTEN); how-long-do-coffee-beans-last 2.9K/mo diff 8 no featured snippet (✅ WRITTEN); espresso-vs-americano 1.6K/mo diff 1 (✅ WRITTEN); REJECTED: how-to-store-coffee-beans HIGH 89/100, types-of-espresso-machines HIGH 100/100, espresso-tamping HIGH 100/100, single-origin-espresso HIGH 94/100
 
@@ -146,6 +146,9 @@ Day 16 of indexing — **118 pages published.** SC Pulse 42: **15 pages/tags wit
 | coffee grind size chart | 1,000 | 26/100 LOW | /guides/coffee-grind-size-guide/ | **Published (NEW Pulse 40 — SERP: honestcoffeeguide.com #1 (tool), drinktrade.com #2, Reddit #3, Breville #4, homegrounds.co #5. Images feature present — table-first layout ideal. No featured snippet = opportunity)** |
 | latte vs mocha | 2,900 | 1/100 ULTRA-LOW | /guides/latte-vs-mocha/ | **Published (NEW Pulse 42 — SERP: Breville brand blog #1, Reddit #2, procoffeegear.com #3, 2012 StackExchange #7 — all beatable. No featured snippet. ai_overview present. 4 PAA FAQs answered.)** |
 | latte vs coffee | 2,900 | 1/100 ULTRA-LOW | /guides/latte-vs-coffee/ | **Published (NEW Pulse 42 — SERP: Reddit #1, small brand blogs #2-5. No featured snippet. ai_overview present — AEO target. 4 PAA FAQs.)** |
+| what is a lungo | 4,400 | 2/100 ULTRA-LOW | /guides/what-is-a-lungo/ | **Published (NEW Pulse 43 — definitional hub; SERP: UK/German brand blogs + Reddit + Wikipedia; no featured snippet; 4 PAA H2 sections; lungo vs espresso + americano comparison tables. Distinct from /recipes/lungo/ procedural page.)** |
+| americano vs latte | 1,900 | 1/100 ULTRA-LOW | /guides/americano-vs-latte/ | **Published (NEW Pulse 43 — SERP: coffee chain blog #2 + small shop #3 + Reddit #1; ai_overview; no featured snippet; white Americano distinction; completes americano comparison cluster.)** |
+| espresso vs latte | 1,600 | 2/100 ULTRA-LOW | /guides/espresso-vs-latte/ | **Published (NEW Pulse 43 — SERP: Breville mismatched content at #3 (shaken espresso vs latte); ai_overview; no featured snippet; 4 PAA incl. health questions answered factually; completes espresso comparison cluster.)** |
 
 ## Biggest Opportunities Found So Far
 
@@ -331,6 +334,10 @@ Day 16 of indexing — **118 pages published.** SC Pulse 42: **15 pages/tags wit
 - **"coffee acidity" (Pulse 42):** 2,400/mo diff 8 — SKIP. PAA signals YMYL/health intent: "Does coffee cause high acidity?", "What kind of coffee for interstitial cystitis?", "Is coffee good for brain inflammation?". E-E-A-T requirements for health content (Ch4.3) are very high. Off-niche for home barista site.
 - **"how to clean french press" (Pulse 42):** 1,000/mo diff 2 — DEFER. Too low volume for standalone; could add section to how-to-use-french-press.md later.
 - **"americano vs latte" (Pulse 42):** 1,900/mo diff 1 — DEFER to Pulse 43. Good opportunity but lower priority than the 2.9K finds this pulse.
+- **"lungo vs americano" (Pulse 43):** 590/mo diff 0 — too low volume for standalone. Covered as dedicated H2 section inside what-is-a-lungo guide.
+- **"french press vs drip coffee" (Pulse 43):** 480/mo diff 16 — too low standalone. Not worth writing.
+- **"cortado vs espresso" (Pulse 43):** 260/mo diff 0 — volume too low standalone.
+- **"cappuccino vs americano" (Pulse 43, vol check only):** 1,600/mo diff 1 — DEFER. Needs SERP check before writing. Low but possible.
 - **"drip coffee" head term (Pulse 40, fully checked):** 40.5K/mo diff 36 MEDIUM — SERP: Wikipedia #1, NCA (aboutcoffee.org) #2, coffeebros.com #3, food52.com #4, dripcoffeeco.com #5 (coffee shop!), ratiocoffee.com #6 (brand), Amazon #7, Reddit #8, YouTube #9. SERP features: ai_overview, local_pack, product_considerations, popular_products — strong mixed intent signal. Wikipedia + NCA are very hard to beat at #1-2. Our existing what-is-drip-coffee.md targets this cluster; separate standalone head term page not warranted. SKIP.
 - **"salted caramel latte" (Pulse 40):** 880/mo diff 18 LOW — too low volume. Already covered as variation inside caramel-latte.md.
 - **"single origin coffee" (Pulse 40):** 14.8K/mo HIGH 84/100 — too competitive.
@@ -448,19 +455,28 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ DataForSEO spend: $0.154. Total: ~$5.70
 - Total pages: 118
 
-### Pulse 43 — NEXT (14:00 IDT 2026-04-19)
-**Priority focus:**
-- **Watch for first organic click** — ristretto pos 7.75 with CTR-optimized title. Day 16 — statistically overdue.
-- SC: check if latte-vs-mocha / latte-vs-coffee / calorie guide / ristretto-vs-espresso have appeared in impressions
-- SC: watch if horchata-latte pos 3 converts to a click (1 impression only — need more data)
-- Research: "americano vs latte" (1.9K diff 1 — check SERP); explore "how to clean french press" (1K diff 2); look for other unexplored comparison gaps (mocha vs cappuccino covered inside mocha.md?)
-- New content: "americano vs latte" if SERP looks good; or find next 2-3 keyword cluster
-- Consider: link-building prep — identify best linkable assets (espresso-glossary, coffee-grind-size-guide, espresso-drink-calories) for future Ch6 outreach
+### Pulse 43 — DONE ✅ (14:00 IDT 2026-04-19)
+- ✅ SC: 15 pages/tags with impressions (unchanged from Pulse 42). ristretto pos 7.75 PAGE 1 (stable). milk-steaming-beginners pos 29.2. GA4: 0 organic (Day 16).
+- ✅ what-is-a-lungo (4.4K diff 2 ULTRA-LOW) — definitional hub; SERP: UK/German brand blogs + Reddit; 4 PAA H2 sections; lungo vs espresso + vs americano comparison tables; links from lungo recipe.
+- ✅ americano-vs-latte (1.9K diff 1 ULTRA-LOW) — SERP: coffee chain blog + small shop; ai_overview; white Americano distinction; calories table; 4 PAA FAQs. Completes americano comparison cluster.
+- ✅ espresso-vs-latte (1.6K diff 2 ULTRA-LOW) — SERP: Breville mismatched at #3 (major gap); ai_overview; 4 PAA FAQs. Completes espresso comparison cluster.
+- ✅ Internal links: lungo recipe → what-is-a-lungo; what-is-an-americano → americano-vs-latte; what-is-a-latte → americano-vs-latte + espresso-vs-latte; what-is-espresso → espresso-vs-latte + what-is-a-lungo
+- ✅ DataForSEO spend: ~$0.081 (1x search-volume batch $0.075 + 3x SERP $0.006). Total: ~$5.78
+- Total pages: 121
 
-### Pulse 44 — 2 PULSES AHEAD (22:00 IDT 2026-04-19)
-- Day 16 evening — check if any new pages hit impressions
-- Continue comparison cluster: "americano vs latte" if not done in Pulse 43
-- Explore: "cappuccino vs macchiato vs latte" 3-way guide (check vol); "types of coffee drinks" (likely HIGH comp)
+### Pulse 44 — NEXT (22:00 IDT 2026-04-19)
+**Priority focus:**
+- **Watch for first organic click** — ristretto pos 7.75, Day 16 evening — most likely time
+- SC check: has anything new appeared? Do latte-vs-mocha/coffee/calorie guide show impressions?
+- Research: "cappuccino vs americano" (1.6K diff 1 — check SERP before writing); "lungo vs ristretto" quick vol check
+- Consider: "how to clean french press" (1K diff 2) — add as section to how-to-use-french-press.md rather than standalone
+- Explore: new seed for keyword-ideas to find clusters we haven't touched yet (e.g., equipment/technique seeds)
+- Link-building prep: identify best linkable assets (espresso-glossary, coffee-grind-size-guide, espresso-drink-calories) for future Ch6 outreach
+
+### Pulse 45 — 2 PULSES AHEAD (06:00 IDT 2026-04-20)
+- Day 17 — morning SC check; may see new pages entering impressions (what-is-a-lungo candidate for fast indexing like horchata-latte)
+- Continue comparison cluster: "cappuccino vs americano" if confirmed in Pulse 44
+- Explore: brewer/technique content — any new low-comp opportunities? Try seed "espresso technique", "home coffee"
 - Consider: update espresso-glossary with new terms added since Pulse 9 (linkable asset freshness per Ch4.5)
 
 ### Pulse 7 — DONE
