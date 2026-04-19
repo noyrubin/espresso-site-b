@@ -140,4 +140,4 @@ The mild, creamy flavor makes lattes accessible for people who find straight esp
 
 ---
 
-*Related: [Espresso Drink Calories Guide](/guides/espresso-drink-calories/) | [Cappuccino vs Latte](/guides/cappuccino-vs-latte/) | [Milk Steaming Guide for Beginners](/guides/milk-steaming-beginners/)*
+*Related: [Espresso Drink Calories Guide](/guides/espresso-drink-calories/) | [Cappuccino vs Latte](/guides/cappuccino-vs-latte/) | [Latte vs Mocha](/guides/latte-vs-mocha/) | [Latte vs Coffee](/guides/latte-vs-coffee/) | [Milk Steaming Guide for Beginners](/guides/milk-steaming-beginners/)*

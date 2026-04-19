@@ -164,3 +164,4 @@ If you enjoy a mocha, try:
 - [Affogato](/recipes/affogato/) — espresso over ice cream, different but similarly indulgent
 - [Caramel Macchiato](/recipes/caramel-macchiato/) — another sweet espresso classic
 - [White Chocolate Mocha](/recipes/white-chocolate-mocha/) — the sweeter, vanilla-forward cousin with homemade white chocolate sauce
+- [Latte vs Mocha](/guides/latte-vs-mocha/) — full comparison of the two drinks
