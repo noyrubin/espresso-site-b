@@ -4,6 +4,79 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-19 22:00 IDT — Pulse 44: Cappuccino vs Americano (1.6K diff1) + What Is Cold Brew Coffee (5.4K diff25) + Broken Link Fix | 123 Pages | Day 16
+
+**Action:**
+1. Pulled latest (already up to date). Read strategy.md (Day 16, 121 pages, Pulse 43 wrote what-is-a-lungo + americano-vs-latte + espresso-vs-latte; Pulse 44 priorities: cappuccino-vs-americano SERP check + first organic click watch).
+2. Consulted SEO skill (Ch4.1 — query fan-out, intent clusters; Ch4.2 — answer-first + AEO, PAA targeting; Ch7.1 — cluster KPIs, classic dashboard + AI visibility layer).
+3. GA4 assessment: 0 organic sessions (Day 16 — still none; normal for new domain; overall sessions show mostly bot/direct traffic from early setup days). The `organic` command returned 0 rows.
+4. SC assessment: unchanged from Pulse 43 — 15 pages/tags with impressions. ristretto pos 7.75 / 4 imps (PAGE 1), milk-steaming-beginners pos 29.2 / 34 imps, horchata-latte pos 3 / 1 imp. The 3 pages published at 14:00 (what-is-a-lungo, americano-vs-latte, espresso-vs-latte) not yet showing in SC — expected 3-5 days.
+5. DataForSEO Batch 1 (7 keywords): "cappuccino vs americano" 1.6K diff 1 ✅; "what is a cappuccino" 22.2K diff 10 ✅ (ALREADY EXISTS — discovered!); "drip coffee vs espresso" 1.6K diff 6; "lungo vs ristretto" 170/mo (too low); "how to make espresso at home" 3.6K diff 98 (HIGH — skip); "espresso shots" 12.1K diff 74 (HIGH — skip). ($0.075)
+6. DataForSEO Batch 2 (10 keywords — brew method gaps): "what is a cortado" 27.1K diff 2 (already covered); "what is cold brew coffee" 5.4K diff 25 ✅; "what is pour over coffee" 3.6K diff 30; "aeropress vs french press" 1.6K diff 25; "hario v60/v60 pour over" 6.6-9.9K HIGH 98-100 (skip); "what is a moka pot" 1.6K MEDIUM 56 (skip). ($0.075)
+7. SERP checks: "cappuccino vs americano" SERP: Reddit #1, lifeboostcoffee #2 (3-way, not head-to-head), candystopbd #3 (BD food site — laughably weak), YouTube #4, coffeebeancorral #5 (espresso drinks overview), UK brand #6 — no dedicated 2-way guide. ($0.002). "what is a cappuccino" SERP: Reddit #1, Folgers #2, Healthline #3 (comparison page — mismatch for "what is"), 787coffee #4, YouTube #5, Nescafe #6, sleepyowl #7 — all weak/brand content. ($0.002)
+8. DISCOVERY: what-is-a-cappuccino.md already exists (written Pulse 37, 2026-04-17 — logged in Pulse 37 roadmap but NOT in keyword targets table). Confirmed 22.2K diff 10. Added to strategy.md.
+9. DECISION: cappuccino-vs-americano (1.6K diff 1) — WRITE ✅. what-is-cold-brew-coffee (5.4K diff 25) — WRITE ✅ (existing cold-brew pages cover comparison/procedural; none covers "what is" definitional intent; also found cold-brew-ratio.md had a BROKEN internal link to `/guides/what-is-cold-brew/` — our new page fixes it). "drip coffee vs espresso" (1.6K diff 6) — DEFER (partially covered by espresso-vs-coffee + americano-vs-coffee; check coverage in Pulse 45). "what is pour over coffee" (3.6K diff 30) — DEFER (moderate comp, partially covered by pour-over-ratio).
+10. WRITTEN: cappuccino-vs-americano.md — 1.6K/mo diff 1. Answer-first 2-sentence opening. 8-col quick comparison table. "Is cappuccino stronger than Americano?" (PAA — H2: same caffeine, different perceived strength). Caffeine table (shots × mg). Calories table (5 milk types). "What is an Americano with milk called?" (PAA — H2: white Americano). Italian noon cultural rule (PAA). Which-to-choose guide. 4 PAA FAQs. Internal links: what-is-a-cappuccino, what-is-an-americano, cappuccino-vs-latte, macchiato-vs-cappuccino, americano-vs-latte, americano-vs-coffee.
+11. WRITTEN: what-is-cold-brew-coffee.md — 5.4K/mo diff 25. Answer-first opening: "no heat, 12-24 hour cold steep." 4-step how-it-works section. Flavor profile bullet list. Caffeine table (4 strength levels). Cold brew vs iced coffee 6-col comparison table. Cold brew vs espresso table. Storage guide (7-14 days). 4 PAA FAQs: "stronger than regular coffee?", "more caffeine than espresso?", "can you heat cold brew?", "better for stomach?".
+12. LINK FIXES: cold-brew-ratio.md broken link `/guides/what-is-cold-brew/` → `/guides/what-is-cold-brew-coffee/` (was pointing to a non-existent page). cold-brew-coffee-recipe.md: added link to what-is-cold-brew-coffee.
+13. INTERNAL LINKS ADDED: what-is-a-cappuccino → cappuccino-vs-americano; what-is-an-americano → cappuccino-vs-americano.
+14. Hugo build: clean (no errors). Committed (e8a7a20) + pushed → Vercel auto-deploy. 123 pages total.
+
+**Reasoning:**
+- **cappuccino-vs-americano (Ch4.1 query fan-out):** The cappuccino cluster had "vs" comparisons for latte, flat white, macchiato, but NOT americano — which is the most obvious contrast (espresso+milk vs espresso+water). The americano cluster had americano-vs-coffee, americano-vs-latte, espresso-vs-americano, but NOT cappuccino-vs-americano. With diff 1/100 and a SERP dominated by a 3-way comparison (lifeboostcoffee) and a BD food site as the top 2 dedicated results, a direct 2-way comparison page is clearly superior. PAA includes Italian coffee culture question = cultural hook that increases engagement and citation likelihood.
+- **what-is-cold-brew-coffee (Ch4.1 definitional intent gap):** We have 4 cold brew pages (ratio, recipe, vs-iced-coffee, cold-foam) but none specifically targeting "what is cold brew coffee" — the definitional query from someone who doesn't yet understand what it is. The cold-brew-vs-iced-coffee page covers this partially (#H2 "What Is Cold Brew?") but the primary intent is comparison, not definition. Search intent matters: someone searching "what is cold brew coffee" wants 80% definition + 20% comparison, not the reverse. Critically, cold-brew-ratio already had a pre-existing broken internal link to `/guides/what-is-cold-brew/` that was going to a 404 — this page also fixes a technical SEO issue (Ch2.1 broken links).
+- **broken link fix (Ch2.1):** Finding broken internal links and fixing them is direct technical SEO value — Googlebot follows internal links and a 404 on cold-brew-ratio (one of our better-indexed pages) was sending crawl budget to a dead page.
+
+**SEO Skill Reference:**
+- **Ch4.1 (Query Fan-Out):** cappuccino-vs-americano completes the last obvious head-to-head gap in the cappuccino and americano clusters. what-is-cold-brew-coffee covers the definitional intent sub-query separate from procedural (recipe/ratio) and comparison intents.
+- **Ch4.2 (Answer-First + AEO):** Both pages lead with direct 1-2 sentence answers before any section headers. All PAA questions answered as H2 sections with bolded direct answers before elaboration. Comparison tables appear in first 2 sections. AI overview is present in the cappuccino-vs-americano SERP — answer-first format is explicitly optimized for extraction.
+- **Ch7.1 (Cluster KPIs):** cappuccino cluster now: what-is-a-cappuccino ↔ recipe ↔ cappuccino-vs-latte ↔ cappuccino-vs-americano ↔ macchiato-vs-cappuccino ↔ flat-white-vs-cappuccino. Cold brew cluster: what-is-cold-brew-coffee ↔ ratio ↔ recipe ↔ vs-iced-coffee. All bidirectional.
+
+**Key DataForSEO Findings (Pulse 44):**
+- "cappuccino vs americano" — 1,600/mo, diff 1/100 ULTRA-LOW ✅ WRITTEN
+- "what is a cappuccino" — 22,200/mo, diff 10/100 LOW — ALREADY EXISTS (from Pulse 37, not logged in strategy)
+- "what is cold brew coffee" — 5,400/mo, diff 25/100 LOW ✅ WRITTEN
+- "drip coffee vs espresso" — 1,600/mo, diff 6/100 ULTRA-LOW — DEFER (partially covered)
+- "what is pour over coffee" — 3,600/mo, diff 30/100 LOW — DEFER (check if pour-over-ratio covers it)
+- "lungo vs ristretto" — 170/mo — SKIP (too low; covered in what-is-a-lungo)
+- "espresso shots" — 12,100/mo, HIGH 74/100 — SKIP
+- "how to make espresso at home" — 3,600/mo, HIGH 98/100 — SKIP
+- DataForSEO spend this pulse: $0.154. Running total: ~$5.93
+
+**Content Created (2 pages):**
+1. `content/guides/cappuccino-vs-americano.md` — 1.6K/mo diff 1. Completes cappuccino + americano comparison clusters. 4 PAA H2s. Italian noon coffee culture hook.
+2. `content/guides/what-is-cold-brew-coffee.md` — 5.4K/mo diff 25. Fills "what is" definitional gap. Fixes broken link from cold-brew-ratio. Caffeine + storage + health FAQs.
+
+**Technical Fix:**
+- cold-brew-ratio.md: broken link `/guides/what-is-cold-brew/` → `/guides/what-is-cold-brew-coffee/` (was 404)
+
+**Internal Links Updated:**
+- what-is-a-cappuccino → cappuccino-vs-americano (related guides footer)
+- what-is-an-americano → cappuccino-vs-americano (related guides footer)
+- cold-brew-ratio → what-is-cold-brew-coffee (was broken link, now fixed)
+- cold-brew-coffee-recipe → what-is-cold-brew-coffee (added)
+
+**Analytics (Day 16, Pulse 44):**
+- GA4: 0 organic sessions (Day 16 — still waiting for first click; normal progression)
+- SC: unchanged from Pulse 43 — 15 pages/tags with impressions
+- ristretto: pos 7.75 / 4 impressions (PAGE 1, prime candidate for first organic click)
+- milk-steaming-beginners: pos 29.2 / 34 impressions (stable)
+- Total published pages: 123
+
+**Outcome:**
+- cappuccino-vs-americano: 1.6K/mo diff 1 — no dedicated 2-way guide exists in SERP; ours is more targeted than top results.
+- what-is-cold-brew-coffee: 5.4K/mo diff 25 — definitional hub separate from comparison/procedural pages. Also fixed a pre-existing 404 broken link from cold-brew-ratio.md.
+- All 6 files pushed (e8a7a20) → Vercel auto-deploy triggered.
+
+**Next (Pulse 45):**
+1. GA4 + SC check — Day 17 morning; ristretto pos 7.75 still best candidate for first organic click
+2. Check if what-is-a-lungo / americano-vs-latte / espresso-vs-latte appear in SC (wrote at Pulse 43, ~24 hrs ago)
+3. "drip coffee vs espresso" SERP check — confirm if partially covered by existing pages
+4. Consider: "what is pour over coffee" (3.6K diff 30) — worth SERP check to see if beatable
+5. Equipment/technique keywords — explore any low-comp how-to content gaps
+
+---
+
 ## 2026-04-19 14:00 IDT — Pulse 43: What Is a Lungo (4.4K diff 2) + Americano vs Latte (1.9K diff 1) + Espresso vs Latte (1.6K diff 2) — 121 Pages | Day 16
 
 **Action:**
