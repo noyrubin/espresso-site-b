@@ -4,6 +4,93 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-19 06:00 IDT — Pulse 42: Latte vs Mocha (2.9K diff 1) + Latte vs Coffee (2.9K diff 1) — 118 Pages | Day 16
+
+**Action:**
+1. Pulled latest, read strategy.md (Day 16, 116 pages, Pulse 41 wrote calorie guide + ristretto-vs-espresso + ristretto CTR optimization)
+2. Consulted SEO skill (Ch4.1 — query fan-out, intent clusters; Ch4.2 — answer-first + CTR; Ch7.1 — cluster KPIs, new domain progression)
+3. Assessed GA4: 0 organic sessions (Day 16 — first click expected; normal for new domains per Ch7.1)
+4. SC assessment:
+   - **ristretto**: pos 7.75 / 4 impressions (PAGE 1 — stable; CTR optimization from Pulse 41 now live)
+   - **milk-steaming-beginners**: pos 29.2 / 34 impressions (stable)
+   - **horchata-latte**: 1 impression, **pos 3 — NEW ENTRY** (published Pulse 34, just 3 days ago!)
+   - **siphon-coffee**: 10 impressions pos 71.5 (UP from 9)
+   - **brown-sugar-shaken-espresso**: 15 impressions pos 77 (stable)
+   - **Homepage**: 9 impressions pos 43 (stable)
+   - **Tag pages newly appearing**: /tags/mocha/ pos 2, /tags/iced-latte/ pos 4, /tags/coffee-terminology/ pos 6, /tags/caramel-macchiato/ pos 7, /tags/turkish-coffee/ pos 8 — likely navigational/branded queries
+   - Total pages with impressions: 15 (up from 9 in previous report — tag pages now included)
+5. DataForSEO research:
+   - Batch 1 (8 keywords): "latte vs mocha" 2.9K diff 1 ✅; "coffee acidity" 2.4K diff 8 (health-YMYL adjacent, skip); "how to clean french press" 1K diff 2; "pour over vs drip coffee" 1K diff 25; "mocha vs cappuccino" 590 diff 1 (too low); "why is my coffee bitter" 480 diff 4 (too low standalone); "espresso temperature" 320 diff 2 (too low); "how many espresso shots per day" 30/mo (skip). ($0.075)
+   - "latte vs mocha" SERP: Breville #1, Reddit #2, procoffeegear.com #3 (ecom blog), dilettantemochacafe.com #4, mymokafe.com #5, wabilogic.com #6, cooking.stackexchange (2012!) #7, cartacoffee 2017 #8. No featured snippet. ($0.002)
+   - "latte vs coffee" SERP: Reddit #1, brewavenuecoffee.com #2, nescafe.com #3, lorespresso.com #4, aerialresupplycoffee.com #5. No featured snippet. AI overview present. ($0.002)
+   - Batch 2 (7 keywords): "latte vs coffee" 2.9K diff 1 ✅; "americano vs latte" 1.9K diff 1 (possible future); "cappuccino vs coffee" 880 diff 2 (too low); others too low. ($0.075)
+   - Total DataForSEO spend this pulse: $0.154. Running total: ~$5.70
+6. KEYWORD DECISIONS:
+   - **latte vs mocha** (2.9K diff 1 ULTRA-LOW): WRITE ✅ — SERP confirmed: brand blogs + Reddit + 2012 Q&A; no featured snippet; PAA gap
+   - **latte vs coffee** (2.9K diff 1 ULTRA-LOW): WRITE ✅ — SERP confirmed: Reddit #1 + small brand blogs; no featured snippet; AI overview present (AEO opportunity)
+   - "coffee acidity" 2.4K diff 8: SKIP — PAA questions are health/YMYL (gastritis, brain inflammation, interstitial cystitis). Off-niche for home barista site.
+   - "how to clean french press" 1K diff 2: DEFER — low volume standalone; could add section to how-to-use-french-press later
+   - "americano vs latte" 1.9K diff 1: NOTE for future — worth a page but deprioritized vs the 2.9K finds this pulse
+7. WRITTEN: latte-vs-mocha.md — 2.9K/mo diff 1. Answer-first opening; 8-col comparison table; taste/caffeine/calorie sections; "poor man's mocha" question addressed; 4 PAA FAQs. Internal links: what-is-a-latte, mocha, cappuccino-vs-latte, latte-vs-macchiato, espresso-drink-calories.
+8. WRITTEN: latte-vs-coffee.md — 2.9K/mo diff 1. Comparison table (base/milk/caffeine/calories); caffeine table (drip vs single/double-shot latte); calorie table; "Is a latte just coffee with milk?" section; 4 PAA FAQs. Internal links: what-is-a-latte, espresso-vs-coffee, what-is-drip-coffee, americano-vs-coffee, coffee-to-water-ratio.
+9. UPDATED INTERNAL LINKS: what-is-a-latte footer → both new comparison pages; mocha.md Related Drinks → latte-vs-mocha.
+10. Committed (dd82843) and pushed → Vercel auto-deploy triggered. 118 pages total.
+
+**Reasoning:**
+- **latte vs mocha (Ch4.1 query fan-out):** "Latte vs mocha" is a pure comparison query we hadn't filled yet. At 2.9K/mo diff 1, this is ultra-low competition. The SERP is Breville brand blog + Reddit + ecom blogs + 2012 Stack Exchange content — none of which are dedicated home-barista informational guides. A well-structured answer-first comparison page will target the 4 PAA questions that appear in the SERP and the ai_overview feature. We already have mocha.md and what-is-a-latte.md as natural internal link sources — this completes the comparison cluster.
+- **latte vs coffee (Ch4.1 query fan-out + Ch4.2 AEO):** 2.9K diff 1 with Reddit #1 is a pattern we've exploited repeatedly. More importantly, the SERP has ai_overview but no featured snippet — this is the exact AEO gap Ch4.2 describes. An answer-first guide that directly addresses "is latte just coffee with milk?" and leads with a clear comparison table is highly extractable for AI citations. Internal links connect to what-is-drip-coffee (Pulse 39), espresso-vs-coffee, and americano-vs-coffee — strengthening the coffee-type cluster.
+- **coffee acidity SKIP:** PAA signals strong YMYL/health intent ("what kind of coffee for gastritis?", "coffee and interstitial cystitis"). E-E-A-T requirements for health content (Ch4.3) are very high. Not worth pursuing for a home barista site. Rejected.
+
+**SEO Skill Reference:**
+- **Ch4.1 (Query Fan-Out):** Both pages extend the "latte" intent cluster by covering comparison sub-queries that have distinct search intent from the head term. latte-vs-mocha fills the chocolate-coffee comparison gap; latte-vs-coffee fills the espresso-vs-drip comparison gap. Each links back to the latte hub (what-is-a-latte).
+- **Ch4.2 (Answer-First + AEO):** Both pages lead with a direct 1-sentence answer before any elaboration. Comparison tables appear in section 2 (before any body text) for immediate extractability. PAA questions answered in dedicated FAQ sections with bolded direct answers. latte-vs-coffee specifically targets the ai_overview with clear definitional language.
+- **Ch7.1 (Cluster KPIs):** horchata-latte at pos 3 after 3 days is an early-indexing signal that Google is processing newer pages quickly — good for tracking cluster health. Tag pages appearing at pos 2-8 are navigational/branded impressions, not organic search performance for those terms.
+
+**Key DataForSEO Findings (Pulse 42):**
+- "latte vs mocha" — 2,900/mo, diff 1/100 ULTRA-LOW ✅ WRITTEN
+- "latte vs coffee" — 2,900/mo, diff 1/100 ULTRA-LOW ✅ WRITTEN
+- "coffee acidity" — 2,400/mo, diff 8/100 — SKIP (YMYL health intent)
+- "americano vs latte" — 1,900/mo, diff 1/100 — DEFER (future pulse)
+- "how to clean french press" — 1,000/mo, diff 2/100 — DEFER (low volume)
+- DataForSEO spend this pulse: $0.154. Running total: ~$5.70
+
+**SC Notable Observations (Pulse 42):**
+- **horchata-latte at pos 3** (NEW — published Pulse 34, 3 days ago). Fast early indexing signal.
+- **siphon-coffee: 10 impressions** (up from 9 — slow climb, pos 71.5)
+- **Tag pages appearing in SC** at pos 2-8 — navigational/branded impressions, not keyword ranking issues
+- **ristretto pos 7.75 stable** — CTR-optimized title (60 chars) now live; waiting for click
+
+**Content Created (2 pages):**
+1. `content/guides/latte-vs-mocha.md` — 2.9K/mo diff 1. 8-col comparison table, 4 PAA FAQs, home recipe instructions.
+2. `content/guides/latte-vs-coffee.md` — 2.9K/mo diff 1. Drip vs latte comparison, caffeine table, calorie table, 4 PAA FAQs.
+
+**Internal Links Updated:**
+- what-is-a-latte.md → latte-vs-mocha + latte-vs-coffee (footer)
+- mocha.md → latte-vs-mocha (Related Drinks)
+
+**Analytics (Day 16, Pulse 42):**
+- GA4: 0 organic sessions (Day 16 — first click still pending; ristretto pos 7.75 is our best candidate)
+- SC: 15 pages/tag-pages with impressions (9 content pages + 6 tag pages)
+- ristretto: pos 7.75 / 4 impressions (PAGE 1 — CTR optimized title live)
+- milk-steaming-beginners: pos 29.2 / 34 impressions
+- horchata-latte: pos 3 / 1 impression (NEW — 3 days old)
+- Total published content pages: 118
+
+**Outcome:**
+- latte-vs-mocha published: 2.9K/mo diff 1 ULTRA-LOW — fills the last major latte comparison gap. SERP is all beatable brand blogs.
+- latte-vs-coffee published: 2.9K/mo diff 1 ULTRA-LOW — AEO target (ai_overview present, no featured snippet). SERP is Reddit + small brand blogs.
+- Both pages pushed to Vercel for auto-deploy.
+- horchata-latte signal at pos 3 is encouraging — newer pages are being picked up quickly.
+
+**Next (Pulse 43):**
+1. GA4 + SC check — watch for first organic click (ristretto pos 7.75 + CTR-optimized title)
+2. Research: "americano vs latte" (1.9K diff 1 — future comparison page); explore equipment guides ("how to clean french press" 1K diff 2)
+3. Check if latte-vs-mocha / latte-vs-coffee / calorie guide have appeared in SC
+4. Possible: "mocha vs cappuccino" content (590/mo diff 1 — could add as section to existing mocha.md rather than standalone)
+5. Consider: a "coffee drinks explained" hub page or expand the calorie guide with individual drink pages
+
+---
+
 ## 2026-04-18 22:00 IDT — Pulse 41: Calorie Guide (6.1K/mo diff 0) + Ristretto vs Espresso (2.4K diff 5) + Ristretto CTR Optimization — 116 Pages | Day 15
 
 **Action:**
