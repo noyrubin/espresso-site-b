@@ -194,3 +194,7 @@ Press until about 1 inch above the grounds — don't force the grounds all the w
 
 **Can you make cold brew in a French press?**
 Yes. Add coarsely ground coffee at a 1:8 ratio (coffee to cold water), stir, and steep in the refrigerator for 12–24 hours. Then press slowly and pour. This makes a smooth, low-acid cold brew concentrate. See our [cold brew ratio guide](/guides/cold-brew-ratio/) and [cold brew recipe](/recipes/cold-brew-coffee-recipe/) for full instructions.
+
+---
+
+*Related guides: [Moka Pot vs French Press](/guides/moka-pot-vs-french-press/) | [French Press Ratio Guide](/guides/french-press-ratio/) | [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) | [Getting Started with Home Espresso](/guides/getting-started/)*

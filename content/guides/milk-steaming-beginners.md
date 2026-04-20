@@ -166,7 +166,7 @@ Most people see a significant improvement by the end of the first week. Latte ar
 
 Once you can consistently produce smooth, glossy microfoam:
 
-- **Learn basic latte art** — Start with a heart pour (the simplest pattern). It is purely cosmetic but extremely satisfying.
+- **Learn basic latte art** — Start with a heart pour (the simplest pattern). It is purely cosmetic but extremely satisfying. See [How to Do Latte Art: Beginner's Guide](/guides/latte-art-for-beginners/) for step-by-step technique, patterns, and practice tips.
 - **Experiment with milk types** — Try oat milk, or steam to different temperatures to notice flavor changes.
 - **Try different drinks** — A [cortado](/recipes/cortado/), [flat white](/recipes/flat-white/), and [cappuccino](/recipes/cappuccino/) all use different milk-to-espresso ratios and foam levels.
 

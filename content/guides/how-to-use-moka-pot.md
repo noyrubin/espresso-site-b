@@ -208,4 +208,4 @@ Fill the filter basket to the brim, level (not packed). Approximately 7 g per "c
 
 ---
 
-*Interested in more brewing methods? See our [moka pot vs espresso machine comparison](/guides/moka-pot-vs-espresso-machine/) to decide which is right for you, or our [getting started guide](/guides/getting-started/) for the full home espresso roadmap. For Turkish stovetop coffee, see our [Turkish coffee guide](/guides/what-is-turkish-coffee/). For the classic Cuban moka pot drink, see our [café cubano recipe](/recipes/cafe-cubano/) — the cafecito tradition.*
+*Interested in more brewing methods? See our [moka pot vs espresso machine comparison](/guides/moka-pot-vs-espresso-machine/) to decide which is right for you, our [moka pot vs french press comparison](/guides/moka-pot-vs-french-press/) for a side-by-side breakdown, or our [getting started guide](/guides/getting-started/) for the full home espresso roadmap. For Turkish stovetop coffee, see our [Turkish coffee guide](/guides/what-is-turkish-coffee/). For the classic Cuban moka pot drink, see our [café cubano recipe](/recipes/cafe-cubano/) — the cafecito tradition.*

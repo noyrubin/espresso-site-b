@@ -144,7 +144,7 @@ If your goal is lattes, cappuccinos, or flat whites, you also need a machine wit
 
 - **Texturing milk** — Introducing air in the first 2-3 seconds, then spinning the milk to create smooth, glossy microfoam.
 - **Temperature** — Steam to 140-155F (60-68C). Above 160F, milk proteins break down and the sweetness disappears.
-- **Pouring** — Latte art is a fun skill but not necessary for great-tasting drinks. Focus on milk texture first.
+- **Pouring** — Latte art is a fun skill but not necessary for great-tasting drinks. Focus on milk texture first. When you're ready, see our [latte art guide for beginners](/guides/latte-art-for-beginners/).
 
 We cover milk steaming technique in detail in our [milk steaming guide for beginners](/guides/milk-steaming-beginners/).
 
