@@ -210,3 +210,36 @@ The result is why a latte tastes so different from espresso with hot milk poured
 **No — steaming does not reduce lactose content.** Lactose is a sugar, and steam heat does not break it down into digestible simple sugars (that requires the enzyme lactase, not heat). People with lactose intolerance who consume steamed dairy milk will still experience the same symptoms.
 
 **Better alternatives for lactose intolerance:** Barista-edition oat milk, soy milk, and almond milk all steam well and are naturally lactose-free. Lactose-free dairy milk (where lactase has been pre-added commercially) is also an option and steams almost identically to regular whole milk.
+
+### How do you steam milk for a cappuccino?
+
+**To steam milk for a cappuccino, use the same technique as a latte but extend the air-introduction (stretching) phase to 5–8 seconds instead of 2–3.** This creates a thicker, drier foam layer — about equal parts steamed milk and foam — rather than the thin, silky microfoam used in lattes.
+
+Key differences from a latte:
+- **Stretching phase:** 5–8 seconds (latte: 2–3 seconds)
+- **Target texture:** Dry, spoonable foam on top with liquid milk underneath
+- **Volume:** The milk roughly doubles in volume as you introduce more air
+- **Temperature:** Same range — 140–155°F (60–68°C). Do not overheat.
+
+The result should be a distinct two-layer texture: textured steamed milk below and a thick, foam cap above. When poured into espresso, a cappuccino is roughly equal thirds: espresso, steamed milk, dry foam.
+
+### Can you steam milk without getting foam?
+
+**Yes — to steam milk with minimal foam (silky microfoam rather than stiff foam), keep the steam wand tip submerged 1–2 cm below the milk surface for the entire process and reduce the stretching phase to 1–2 seconds or skip it entirely.**
+
+The foam forms when air is drawn in at the surface. Submerging the wand tip prevents air introduction and creates a smooth, glossy texture suitable for lattes and flat whites — milk that pours freely without a foamy cap.
+
+- **For no foam (flat whites, lattes):** Minimal stretching — 1–2 seconds maximum, then full submersion.
+- **For light foam (lattes):** 2–3 seconds of stretching, then submerge.
+- **For thick foam (cappuccinos):** 5–8 seconds of stretching at the surface.
+
+### How long does it take to steam milk?
+
+**Steaming milk from cold (fridge temperature, ~40°F/4°C) to the target range of 140–155°F takes approximately 30–45 seconds total.**
+
+Breakdown:
+- **Purge the steam wand:** 1–2 seconds
+- **Stretching phase (air introduction):** 2–8 seconds depending on drink type
+- **Texturing phase (heating to target temp):** 20–35 seconds
+
+Using a thermometer is the most reliable way to know when to stop — especially for beginners. Once you develop the feel for it, the pitcher handle becomes your guide: it should be hot but still holdable (not burning) at the correct temperature. Anything above 165°F (74°C) begins to scald the milk and destroy the sweetness that steaming produces.

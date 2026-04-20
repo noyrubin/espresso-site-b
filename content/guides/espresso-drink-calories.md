@@ -27,6 +27,7 @@ The table below covers standard 12oz (medium/tall) drinks made with 2% milk, no 
 | **Cortado** | 60 | 1:1 espresso to steamed milk, ~4oz |
 | **Cold brew** | 15 | Black cold brew, 12oz |
 | **Iced latte (12oz)** | 170 | Slightly less milk than hot latte |
+| **Espresso martini** | 180–220 | Varies by recipe; see section below |
 
 ## Latte Calories
 
@@ -124,6 +125,34 @@ If you're reducing calories without giving up espresso drinks:
 4. **Flat white with almond milk** — ~50 calories vs. ~170 for a full latte
 5. **Iced espresso** — espresso over ice, light splash of milk, no syrup
 6. **Cold brew, black** — 15 calories for 12oz, naturally less acidic than hot brew
+
+## Espresso Martini Calories
+
+**A classic espresso martini has approximately 180–220 calories per cocktail.** The exact count depends on the vodka amount, coffee liqueur brand, and whether you add simple syrup or sugar.
+
+**Standard espresso martini (single cocktail):**
+| Ingredient | Amount | Calories |
+|-----------|--------|---------|
+| Vodka (1.5 oz / 45ml) | 97 cal | Approximately 65 cal per oz |
+| Kahlúa or coffee liqueur (0.75 oz) | 53 cal | Kahlúa: ~70 cal/oz |
+| Espresso (1 oz, double shot) | 5 cal | Essentially zero |
+| Simple syrup (0.5 oz) | 30 cal | Optional; 60 cal/oz |
+| **Total** | **~185 cal** | Without syrup: ~155 cal |
+
+**Variations by recipe:**
+- Classic (no syrup): ~155–165 calories
+- With simple syrup: ~185–200 calories
+- With Baileys instead of Kahlúa: ~210–230 calories (Baileys is cream-based, ~100 cal/oz)
+- Low-calorie (espresso + vodka + sugar-free coffee syrup): ~110–120 calories
+
+The espresso itself contributes almost nothing to the calorie count — it is the vodka and coffee liqueur that account for nearly all calories in an espresso martini. Choosing a lower-sugar coffee liqueur or skipping the simple syrup brings the total below 165 calories.
+
+**vs. other coffee cocktails:**
+- Irish coffee (with whipped cream): 200–280 calories
+- Espresso martini: 155–220 calories
+- Cold brew cocktail (cold brew + spirits): 120–180 calories depending on mixer
+
+→ See our full [espresso martini recipe](/recipes/espresso-martini/) for the classic preparation method.
 
 ## Frequently Asked Questions
 

@@ -1,7 +1,7 @@
 ---
-title: "How to Make Cold Foam at Home (3 Methods)"
+title: "Cold Foam Recipe: How to Make Cold Foam at Home (3 Methods)"
 date: 2026-04-09
-description: "Learn how to make cold foam at home with a milk frother, blender, or mason jar. Step-by-step guide covering sweet cream cold foam, vanilla cold foam, and dairy-free options."
+description: "The easiest cold foam recipe: make cold foam at home in 3 minutes using a frother, mason jar, or blender. Covers sweet cream cold foam, vanilla cold foam, and dairy-free options."
 tags: ["cold foam", "coffee drinks", "recipes", "barista techniques"]
 categories: ["recipes"]
 author: "Barista At Home"

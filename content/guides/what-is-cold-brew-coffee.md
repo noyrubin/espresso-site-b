@@ -107,4 +107,4 @@ Cold brew is significantly lower in acid than hot-brewed coffee — studies find
 
 ---
 
-*Related guides: [Cold Brew Recipe](/recipes/cold-brew-coffee-recipe/) | [Cold Brew Ratio: How Much Coffee to Use](/guides/cold-brew-ratio/) | [Cold Brew vs Iced Coffee](/guides/cold-brew-vs-iced-coffee/) | [How to Make Cold Foam](/recipes/cold-foam/) | [Vietnamese Iced Coffee](/recipes/vietnamese-iced-coffee/)*
+*Related guides: [Cold Brew Recipe](/recipes/cold-brew-coffee-recipe/) | [Cold Brew Ratio: How Much Coffee to Use](/guides/cold-brew-ratio/) | [Cold Brew vs Iced Coffee](/guides/cold-brew-vs-iced-coffee/) | [Cold Brew Caffeine: How Much Is in Your Cup?](/guides/cold-brew-caffeine/) | [How to Make Cold Foam](/recipes/cold-foam/) | [Vietnamese Iced Coffee](/recipes/vietnamese-iced-coffee/)*
