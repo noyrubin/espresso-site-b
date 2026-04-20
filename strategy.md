@@ -769,14 +769,26 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ SEO skill: Ch4.2 (cold-foam title fix — title/meta CTR optimization for "cold foam recipe" extractability), Ch4.1 (cold brew caffeine cluster: 2 queries in one dedicated page), Ch7.1 (SC cluster KPIs: tags ranking at pos 2-8 = topical authority signals), Ch4.2 (milk-steaming FAQ answers match SC query variants)
 - ✅ REJECTED: "how to do latte art" 1.9K diff 5 — defer to Pulse 47; "how to store coffee beans" HIGH 79/100 SKIP; "pour over vs drip coffee" 1K diff 25 — COVERED by drip-coffee-vs-espresso + what-is-pour-over-coffee
 
-### Pulse 47 — NEXT (22:00 IDT Apr 20)
-- **SC watch:** Day 17. ristretto pos 7.75 — should be seeing first organic click soon. Watch for cold-brew-caffeine, cappuccino-vs-americano, what-is-cold-brew-coffee entering SC.
+### Pulse 47 — DONE (22:00 IDT Apr 20)
+- ✅ SC: 15 pages/tags (stable). ristretto pos 7.75 / 4 imps (PAGE 1). milk-steaming pos 29.2 / 34 imps. GA4: 0 organic (Day 17 — end of typical window, first click expected any day now).
+- ✅ DataForSEO: 4x search-volume batches ($0.300) + 3x SERP checks ($0.006) = $0.306 this pulse. Running total: ~$6.70
+- ✅ SERP: "how to do latte art" — Reddit #1, Starbucks #2, YouTube #3, equatorcoffees.com #4, La Marzocco #5. short_video + video SERP features. No featured snippet. ai_overview present.
+- ✅ SERP: "moka pot vs french press" — Reddit #1, getflask.co #2, cliffandpebble.com #3 (tiny blogs). No featured snippet. Very beatable.
+- ✅ WRITTEN: latte-art-for-beginners.md (1.9K diff5 + 2.4K diff9 = 4.3K combined) — answer-first, equipment needed, milk steam steps, pour technique, heart + tulip patterns, practice timeline, all 4 PAA questions answered in FAQ
+- ✅ WRITTEN: moka-pot-vs-french-press.md (1.6K diff22 LOW) — comparison table, brew method, flavor/strength, grind, cleanup, who should buy which, 4 FAQ
+- ✅ REJECTED: "latte art patterns" 260/mo — covered by latte-art-for-beginners; "moka pot recipe" 480/mo diff 6 — too low standalone; "best burr grinder for espresso" 390/mo HIGH 100/100 SKIP; "how to make pour over coffee" MEDIUM 66/100 SKIP
+- ✅ Internal links: milk-steaming-beginners → latte-art-for-beginners (bidirectional); getting-started → latte-art-for-beginners; how-to-use-moka-pot → moka-pot-vs-french-press; how-to-use-french-press → moka-pot-vs-french-press + Related section added
+- ✅ 129 pages total — committed cc0775c
+- ✅ SEO skill: Ch4.2 (answer-first + PAA coverage), Ch4.1 (technique cluster fan-out), Ch5.2 (bidirectional internal links)
+
+### Pulse 48 — NEXT (06:00 IDT Apr 21)
+- **SC watch:** Day 18. ristretto at pos 7.75 — first organic click imminent. Watch for new pages entering SC.
 - **Content priorities:**
-  1. **"how to do latte art"** — 1.9K diff 5 ULTRA-LOW. Natural companion to milk-steaming-beginners. Creates technique cluster. No page yet. SERP check needed.
-  2. **"latte art for beginners"** — 260/mo covered by "how to do latte art" guide above
-  3. **"moka pot vs french press"** — 1.6K diff 22 LOW. SERP check needed.
-  4. **Optimization:** Check if cortado.md → what-is-cortado-coffee internal link is bidirectional; check types-of-coffee-drinks hub for any missing new pages
-- **SEO skill:** Ch4.1 (technique cluster fan-out — latte art as natural next skill after milk steaming), Ch5.2 (internal linking — technique cluster audit)
+  1. **Orphan page audit** — 129 pages; check types-of-coffee-drinks hub for missing newer pages; check for any pages with 0 inbound links.
+  2. **"aeropress vs french press"** — estimate volume + SERP check. Likely LOW diff. Completes brewing method comparison cluster.
+  3. **"espresso descaling"/"how to descale espresso machine"** — our cleaning guide covers descaling but is it capturing that query? Check SC + SERP.
+  4. **New keyword batch** — Explore: grinder maintenance, espresso shot troubleshooting, pour over accessories cluster.
+- **SEO skill:** Ch7.1 (Day 18 checkpoint — measure impression growth), Ch5.2 (orphan audit), Ch4.1 (new cluster research)
 
 ---
 ## New Hypotheses (Pulse 6+)
@@ -786,4 +798,4 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - **H13 (Pulse 19):** "dalgona coffee" (27.1K/mo, diff 6) — viral search interest is permanent despite trend peak in 2020. seriouseats at #3 is a tough competitor but mykoreankitchen.com #4 is beatable — targeting #4-5.
 - **H14 (Pulse 25):** Schema fix unlocking Recipe schema for 15+ high-volume recipe pages should increase rich result eligibility. Once pages index, Recipe cards in SERP (via "recipes" feature) will dramatically improve CTR vs. plain blue links. espresso-martini (246K), cold-foam (33K), pumpkin-spice-latte (40.5K) are the highest-priority pages to watch for recipe rich results.
 
-*Last updated: 2026-04-20 Pulse 46*
+*Last updated: 2026-04-20 Pulse 47*

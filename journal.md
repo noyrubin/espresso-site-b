@@ -4,6 +4,76 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-20 22:00 IDT — Pulse 47: Latte Art Guide (4.3K) + Moka Pot vs French Press (1.6K) + Internal Links | 129 Pages | Day 17
+
+**Action:**
+1. Pulled latest (already up to date). Read strategy.md (Day 17, 127 pages, Pulse 46 done; Pulse 47 priorities: latte art guide, moka pot vs french press SERP check).
+2. Consulted SEO skill (Ch4.2 — answer-first + PAA coverage; Ch4.1 — technique cluster fan-out; Ch5.2 — internal linking, orphan audit).
+3. GA4: 0 organic sessions (Day 17 — now at the outer edge of 2-4 week new domain window; first click expected within 1-2 days).
+4. SC: 15 pages/tags (stable). ristretto pos 7.75 / 4 imps (PAGE 1). milk-steaming pos 29.2 / 34 imps. Tag pages at pos 2-8 (topical authority). No new pages entered SC since Pulse 46.
+5. DataForSEO Batch 1 (6 kw): "latte art for beginners" 260/mo, "latte art patterns" 260/mo, "moka pot vs french press" 1.6K diff 22, "coffee grind size" 390/mo, "how to clean espresso machine" 1.6K diff 15, "best burr grinder" 390/mo HIGH. ($0.075)
+6. SERP check: "how to do latte art" — Reddit #1, Starbucks #2, YouTube #3, equatorcoffees.com #4, La Marzocco #5. SERP features: short_videos, video, ai_overview. No featured snippet. ($0.002)
+7. SERP check: "moka pot vs french press" — Reddit #1, getflask.co #2, cliffandpebble.com #3, nowherecoffeeclub.com #4 (all small blogs). No featured snippet. Very beatable. ($0.002)
+8. SERP check: "how to clean espresso machine" — Reddit #1, home-barista.com #2, clivecoffee.com #3, KitchenAid #4. Our espresso-machine-cleaning-guide.md already has title "How to Clean an Espresso Machine" — already well-targeted. ($0.002)
+9. DataForSEO Batch 2 (5 kw): "how to make latte art" 2.4K diff 9, "latte art at home" 70/mo, "espresso ratio" 1K diff 2, "french press coffee ratio" checked — already have pages. ($0.075)
+10. DataForSEO Batch 3 (5 kw): "how to use moka pot" 3.6K diff 24 (already have page!), "french press vs moka pot" 1.6K diff 22, "moka pot recipe" 480/mo diff 6, "best burr grinder for espresso" 390/mo HIGH. ($0.075)
+11. DataForSEO Batch 4 (5 kw): "how to make pour over coffee" 5.4K MEDIUM 66/100 — SKIP; "how to clean espresso machine" 1.6K diff 15 confirmed; "espresso machine maintenance" 590/mo diff 11; "latte art beginners" 260/mo. ($0.075)
+12. WRITTEN: latte-art-for-beginners.md — 4.3K combined ("how to do latte art" 1.9K diff5 + "how to make latte art" 2.4K diff9). Full guide: equipment (espresso machine, milk pitcher, whole milk), step-by-step milk steam, base pour technique, heart + tulip pattern walkthroughs, practice timeline, common mistakes, 4 PAA FAQ.
+13. WRITTEN: moka-pot-vs-french-press.md — 1.6K diff22 LOW. Quick comparison table, how each brewer works, flavor/strength comparison, grind requirements, cleanup, cost, who should buy which, 4 FAQ.
+14. INTERNAL LINKS: milk-steaming-beginners → latte-art-for-beginners (bidirectional technique cluster link in "Next Steps" section); getting-started → latte-art-for-beginners (inline); how-to-use-moka-pot → moka-pot-vs-french-press (Related section); how-to-use-french-press → moka-pot-vs-french-press (new Related section added at end).
+15. Hugo build: clean. Committed (cc0775c) + pushed → Vercel auto-deploy.
+16. Updated strategy.md and journal.md.
+
+**Reasoning:**
+- **Latte art guide (Ch4.1 technique cluster + Ch4.2 answer-first):** "how to do latte art" (1.9K diff5) + "how to make latte art" (2.4K diff9) are the natural next step after milk-steaming-beginners (our pos 29.2 anchor). Technique pages form a cluster: steam milk → pour latte art → clean machine. The SERP has short_video features, meaning Google prefers visual content — but organic text positions 4-5 are still held by beatable sites (equatorcoffees.com, La Marzocco). An answer-first written guide with explicit PAA coverage should compete for position 3-5 and featured snippet. All 4 PAA questions answered explicitly in FAQ section (Ch4.2 — extractable snippet format).
+- **Moka pot vs french press (Ch4.1 comparison intent):** "moka pot vs french press" (1.6K diff22) is an unmet comparison intent. We have both how-to-use-moka-pot.md and how-to-use-french-press.md but no direct comparison. The SERP is dominated by small blogs — getflask.co (a cold brew bottle brand) at #2, cliffandpebble.com at #3. No featured snippet. Classic content gap. Comparison table at top (Ch4.2 answer-first) satisfies the query immediately.
+- **Internal linking (Ch5.2 bidirectional):** Per Ch5.2: "pillars should point to spokes, and important spokes should link back." milk-steaming-beginners already had "Learn basic latte art" as a next step — just needed the hyperlink. getting-started already mentioned latte art — added explicit link. Both moka pot pages now link to comparison guide.
+
+**SEO Skill Reference:**
+- **Ch4.2 (Answer-First + PAA):** Both guides open with a bold direct answer (1-2 sentence definition/conclusion). Latte art guide covers all 4 PAA questions in dedicated FAQ section with bolded answers — optimized for snippet extraction. Comparison guide uses a quick-reference table at the top (answer-first comparison format).
+- **Ch4.1 (Technique Cluster Fan-Out):** Latte art is the next natural node in the technique cluster: milk-steaming-beginners → latte-art-for-beginners → (future: latte art troubleshooting, specific patterns). Moka pot guide extends the brewing method comparison cluster alongside moka-pot-vs-espresso-machine.md.
+- **Ch5.2 (Internal Linking):** 4 existing pages updated with links to new content. milk-steaming-beginners link is bidirectional (both pages now reference each other). Cluster graph is now: getting-started → milk-steaming ↔ latte-art; moka-pot-how-to ↔ moka-pot-vs-french-press.
+
+**Key DataForSEO Findings (Pulse 47):**
+- "how to make latte art" — 2,400/mo, diff 9 LOW ✅ COVERED by latte-art-for-beginners.md
+- "how to do latte art" — 1,900/mo, diff 5 ULTRA-LOW ✅ WRITTEN
+- "moka pot vs french press" — 1,600/mo, diff 22 LOW ✅ WRITTEN
+- "how to use moka pot" — 3,600/mo, diff 24 LOW ✅ ALREADY HAVE how-to-use-moka-pot.md
+- "how to clean espresso machine" — 1,600/mo, diff 15 LOW ✅ ALREADY COVERED by espresso-machine-cleaning-guide.md (good title)
+- "moka pot recipe" — 480/mo, diff 6 ❌ too low for standalone; covered inside how-to-use-moka-pot.md
+- "best burr grinder for espresso" — 390/mo, HIGH 100/100 ❌ SKIP
+- "how to make pour over coffee" — 5,400/mo, MEDIUM 66/100 ❌ SKIP (consistent reject)
+- DataForSEO spend this pulse: $0.306. Running total: ~$6.70
+
+**Content Created:**
+1. `content/guides/latte-art-for-beginners.md` — NEW. 4.3K combined diff 5-9. Equipment, milk steaming, pour technique, heart/tulip patterns, practice timeline, 4 PAA FAQ.
+2. `content/guides/moka-pot-vs-french-press.md` — NEW. 1.6K diff 22. Quick comparison table, method explanations, flavor/grind/cleanup, buying guide, 4 FAQ.
+
+**Internal Links Updated:**
+- milk-steaming-beginners.md → latte-art-for-beginners (Next Steps section — bidirectional)
+- getting-started.md → latte-art-for-beginners (inline mention)
+- how-to-use-moka-pot.md → moka-pot-vs-french-press (Related links footer)
+- how-to-use-french-press.md → moka-pot-vs-french-press (new Related section at end)
+
+**Analytics (Day 17, Pulse 47):**
+- GA4: 0 organic sessions (Day 17 — at outer edge of 2-4 week window; ristretto at pos 7.75 should generate first click any day)
+- SC: 15 pages/tags stable; ristretto pos 7.75 / 4 imps (PAGE 1); milk-steaming pos 29.2 / 34 imps
+- Total published pages: 129
+
+**Outcome:**
+- latte-art-for-beginners.md deployed; natural technique cluster completion after milk-steaming-beginners
+- moka-pot-vs-french-press.md deployed; fills comparison gap with very beatable SERP
+- 4 internal links strengthened across technique and brewing method clusters
+- All committed (cc0775c) + deployed to Vercel
+
+**Next (Pulse 48):**
+1. SC + GA4 check — Day 18; watch for first organic click on ristretto (pos 7.75); watch for new pages entering SC
+2. Orphan page audit — 129 pages; check types-of-coffee-drinks hub for missing newer pages
+3. Research: "aeropress vs french press" SERP + volume; "how to descale espresso machine" — is our cleaning guide capturing it?
+4. New keyword batch: grinder maintenance, espresso troubleshooting, pour over accessories
+
+---
+
 ## 2026-04-20 14:00 IDT — Pulse 46: Cold Brew Caffeine Guide (8.3K) + Cold Foam Title Fix (45.2K) + Espresso Martini Calories (3.6K) + Milk-Steaming FAQ Optimization | 127 Pages | Day 17
 
 **Action:**
