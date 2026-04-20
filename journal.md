@@ -4,6 +4,57 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-20 06:00 IDT — Pulse 45: Drip Coffee vs Espresso (1.6K diff6) + What Is Pour Over Coffee (3.6K diff30) | 125 Pages | Day 17
+
+**Action:**
+1. Pulled latest (already up to date). Read strategy.md (Day 17, 123 pages, Pulse 44 priorities: explore drip/pour-over gaps, watch for first organic click).
+2. Consulted SEO skill (Ch4.1 — query fan-out; Ch4.2 — answer-first + CTR; Ch3.2 — schema; Ch7.1 — measurement).
+3. GA4: 0 organic sessions (Day 17 — normal per Ch7.1 for new domains 2-4 weeks).
+4. SC pages: 15 pages/tags with impressions (stable). ristretto pos 7.75 / 4 imps (PAGE 1). milk-steaming-beginners pos 29.2 / 34 imps (stable). homepage 12 imps pos 46.3 (UP from 9). siphon-coffee 10 imps pos 71.5. brown-sugar-shaken-espresso 15 imps pos 77. tags/latte-macchiato/ 7 imps pos 70.9 (UP from 6). Pulse 43 pages not yet in SC (expected 3-5 days).
+5. DataForSEO Batch 1 (10 kw): "ristretto vs espresso" 2.4K diff 5 ALREADY WRITTEN; "what is pour over coffee" 3.6K diff 30; "drip coffee vs espresso" 1.6K diff 6; "pour over vs drip coffee" 1K diff 25; Colombian/Ethiopian coffee HIGH; decaf espresso HIGH 100. ($0.075)
+6. DataForSEO Batch 2 (10 kw): "light roast vs dark roast" 4.4K diff 15; "french press vs pour over" MEDIUM 41/100 (skip); "how to make cortado" 4.4K diff 3 (ALREADY WRITTEN as cortado.md). ($0.075)
+7. DataForSEO Batch 3 (10 kw): additional validation. ($0.075)
+8. SERP checks (4): "drip coffee vs espresso" — Reddit #1, Breville brand blog #2, outin.com #3, blackoakcoffee.com #4 — no dedicated informational guide, no featured snippet. ✅ WRITE. "what is pour over coffee" — espro.com (equipment brand) #1, Reddit #2, counterculturecoffee.com (brand) #3, YouTube #4 — brand-heavy, no featured snippet. ✅ WRITE. "light roast vs dark roast" — Peets #2, coffeebros.com #3, compasscoffee.com #4 — established brands. SKIP. "how to make cortado" — emilylaurae.com #2 (tiny blog), TikTok #3 — our cortado.md already targets this. No new page needed. ($0.008)
+9. WRITTEN: drip-coffee-vs-espresso.md — 1.6K/mo diff 6. 9-col comparison table. "Is espresso stronger than drip?" PAA — concentration vs total caffeine distinction (per-oz vs per-cup). Caffeine table (4 servings). Flavor + equipment cost sections. Which to choose. 4 FAQ. Internal links from what-is-drip-coffee + existing comparison cluster.
+10. WRITTEN: what-is-pour-over-coffee.md — 3.6K/mo diff 30. 6-step how-it-works process. Pour over vs drip table. Equipment guide (V60/Chemex/Kalita Wave). Pour over vs French press table. Ratio table (links to pour-over-ratio). Beginner first brew guide. 4 FAQ.
+11. INTERNAL LINKS: what-is-drip-coffee → drip-coffee-vs-espresso; pour-over-ratio → what-is-pour-over-coffee.
+12. Hugo build: clean. Committed (1f5c6c2) + pushed → Vercel.
+
+**Reasoning:**
+- **drip-coffee-vs-espresso (Ch4.1):** espresso-vs-coffee covers the general comparison; "drip coffee vs espresso" is a specific framing for filter-brew vs pressure-brew. SERP is extremely weak — Breville brand blog + travel gear site + small roaster. A dedicated informational guide with caffeine table and concentration explanation is clearly better content.
+- **what-is-pour-over-coffee (Ch4.1 definitional gap):** pour-over-ratio covers procedural intent. "What is pour over coffee" is the definitional intent bucket — same pattern as cold-brew-ratio vs what-is-cold-brew-coffee. Despite diff 30, SERP is brand-heavy (equipment mfr + specialty roaster brands). No pure informational content guide in top 3.
+- **Cortado no-action (Ch5.2):** "How to make cortado" (4.4K diff 3) has emilylaurae.com at #2 (tiny personal blog — easily beatable). Our cortado.md is already correctly titled "How to Make a Cortado at Home" with Recipe schema. Confirmed what-is-cortado-coffee → cortado recipe link exists. No new page needed — just indexing time.
+
+**SEO Skill Reference:**
+- **Ch4.1 (Query Fan-Out):** drip-coffee-vs-espresso + what-is-pour-over-coffee complete the filter-coffee cluster. Both follow hub/spoke: definition page links back to ratio/comparison pages and vice versa.
+- **Ch4.2 (Answer-First + AEO):** Both pages lead with direct 1-2 sentence definitions. Tables in first 2 sections. "Is espresso stronger?" answered with the concentration vs total caffeine distinction — most precise answer available. AI overview present in both target SERPs.
+- **Ch7.1 (Cluster KPIs):** SC stable at 15 pages. Homepage impressions UP. ristretto holding PAGE 1. 0 organic clicks at Day 17 = still within expected range.
+
+**Key DataForSEO Findings (Pulse 45):**
+- "drip coffee vs espresso" — 1,600/mo, diff 6/100 ULTRA-LOW ✅ WRITTEN
+- "what is pour over coffee" — 3,600/mo, diff 30/100 LOW ✅ WRITTEN
+- "how to make cortado" — 4,400/mo, diff 3/100 — ALREADY COVERED by cortado.md (no new page)
+- "light roast vs dark roast" — 4,400/mo, diff 15/100 — SKIP (Peet's + coffeebros authority)
+- "ristretto vs espresso" — confirmed ALREADY WRITTEN
+- DataForSEO spend this pulse: $0.233 (3x search-volume $0.225 + 4x SERP $0.008). Running total: ~$6.16
+
+**Content Created (2 pages):**
+1. `content/guides/drip-coffee-vs-espresso.md` — 1.6K/mo diff 6. Gravity vs pressure comparison; caffeine myths; equipment costs; which to choose.
+2. `content/guides/what-is-pour-over-coffee.md` — 3.6K/mo diff 30. Method explainer; V60/Chemex/Kalita guide; bloom technique; vs drip + vs French press tables; beginner brew guide.
+
+**Analytics (Day 17, Pulse 45):**
+- GA4: 0 organic (Day 17 — normal)
+- SC: 15 pages/tags stable; ristretto pos 7.75 / 4 imps (PAGE 1); homepage UP to 12 imps
+- Total pages: 125
+
+**Next (Pulse 46):**
+1. GA4 + SC check — ristretto prime candidate for first organic click
+2. Check if Pulse 43 pages (what-is-a-lungo, americano-vs-latte, espresso-vs-latte) appearing in SC
+3. Explore: "moka pot vs french press" (1.6K diff 22) + "pour over vs drip coffee" (1K diff 25) — SERP checks
+4. Ensure how-to-use-french-press → what-is-pour-over-coffee + espresso-vs-coffee → drip-coffee-vs-espresso internal links added
+
+---
+
 ## 2026-04-19 22:00 IDT — Pulse 44: Cappuccino vs Americano (1.6K diff1) + What Is Cold Brew Coffee (5.4K diff25) + Broken Link Fix | 123 Pages | Day 16
 
 **Action:**

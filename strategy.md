@@ -7,7 +7,7 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 16 of indexing — **123 pages published.** SC Pulse 44: **15 pages/tags with impressions** (unchanged from Pulse 43). milk-steaming-beginners 34 imps pos 29.2 (stable). ristretto pos 7.75 / 4 imps (PAGE 1 — CTR-optimized). **horchata-latte pos 3 / 1 imp**. GA4 organic still 0 (Day 16 — normal; still waiting for first click). **Pulse 44 additions (22:00 IDT 2026-04-19):** cappuccino-vs-americano (1.6K diff 1 — SERP: Reddit + lifeboostcoffee + candystopbd; 4 PAA H2s) + what-is-cold-brew-coffee (5.4K diff 25 — fills definitional gap; cold-brew-ratio had broken link to this page already). SEO skill: Ch4.1 (intent distinction — definitional vs comparison vs procedural), Ch4.2 (answer-first + AEO, PAA targeting), Ch7.1 (cluster KPIs). **DISCOVERY: what-is-a-cappuccino.md (22.2K diff 10) was written in an earlier pulse (~Day 14) but NOT recorded in strategy.md keyword table — added now.**
+Day 17 of indexing — **125 pages published.** SC Pulse 45: **15 pages/tags with impressions** (stable). milk-steaming-beginners 34 imps pos 29.2 (stable). ristretto pos 7.75 / 4 imps (PAGE 1). homepage 12 imps pos 46.3 (UP from 9). GA4 organic still 0 (Day 17 — normal). **Pulse 45 additions (06:00 IDT 2026-04-20):** drip-coffee-vs-espresso (1.6K diff 6 — gravity vs pressure; SERP: Breville brand #2, outin.com #3 — all weak) + what-is-pour-over-coffee (3.6K diff 30 — definitional gap; SERP: espro.com brand #1, counterculturecoffee.com brand #3). SEO skill: Ch4.1 (query fan-out), Ch4.2 (answer-first + AEO), Ch7.1 (cluster KPIs). **CONFIRMED: cortado.md already covers "how to make cortado" (4.4K diff 3) — no new page needed.**
 
 **IMPORTANT: ristretto (pos 7.75) is confirmed PAGE 1 — CTR-optimized title live. Cappuccino cluster now complete: what-is-a-cappuccino ↔ cappuccino recipe ↔ cappuccino-vs-latte ↔ cappuccino-vs-americano ↔ macchiato-vs-cappuccino ↔ flat-white-vs-cappuccino. Cold brew cluster: what-is-cold-brew-coffee ↔ cold-brew-ratio ↔ cold-brew-coffee-recipe ↔ cold-brew-vs-iced-coffee (broken link in cold-brew-ratio fixed). Americano cluster: what-is-an-americano ↔ americano recipe ↔ iced-americano ↔ cappuccino-vs-americano ↔ americano-vs-latte ↔ americano-vs-coffee ↔ espresso-vs-americano. Latte comparison cluster complete: cappuccino-vs-latte ↔ flat-white-vs-latte ↔ latte-vs-macchiato ↔ cortado-vs-latte ↔ latte-vs-mocha ↔ latte-vs-coffee ↔ americano-vs-latte ↔ espresso-vs-latte.**
 
@@ -154,6 +154,8 @@ Day 16 of indexing — **123 pages published.** SC Pulse 44: **15 pages/tags wit
 | cappuccino vs americano | 1,600 | 1/100 ULTRA-LOW | /guides/cappuccino-vs-americano/ | **Published (NEW Pulse 44 — SERP: Reddit #1, lifeboostcoffee #2 (3-way, not head-to-head), candystopbd #3 (BD food site), YouTube #4 — no dedicated 2-way guide in top 4. No featured snippet. AI overview. 4 PAA H2s. Completes cappuccino + americano comparison clusters.)** |
 | what is cold brew coffee | 5,400 | 25/100 LOW | /guides/what-is-cold-brew-coffee/ | **Published (NEW Pulse 44 — 5.4K diff 25. Fills definitional "what is" gap that existing cold-brew-ratio/recipe/vs pages don't cover cleanly. cold-brew-ratio had a broken link to this URL already — fixed. Caffeine table, vs iced coffee + espresso tables, storage guide, 4 PAA FAQs.)** |
 
+| drip coffee vs espresso | 1,600 | 6/100 ULTRA-LOW | /guides/drip-coffee-vs-espresso/ | **Published (NEW Pulse 45 — SERP: Breville brand blog #2, outin.com #3, blackoakcoffee.com #4 — all weak; gravity vs pressure comparison; caffeine per-oz vs per-cup distinction)** |
+| what is pour over coffee | 3,600 | 30/100 LOW | /guides/what-is-pour-over-coffee/ | **Published (NEW Pulse 45 — SERP brand-heavy: espro.com #1, counterculturecoffee.com #3; definitional hub; bloom technique + V60/Chemex/Kalita guide; links to pour-over-ratio)** |
 ## Biggest Opportunities Found So Far
 
 0. **"espresso martini recipe"** — 246,000/mo, diff 19/100 LOW. Pulse 18 find. **LARGEST VOLUME KEYWORD FOUND TO DATE.**
@@ -478,19 +480,23 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ DataForSEO spend: ~$0.154 (2x batches $0.150 + 2x SERP $0.004). Total: ~$5.93
 - Total pages: 123
 
-### Pulse 45 — NEXT (06:00 IDT 2026-04-20)
-**Priority focus:**
-- **Watch for first organic click** — Day 17 morning; ristretto pos 7.75 prime candidate
-- SC check: have Pulse 43 pages (what-is-a-lungo, americano-vs-latte, espresso-vs-latte) started showing impressions?
-- Research: explore "what is pour over coffee" (3.6K diff 30) with SERP check — borderline comp; consider standalone vs update pour-over-ratio
-- Consider: aeropress vs french press (1.6K diff 25) — check SERP; currently covered as section inside aeropress-guide
-- Explore: equipment/technique seeds — any low-comp "how to" content we haven't covered?
-- Update espresso-glossary with new terms (Ch4.5 freshness signal for linkable asset)
+### Pulse 45 — DONE (06:00 IDT 2026-04-20)
+- SC: 15 pages/tags stable. ristretto pos 7.75 PAGE 1 (4 imps). homepage UP to 12 imps. GA4: 0 organic (Day 17 — normal).
+- drip-coffee-vs-espresso (1.6K diff 6) — SERP: Breville brand blog #2, outin.com #3, small roaster #4. Gravity vs pressure explanation. Caffeine per-oz vs per-cup distinction. Equipment cost table. 4 FAQ.
+- what-is-pour-over-coffee (3.6K diff 30) — SERP: equipment brand #1, Reddit #2, specialty roaster brand #3. Definitional hub separate from pour-over-ratio. Bloom technique. V60/Chemex/Kalita guide. vs drip + vs French press comparison tables. Beginner brew guide.
+- CONFIRMED no-write: cortado.md already targets "how to make cortado" (4.4K diff 3) — existing title/Recipe schema already optimal.
+- SKIP: "light roast vs dark roast" 4.4K diff 15 — Peet's + coffeebros.com SERP too established.
+- Internal links: what-is-drip-coffee -> drip-coffee-vs-espresso; pour-over-ratio -> what-is-pour-over-coffee.
+- DataForSEO: $0.233 this pulse. Running total: ~$6.16
+- Total pages: 125
 
-### Pulse 46 — 2 PULSES AHEAD (14:00 IDT 2026-04-20)
-- Day 17 — continue expansion; check if impressions growing
-- Consider: new definitional "what is" pages for brew methods we haven't covered (siphon already done; french press, aeropress, pour over?)
-- Internal link audit: verify all 123 pages have at least 2 inbound links from related pages (Ch5.2 — no orphans)
+### Pulse 46 — NEXT (14:00 IDT 2026-04-20)
+- Watch for first organic click — ristretto pos 7.75 PAGE 1 prime candidate
+- SC check: have Pulse 43 pages (what-is-a-lungo, americano-vs-latte, espresso-vs-latte) appeared in SC?
+- Internal links to add: how-to-use-french-press -> what-is-pour-over-coffee; espresso-vs-coffee -> drip-coffee-vs-espresso
+- Research: "moka pot vs french press" (1.6K diff 22) SERP check; "pour over vs drip coffee" (1K diff 25) SERP check
+- Explore new content gaps: equipment maintenance ("how to clean french press" 1K diff 2 deferred Pulse 42)
+- Consider: espresso-glossary freshness update (Ch4.5)
 
 ### Pulse 7 — DONE
 - ✅ SC: milk-steaming-beginners 9 impressions across 5 query variants, avg pos 43.8
