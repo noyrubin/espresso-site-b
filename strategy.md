@@ -754,18 +754,29 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ SEO skill: Ch4.2 (title/meta CTR optimization for ristretto — prevent truncation, set expectations correctly), Ch4.1 (query fan-out — calorie cluster: 3 queries in one guide; ristretto cluster: how-to + comparison = 2 intent buckets), Ch7.1 (topic cluster tracking — new calorie cluster hub page)
 - ✅ REJECTED: "how to make pour over coffee" 5.4K MEDIUM 66/100 → SKIP; "pour over vs drip coffee" 1K diff 25 → DEFERRED; "espresso water ratio" 170 diff 5 → too low
 
-### Pulse 42 (06:00 IDT Apr 19)
-- **SC watch:** Day 16. First click expected — ristretto pos 7.75 with optimized title. Watch for new pages in impressions (grind guide, calorie guide).
+### Pulse 46 — DONE (14:00 IDT Apr 20)
+- ✅ SC: stable 15 pages. ristretto pos 7.75 / 4 imps (PAGE 1, stable). milk-steaming pos 29.2 / 34 imps (stable). Tags: /tags/mocha/ pos 2 / 1 imp, /tags/iced-latte/ pos 4, /tags/caramel-macchiato/ pos 7, /tags/turkish-coffee/ pos 8 — topical authority signals. GA4: still 0 organic (Day 17 — normal).
+- ✅ DataForSEO: 3x search-volume batches ($0.225) + 3x SERP checks ($0.006) = $0.231 this pulse. Running total: ~$6.39
+- ✅ FOUND: "how to make cold foam" 33.1K diff 8 — our cold-foam.md had wrong title; fixed.
+- ✅ FOUND: "cold brew caffeine" 2.9K + "how much caffeine in cold brew" 5.4K = 8.3K combined diff 0-2 ULTRA-LOW — no dedicated page existed; WRITTEN.
+- ✅ FOUND: "espresso martini calories" 3.6K diff 0 — gap in calorie guide; ADDED full section.
+- ✅ OPTIMIZED: cold-foam.md title → "Cold Foam Recipe: How to Make Cold Foam at Home (3 Methods)" — now targets both "cold foam recipe" (12.1K diff 4) and "how to make cold foam" (33.1K diff 8) = 45.2K combined
+- ✅ OPTIMIZED: milk-steaming-beginners.md — Added 3 targeted FAQ sections matching SC queries: "How do you steam milk for a cappuccino?", "Can you steam milk without getting foam?", "How long does it take to steam milk?"
+- ✅ WRITTEN: cold-brew-caffeine.md (8.3K diff 0-2) — caffeine table by type, cold brew vs drip/espresso/iced coffee table, concentration explanation, Starbucks data, energy drink comparison, FAQ
+- ✅ ADDED: espresso martini calories section to espresso-drink-calories.md (3.6K diff 0) — calorie table, variations by recipe, vs Irish coffee table
+- ✅ Internal links: what-is-cold-brew-coffee → cold-brew-caffeine; espresso-caffeine-guide → cold-brew-caffeine; calorie guide quick-reference table updated
+- ✅ 127 pages total — committed e3229a2
+- ✅ SEO skill: Ch4.2 (cold-foam title fix — title/meta CTR optimization for "cold foam recipe" extractability), Ch4.1 (cold brew caffeine cluster: 2 queries in one dedicated page), Ch7.1 (SC cluster KPIs: tags ranking at pos 2-8 = topical authority signals), Ch4.2 (milk-steaming FAQ answers match SC query variants)
+- ✅ REJECTED: "how to do latte art" 1.9K diff 5 — defer to Pulse 47; "how to store coffee beans" HIGH 79/100 SKIP; "pour over vs drip coffee" 1K diff 25 — COVERED by drip-coffee-vs-espresso + what-is-pour-over-coffee
+
+### Pulse 47 — NEXT (22:00 IDT Apr 20)
+- **SC watch:** Day 17. ristretto pos 7.75 — should be seeing first organic click soon. Watch for cold-brew-caffeine, cappuccino-vs-americano, what-is-cold-brew-coffee entering SC.
 - **Content priorities:**
-  1. **"irish coffee recipe"** — cultural coffee + whiskey; check vol/diff. Could target 4K+/mo if diff is low.
-  2. **"pour over vs drip coffee"** — 1K diff 25 → check SERP; deferred from Pulse 41
-  3. **"espresso martini recipe"** — already have the page (246K/mo); check if "espresso martini calories" (possible extension) has vol
-  4. **"flat white calories"** / "cappuccino calories" standalone queries — check vol; may be covered by calorie guide
-  5. **"cold brew caffeine"** — adjacent to espresso caffeine guide; check vol/diff
-- **Optimization priorities:**
-  - ristretto.md: monitor if title change improves CTR over next 3-5 days (SC data lags ~48h)
-  - milk-steaming-beginners: at pos 29.2 with 34 impressions — still needs to move to top 20. Consider adding more answer-first FAQ headers matching the "how to steam milk" variants in SC queries.
-- **SEO skill:** Ch4.2 (answer-first optimization for milk-steaming-beginners; featured snippet targeting), Ch4.1 (irish coffee keyword research)
+  1. **"how to do latte art"** — 1.9K diff 5 ULTRA-LOW. Natural companion to milk-steaming-beginners. Creates technique cluster. No page yet. SERP check needed.
+  2. **"latte art for beginners"** — 260/mo covered by "how to do latte art" guide above
+  3. **"moka pot vs french press"** — 1.6K diff 22 LOW. SERP check needed.
+  4. **Optimization:** Check if cortado.md → what-is-cortado-coffee internal link is bidirectional; check types-of-coffee-drinks hub for any missing new pages
+- **SEO skill:** Ch4.1 (technique cluster fan-out — latte art as natural next skill after milk steaming), Ch5.2 (internal linking — technique cluster audit)
 
 ---
 ## New Hypotheses (Pulse 6+)
@@ -775,4 +786,4 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - **H13 (Pulse 19):** "dalgona coffee" (27.1K/mo, diff 6) — viral search interest is permanent despite trend peak in 2020. seriouseats at #3 is a tough competitor but mykoreankitchen.com #4 is beatable — targeting #4-5.
 - **H14 (Pulse 25):** Schema fix unlocking Recipe schema for 15+ high-volume recipe pages should increase rich result eligibility. Once pages index, Recipe cards in SERP (via "recipes" feature) will dramatically improve CTR vs. plain blue links. espresso-martini (246K), cold-foam (33K), pumpkin-spice-latte (40.5K) are the highest-priority pages to watch for recipe rich results.
 
-*Last updated: 2026-04-18 Pulse 41*
+*Last updated: 2026-04-20 Pulse 46*

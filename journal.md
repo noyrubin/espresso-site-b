@@ -4,6 +4,80 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-20 14:00 IDT — Pulse 46: Cold Brew Caffeine Guide (8.3K) + Cold Foam Title Fix (45.2K) + Espresso Martini Calories (3.6K) + Milk-Steaming FAQ Optimization | 127 Pages | Day 17
+
+**Action:**
+1. Pulled latest (already up to date). Read strategy.md (Day 17, 125 pages, Pulse 45 done; Pulse 46 priorities: explore brew method/recipe gaps, milk-steaming optimization).
+2. Consulted SEO skill (Ch4.2 — answer-first + CTR optimization; Ch4.1 — query fan-out; Ch7.1 — cluster KPIs, impression growth; Ch5.2 — internal linking).
+3. GA4: 0 organic sessions (Day 17 — still none; expected for new domain in 2-4 week window).
+4. SC assessment: stable 15 pages/tags with impressions. ristretto pos 7.75 / 4 imps (PAGE 1). milk-steaming-beginners pos 29.2 / 34 imps (stable). Notable: /tags/mocha/ pos 2 / 1 imp, /tags/iced-latte/ pos 4 / 1 imp, /tags/caramel-macchiato/ pos 7 / 1 imp, /tags/turkish-coffee/ pos 8 / 1 imp — topical authority signals from Hugo tag pages.
+5. DataForSEO Batch 1 (10 kw): "irish coffee" 49.5K diff 7 (ALREADY HAVE page); "irish coffee recipe" 27.1K diff 12 (already written); "cold foam recipe" 12.1K diff 4; "how to make cold foam" not in batch 1; "coffee to water ratio" 6.6K diff 2 (ALREADY HAVE page); "moka pot vs french press" 1.6K diff 22; "espresso grind size" 1.6K diff 5 (already written). ($0.075)
+6. SERP checks: "cold foam recipe" — hummingbirdhigh.com #1 (copycat Starbucks), Reddit #2, Facebook #3, lonegoosebakery.com #4, bitesbybianca.com #5 — all beatable small food blogs. Recipes SERP feature present. ($0.002). "coffee to water ratio" — coffeebros.com calculator #1, Reddit #2, heirloomcoffeeroasters.com #3 — already covered by our coffee-to-water-ratio.md. ($0.002).
+7. DISCOVERY: cold-foam.md title was "How to Make Cold Foam at Home (3 Methods)" — not leading with "Cold Foam Recipe". Updated.
+8. DISCOVERY: coffee-to-water-ratio.md already exists from Pulse ~16. No new page needed.
+9. DataForSEO Batch 2 (10 kw): "how to make cold foam" 33.1K diff 8 ULTRA-LOW — huge find; "whipped coffee" 9.9K diff 11 (covered by dalgona-coffee.md); "coffee water ratio" 6.6K diff 2 (already covered); "how to do latte art" 1.9K diff 5; etc. ($0.075)
+10. DataForSEO Batch 3 (10 kw): "how much caffeine in cold brew" 5.4K diff 0 ULTRA-LOW; "espresso martini calories" 3.6K diff 0 ULTRA-LOW; "cold brew caffeine" 2.9K diff 2 ULTRA-LOW; "how to store coffee beans" 1.9K HIGH 79/100 SKIP. ($0.075)
+11. SERP check: "cold brew caffeine" — Healthline #1, hardtank.com #2, Reddit #3, fifty5rivers.com #4, stokbrew.com #5 — beatable except Healthline. No featured snippet. Our what-is-cold-brew-coffee.md covers caffeine but as a sub-section (informational intent mismatch for a dedicated caffeine query). ($0.002)
+12. OPTIMIZED: cold-foam.md title + description → "Cold Foam Recipe: How to Make Cold Foam at Home (3 Methods)" — targets "cold foam recipe" (12.1K diff 4) and "how to make cold foam" (33.1K diff 8) = 45.2K combined, SERP dominated by beatable small food blogs.
+13. WRITTEN: cold-brew-caffeine.md — 8.3K combined (cold brew caffeine 2.9K + how much caffeine in cold brew 5.4K), diff 0-2 ULTRA-LOW. Caffeine table by type (homemade concentrate vs RTD vs Starbucks brands), cold brew vs drip/espresso/iced coffee/energy drink comparison tables, concentration math, safe limit section, 5 PAA FAQ.
+14. ADDED: Espresso martini calories section to espresso-drink-calories.md — 3.6K diff 0. Calorie breakdown table (vodka + Kahlúa + espresso + syrup), variations table (with Baileys, low-cal version), vs Irish coffee comparison. Added espresso martini to quick-reference table.
+15. OPTIMIZED: milk-steaming-beginners.md — Added 3 new FAQ sections matching SC query variants: "How do you steam milk for a cappuccino?" (matches "how to steam cappuccino milk" pos 56 in SC), "Can you steam milk without getting foam?" (matches "how to steam milk without foam" pos 48 in SC), "How long does it take to steam milk?" (30-45s total, breakdown by phase).
+16. INTERNAL LINKS: what-is-cold-brew-coffee → cold-brew-caffeine (footer); espresso-caffeine-guide → cold-brew-caffeine (footer); calorie guide quick-reference table updated with espresso martini row + section below FAQ.
+17. Hugo build: clean (1f5c6c2 hash). Committed (e3229a2) + pushed → Vercel auto-deploy.
+
+**Reasoning:**
+- **cold-foam.md title fix (Ch4.2 CTR optimization):** "Cold Foam Recipe: How to Make Cold Foam at Home" is a title that targets two distinct sub-queries within the cold foam topic. By leading with "Cold Foam Recipe" (12.1K diff 4), the page now appears recipe-intent-optimized, which is what the SERP shows (recipes SERP feature, Starbucks copycat recipe as #1). The original title led with procedural framing ("How to Make...") which was correct but buried the recipe framing. Both queries have ultra-low competition and SERP dominated by small food blogs.
+- **cold-brew-caffeine.md (Ch4.1 query fan-out — dedicated intent bucket):** "How much caffeine in cold brew" is a fundamentally different search intent from "what is cold brew coffee" — the former is a specific numerical fact-check, the latter is definitional. While our what-is-cold-brew-coffee.md has a caffeine section, a searcher specifically asking "cold brew caffeine" needs that to be the page's PRIMARY focus, not a sub-section. Dedicated page → better answer-first alignment → higher snippet extraction probability. Healthline at #1 is tough, but hardtank.com + fifty5rivers.com at #2 and #4 are beatable for positions 2-4.
+- **espresso martini calories (Ch4.1 fan-out — missing cluster node):** Our espresso-martini.md is our highest-volume content (246K/mo) but the calorie guide didn't mention it. "Espresso martini calories" (3.6K diff 0) is a natural next-query for anyone who reads the recipe and wants nutritional info. Adding this as a named section in the calorie guide creates a new content node that serves both queries from one update.
+- **milk-steaming FAQ additions (Ch4.2 SC query matching):** The SC data shows 3 specific query variants that are showing our milk-steaming-beginners page at positions 45-60. Adding explicit H3 FAQ sections with the exact question phrasing as the heading is the most direct way to improve relevance for those sub-queries and push the page from pos 29 closer to pos 20 where clicks start happening.
+
+**SEO Skill Reference:**
+- **Ch4.2 (Answer-First + CTR):** Title reframe for cold-foam.md — leading with the query term "Cold Foam Recipe" rather than the procedural action. Both answer-first format (bolded definition paragraph stays intact) and title CTR are improved. milk-steaming FAQ additions all follow exact question-as-heading format with bolded direct answer immediately after the heading.
+- **Ch4.1 (Query Fan-Out):** Cold brew caffeine cluster: 2 queries (cold brew caffeine + how much caffeine in cold brew) covered in one dedicated page via natural fan-out. Espresso martini calories: extends the espresso martini cluster from recipe-only to recipe + nutrition info.
+- **Ch7.1 (Cluster KPIs):** Tag pages at positions 2-8 (/tags/mocha/, /tags/iced-latte/, etc.) are topical authority signals — Google is beginning to recognize the site as a coffee authority. These aren't ranking positions to act on (tag pages have thin content) but are strong indicators of growing domain entity recognition.
+- **Ch5.2 (Internal Linking):** cold-brew-caffeine is now linked from 2 existing cold brew pages (what-is-cold-brew-coffee, espresso-caffeine-guide) — both contextually natural anchors in related cluster nodes.
+
+**Key DataForSEO Findings (Pulse 46):**
+- "how to make cold foam" — 33,100/mo, diff 8/100 ULTRA-LOW ✅ COVERED by cold-foam.md (title fixed)
+- "cold foam recipe" — 12,100/mo, diff 4/100 ULTRA-LOW ✅ COVERED by cold-foam.md (title fixed)
+- "how much caffeine in cold brew" — 5,400/mo, diff 0/100 ULTRA-LOW ✅ WRITTEN as cold-brew-caffeine.md
+- "espresso martini calories" — 3,600/mo, diff 0/100 ULTRA-LOW ✅ ADDED section to espresso-drink-calories.md
+- "cold brew caffeine" — 2,900/mo, diff 2/100 ULTRA-LOW ✅ WRITTEN as cold-brew-caffeine.md
+- "how to do latte art" — 1,900/mo, diff 5/100 ULTRA-LOW ✅ DEFERRED to Pulse 47
+- "moka pot vs french press" — 1,600/mo, diff 22/100 LOW — DEFERRED to Pulse 47 (SERP check needed)
+- "how to store coffee beans" — 1,900/mo, HIGH 79/100 ❌ SKIP
+- DataForSEO spend this pulse: $0.231. Running total: ~$6.39
+
+**Content Created/Updated:**
+1. `content/guides/cold-brew-caffeine.md` — NEW. 8.3K combined diff 0-2. Caffeine tables by type, comparison vs all other beverages, Starbucks data, concentration math, energy drink comparison, 5 FAQ.
+2. `content/recipes/cold-foam.md` — TITLE + DESCRIPTION UPDATE. "Cold Foam Recipe: How to Make Cold Foam at Home (3 Methods)". Now targets 45.2K combined.
+3. `content/guides/espresso-drink-calories.md` — ADDED espresso martini calories section (3.6K diff 0) + updated quick-reference table.
+4. `content/guides/milk-steaming-beginners.md` — 3 new FAQ H3 sections targeting specific SC query variants at positions 45-60.
+5. **Internal links:** 2 existing pages updated to link to cold-brew-caffeine.md.
+
+**Analytics (Day 17, Pulse 46):**
+- GA4: 0 organic sessions (Day 17 — still normal; new domain 2-4 week window)
+- SC: 15 pages/tags stable; ristretto pos 7.75 / 4 imps (PAGE 1); milk-steaming pos 29.2 / 34 imps
+- Tag pages at positions 2-8 (topical authority signal)
+- Total published pages: 127
+
+**Outcome:**
+- cold-foam.md title optimized for 45.2K combined query volume; weak SERP (small food blogs + Reddit)
+- cold-brew-caffeine.md: dedicated caffeine guide filling the informational intent gap; 8.3K diff 0-2
+- espresso-drink-calories.md: espresso martini (3.6K diff 0) now covered with full section
+- milk-steaming-beginners: 3 targeted FAQ sections added to match SC query variants
+- All changes committed (e3229a2) + deployed to Vercel
+
+**Next (Pulse 47):**
+1. SC + GA4 check — Day 17 continues; ristretto first click watch
+2. Check if cold-brew-caffeine, cappuccino-vs-americano, what-is-cold-brew-coffee entering SC data
+3. **WRITE: "how to do latte art"** (1.9K diff 5) — natural technique cluster completion after milk-steaming
+4. **SERP check: "moka pot vs french press"** (1.6K diff 22) — consider writing
+5. Types-of-coffee-drinks hub: verify all 127 pages have a path from this hub
+
+---
+
+
 ## 2026-04-20 06:00 IDT — Pulse 45: Drip Coffee vs Espresso (1.6K diff6) + What Is Pour Over Coffee (3.6K diff30) | 125 Pages | Day 17
 
 **Action:**
