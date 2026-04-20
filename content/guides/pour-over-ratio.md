@@ -193,4 +193,4 @@ For a single cup: 15 g coffee to 250 g water (1:16.7). For a larger brew: 20 g t
 
 ---
 
-*Building out your brewing knowledge? See our [coffee-to-water ratio guide](/guides/coffee-to-water-ratio/) for all brewing methods including espresso, or our [French press ratio guide](/guides/french-press-ratio/) for immersion brewing. For cold brew, see our [cold brew ratio guide](/guides/cold-brew-ratio/).*
+*Building out your brewing knowledge? See our [what is pour over coffee guide](/guides/what-is-pour-over-coffee/) for a full method explainer, [coffee-to-water ratio guide](/guides/coffee-to-water-ratio/) for all brewing methods including espresso, or our [French press ratio guide](/guides/french-press-ratio/) for immersion brewing. For cold brew, see our [cold brew ratio guide](/guides/cold-brew-ratio/).*

@@ -138,4 +138,4 @@ Both use the same principle: hot water through coffee grounds through a filter. 
 
 ---
 
-*See also: [Coffee-to-Water Ratio Guide](/guides/coffee-to-water-ratio/) · [Pour Over Ratio](/guides/pour-over-ratio/) · [Espresso vs. Coffee](/guides/espresso-vs-coffee/) · [Americano vs. Coffee](/guides/americano-vs-coffee/)*
+*See also: [Coffee-to-Water Ratio Guide](/guides/coffee-to-water-ratio/) · [Pour Over Ratio](/guides/pour-over-ratio/) · [Drip Coffee vs. Espresso](/guides/drip-coffee-vs-espresso/) · [Espresso vs. Coffee](/guides/espresso-vs-coffee/) · [Americano vs. Coffee](/guides/americano-vs-coffee/)*
