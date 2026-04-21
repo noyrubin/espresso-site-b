@@ -137,5 +137,7 @@ Yes, but grind size matters significantly. Pour over needs medium-fine (like tab
 - [Pour Over Ratio Guide](/guides/pour-over-ratio/) — exact measurements for V60, Chemex, Kalita
 - [French Press Ratio Guide](/guides/french-press-ratio/) — the 1:15 rule and variations
 - [How to Use a French Press](/guides/how-to-use-french-press/) — step-by-step brewing with troubleshooting
+- [French Press vs Drip Coffee](/guides/french-press-vs-drip/) — how the French press compares to automatic drip machines
+- [AeroPress vs French Press](/guides/aeropress-vs-french-press/) — another popular manual brewer compared
 - [What Is Pour Over Coffee](/guides/what-is-pour-over-coffee/) — bloom technique, equipment guide, beginner tips
 - [Coffee Grind Size Guide](/guides/coffee-grind-size-guide/) — visual grind chart for every brewing method

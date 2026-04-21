@@ -170,19 +170,74 @@ Moka pots are sized by "cups" — but these are espresso-sized cups (60 ml), not
 
 ---
 
-## Cleaning Your Moka Pot
+## How to Clean a Moka Pot
 
-**After each use:**
-- Let it cool completely before disassembling
-- Rinse all parts with warm water
-- Never use soap — it removes the natural oil patina and can affect flavor
-- Dry all parts before reassembling to prevent rust (especially aluminum models)
+**Short answer: rinse all parts with warm water after each use, never use dish soap, and do a deep citric acid soak monthly.**
 
-**Monthly (or when it looks dirty):**
-- Rinse the filter basket and gasket
-- Replace the rubber gasket if it looks cracked, dry, or misshapen — usually every 1–2 years
+Here's the full protocol.
 
-**Never put in the dishwasher** — the harsh detergent and heat will damage the pot and gasket.
+### After Every Use (2–3 minutes)
+
+1. **Let it cool completely** before touching — moka pots stay hot for 10–15 minutes after brewing. Rushing this cracks gaskets and burns fingers.
+2. **Disassemble all three parts:** unscrew the top chamber, remove the filter basket, and pull out the rubber gasket (if it lifts out easily on your model).
+3. **Rinse each part under warm running water.** Use your fingers or a soft brush to clear coffee residue from the filter holes in the basket.
+4. **Do not use dish soap.** Soap strips the thin layer of coffee oils that coat the metal — this "seasoning" protects the aluminum and contributes to flavor. Most moka pot enthusiasts and Bialetti's own guidelines recommend soap-free rinsing only.
+5. **Dry completely before reassembling.** Aluminum oxidizes when stored wet. Leave parts on a dish rack to air-dry, or hand-dry with a clean towel.
+
+### Monthly Deep Clean (Removing Scale and Old Oils)
+
+Over time, mineral scale from water builds up in the lower chamber, and old coffee oils turn rancid in the filter basket and on the gasket. Signs you need a deep clean: stale or bitter taste, visible brown buildup, or a coffee smell that lingers even before you brew.
+
+**Method 1: Citric acid soak (recommended)**
+1. Dissolve 1 tablespoon of citric acid powder in 500 ml of warm water.
+2. Submerge the bottom chamber and filter basket (not the rubber gasket) for 20–30 minutes.
+3. Scrub with a soft brush, then rinse thoroughly with clean water.
+4. Do a "seasoning brew" — brew one full batch of cheap coffee and discard it before drinking. This restores the oil patina.
+
+**Method 2: White vinegar soak**
+1. Fill the bottom chamber halfway with a 50/50 mix of white vinegar and water.
+2. Let it soak for 15–20 minutes (not longer — vinegar can be corrosive on aluminum over time).
+3. Rinse several times with clean water. Let air-dry.
+4. Do a seasoning brew before using normally.
+
+**What not to use:** Avoid abrasive scrubbers (steel wool, scouring pads) — they scratch aluminum and damage the finish. Avoid bleach. Avoid citrus juices as a substitute for citric acid — the sugar content can encourage bacterial growth.
+
+### Gasket Care and Replacement
+
+The rubber gasket creates the pressure seal between the top and bottom chambers. A worn gasket causes leaking, poor pressure, and weak coffee.
+
+**Signs your gasket needs replacing:**
+- Visible cracks, tears, or deformation
+- Coffee leaks from the seal during brewing
+- The gasket feels hard or brittle (rubber dries out over time)
+- Gasket looks flattened from years of use
+
+**Replacement interval:** Every 1–3 years with regular use, or sooner if you notice any of the above.
+
+Replacement gaskets are inexpensive ($3–8) and model-specific — check your moka pot's brand and cup size before ordering. Bialetti sells replacement gaskets and filter baskets on their website.
+
+**To remove the gasket for cleaning:** On most moka pots, use a thin object (chopstick, butter knife edge) to pry the gasket away from the ridge in the bottom of the top chamber. Clean separately with warm water only.
+
+### Aluminum vs Stainless Steel Cleaning
+
+| Moka pot material | Soap? | Dishwasher? | Deep clean method |
+|-------------------|-------|-------------|------------------|
+| Aluminum | No — strips patina | Never | Citric acid or diluted vinegar |
+| Stainless steel | Gentle soap OK | Check manufacturer | Citric acid preferred |
+
+Stainless steel moka pots (like the Bialetti Venus) are more cleaning-forgiving — gentle dish soap won't damage them. However, avoiding soap is still recommended to preserve flavor stability.
+
+### Troubleshooting: Why Does My Moka Pot Taste Bad?
+
+| Problem | Likely cause | Fix |
+|---------|-------------|-----|
+| Tastes bitter | Old coffee oils, over-extraction, or heat too high | Deep clean + lower heat |
+| Tastes metallic | New pot that needs seasoning | Brew and discard 2–3 batches |
+| Tastes stale | Old/rancid oils in filter basket | Deep clean with citric acid |
+| Weak flavor | Clogged filter holes or worn gasket | Clear filter + replace gasket |
+| Coffee leaks | Worn gasket or cross-threaded chamber | Replace gasket; screw straight |
+
+**Never put in the dishwasher** — the harsh detergent, high heat, and alkaline environment will pit aluminum surfaces, shrink the gasket, and discolor the pot permanently.
 
 ---
 

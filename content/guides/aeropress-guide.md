@@ -137,7 +137,7 @@ Unlike pour over methods that require very precise temperatures, the AeroPress i
 | Cleanup | 10 seconds | Messy |
 | Best for | Quick, clean cups | Rich, bold cups |
 
-Both are excellent home brewing methods. Choose AeroPress for speed and cleanliness. Choose French press if you love a heavier, oilier body. For more: [French Press Ratio Guide](/guides/french-press-ratio/).
+Both are excellent home brewing methods. Choose AeroPress for speed and cleanliness. Choose French press if you love a heavier, oilier body. For a full side-by-side breakdown, see our [AeroPress vs French Press guide](/guides/aeropress-vs-french-press/). For more ratio guidance: [French Press Ratio Guide](/guides/french-press-ratio/).
 
 ---
 

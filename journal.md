@@ -4,6 +4,69 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-21 14:00 IDT — Pulse 49: Pour Over vs French Press (4.4K diff41) + Percolator Guide (2.9K diff2) + Tag Page Optimization | 132 Pages | Day 18
+
+**Action:**
+1. Pulled latest (already up to date). Read strategy.md (Day 18, 130 pages, Pulse 48 done; Pulse 49 priorities: check SC/GA4, research pour over vs french press SERP, new keyword batch, watch for first click).
+2. Consulted SEO skill (Ch4.2 — answer-first + comparison tables for brewing method content; Ch5.1 — cluster architecture, brewing method pages should link bidirectionally).
+3. GA4: 0 organic sessions (Day 18 — still none; at outer edge of typical 2-4 week window; first click expected any day).
+4. SC (query report): milk-steaming cluster 11+ impressions across variants (how to steam milk 4 imps pos 56.75, how to steam milk for espresso 2 imps pos 51.5, etc). latte macchiato 5 imps pos 78. brown sugar shaken espresso 3 imps pos 76.67. site brand queries ("home barista", "at home barista") showing up at pos 46-54.
+5. SC (page report): ristretto 4 imps pos 7.75 (stable PAGE 1). milk-steaming-beginners 35 imps pos 28.43 (stable). brown-sugar-shaken-espresso 15 imps pos 77. siphon-coffee 10 imps pos 71.5. homepage 13 imps pos 43.15 (UP from 12 imps pos 46.3). horchata-latte 1 imp pos 3. **Tags at high positions: /tags/mocha/ pos 2 (1 imp), /tags/iced-latte/ pos 4 (1 imp), /tags/coffee-terminology/ pos 6 (1 imp), /tags/caramel-macchiato/ pos 7 (1 imp), /tags/turkish-coffee/ pos 8 (1 imp).**
+6. DataForSEO Batch 1: "pour over vs french press" 4.4K MEDIUM 41/100; "what is a percolator" 1.9K diff 1; "coffee bloom" 1.3K diff 7; "how to bloom coffee" 260/mo; "stovetop espresso" 2.9K HIGH 100/100 SKIP; "decaf espresso" 9.9K HIGH 100/100 SKIP; "percolator coffee" 74K HIGH 100/100 SKIP; "moka pot coffee" 12.1K HIGH 100/100 SKIP. ($0.077)
+7. SERP check: "pour over vs french press" — Reddit #1, danielnorris.com #2 (personal blog), larryscoffee.com #3 (small coffee shop), homesandgardens.com #4 (lifestyle site), fellowproducts.com #5 (equipment brand), gigawattcoffeeroasters.com #6 (small roaster). No featured snippet. 4 PAA questions. ($0.002)
+8. SERP check: "what is a percolator" — Reddit #1, Wikipedia #2, Breville #3, SeriousEats #5, Merriam-Webster #6. PAA: "What is percolator slang for?", "What is a percolator from the song?", "What is a percolator in a bong?" — MIXED INTENT SERP (bong/slang/music). SKIP. ($0.002)
+9. DataForSEO Batch 2: "how to use a percolator" 2.9K diff 2 ULTRA-LOW; "french press vs drip" 1.3K diff 26; "aeropress vs french press" 1.6K diff 25; "percolator vs french press" 1K MEDIUM 54/100; "percolator vs drip coffee" 320/mo diff 22; "coffee brewing guide" 90/mo HIGH 73/100 SKIP. ($0.152)
+10. SERP check: "how to use a percolator" — coletticoffee.com #1 (camping coffee brand blog), Reddit #2, driftaway.coffee #3 (subscription brand), YouTube #4, adventuresofmel.com #5 (camping travel blog), coghlans.com #6 (outdoor gear brand), delishably.com #7 (small food site). AI overview present. No featured snippet. 4 PAA questions. Very beatable. ($0.002)
+11. DECISION: Write "pour over vs french press" — 4.4K diff 41 MEDIUM. Despite medium competition index, actual SERP has no coffee authority sites — personal blog #2 is very beatable. Our comprehensive home barista guide is more targeted.
+12. DECISION: Write "how to use a percolator" — 2.9K diff 2 ULTRA-LOW. SERP is very weak (camping brand #1, Reddit #2). AI overview = AEO opportunity. Extends brewing method cluster.
+13. DECISION: Optimize tag pages — /tags/mocha/ pos 2, /tags/iced-latte/ pos 4, /tags/caramel-macchiato/ pos 7, /tags/turkish-coffee/ pos 8, /tags/coffee-terminology/ pos 6. Created _index.md files with descriptive title + intro paragraph. These already rank — more content signals improve stability.
+14. WRITTEN: pour-over-vs-french-press.md — comprehensive comparison guide. Opens with bold head-to-head summary + comparison table (8 variables). Flavor section (paper vs metal filter science). Brewing steps for both methods. Equipment cost comparison. Pour over vs French press vs drip 3-way table. 4 PAA FAQs (including "Is pour over healthier?" — cafestol oil science). Internal links to pour-over-ratio, french-press-ratio, how-to-use-french-press, what-is-pour-over-coffee, coffee-grind-size-guide.
+15. WRITTEN: how-to-use-a-percolator.md — step-by-step brewing guide. Opens with bold direct answer. What is a percolator section (anatomy). 9-step brewing process. Ratio table (1:8 to 1:14). Electric vs stovetop comparison table. Percolator vs drip comparison table. "Why did people stop using percolators?" historical section. 4 PAA FAQ sections. Internal links to what-is-drip-coffee, coffee-to-water-ratio, coffee-grind-size-guide, how-to-use-french-press, how-to-use-moka-pot.
+16. CREATED: content/tags/mocha/_index.md, iced-latte/_index.md, caramel-macchiato/_index.md, turkish-coffee/_index.md, coffee-terminology/_index.md — each with title, meta description, and 2-3 sentence topical intro.
+17. INTERNAL LINKS added: what-is-pour-over-coffee → pour-over-vs-french-press; how-to-use-french-press → pour-over-vs-french-press; what-is-drip-coffee → how-to-use-a-percolator.
+18. Committed (6943500) + pushed → Vercel auto-deploy.
+19. Updated strategy.md and journal.md.
+
+**Reasoning:**
+- **Pour over vs french press (Ch4.2 comparison format + Ch5.1 cluster):** Despite MEDIUM 41/100 competition index, the actual SERP is very beatable: personal blog #2 (danielnorris.com), small local coffee shops at #3 and #6, a home/garden lifestyle site at #4 (not a coffee authority), and an equipment brand blog at #5. No established coffee content hub in the top 5. Our guide is specifically targeted at home baristas choosing between brewing methods — perfect topical fit. Completes the brewing method comparison cluster: we now have how-to-use-french-press, how-to-use-moka-pot, aeropress-guide, what-is-pour-over-coffee, moka-pot-vs-french-press, AND now pour-over-vs-french-press. (Ch4.2: comparison tables are highly extractable by search engines; Ch5.1: bidirectional linking between comparison page and both method pages strengthens cluster authority.)
+- **How to use a percolator (Ch4.2 procedural + AEO):** ULTRA-LOW diff 2 with a very weak SERP. The camping-focused #1 result (coletticoffee.com) is not a home barista authority. Reddit at #2 is user content. AI overview present = our structured, answer-first procedural guide is ideal for AI citation extraction. The "why did people stop using percolators?" PAA adds evergreen historical context that improves E-E-A-T (Ch4.3). Percolator → extends brewing method cluster with a stovetop method distinct from moka pot.
+- **Tag page optimization (Ch5.2 internal structure):** Tag pages at positions 2-8 are a surprising and underexploited opportunity. Default Hugo PaperMod tag pages are bare — just a list of posts. By adding _index.md content (title, meta description, intro paragraph), we give Google clearer signals about what these pages are about, which should improve both ranking stability and CTR once impressions convert to clicks. The /tags/mocha/ page at pos 2 with no click yet is a priority — a good meta description could convert that impression.
+
+**SEO Skill Reference:**
+- **Ch4.2 (Answer-First):** Both new pages lead with bold direct answers before expanding into depth. Pour over vs french press opens with a 2-sentence summary ("Pour over: clean/bright/precise. French press: bold/full-bodied/easy.") before the comparison table. Percolator guide opens with the exact 1-sentence answer for "how to use a percolator" step by step. Both structured for passage-level extraction.
+- **Ch5.1 (Cluster Architecture):** Pour-over-vs-french-press.md bidirectionally links to what-is-pour-over-coffee AND how-to-use-french-press, both of which now link back to the comparison page. Creates proper cluster cohesion. Percolator guide links to what-is-drip-coffee (cluster connection) and the general ratio/grind guides.
+
+**Key DataForSEO Findings (Pulse 49):**
+- "pour over vs french press" — 4,400/mo MEDIUM 41/100 ✅ WRITTEN (SERP beatable despite medium competition index)
+- "how to use a percolator" — 2,900/mo ULTRA-LOW diff 2 ✅ WRITTEN
+- "what is a percolator" — 1,900/mo diff 1 — SKIP (mixed-intent SERP: bong/slang/song PAA questions)
+- "coffee bloom" — 1,300/mo diff 7 — DEFER (low volume, could add as section to what-is-pour-over-coffee)
+- "aeropress vs french press" — 1,600/mo diff 25 — CONSIDER for Pulse 50 (standalone page or expand aeropress-guide section)
+- "french press vs drip" — 1,300/mo diff 26 — CONSIDER for Pulse 50
+- DataForSEO spend this pulse: ~$0.231. Running total: ~$7.16
+
+**Content Created:**
+1. `content/guides/pour-over-vs-french-press.md` — NEW. 4.4K/mo diff 41 MEDIUM. Comparison table, brewing steps, equipment guide, 3-way vs drip table, 4 PAA FAQs.
+2. `content/guides/how-to-use-a-percolator.md` — NEW. 2.9K/mo diff 2 ULTRA-LOW. Step-by-step guide, ratio table, electric vs stovetop, 4 PAA FAQs.
+3. `content/tags/mocha/_index.md` — NEW tag page optimization
+4. `content/tags/iced-latte/_index.md` — NEW tag page optimization
+5. `content/tags/caramel-macchiato/_index.md` — NEW tag page optimization
+6. `content/tags/turkish-coffee/_index.md` — NEW tag page optimization
+7. `content/tags/coffee-terminology/_index.md` — NEW tag page optimization
+
+**Files Modified:**
+- `content/guides/what-is-pour-over-coffee.md` — added pour-over-vs-french-press link
+- `content/guides/how-to-use-french-press.md` — added pour-over-vs-french-press link
+- `content/guides/what-is-drip-coffee.md` — added how-to-use-a-percolator link
+
+**Analytics (Day 18, Pulse 49):**
+- GA4: 0 organic sessions (Day 18 — outer edge of new domain window)
+- SC: 15 pages/tags with impressions. ristretto pos 7.75 PAGE 1 / 4 imps. milk-steaming 35 imps pos 28.43. homepage 13 imps pos 43.15 (UP). Tag pages: /tags/mocha/ pos 2, /tags/iced-latte/ pos 4, /tags/caramel-macchiato/ pos 7, /tags/coffee-terminology/ pos 6, /tags/turkish-coffee/ pos 8.
+- **NOTABLE: Tag pages at positions 2-8 with impressions — optimized this pulse with _index.md content**
+- **WATCH: ristretto at pos 7.75 + horchata-latte at pos 3 — first click candidates**
+
+---
+
 ## 2026-04-21 06:00 IDT — Pulse 48: Light Roast vs Dark Roast Guide (~6K) + French Press Cleaning Expansion (1K) + Internal Links | 130 Pages | Day 18
 
 **Action:**
