@@ -214,4 +214,4 @@ Yes. Add coarsely ground coffee at a 1:8 ratio (coffee to cold water), stir, and
 
 ---
 
-*Related guides: [Moka Pot vs French Press](/guides/moka-pot-vs-french-press/) | [French Press Ratio Guide](/guides/french-press-ratio/) | [What Is Pour Over Coffee?](/guides/what-is-pour-over-coffee/) | [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) | [Getting Started with Home Espresso](/guides/getting-started/)*
+*Related guides: [Pour Over vs French Press](/guides/pour-over-vs-french-press/) | [Moka Pot vs French Press](/guides/moka-pot-vs-french-press/) | [French Press Ratio Guide](/guides/french-press-ratio/) | [What Is Pour Over Coffee?](/guides/what-is-pour-over-coffee/) | [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) | [Getting Started with Home Espresso](/guides/getting-started/)*

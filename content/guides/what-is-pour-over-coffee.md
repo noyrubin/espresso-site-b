@@ -142,6 +142,7 @@ Adjust grind finer if the cup tastes sour (under-extracted) or coarser if it tas
 - [Pour Over Ratio Guide](/guides/pour-over-ratio/) — precise ratios for V60, Chemex, Kalita Wave
 - [Coffee-to-Water Ratio](/guides/coffee-to-water-ratio/) — ratio fundamentals for all brewing methods
 - [Coffee Grind Size Guide](/guides/coffee-grind-size-guide/) — grind sizes for every method
+- [Pour Over vs French Press](/guides/pour-over-vs-french-press/) — full comparison: flavor, technique, cost, and which to choose
 - [How to Use French Press](/guides/how-to-use-french-press/) — the other major manual brewing method
 - [Drip Coffee vs. Espresso](/guides/drip-coffee-vs-espresso/) — filter coffee vs. pressure brewing
 - [What Is Drip Coffee?](/guides/what-is-drip-coffee/) — automatic drip method explained
