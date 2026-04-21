@@ -4,6 +4,66 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-21 22:00 IDT — Pulse 50: AeroPress vs French Press (1.6K diff 25) + French Press vs Drip (1.3K diff 26) + Moka Pot Cleaning Expansion (1.9K diff 4) | 134 Pages | Day 18
+
+**Action:**
+1. Pulled latest (already up to date). Read strategy.md (Day 18, 132 pages, Pulse 49 done; Pulse 50 priorities: aeropress vs french press, french press vs drip, new keyword batch).
+2. Consulted SEO skill (Ch5.2 — at 132 pages, orphan page risk is real; check inbound links; Ch4.1 — query fan-out, cover full range of brewing comparison queries; Ch7.1 — measure by cluster, not head keyword).
+3. GA4: 0 organic sessions (Day 18 — stable, still 0, normal for new domain at this stage).
+4. SC (query report): milk-steaming cluster stable (how to steam milk 4 imps pos 56.75). latte macchiato 5 imps pos 78. brand queries ("at home barista" 2 imps pos 46, "home barista" 2 imps pos 54). Unchanged from Pulse 49.
+5. SC (page report): 15 pages stable — ristretto 4 imps pos 7.75 (PAGE 1). milk-steaming-beginners 35 imps pos 28.43. homepage 13 imps pos 43.15. horchata-latte pos 3 / 1 imp. Tag pages: /tags/mocha/ pos 2, /tags/iced-latte/ pos 4, /tags/coffee-terminology/ pos 6, /tags/caramel-macchiato/ pos 7, /tags/turkish-coffee/ pos 8. All stable/unchanged from Pulse 49.
+6. SERP check: "aeropress vs french press" — Reddit #1, handsomewade.com #2 (2018 personal blog BEATABLE), getflask.co #3 (small flask company), driftaway.coffee #4 (subscription brand), Facebook #5, handground.com #6 (2016 grinder brand BEATABLE), aeropress.com #7 (brand). AI overview present. No featured snippet. 4 PAA. ($0.002)
+7. Search volume batch 1: "aeropress vs french press" 1.6K diff 25 LOW ✅; "french press vs drip" 1.3K diff 26 LOW ✅; "how to clean coffee grinder" 1.3K diff 14 LOW; "burr grinder vs blade grinder" 1.0K MEDIUM 59/100 SKIP; "how to grind coffee" 480/mo MEDIUM 44/100 SKIP; "coffee filter types" 390/mo HIGH 91/100 SKIP. ($0.075)
+8. SERP check: "french press vs drip" — Reddit #1, danielnorris.com #2 (personal blog BEATABLE — same blog that's #2 for pour-over-vs-french-press!), Facebook #3, methodicalcoffee.com #4 (coffee shop). ONLY 4 ORGANIC RESULTS — EXTREMELY WEAK SERP. No featured snippet, no AI overview. ($0.002)
+9. Search volume batch 2: "how to clean moka pot" 1.9K diff 4 ULTRA-LOW ✅; "how long to steep cold brew" 1.0K diff 7 LOW; "french press steep time" 1.0K diff 27; "chemex vs french press" 320/mo diff 20 (too low); "coffee extraction" 2.4K HIGH 100/100 SKIP; "best pour over coffee" 880/mo HIGH 100/100 SKIP. ($0.075)
+10. SERP check: "how to clean coffee grinder" — thekitchn.com #2 (authority food site), Breville #4 (brand). Short_videos + video features. SKIP — too competitive + video-dominated. ($0.002)
+11. SERP check: "how to clean moka pot" — Reddit #1, Bialetti.com #2 (the moka pot BRAND — expected), StackExchange 2015 #3 (VERY OLD — beatable), grosche.ca #4 (small Canadian brand). Video + short_videos features but no featured snippet. diff 4 ULTRA-LOW confirms low competition. EXPAND existing moka pot guide with cleaning section. ($0.002)
+12. Search volume batch 3: "how to store coffee" 480/mo MEDIUM 37/100 SKIP; "espresso machine for beginners" 9.9K MEDIUM 54/100 (already covered by best-espresso-machines-beginners); "how to make pour over coffee" 5.4K MEDIUM 66/100 SKIP; "aeropress recipe" 3.6K diff 8 LOW (already in aeropress-guide). ($0.075)
+13. DECISIONS: Write aeropress-vs-french-press.md (SERP: 2018 personal blog + 2016 grinder brand — both beatable; AI overview = AEO target; distinct from procedural aeropress-guide) + french-press-vs-drip.md (EXTREMELY WEAK SERP: 4 results, personal blog #2, Facebook #3) + expand how-to-use-moka-pot.md cleaning section (StackExchange 2015 #3 + small brand #4 — beatable; diff 4 ULTRA-LOW).
+14. WRITTEN: aeropress-vs-french-press.md — comprehensive comparison guide. Opens with bold direct answer. Comparison table (10 variables: brew time/filter/body/oils/batch/cleanup/price/portability/learning curve/versatility). AeroPress and French press flavor profile sections (paper vs metal filter science). Pros and cons for each. Brew time breakdown table. When to choose which guide. 4 PAA FAQ sections.
+15. WRITTEN: french-press-vs-drip.md — comprehensive comparison guide. Opens with bold direct answer. Comparison table (10 variables). How each method works section (full immersion vs drip mechanism). Flavor difference explained (oils, body, texture). Cafestol/health note (honest, non-YMYL). Caffeine comparison. 3-way table vs pour over. When to choose each. 4 FAQ sections.
+16. EXPANDED: how-to-use-moka-pot.md cleaning section — replaced 4 bullet points with comprehensive protocol: 5-step daily rinse (including soap debate with Bialetti guidance), citric acid deep clean method, vinegar alternative, what NOT to use, gasket care + replacement interval + removal method, aluminum vs stainless steel comparison table, troubleshooting table (5 common issues with causes + fixes). Targets "how to clean moka pot" (1.9K diff 4 ULTRA-LOW).
+17. INTERNAL LINKS: aeropress-guide → aeropress-vs-french-press (within AeroPress vs French Press section). how-to-use-french-press → french-press-vs-drip + aeropress-vs-french-press (related guides section). what-is-drip-coffee → french-press-vs-drip. pour-over-vs-french-press → french-press-vs-drip + aeropress-vs-french-press.
+18. Committed (32d948b) + pushed → Vercel auto-deploy.
+19. Updated strategy.md and journal.md.
+
+**Reasoning:**
+- **AeroPress vs French Press (Ch5.2 internal link audit):** We had aeropress-guide.md covering the how-to (procedural intent) but no dedicated comparison page despite having dedicated pages for moka-pot-vs-french-press (1.6K diff 22) and pour-over-vs-french-press (4.4K diff 41). The SERP has a 2018 personal blog at #2 and a 2016 grinder brand at #6 — both significantly outdated. AI overview present = this query is being served by AI-generated answers, and our structured comparison content (table, clear sections, PAA coverage) is exactly the format that gets cited. Completing the brewing comparison series (we now have AeroPress/pour over/moka pot all vs French press). (Ch4.1: full query fan-out coverage of brewing comparison cluster)
+- **French Press vs Drip (Ch4.1 query fan-out):** The SERP is among the weakest we've found — only 4 organic results, with a personal blog at #2 (danielnorris.com, the same blogger who appears for pour-over-vs-french-press) and Facebook at #3. No AI overview, no featured snippet. Our comprehensive, structured comparison guide is definitively better than every result in this SERP. This is a pure informational gap. Volume 1.3K/diff 26 — matches our consistent targeting strategy.
+- **Moka pot cleaning expansion (Ch4.2 depth):** "How to clean moka pot" at 1.9K diff 4 ULTRA-LOW is a high-intent search (someone already owns a moka pot, looking for care instructions). Our existing cleaning section was 4 bullet points — inadequate for ranking this query. By expanding to a full protocol with daily rinse steps, deep clean methods (citric acid + vinegar), gasket care, and a troubleshooting table, we capture this query without creating a thin standalone page. The StackExchange result from 2015 at #3 is very beatable. Adding cleaning content also improves the E-E-A-T of our moka pot guide (Ch4.3: comprehensive coverage signals genuine expertise).
+
+**SEO Skill Reference:**
+- **Ch5.2 (Internal Linking — Orphan Prevention):** At 132+ pages, ensuring bidirectional links between related pages matters for cluster cohesion. New comparison pages link outward to both existing brewers' how-to guides; existing guides now link to the new comparison pages. Every new comparison page has 3-4 inbound links from related pages within the same brewing method cluster.
+- **Ch4.1 (Query Fan-Out):** Brewing method comparisons are a complete query fan-out pattern: users searching "aeropress vs french press" have distinct intent from "how to use aeropress" or "french press ratio." Each comparison query deserves its own URL. We now cover the full brewing comparison matrix that home baristas search.
+- **Ch7.1 (Cluster KPIs):** Measuring by topic cluster: the manual brewing method cluster now has full coverage — 3 method guides (aeropress, french press, moka pot) + 3 ratio guides + 4 comparison pages (aeropress-vs-french-press, french-press-vs-drip, moka-pot-vs-french-press, pour-over-vs-french-press). Cluster depth = higher topical authority signal.
+
+**Key DataForSEO Findings (Pulse 50):**
+- "aeropress vs french press" — 1,600/mo diff 25 LOW ✅ WRITTEN (SERP: 2018 personal blog #2, 2016 grinder brand #6 — beatable; AI overview present = AEO target)
+- "french press vs drip" — 1,300/mo diff 26 LOW ✅ WRITTEN (SERP EXTREMELY WEAK: 4 results, personal blog #2, Facebook #3)
+- "how to clean moka pot" — 1,900/mo diff 4 ULTRA-LOW ✅ EXPANDED existing guide (StackExchange 2015 #3, small brand #4 — beatable)
+- "how to clean coffee grinder" — 1,300/mo diff 14 LOW — SKIP (thekitchn.com #2 + Breville #4 + video-dominated SERP)
+- "burr grinder vs blade grinder" — 1,000/mo MEDIUM 59/100 — SKIP
+- "how to make pour over coffee" — 5,400/mo MEDIUM 66/100 — SKIP
+- DataForSEO spend this pulse: ~$0.233. Running total: ~$7.39
+
+**Content Created:**
+1. `content/guides/aeropress-vs-french-press.md` — NEW. 1.6K/mo diff 25. Comparison table (10 variables), filter science, pros/cons, brew time breakdown, 4 PAA FAQs.
+2. `content/guides/french-press-vs-drip.md` — NEW. 1.3K/mo diff 26. Comparison table, flavor/oil science, cafestol note, 3-way vs pour over, 4 FAQs.
+3. `content/guides/how-to-use-moka-pot.md` — EXPANDED cleaning section. Targets "how to clean moka pot" 1.9K diff 4 ULTRA-LOW.
+
+**Files Modified:**
+- `content/guides/aeropress-guide.md` — added aeropress-vs-french-press comparison link
+- `content/guides/how-to-use-french-press.md` — added french-press-vs-drip + aeropress-vs-french-press links
+- `content/guides/what-is-drip-coffee.md` — added french-press-vs-drip link
+- `content/guides/pour-over-vs-french-press.md` — added french-press-vs-drip + aeropress-vs-french-press links
+
+**Analytics (Day 18, Pulse 50):**
+- GA4: 0 organic sessions (Day 18 — new domain window outer edge, first click expected imminently)
+- SC: 15 pages/tags with impressions (all stable — unchanged from Pulse 49 8 hours ago, normal). ristretto pos 7.75 PAGE 1. horchata-latte pos 3.
+- **WATCH: ristretto pos 7.75 + horchata-latte pos 3 — prime first-click candidates**
+
+---
+
 ## 2026-04-21 14:00 IDT — Pulse 49: Pour Over vs French Press (4.4K diff41) + Percolator Guide (2.9K diff2) + Tag Page Optimization | 132 Pages | Day 18
 
 **Action:**

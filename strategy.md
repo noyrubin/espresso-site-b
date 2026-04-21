@@ -7,7 +7,7 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 18 of indexing — **132 pages published.** SC Pulse 49: **15 pages/tags with impressions** (stable). milk-steaming-beginners 35 imps pos 28.4 (stable). ristretto pos 7.75 / 4 imps (PAGE 1). homepage 13 imps pos 43.15 (UP from 12 imps pos 46.3). /tags/mocha/ pos 2 / 1 imp, /tags/iced-latte/ pos 4 / 1 imp (HIGH-RANKING TAGS!). GA4 organic still 0 (Day 18 — normal, at outer edge of new domain window). **Pulse 49 additions (14:00 IDT 2026-04-21):** pour-over-vs-french-press (4.4K diff 41 MEDIUM — SERP beatable: personal blog #2, small shops #3+6, lifestyle site #4; no featured snippet; 4 PAA FAQ) + how-to-use-a-percolator (2.9K diff 2 ULTRA-LOW — SERP: camping coffee brand #1, Reddit #2, subscription brand #3; all beatable; AI overview = AEO opportunity) + tag _index.md optimization for top-ranking tags (mocha pos2, iced-latte pos4, caramel-macchiato pos7, turkish-coffee pos8, coffee-terminology pos6). SEO skill: Ch4.2 (answer-first + comparison tables), Ch5.1 (cluster architecture — completes brewing method comparison cluster).
+Day 18 of indexing — **134 pages published.** SC Pulse 50: **15 pages/tags with impressions** (stable, unchanged). milk-steaming-beginners 35 imps pos 28.43 (stable). ristretto pos 7.75 / 4 imps (PAGE 1). homepage 13 imps pos 43.15. horchata-latte pos 3 / 1 imp. /tags/mocha/ pos 2 / 1 imp, /tags/iced-latte/ pos 4 / 1 imp. GA4 organic still 0 (Day 18 — new domain outer edge, first click expected any day). **Pulse 50 additions (22:00 IDT 2026-04-21):** aeropress-vs-french-press (1.6K diff 25 LOW — SERP: 2018 personal blog #2, 2016 grinder brand #6; AI overview present = AEO target) + french-press-vs-drip (1.3K diff 26 LOW — EXTREMELY WEAK SERP: 4 results, personal blog #2, Facebook #3) + how-to-use-moka-pot.md cleaning section EXPANDED (targets "how to clean moka pot" 1.9K diff 4 ULTRA-LOW — StackExchange 2015 #3, small brand #4). SEO skill: Ch5.2 (orphan prevention, bidirectional linking), Ch4.1 (query fan-out — full brewing comparison matrix coverage), Ch7.1 (measure by cluster — manual brewing cluster now complete).
 
 **IMPORTANT: ristretto (pos 7.75) is confirmed PAGE 1 — CTR-optimized title live. Cappuccino cluster now complete: what-is-a-cappuccino ↔ cappuccino recipe ↔ cappuccino-vs-latte ↔ cappuccino-vs-americano ↔ macchiato-vs-cappuccino ↔ flat-white-vs-cappuccino. Cold brew cluster: what-is-cold-brew-coffee ↔ cold-brew-ratio ↔ cold-brew-coffee-recipe ↔ cold-brew-vs-iced-coffee (broken link in cold-brew-ratio fixed). Americano cluster: what-is-an-americano ↔ americano recipe ↔ iced-americano ↔ cappuccino-vs-americano ↔ americano-vs-latte ↔ americano-vs-coffee ↔ espresso-vs-americano. Latte comparison cluster complete: cappuccino-vs-latte ↔ flat-white-vs-latte ↔ latte-vs-macchiato ↔ cortado-vs-latte ↔ latte-vs-mocha ↔ latte-vs-coffee ↔ americano-vs-latte ↔ espresso-vs-latte.**
 
@@ -159,6 +159,9 @@ Day 18 of indexing — **132 pages published.** SC Pulse 49: **15 pages/tags wit
 | light roast vs dark roast | 4,400 | 15/100 LOW | /guides/light-roast-vs-dark-roast/ | **Published (NEW Pulse 48 — SERP: Peet's #2 brand, small roasters #3-5; caffeine myth bust, roast-to-brew table, 4 PAA FAQ; also covers "medium roast vs dark roast" 880/mo + "coffee roast levels" 720/mo = ~6K combined)** |
 | pour over vs french press | 4,400 | 41/100 MEDIUM | /guides/pour-over-vs-french-press/ | **Published (NEW Pulse 49 — SERP: personal blog #2, larryscoffee.com #3, homesandgardens #4, Fellow brand #5, small roaster #6 — all beatable; no featured snippet; comparison table + brewing steps; also covers "french press vs pour over" same query; 4 PAA FAQs)** |
 | how to use a percolator | 2,900 | 2/100 ULTRA-LOW | /guides/how-to-use-a-percolator/ | **Published (NEW Pulse 49 — SERP: coletticoffee.com #1 camping brand, Reddit #2, driftaway.coffee #3 — all beatable; AI overview present = AEO opportunity; step-by-step guide, ratio table 1:10-1:14, electric vs stovetop comparison, percolator vs drip table, 4 PAA FAQs)** |
+| aeropress vs french press | 1,600 | 25/100 LOW | /guides/aeropress-vs-french-press/ | **Published (NEW Pulse 50 — SERP: 2018 personal blog #2, 2016 grinder brand #6 — both outdated + beatable; AI overview present = AEO target; comparison table 10 variables, filter science, pros/cons, brew time table, 4 PAA FAQs; bidirectionally linked from aeropress-guide + how-to-use-french-press + pour-over-vs-french-press)** |
+| french press vs drip | 1,300 | 26/100 LOW | /guides/french-press-vs-drip/ | **Published (NEW Pulse 50 — EXTREMELY WEAK SERP: 4 organic results, personal blog #2, Facebook #3; comparison table, flavor/oil science, cafestol note, 3-way vs pour over, 4 FAQs; bidirectionally linked from how-to-use-french-press + what-is-drip-coffee + pour-over-vs-french-press)** |
+| how to clean moka pot | 1,900 | 4/100 ULTRA-LOW | /guides/how-to-use-moka-pot/ | **Published (Pulse 50 EXPANSION — StackExchange 2015 #3 + small brand #4 — beatable; expanded existing how-to-use-moka-pot.md cleaning section from 4 bullets to comprehensive protocol: 5-step daily rinse, citric acid + vinegar deep clean, gasket care + replacement table, aluminum vs stainless table, troubleshooting table)** |
 ## Biggest Opportunities Found So Far
 
 0. **"espresso martini recipe"** — 246,000/mo, diff 19/100 LOW. Pulse 18 find. **LARGEST VOLUME KEYWORD FOUND TO DATE.**
@@ -354,6 +357,12 @@ Day 18 of indexing — **132 pages published.** SC Pulse 49: **15 pages/tags wit
 - **"espresso extraction" (Pulse 40):** 320/mo HIGH 82/100 — doubly disqualified.
 - **"espresso too bitter/sour" cluster (Pulse 40):** Individual troubleshooting queries are 30-390/mo — too low volume for standalone pages. Covered inside espresso-troubleshooting.md.
 - **"oat milk cappuccino" (Pulse 40):** 210/mo LOW 3/100 — volume too low.
+- **"how to clean coffee grinder" (Pulse 50):** 1.3K diff 14 LOW — thekitchn.com #2 + Breville #4 + video/short_videos features. Too competitive for volume. Skip.
+- **"burr grinder vs blade grinder" (Pulse 50):** 1.0K MEDIUM 59/100 — too competitive.
+- **"how to make pour over coffee" (Pulse 50):** 5.4K MEDIUM 66/100 — too competitive.
+- **"how long to steep cold brew" (Pulse 50):** 1.0K diff 7 — too low standalone. Defer — may add as section to cold-brew-ratio.md.
+- **"french press steep time" (Pulse 50):** 1.0K diff 27 — already captured by french-press-ratio.md. No standalone needed.
+- **"chemex vs french press" (Pulse 50):** 320/mo diff 20 — too low volume.
 
 ## Hypotheses Being Tested
 - **H1:** "espresso vs coffee" + "latte recipe" high-volume / ultra-low competition keywords rankable in 4-8 weeks (Ch4.1)
@@ -525,19 +534,27 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ❌ SKIP: "what is a percolator" 1.9K diff 1 — PAA questions about bong/slang/song signal mixed-intent SERP (Wikipedia #2, Merriam-Webster #6, SeriousEats #5). Not cleanly coffee-intent.
 - ❌ SKIP: "percolator coffee" 74K HIGH 100/100; "moka pot coffee" 12.1K HIGH 100/100; "decaf espresso" 9.9K HIGH 100/100; "stovetop espresso" 2.9K HIGH 100/100
 
-### Pulse 50 — NEXT (22:00 IDT 2026-04-21)
-- Watch for first organic click — Day 18, ristretto pos 7.75 + horchata-latte pos 3 are prime candidates
-- Research: "aeropress vs french press" 1.6K diff 25 LOW — could be standalone or expand aeropress guide section
-- Research: "french press vs drip" 1.3K diff 26 LOW — new angle on our brewing method cluster
-- Research: new keyword batch — possibly around espresso accessories (tamper, portafilter), water filters, or coffee storage
-- Consider: "percolator vs drip coffee" 320/mo diff 22 as section in how-to-use-a-percolator (already covered in comparison table)
-- Technical: verify all tag _index.md pages deployed correctly on Vercel
+### Pulse 50 — DONE ✅ (22:00 IDT 2026-04-21)
+- ✅ SC: 15 pages/tags stable (unchanged from Pulse 49 — normal for 8-hour window). ristretto pos 7.75 PAGE 1. horchata-latte pos 3. GA4 0 organic (Day 18 — outer edge of new domain window).
+- ✅ aeropress-vs-french-press (1.6K diff 25 LOW) — SERP: 2018 personal blog #2, 2016 grinder brand #6; AI overview = AEO target. Comparison table (10 variables), filter science, pros/cons, brew time table, 4 PAA FAQs.
+- ✅ french-press-vs-drip (1.3K diff 26 LOW) — EXTREMELY WEAK SERP (4 results, personal blog #2, Facebook #3). Comparison table, flavor/oil science, cafestol note, 3-way table, 4 FAQs.
+- ✅ how-to-use-moka-pot.md cleaning expansion — targets "how to clean moka pot" (1.9K diff 4 ULTRA-LOW). 5-step daily protocol, citric acid deep clean, vinegar method, gasket care table, troubleshooting table.
+- ✅ Internal links: aeropress-guide → aeropress-vs-french-press; how-to-use-french-press → both new pages; what-is-drip-coffee → french-press-vs-drip; pour-over-vs-french-press → both new pages.
+- ✅ DataForSEO: ~$0.233 this pulse. Running total: ~$7.39. Total pages: 134
+- ❌ SKIP: "how to clean coffee grinder" — thekitchn.com #2 + Breville #4 + video-dominated. "burr grinder vs blade grinder" MEDIUM 59/100. "how to make pour over coffee" MEDIUM 66/100.
 
-### Pulse 51 — PLAN (06:00 IDT 2026-04-22)
-- SC + GA4 data check — Day 19, first organic click expected any day
-- Check if pour-over-vs-french-press or how-to-use-a-percolator appear in SC impressions
-- Continue content production in brewing method gaps (percolator comparison, equipment accessories)
-- Consider: milk-steaming-beginners internal link audit (is it well-linked from all related pages?)
+### Pulse 51 — NEXT (06:00 IDT 2026-04-22)
+- SC + GA4 data check — Day 19, first organic click expected any day (ristretto pos 7.75 + horchata-latte pos 3 are prime candidates)
+- Check if new pages (aeropress-vs-french-press, french-press-vs-drip, pour-over-vs-french-press, how-to-use-a-percolator) appear in SC
+- Research: espresso drink cluster — any gaps? "macchiato recipe" standalone? "cappuccino recipe" variants?
+- Research: coffee science cluster — "coffee bloom" 1.3K diff 7 (deferred from Pulse 49) — check SERP
+- Research: "how long to steep cold brew" 1.0K diff 7 — add as section to cold-brew-ratio.md
+- Consider: orphan page audit — with 134 pages, verify all have sufficient inbound links
+
+### Pulse 52 — PLAN (14:00 IDT 2026-04-22)
+- Day 19 SC/GA4 check — monitor for first organic click
+- Continue content production — look for uncovered clusters in coffee science or equipment care
+- Check brewing cluster completeness: any remaining method guides?
 
 ### Pulse 7 — DONE
 - ✅ SC: milk-steaming-beginners 9 impressions across 5 query variants, avg pos 43.8
