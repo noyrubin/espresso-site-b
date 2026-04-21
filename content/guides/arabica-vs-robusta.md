@@ -157,4 +157,4 @@ Yes — side by side, the difference is clear. Arabica espresso is sweeter with 
 
 ---
 
-*For guidance on choosing beans for your home espresso setup, see our [espresso beans vs coffee beans guide](/guides/espresso-beans-vs-coffee-beans/). For caffeine details, visit the [espresso caffeine guide](/guides/espresso-caffeine-guide/).*
+*For guidance on choosing beans for your home espresso setup, see our [espresso beans vs coffee beans guide](/guides/espresso-beans-vs-coffee-beans/). For caffeine details, visit the [espresso caffeine guide](/guides/espresso-caffeine-guide/). Also: [Light Roast vs Dark Roast: How Roast Level Changes Your Cup](/guides/light-roast-vs-dark-roast/).*

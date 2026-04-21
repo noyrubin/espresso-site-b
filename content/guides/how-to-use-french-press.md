@@ -116,14 +116,31 @@ Adjust one variable at a time when dialing in. Grind size has the most impact on
 
 ## Cleaning Your French Press
 
-**After every use:**
-1. Discard grounds (compost or trash — do not pour grounds down the drain)
-2. Rinse the beaker and plunger with warm water
-3. Disassemble the filter assembly occasionally (unscrew the base of the plunger) to clean the filter screens
+Coffee oils coat every surface and turn rancid within hours — rancid oils make coffee taste bitter and stale. Clean your French press after every single use.
 
-**Deep clean:** Disassemble the plunger completely. Soak the metal filter screens in warm soapy water. Use a soft brush to clean all parts. Rinse thoroughly and dry before reassembly.
+### After Every Use (2 minutes)
+1. **Discard grounds** — into compost or trash. Do not pour grounds down the drain; they clog pipes over time.
+2. **Add warm water** — fill the beaker halfway, swirl, and discard.
+3. **Rinse the plunger** — pull the plunger up through the warm water to rinse filter screens.
+4. **Wash with dish soap** — a few drops of dish soap, a gentle scrub with a sponge. Rinse thoroughly.
+5. **Air dry** — leave the plunger out of the beaker so both can dry completely. Trapped moisture causes mildew.
 
-Coffee oils build up on glass and metal and turn rancid. Clean your French press daily for best flavor.
+### Weekly Deep Clean
+1. **Fully disassemble the plunger** — unscrew the bottom plate from the center rod. You will find: cross plate, spiral plate, filter screen, and bottom plate.
+2. **Soak in warm soapy water** — 5–10 minutes loosens any built-up coffee oils.
+3. **Scrub each piece** — use a soft brush (a toothbrush works well) on the mesh filter screens. Oil collects in the mesh weave.
+4. **Check the mesh** — look for tears or warping. A damaged filter lets grounds through. Replacements cost a few dollars and are widely available.
+5. **Reassemble and rinse** — make sure the cross plate, spiral plate, and filter screen are back in the correct order.
+
+### Stubborn Coffee Stains and Odors
+- **Baking soda paste** — mix baking soda with water into a paste, scrub, rinse. Removes staining from glass.
+- **White vinegar soak** — fill the beaker with a 1:1 mixture of white vinegar and water. Let sit 30 minutes. Rinse thoroughly. Neutralizes oil buildup and odors.
+- **Dishwasher** — most glass French presses and stainless plunger parts are dishwasher-safe. Check your specific model. The top rack and a gentle cycle are safest for glass.
+
+### What Not to Do
+- Do not use abrasive scrubbers on glass — scratches harbor bacteria and weaken glass
+- Do not leave coffee sitting in the press after brewing — always pour immediately after pressing
+- Do not pour grounds down the drain — serious pipe clogging risk over time
 
 ## Common French Press Problems
 
@@ -197,4 +214,4 @@ Yes. Add coarsely ground coffee at a 1:8 ratio (coffee to cold water), stir, and
 
 ---
 
-*Related guides: [Moka Pot vs French Press](/guides/moka-pot-vs-french-press/) | [French Press Ratio Guide](/guides/french-press-ratio/) | [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) | [Getting Started with Home Espresso](/guides/getting-started/)*
+*Related guides: [Moka Pot vs French Press](/guides/moka-pot-vs-french-press/) | [French Press Ratio Guide](/guides/french-press-ratio/) | [What Is Pour Over Coffee?](/guides/what-is-pour-over-coffee/) | [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) | [Getting Started with Home Espresso](/guides/getting-started/)*
