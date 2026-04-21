@@ -7,7 +7,7 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 18 of indexing — **130 pages published.** SC Pulse 48: **15 pages/tags with impressions** (stable). milk-steaming-beginners 35 imps pos 28.4 (improving from 29.2). ristretto pos 7.75 / 4 imps (PAGE 1). homepage 12 imps pos 46.3 (stable). /tags/latte-macchiato/ UP to 8 imps. GA4 organic still 0 (Day 18 — normal, at outer edge of new domain window). **Pulse 48 additions (06:00 IDT 2026-04-21):** light-roast-vs-dark-roast (4.4K diff 15 — roast cluster hub; SERP: Peet's #2, small roasters #3-5 all beatable; covers "medium roast vs dark roast" 880/mo + "coffee roast levels" 720/mo = ~6K combined) + expanded french press cleaning section (captures "how to clean french press" 1K diff 2 without thin standalone page). SEO skill: Ch4.2 (answer-first + AEO), Ch4.5 (freshness: espresso machine price tables to update later), Ch7.1 (cluster KPIs, measure by topic). Internal links added: espresso-vs-coffee → drip-coffee-vs-espresso; how-to-use-french-press → what-is-pour-over-coffee; arabica-vs-robusta → light-roast-vs-dark-roast.
+Day 18 of indexing — **132 pages published.** SC Pulse 49: **15 pages/tags with impressions** (stable). milk-steaming-beginners 35 imps pos 28.4 (stable). ristretto pos 7.75 / 4 imps (PAGE 1). homepage 13 imps pos 43.15 (UP from 12 imps pos 46.3). /tags/mocha/ pos 2 / 1 imp, /tags/iced-latte/ pos 4 / 1 imp (HIGH-RANKING TAGS!). GA4 organic still 0 (Day 18 — normal, at outer edge of new domain window). **Pulse 49 additions (14:00 IDT 2026-04-21):** pour-over-vs-french-press (4.4K diff 41 MEDIUM — SERP beatable: personal blog #2, small shops #3+6, lifestyle site #4; no featured snippet; 4 PAA FAQ) + how-to-use-a-percolator (2.9K diff 2 ULTRA-LOW — SERP: camping coffee brand #1, Reddit #2, subscription brand #3; all beatable; AI overview = AEO opportunity) + tag _index.md optimization for top-ranking tags (mocha pos2, iced-latte pos4, caramel-macchiato pos7, turkish-coffee pos8, coffee-terminology pos6). SEO skill: Ch4.2 (answer-first + comparison tables), Ch5.1 (cluster architecture — completes brewing method comparison cluster).
 
 **IMPORTANT: ristretto (pos 7.75) is confirmed PAGE 1 — CTR-optimized title live. Cappuccino cluster now complete: what-is-a-cappuccino ↔ cappuccino recipe ↔ cappuccino-vs-latte ↔ cappuccino-vs-americano ↔ macchiato-vs-cappuccino ↔ flat-white-vs-cappuccino. Cold brew cluster: what-is-cold-brew-coffee ↔ cold-brew-ratio ↔ cold-brew-coffee-recipe ↔ cold-brew-vs-iced-coffee (broken link in cold-brew-ratio fixed). Americano cluster: what-is-an-americano ↔ americano recipe ↔ iced-americano ↔ cappuccino-vs-americano ↔ americano-vs-latte ↔ americano-vs-coffee ↔ espresso-vs-americano. Latte comparison cluster complete: cappuccino-vs-latte ↔ flat-white-vs-latte ↔ latte-vs-macchiato ↔ cortado-vs-latte ↔ latte-vs-mocha ↔ latte-vs-coffee ↔ americano-vs-latte ↔ espresso-vs-latte.**
 
@@ -157,6 +157,8 @@ Day 18 of indexing — **130 pages published.** SC Pulse 48: **15 pages/tags wit
 | drip coffee vs espresso | 1,600 | 6/100 ULTRA-LOW | /guides/drip-coffee-vs-espresso/ | **Published (NEW Pulse 45 — SERP: Breville brand blog #2, outin.com #3, blackoakcoffee.com #4 — all weak; gravity vs pressure comparison; caffeine per-oz vs per-cup distinction)** |
 | what is pour over coffee | 3,600 | 30/100 LOW | /guides/what-is-pour-over-coffee/ | **Published (NEW Pulse 45 — SERP brand-heavy: espro.com #1, counterculturecoffee.com #3; definitional hub; bloom technique + V60/Chemex/Kalita guide; links to pour-over-ratio)** |
 | light roast vs dark roast | 4,400 | 15/100 LOW | /guides/light-roast-vs-dark-roast/ | **Published (NEW Pulse 48 — SERP: Peet's #2 brand, small roasters #3-5; caffeine myth bust, roast-to-brew table, 4 PAA FAQ; also covers "medium roast vs dark roast" 880/mo + "coffee roast levels" 720/mo = ~6K combined)** |
+| pour over vs french press | 4,400 | 41/100 MEDIUM | /guides/pour-over-vs-french-press/ | **Published (NEW Pulse 49 — SERP: personal blog #2, larryscoffee.com #3, homesandgardens #4, Fellow brand #5, small roaster #6 — all beatable; no featured snippet; comparison table + brewing steps; also covers "french press vs pour over" same query; 4 PAA FAQs)** |
+| how to use a percolator | 2,900 | 2/100 ULTRA-LOW | /guides/how-to-use-a-percolator/ | **Published (NEW Pulse 49 — SERP: coletticoffee.com #1 camping brand, Reddit #2, driftaway.coffee #3 — all beatable; AI overview present = AEO opportunity; step-by-step guide, ratio table 1:10-1:14, electric vs stovetop comparison, percolator vs drip table, 4 PAA FAQs)** |
 ## Biggest Opportunities Found So Far
 
 0. **"espresso martini recipe"** — 246,000/mo, diff 19/100 LOW. Pulse 18 find. **LARGEST VOLUME KEYWORD FOUND TO DATE.**
@@ -513,12 +515,29 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ Internal links: espresso-vs-coffee → drip-coffee-vs-espresso; how-to-use-french-press → what-is-pour-over-coffee; arabica-vs-robusta → light-roast-vs-dark-roast
 - ✅ DataForSEO: ~$0.227 this pulse. Running total: ~$6.93. Total pages: 130
 
-### Pulse 49 — NEXT (14:00 IDT 2026-04-21)
-- Watch for first organic click — Day 18, any click expected soon (ristretto pos 7.75 + horchata-latte pos 3)
-- Research: "pour over vs french press" 4.4K MEDIUM 41/100 — SERP check needed before deciding
-- Research: new keyword batch around equipment accessories or coffee bean topics
-- Consider: milk-steaming-beginners further authority signals — internal link count check
-- Check if Pulse 45-48 pages have appeared in SC impressions yet
+### Pulse 49 — DONE ✅ (14:00 IDT 2026-04-21)
+- ✅ SC: 15 pages/tags stable. ristretto pos 7.75 PAGE 1. homepage UP to 13 imps pos 43.15. /tags/mocha/ pos 2 + /tags/iced-latte/ pos 4 (HIGH-RANKING TAGS). GA4 0 organic (Day 18).
+- ✅ pour-over-vs-french-press (4.4K diff 41 MEDIUM) — SERP: personal blog #2, small shops #3+6, lifestyle site #4 — all beatable. Full comparison table, brewing steps, equipment cost, vs drip section, 4 PAA FAQs.
+- ✅ how-to-use-a-percolator (2.9K diff 2 ULTRA-LOW) — SERP: camping brand #1, Reddit #2, subscription brand #3. Step-by-step, ratio table, electric vs stovetop, percolator vs drip, 4 PAA FAQs. AI overview = AEO target.
+- ✅ Tag _index.md pages for mocha/iced-latte/caramel-macchiato/turkish-coffee/coffee-terminology — adds content signals to already-ranking tag pages (pos 2-8).
+- ✅ Internal links: what-is-pour-over-coffee → pour-over-vs-french-press; how-to-use-french-press → pour-over-vs-french-press; what-is-drip-coffee → how-to-use-a-percolator.
+- ✅ DataForSEO: ~$0.231 this pulse. Running total: ~$7.16. Total pages: 132
+- ❌ SKIP: "what is a percolator" 1.9K diff 1 — PAA questions about bong/slang/song signal mixed-intent SERP (Wikipedia #2, Merriam-Webster #6, SeriousEats #5). Not cleanly coffee-intent.
+- ❌ SKIP: "percolator coffee" 74K HIGH 100/100; "moka pot coffee" 12.1K HIGH 100/100; "decaf espresso" 9.9K HIGH 100/100; "stovetop espresso" 2.9K HIGH 100/100
+
+### Pulse 50 — NEXT (22:00 IDT 2026-04-21)
+- Watch for first organic click — Day 18, ristretto pos 7.75 + horchata-latte pos 3 are prime candidates
+- Research: "aeropress vs french press" 1.6K diff 25 LOW — could be standalone or expand aeropress guide section
+- Research: "french press vs drip" 1.3K diff 26 LOW — new angle on our brewing method cluster
+- Research: new keyword batch — possibly around espresso accessories (tamper, portafilter), water filters, or coffee storage
+- Consider: "percolator vs drip coffee" 320/mo diff 22 as section in how-to-use-a-percolator (already covered in comparison table)
+- Technical: verify all tag _index.md pages deployed correctly on Vercel
+
+### Pulse 51 — PLAN (06:00 IDT 2026-04-22)
+- SC + GA4 data check — Day 19, first organic click expected any day
+- Check if pour-over-vs-french-press or how-to-use-a-percolator appear in SC impressions
+- Continue content production in brewing method gaps (percolator comparison, equipment accessories)
+- Consider: milk-steaming-beginners internal link audit (is it well-linked from all related pages?)
 
 ### Pulse 7 — DONE
 - ✅ SC: milk-steaming-beginners 9 impressions across 5 query variants, avg pos 43.8
