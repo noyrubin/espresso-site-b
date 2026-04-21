@@ -4,6 +4,76 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-21 06:00 IDT — Pulse 48: Light Roast vs Dark Roast Guide (~6K) + French Press Cleaning Expansion (1K) + Internal Links | 130 Pages | Day 18
+
+**Action:**
+1. Pulled latest (already up to date). Read strategy.md (Day 18, 129 pages, Pulse 47 done; Pulse 48 priorities: SC/GA4 check, research roast cluster + aeropress vs french press, execute deferred internal links).
+2. Consulted SEO skill (Ch4.2 — answer-first + PAA coverage; Ch4.5 — freshness signals; Ch7.1 — cluster KPIs, measure by topic cluster not just head keyword).
+3. GA4: 0 organic sessions (Day 18 — still none; at outer edge of typical 2-4 week new domain window; first click expected any day).
+4. SC: 15 pages/tags stable. milk-steaming-beginners: 35 imps / pos 28.4 (UP from 34 imps / pos 29.2 — slow positive trend). ristretto: 4 imps / pos 7.75 (PAGE 1 — stable). /tags/latte-macchiato/ UP to 8 imps / pos 70.75. horchata-latte: 1 imp pos 3 (stable). No new pages in SC since Pulse 45.
+5. DataForSEO Batch 1 (6 kw): "light roast vs dark roast" 4.4K diff 15 LOW; "medium roast coffee" 8.1K HIGH 90/100 SKIP; "light roast coffee" 14.8K HIGH 92/100 SKIP; "medium roast vs dark roast" 880/mo diff 13; "coffee roast levels" 720/mo diff 17; "what is medium roast" 40/mo. ($0.075)
+6. DataForSEO Batch 2 (6 kw): "how to clean french press" 1K diff 2 ULTRA-LOW; "pour over vs french press" 4.4K MEDIUM 41/100; "aeropress vs espresso" 140/mo (too low); "coffee grinder cleaning" HIGH 84/100 SKIP; "how to store ground coffee" HIGH 72/100 SKIP; "coffee storage tips" 10/mo. ($0.075)
+7. SERP check: "light roast vs dark roast" — Reddit #1, Peet's #2 (brand), stonecreekcoffee.com #3 (small roaster), compasscoffee.com #4 (small roaster), coffeebrandcoffee.com #5 (small brand), nutritionfacts.org #6 (nutrition focus), YouTube #7, u3coffee.com #8 — majority are small brand blogs. No featured snippet. AI overview. SERP strategy: #3-5 all beatable. ($0.002)
+8. DataForSEO Batch 3 (6 kw): "what is a cortado" 27.1K diff 2 — ALREADY COVERED by what-is-cortado-coffee.md ✅; "best coffee for espresso" HIGH 100/100 SKIP; "espresso roast" HIGH 99/100 SKIP; "coffee to water ratio pour over" 880/mo diff 14 — covered by pour-over-ratio.md; "how to make pour over" 260/mo LOW — too low; "coffee bean guide" 20/mo — too low. ($0.075)
+9. DECISION: Write light-roast-vs-dark-roast.md — 4.4K diff 15 PRIMARY + covers "medium roast vs dark roast" 880/mo + "coffee roast levels" 720/mo = ~6K combined. SERP is beatable. Reconsidered from Pulse 45 SKIP — re-checked SERP and found only small brand blogs at #3-5.
+10. DECISION: Expand how-to-use-french-press.md cleaning section — captures "how to clean french press" 1K diff 2 ULTRA-LOW without thin standalone page. Existing section was 3 steps + 1 deep clean note; expanded to full 3-tier protocol (daily/weekly/deep clean + what not to do).
+11. WRITTEN: light-roast-vs-dark-roast.md — comprehensive roast guide. Opens with bold answer (light=bright/acidic, dark=bold/low-acid, medium=balanced). Comparison table (all 3 roasts vs 6 variables). Per-roast sections with best brew methods. Caffeine myth-busting section (dark roast ≠ more caffeine — the #1 misconception). Acidity section (honest health context without YMYL overreach). Roast-to-brew-method table (8 brewing methods). "Espresso roast" myth clarification. 4 PAA FAQ sections.
+12. EXPANDED: how-to-use-french-press.md cleaning section — 3-tier protocol: daily (5 steps), weekly deep clean (5 steps with plunger disassembly), stubborn stains (baking soda/vinegar/dishwasher options), what not to do.
+13. INTERNAL LINKS added:
+    - espresso-vs-coffee.md → drip-coffee-vs-espresso (deferred from Pulse 46 plan)
+    - how-to-use-french-press.md → what-is-pour-over-coffee (deferred from Pulse 46 plan)
+    - arabica-vs-robusta.md → light-roast-vs-dark-roast (natural cluster link)
+14. Committed (5f34e97) + pushed → Vercel auto-deploy.
+15. Updated strategy.md and journal.md.
+
+**Reasoning:**
+- **Light roast vs dark roast (Ch4.1 topic cluster + Ch4.2 answer-first):** SERP re-analysis overturned the Pulse 45 skip. While Peet's at #2 is a strong brand, positions #3-5 are all small specialty coffee roasters/brands (stonecreekcoffee.com, compasscoffee.com, coffeebrandcoffee.com) — no established content authority. Our guide is more comprehensive: comparison table for all 3 roast levels, caffeine myth debunking (the #1 misconception searched alongside this query), roast-to-brew-method matching table, and honest health notes. The PAA questions include "Which coffee roast is best for GERD?" — addressed factually with a "see your doctor" note (Ch4.3 E-E-A-T: honest scope limitation, not medical advice). This completes the coffee bean cluster: arabica-vs-robusta + espresso-beans-vs-coffee-beans + light-roast-vs-dark-roast.
+- **French press cleaning expansion (Ch4.2 depth + Ch4.5 freshness):** Rather than a thin standalone page, adding the cleaning content to our comprehensive how-to-use-french-press.md makes the page stronger overall (fewer clicks needed for the user's full journey from "how to use" → "how to clean"). The 1K/mo volume at diff 2 doesn't justify a standalone page, but as a section it captures the query and improves E-E-A-T (complete equipment guides, not just partial coverage).
+- **Deferred internal links (Ch5.2):** Clearing the backlog from Pulse 46: espresso-vs-coffee → drip-coffee-vs-espresso creates a cluster link between our espresso comparison hub and our dedicated drip comparison page. how-to-use-french-press → what-is-pour-over-coffee connects the two most popular manual brewing method pages.
+
+**SEO Skill Reference:**
+- **Ch4.2 (Answer-First + PAA):** Guide opens with bold 2-sentence answer. All 4 PAA questions answered in FAQ section with bolded responses for snippet extraction. Comparison table at top (answer-first for comparison queries). Roast-to-brew table provides scannable reference (Ch4.2: "labeled comparison tables improve extractability").
+- **Ch4.5 (Content Freshness):** Caffeine data, flavor profiles, and brewing method recommendations are stable evergreen content. Ch4.5 guidance: "update pages covering changing facts, pricing." We avoided pricing/product claims that would date the content.
+- **Ch7.1 (Cluster KPIs):** milk-steaming-beginners showing slow position improvement (29.2 → 28.4) — positive trend. Tracking by cluster: roast cluster now has 3 nodes (arabica-vs-robusta + espresso-beans-vs-coffee-beans + light-roast-vs-dark-roast).
+
+**Key DataForSEO Findings (Pulse 48):**
+- "light roast vs dark roast" — 4,400/mo diff 15 LOW ✅ WRITTEN
+- "medium roast vs dark roast" — 880/mo diff 13 LOW ✅ COVERED (same page)
+- "coffee roast levels" — 720/mo diff 17 LOW ✅ COVERED (same page)
+- "how to clean french press" — 1,000/mo diff 2 ULTRA-LOW ✅ COVERED (expanded section in how-to-use-french-press.md)
+- "pour over vs french press" — 4,400/mo MEDIUM 41/100 ❌ SKIP — too competitive for new domain
+- "coffee grinder cleaning" — 1,600/mo HIGH 84/100 ❌ SKIP
+- "how to store ground coffee" — 1,600/mo HIGH 72/100 ❌ SKIP
+- "what is a cortado" — 27,100/mo diff 2 ✅ ALREADY COVERED by what-is-cortado-coffee.md
+- DataForSEO spend this pulse: $0.227. Running total: ~$6.93
+
+**Content Created:**
+1. `content/guides/light-roast-vs-dark-roast.md` — NEW. ~6K combined. Light/medium/dark comparison table, caffeine myth debunking, roast-to-brew table, 4 PAA FAQ, internal links to arabica-vs-robusta + how-long-do-coffee-beans-last + espresso-vs-coffee.
+
+**Files Modified:**
+- `content/guides/how-to-use-french-press.md` — cleaning section expanded from 3 steps to full 3-tier protocol; Related links updated with what-is-pour-over-coffee.
+- `content/guides/espresso-vs-coffee.md` — added drip-coffee-vs-espresso link.
+- `content/guides/arabica-vs-robusta.md` — added light-roast-vs-dark-roast link.
+
+**Analytics (Day 18, Pulse 48):**
+- GA4: 0 organic sessions (Day 18 — at outer edge of new domain window; first click expected imminent)
+- SC: 15 pages/tags stable; ristretto pos 7.75 / 4 imps (PAGE 1); milk-steaming pos 28.4 / 35 imps (improving); /tags/latte-macchiato/ 8 imps pos 70.75 (UP)
+- Total published pages: 130
+
+**Outcome:**
+- light-roast-vs-dark-roast.md deployed; fills last major coffee bean knowledge cluster gap
+- French press cleaning section comprehensive; captures "how to clean french press" efficiently
+- 3 deferred internal links from Pulse 46 plan executed
+- All committed (5f34e97) + deployed to Vercel
+
+**Next (Pulse 49):**
+1. SC + GA4 check — Day 18 afternoon; watch for first organic click
+2. Research: check keyword gaps in equipment/brewing accessories; "pour over vs drip" (1K diff 25) — low volume; espresso shot sizes cluster
+3. Consider: types-of-coffee-drinks hub orphan audit — do all 130 pages have inbound links?
+4. Watch SC: are Pulse 46-48 pages (cold-brew-caffeine, latte-art, moka-pot-vs-french-press, light-roast-vs-dark-roast) appearing in impressions?
+
+---
+
 ## 2026-04-20 22:00 IDT — Pulse 47: Latte Art Guide (4.3K) + Moka Pot vs French Press (1.6K) + Internal Links | 129 Pages | Day 17
 
 **Action:**
