@@ -155,6 +155,10 @@ Espresso with sweetened condensed milk and steamed (or cold) milk. Richer and cr
 Espresso, steamed milk, and cardamom syrup. Warm, floral, and aromatic — rooted in the Middle Eastern tradition of adding cardamom to coffee. Subtler than chai, brighter than a plain latte.  
 → [Cardamom latte recipe](/recipes/cardamom-latte/)
 
+### Ginger Latte
+Espresso, fresh ginger syrup, and steamed milk. The ginger syrup is made by steeping fresh ginger slices in simple syrup — it gives a bright, peppery heat that differs from the sweeter gingerbread latte. Served hot or iced. A natural fit after the cardamom latte in the spiced latte category.  
+→ [Ginger latte recipe](/recipes/ginger-latte/)
+
 ---
 
 ## Iced Coffee Drinks

@@ -37,7 +37,7 @@ The result is a drink where you taste both the espresso and the milk equally —
 | Cappuccino | 5–6 oz | 1–2 shots | 2 oz steamed + 2 oz dry foam | 2–3 cm thick |
 | Cortado | 4 oz | 2 oz espresso | 2 oz steamed | Minimal |
 
-The flat white is closest in size to a cappuccino but has far less foam. It's closest in flavor intensity to a cortado, but slightly milkier. For a deeper comparison, see our [flat white vs latte guide](/guides/flat-white-vs-latte/) and [flat white vs cappuccino guide](/guides/flat-white-vs-cappuccino/).
+The flat white is closest in size to a cappuccino but has far less foam. It's closest in flavor intensity to a cortado, but slightly milkier. For a deeper comparison, see our [flat white vs latte guide](/guides/flat-white-vs-latte/), [flat white vs cappuccino guide](/guides/flat-white-vs-cappuccino/), and [flat white vs macchiato guide](/guides/flat-white-vs-macchiato/).
 
 ---
 

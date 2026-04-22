@@ -63,6 +63,7 @@ The basic latte is endlessly customizable. Common variations include:
 - [Honey latte](/recipes/honey-latte/) — honey instead of sugar syrup, raw or acacia honey works best
 - [Cinnamon dolce latte](/recipes/cinnamon-dolce-latte/) — cinnamon brown sugar syrup, Starbucks copycat
 - [Cardamom latte](/recipes/cardamom-latte/) — Middle Eastern-inspired with ground or syrup cardamom
+- [Ginger latte](/recipes/ginger-latte/) — fresh ginger syrup, spicy and warming
 - [Maple latte](/recipes/maple-latte/) — real maple syrup, naturally sweet without a cloying aftertaste
 
 ### Iced and Cold Lattes
