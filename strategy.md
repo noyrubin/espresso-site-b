@@ -7,7 +7,7 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 18 of indexing — **134 pages published.** SC Pulse 50: **15 pages/tags with impressions** (stable, unchanged). milk-steaming-beginners 35 imps pos 28.43 (stable). ristretto pos 7.75 / 4 imps (PAGE 1). homepage 13 imps pos 43.15. horchata-latte pos 3 / 1 imp. /tags/mocha/ pos 2 / 1 imp, /tags/iced-latte/ pos 4 / 1 imp. GA4 organic still 0 (Day 18 — new domain outer edge, first click expected any day). **Pulse 50 additions (22:00 IDT 2026-04-21):** aeropress-vs-french-press (1.6K diff 25 LOW — SERP: 2018 personal blog #2, 2016 grinder brand #6; AI overview present = AEO target) + french-press-vs-drip (1.3K diff 26 LOW — EXTREMELY WEAK SERP: 4 results, personal blog #2, Facebook #3) + how-to-use-moka-pot.md cleaning section EXPANDED (targets "how to clean moka pot" 1.9K diff 4 ULTRA-LOW — StackExchange 2015 #3, small brand #4). SEO skill: Ch5.2 (orphan prevention, bidirectional linking), Ch4.1 (query fan-out — full brewing comparison matrix coverage), Ch7.1 (measure by cluster — manual brewing cluster now complete).
+Day 19 of indexing — **135 pages published.** SC Pulse 51: **15 pages/tags with impressions** (stable). milk-steaming-beginners 36 imps pos 27.9 (UP from 35/28.43). ristretto pos 8.4 / 5 imps (PAGE 1 — minor position fluctuation from 7.75, still page 1). homepage 13 imps pos 43.15. horchata-latte pos 3 / 1 imp. /tags/mocha/ pos 2 / 1 imp, /tags/iced-latte/ pos 4 / 1 imp. GA4 organic still 0 (Day 19 — new domain, first click expected imminently). **Pulse 51 additions (06:00 IDT 2026-04-22):** what-is-coffee-cupping (12.1K diff 5 ULTRA-LOW — SERP: Reddit #1, Fellow brand #2, small roaster #3 — all beatable; AI overview = AEO target; SCA protocol for home baristas) + coffee bloom section in what-is-pour-over-coffee (1.3K diff 7 passage ranking) + "How Long to Steep Cold Brew" heading update in cold-brew-ratio (1K diff 7) + orphan audit: added light-roast-vs-dark-roast + what-is-coffee-cupping links from what-is-espresso + arabica-vs-robusta + espresso-glossary. SEO skill: Ch5.2 (orphan audit — what-is-espresso + arabica-vs-robusta now link to light-roast-vs-dark-roast), Ch4.2 (answer-first — cupping guide leads with direct definition, 7-step procedural breakdown), Ch7.1 (cluster measurement — coffee education cluster now started: cupping + glossary + arabica-vs-robusta + light-roast-vs-dark-roast).
 
 **IMPORTANT: ristretto (pos 7.75) is confirmed PAGE 1 — CTR-optimized title live. Cappuccino cluster now complete: what-is-a-cappuccino ↔ cappuccino recipe ↔ cappuccino-vs-latte ↔ cappuccino-vs-americano ↔ macchiato-vs-cappuccino ↔ flat-white-vs-cappuccino. Cold brew cluster: what-is-cold-brew-coffee ↔ cold-brew-ratio ↔ cold-brew-coffee-recipe ↔ cold-brew-vs-iced-coffee (broken link in cold-brew-ratio fixed). Americano cluster: what-is-an-americano ↔ americano recipe ↔ iced-americano ↔ cappuccino-vs-americano ↔ americano-vs-latte ↔ americano-vs-coffee ↔ espresso-vs-americano. Latte comparison cluster complete: cappuccino-vs-latte ↔ flat-white-vs-latte ↔ latte-vs-macchiato ↔ cortado-vs-latte ↔ latte-vs-mocha ↔ latte-vs-coffee ↔ americano-vs-latte ↔ espresso-vs-latte.**
 
@@ -162,6 +162,9 @@ Day 18 of indexing — **134 pages published.** SC Pulse 50: **15 pages/tags wit
 | aeropress vs french press | 1,600 | 25/100 LOW | /guides/aeropress-vs-french-press/ | **Published (NEW Pulse 50 — SERP: 2018 personal blog #2, 2016 grinder brand #6 — both outdated + beatable; AI overview present = AEO target; comparison table 10 variables, filter science, pros/cons, brew time table, 4 PAA FAQs; bidirectionally linked from aeropress-guide + how-to-use-french-press + pour-over-vs-french-press)** |
 | french press vs drip | 1,300 | 26/100 LOW | /guides/french-press-vs-drip/ | **Published (NEW Pulse 50 — EXTREMELY WEAK SERP: 4 organic results, personal blog #2, Facebook #3; comparison table, flavor/oil science, cafestol note, 3-way vs pour over, 4 FAQs; bidirectionally linked from how-to-use-french-press + what-is-drip-coffee + pour-over-vs-french-press)** |
 | how to clean moka pot | 1,900 | 4/100 ULTRA-LOW | /guides/how-to-use-moka-pot/ | **Published (Pulse 50 EXPANSION — StackExchange 2015 #3 + small brand #4 — beatable; expanded existing how-to-use-moka-pot.md cleaning section from 4 bullets to comprehensive protocol: 5-step daily rinse, citric acid + vinegar deep clean, gasket care + replacement table, aluminum vs stainless table, troubleshooting table)** |
+| cupping coffee / coffee cupping | 12,100 | 5/100 ULTRA-LOW | /guides/what-is-coffee-cupping/ | **Published (NEW Pulse 51 — SERP: Reddit #1, Fellow Products brand #2, crema-coffee.com small roaster #3, Wikipedia #4 — all beatable; AI overview = AEO target; no featured snippet; SCA protocol simplified for home baristas: equipment table, 1:18 ratio, 7-step process, flavor wheel guide, cupping vs. brewing comparison table, 4 PAA FAQs; linked from arabica-vs-robusta + espresso-glossary + what-is-espresso)** |
+| coffee bloom | 1,300 | 7/100 LOW | /guides/what-is-pour-over-coffee/ | **Published (Pulse 51 EXPANSION — passage ranking via new Coffee Bloom section in what-is-pour-over-coffee; SERP: SeriousEats #5 + PerfectDailyGrind #6 = too competitive for standalone at 1.3K; new section covers: what bloom is, why to bloom, 5-step how-to, swirl vs stir, what happens without bloom, freshness indicator, channeling, 4 PAA questions answered inline)** |
+| how long to steep cold brew | 1,000 | 7/100 LOW | /guides/cold-brew-ratio/ | **Published (Pulse 51 HEADING UPDATE — heading now "How Long to Steep Cold Brew" for exact query match; added oversteeping vs understeeping guidance + food safety note for room temp brewing)** |
 ## Biggest Opportunities Found So Far
 
 0. **"espresso martini recipe"** — 246,000/mo, diff 19/100 LOW. Pulse 18 find. **LARGEST VOLUME KEYWORD FOUND TO DATE.**
@@ -543,18 +546,27 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ DataForSEO: ~$0.233 this pulse. Running total: ~$7.39. Total pages: 134
 - ❌ SKIP: "how to clean coffee grinder" — thekitchn.com #2 + Breville #4 + video-dominated. "burr grinder vs blade grinder" MEDIUM 59/100. "how to make pour over coffee" MEDIUM 66/100.
 
-### Pulse 51 — NEXT (06:00 IDT 2026-04-22)
-- SC + GA4 data check — Day 19, first organic click expected any day (ristretto pos 7.75 + horchata-latte pos 3 are prime candidates)
-- Check if new pages (aeropress-vs-french-press, french-press-vs-drip, pour-over-vs-french-press, how-to-use-a-percolator) appear in SC
-- Research: espresso drink cluster — any gaps? "macchiato recipe" standalone? "cappuccino recipe" variants?
-- Research: coffee science cluster — "coffee bloom" 1.3K diff 7 (deferred from Pulse 49) — check SERP
-- Research: "how long to steep cold brew" 1.0K diff 7 — add as section to cold-brew-ratio.md
-- Consider: orphan page audit — with 134 pages, verify all have sufficient inbound links
+### Pulse 51 — DONE ✅ (06:00 IDT 2026-04-22)
+- ✅ SC: 15 pages/tags stable. milk-steaming-beginners UP to 36 imps pos 27.9. ristretto pos 8.4 (minor fluctuation from 7.75, PAGE 1 stable). horchata-latte pos 3. GA4 0 organic (Day 19).
+- ✅ what-is-coffee-cupping (12.1K diff 5 ULTRA-LOW) — SERP: Reddit #1, Fellow brand blog #2, small roaster #3, Wikipedia #4 — all beatable. AI overview = AEO target. SCA protocol for home baristas. 4 PAA FAQs. Equipment table + ratio + 7-step process + flavor wheel + comparison table.
+- ✅ Coffee bloom section added to what-is-pour-over-coffee.md — targets "coffee bloom" 1.3K diff 7 via passage ranking. Channeling explanation, freshness indicator, 4 PAA answers.
+- ✅ cold-brew-ratio.md heading → "How Long to Steep Cold Brew" (exact query match). Added oversteeping/understeeping guidance + food safety note.
+- ✅ Orphan audit: what-is-espresso → light-roast-vs-dark-roast + what-is-coffee-cupping; arabica-vs-robusta → what-is-coffee-cupping; espresso-glossary → "Cupping" entry added.
+- ✅ DataForSEO: ~$0.233 this pulse (2x search-volume $0.150 + 3x SERP $0.006). Running total: ~$7.62. Total pages: 135
+- ❌ SKIP: "espresso puck screen" 3.6K HIGH 91/100; "cupping coffee" SERP: SeriousEats #5 confirmed not blocking (Reddit + brand blogs #1-3 = beatable); "mocha vs latte" 3.6K = already covered by latte-vs-mocha.md; "how much coffee per cup" = already in coffee-to-water-ratio.md
 
-### Pulse 52 — PLAN (14:00 IDT 2026-04-22)
-- Day 19 SC/GA4 check — monitor for first organic click
-- Continue content production — look for uncovered clusters in coffee science or equipment care
-- Check brewing cluster completeness: any remaining method guides?
+### Pulse 52 — NEXT (14:00 IDT 2026-04-22)
+- SC + GA4 check — Day 19 (2nd check), watch for first organic click. Ristretto pos 8.4 PAGE 1, horchata-latte pos 3 = prime click candidates.
+- Research: coffee science cluster — any uncovered queries in grind, water, temperature? "water temperature for coffee" (needs volume check), "bloom time" (captured by coffee bloom section), "pre-infusion" as espresso concept
+- Research: "ginger latte" 2.9K diff 33 — deferred from Pulse 35; needs SERP check to verify if beatable
+- Research: new food/drink adjacent keywords not yet explored
+- Consider: YMYL-adjacent topics to avoid vs. target
+- Internal link audit: drip-coffee-vs-espresso — needs additional inbound links (currently only what-is-drip-coffee links to it)
+
+### Pulse 53 — PLAN (22:00 IDT 2026-04-22)
+- Day 19 SC/GA4 — watch for first click (Day 19 = outer edge of new domain window)
+- Continue uncovered coffee science or barista technique cluster
+- Evaluate brewing method cluster: any sub-queries still missing?
 
 ### Pulse 7 — DONE
 - ✅ SC: milk-steaming-beginners 9 impressions across 5 query variants, avg pos 43.8
