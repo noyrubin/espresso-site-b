@@ -156,4 +156,4 @@ Any quality instant coffee works. Nescafé Gold or Nescafé Classic are the most
 
 ---
 
-*Related: [How to Make Cold Foam](/recipes/cold-foam/) · [Iced Matcha Latte](/recipes/iced-matcha-latte/) · [Vanilla Sweet Cream Cold Brew](/recipes/vanilla-sweet-cream-cold-brew/) · [Espresso Martini Recipe](/recipes/espresso-martini/)*
+*Related: [How to Make Cold Foam](/recipes/cold-foam/) · [Iced Matcha Latte](/recipes/iced-matcha-latte/) · [Vanilla Sweet Cream Cold Brew](/recipes/vanilla-sweet-cream-cold-brew/) · [Espresso Martini Recipe](/recipes/espresso-martini/) · [Coffee Frappe Recipe](/recipes/coffee-frappe/)*

@@ -134,4 +134,4 @@ No. An iced americano is espresso + cold water + ice — no shaking, no sweetene
 
 ---
 
-*See our complete [Brown Sugar Shaken Espresso recipe](/recipes/brown-sugar-shaken-espresso/) for the full Starbucks copycat with homemade syrup. For more iced espresso drinks, check our [iced americano guide](/recipes/iced-americano/) and [iced latte recipe](/recipes/iced-latte/).*
+*See our complete [Brown Sugar Shaken Espresso recipe](/recipes/brown-sugar-shaken-espresso/) for the full Starbucks copycat with homemade syrup. For more iced espresso drinks, check our [iced americano guide](/recipes/iced-americano/), [iced latte recipe](/recipes/iced-latte/), or [coffee frappe recipe](/recipes/coffee-frappe/).*

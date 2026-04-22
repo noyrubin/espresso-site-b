@@ -1,6 +1,6 @@
 ---
 title: "How to Steam Milk for Espresso Drinks: A Beginner's Guide to Microfoam"
-date: 2026-04-04
+date: 2026-04-22
 description: "Master milk steaming for lattes, cappuccinos, and flat whites. Step-by-step technique, temperature guide (140–155°F), milk types compared, and the mistakes that trip up every beginner."
 tags: ["milk steaming", "latte", "cappuccino", "beginner", "technique", "microfoam"]
 categories: ["guides"]
@@ -104,30 +104,78 @@ Milk reaches peak perceived sweetness around 140F (60C). Above 160F (71C), lacto
 
 ## Different Milk Types
 
+Not all milks behave the same under a steam wand. Fat content, protein structure, and added stabilizers all affect how milk foams, what temperature it can handle, and how long the foam stays stable. The table below summarizes what matters most for espresso drinks.
+
+### Milk Comparison Table
+
+| Milk Type | Foam Quality | Best Temperature | Difficulty | Barista Edition? | Best For |
+|---|---|---|---|---|---|
+| Whole dairy | Excellent — rich, glossy, stable | 140-150F (60-65C) | Easy | N/A | All drinks, beginners |
+| 2% dairy | Good — lighter body, less rich | 140-150F (60-65C) | Easy | N/A | Lattes if you prefer less fat |
+| Skim dairy | Stiff, dry, unstable | 140-150F (60-65C) | Easy to over-foam | N/A | Cappuccino (dry), not lattes |
+| Oat milk | Very good (barista ed.) | 130-140F (55-60C) | Moderate | Yes — required | Lattes, flat whites, dairy-free |
+| Almond milk | Poor — large bubbles | 120-130F (50-55C) | Hard | Yes — helps | Iced drinks; avoid hot lattes |
+| Soy milk | Good — can curdle | 130-140F (55-60C) | Moderate | Yes — helps | Lattes (careful technique) |
+| Coconut milk | Light, separates easily | 120-130F (50-55C) | Hard | No | Iced coffee, cold foam |
+| Macadamia milk | Good (barista ed.) | 130-140F (55-60C) | Moderate | Yes — recommended | Lattes, mild flavor |
+| Half-and-half | Excellent — very rich | 130-140F (55-60C) | Easy | N/A | Breve latte, cortado |
+
 ### Whole Milk (Best for Beginners)
 
-Whole milk is the easiest to steam and produces the best microfoam. Its fat content (3.5%) creates rich, stable foam with natural sweetness. Start here.
+Whole milk is the easiest milk to steam and produces the best microfoam for home baristas. Its fat content (3.5%) creates rich, stable foam with natural sweetness that develops during heating. The proteins provide excellent structure; the fat adds a creamy mouthfeel.
 
-### 2% / Skim Milk
+**Why whole milk works:** Lactose converts to a sweeter-tasting compound as it heats, peaking around 140F (60C). Fat content stabilizes the foam structure, keeping bubbles small and even. This is why professional baristas default to whole dairy unless a customer requests otherwise.
 
-Lower fat milks create stiffer, less creamy foam. They foam more easily but the texture is drier and less pleasant. Workable but not ideal.
+### 2% and Skim Milk
+
+Lower-fat dairy milks foam more easily (less fat resisting bubble formation) but produce drier, less stable foam. The result is stiffer and less creamy than whole milk. For lattes and flat whites, 2% is a reasonable compromise. Skim milk creates stiff, cappuccino-style foam and tends to separate quickly — acceptable for cappuccinos, not ideal for lattes.
 
 ### Oat Milk
 
-The best non-dairy option for steaming. Barista-edition oat milks (Oatly Barista, Minor Figures) are formulated to steam well. Regular oat milk can be thin and separates quickly.
+The best non-dairy option for steaming. Barista-edition oat milks (Oatly Barista, Minor Figures, Califia Farms Barista) contain added stabilizers and adjusted fat content specifically for steam wand use. Regular grocery-store oat milk is thinner and often separates within 30-60 seconds of steaming.
 
-**Tips for oat milk:**
-- Use barista-edition specifically
-- Steam to a slightly lower temperature (130-140F / 55-60C) — oat milk scorches more easily
-- Work quickly after steaming — it separates faster than dairy
+**Key differences with oat milk:**
+- Steam to 130-140F (55-60C) — oat milk scorches and turns bitter above 150F
+- Work quickly after steaming — it separates roughly 2x faster than dairy
+- The flavor is naturally mild and slightly sweet, which complements most espresso roasts
+- Regular oat milk will often produce large, unstable bubbles regardless of technique
 
 ### Almond Milk
 
-Difficult to steam. Thin consistency, separates quickly, and often creates large bubbles. Barista editions help but almond remains the hardest plant milk to texture well.
+The hardest plant milk to steam well. Almond milk is mostly water (typically 96-97%) with very little fat or protein to create stable foam. Even barista editions produce larger, faster-collapsing bubbles compared to oat or soy milk. If you use almond milk:
+- Use barista edition only
+- Steam to no higher than 130F (55C)
+- Accept that foam will be less textured and shorter-lived
+- Almond milk works much better in iced drinks where steaming is not required
 
 ### Soy Milk
 
-Steams reasonably well but can curdle if the espresso is too hot or acidic. Pour the espresso into the milk rather than the reverse to reduce curdling.
+Soy milk steams reasonably well due to its protein content, which helps foam form and hold. The main risk is curdling: soy milk can split when it hits hot, acidic espresso. To prevent this, pour the espresso into the milk (rather than pouring milk into espresso) and use soy milk that has been warmed to near-serving temperature before adding espresso.
+
+**Anti-curdling technique:** Steam the soy milk, pour it into the cup first, then add the espresso slowly on top or alongside. The temperature difference shock is what causes splitting.
+
+### Coconut Milk
+
+Full-fat canned coconut milk steams differently from carton coconut milk. Canned coconut milk is high in fat but lacks the protein structure needed for stable foam — it produces light, fast-separating foam that is better suited for cold foam applications than hot drinks. Carton coconut milk (the drinking variety) is mostly water and foams very poorly.
+
+Coconut milk works well for:
+- Cold foam toppings (shake vigorously with ice rather than steam)
+- Iced coconut lattes where texture is less critical
+- Flavor — the natural coconut sweetness pairs well with dark espresso roasts
+
+See the [coconut latte recipe](/recipes/coconut-latte/) for technique on working with coconut milk in espresso drinks.
+
+### Macadamia Milk
+
+Macadamia milk (Milkadamia Barista is the most common brand) has emerged as a strong oat milk alternative. Its fat content and protein are well-suited for steaming, and it foams to a smooth, glossy texture closer to dairy than most plant milks. The flavor is very neutral — less sweet than oat milk, less nutty than almond milk — making it the most dairy-like plant milk in terms of taste transparency.
+
+Steam to 130-140F (55-60C). The barista edition is worth seeking out; regular macadamia milk behaves similarly to regular oat milk (acceptable but not ideal).
+
+### Half-and-Half (Breve)
+
+Half-and-half (equal parts whole milk and heavy cream, approximately 10-12% fat) steams to a very rich, dense, cappuccino-like foam. The high fat content creates an extremely stable microfoam with a thick, luxurious texture — but it is much heavier and higher in calories than whole milk. Steam to a slightly lower temperature (130-140F / 55-60C) than whole milk.
+
+An espresso drink made with steamed half-and-half is called a breve (Italian for "short"). See the [breve coffee guide](/guides/what-is-breve-coffee/) for the full technique.
 
 ## Common Mistakes and Fixes
 

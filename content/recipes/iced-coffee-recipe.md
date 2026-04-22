@@ -170,4 +170,4 @@ Three options: (1) Flash-brew directly over ice to compensate with a stronger br
 
 ---
 
-*Related guides: [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) · [Cold Brew Ratio Guide](/guides/cold-brew-ratio/) · [Iced Latte Recipe](/recipes/iced-latte/) · [Vietnamese Iced Coffee](/recipes/vietnamese-iced-coffee/) · [Dalgona Coffee](/recipes/dalgona-coffee/)*
+*Related guides: [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) · [Cold Brew Ratio Guide](/guides/cold-brew-ratio/) · [Iced Latte Recipe](/recipes/iced-latte/) · [Vietnamese Iced Coffee](/recipes/vietnamese-iced-coffee/) · [Dalgona Coffee](/recipes/dalgona-coffee/) · [Coffee Frappe Recipe](/recipes/coffee-frappe/)*

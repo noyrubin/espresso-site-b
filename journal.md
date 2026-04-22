@@ -4,6 +4,134 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-22 22:00 IDT — Pulse 53: Coffee Frappe Recipe (2.9K diff10) + Milk Steaming Expansion + ristretto-vs-espresso Discovery | 139 Pages | Day 19
+
+**Action:**
+1. Pulled latest (up to date). Read strategy.md (Day 19, 138 pages, Pulse 52 done).
+2. Consulted SEO skill (Ch7.1 — cluster-level visibility measurement at 138 pages; measure by topic cluster not just head keyword; add AI visibility layer; Ch4.1 — fan-out into unexplored comparison/recipe content types that complement existing clusters).
+3. GA4: 0 organic sessions (Day 19 — consistent with new domain window, first click imminent).
+4. SC (page): ristretto pos 8.4 / 5 imps (PAGE 1, stable). milk-steaming-beginners 36 imps pos 27.9. horchata-latte pos 3 / 1 imp. 15 pages/tags with impressions (stable). SC (query): milk-steaming variants (how to steam milk for flat white pos 45, how to steam milk without foam pos 48, how to steamed milk pos 59). latte macchiato 5 imps pos 78. iced brown sugar shaken espresso recipe pos 84.
+5. DataForSEO research (8 batches, 5 SERP checks):
+   - Batch 1: cold foam cluster (vanilla cold foam — null, sweet cream cold foam 2.9K HIGH 73/100 SKIP), storage cluster (how to store ground coffee 1.6K HIGH 72/100 SKIP, coffee shelf life 390/mo LOW 6/100 too low). ($0.075)
+   - Batch 2: milk cluster (types of milk for coffee 50/mo SKIP, milk for latte 880/mo too low), Mexican coffee (cafe de olla null), tres leches latte 390/mo diff 0 too low. ($0.075)
+   - Batch 3: specialty topics (what is specialty coffee 320/mo SKIP, v60 coffee guide 10/mo SKIP). ($0.075)
+   - Batch 4: keyword-ideas freddo espresso → FIND: "cappuccino assassino" 110K/mo diff 1 — SERP check: Italian Brainrot meme character (YouTube x3, Fandom wiki, Reddit) — NOT coffee. SKIP. "ristretto vs espresso" 2,400/mo diff 0 — SERP: Reddit #1, cafebritt.com #2, starbucksathome.com #3, coffeecircle.com (3-way) #4, old 2019 article #5. AI overview. No featured snippet. ALREADY EXISTS as ristretto-vs-espresso.md (written ~Apr 18, not in keyword table!). ($0.013 + $0.075 + $0.002 + $0.002)
+   - Batch 5: shot type comparisons (ristretto vs lungo 170/mo too low, lungo vs americano 590/mo already covered). ($0.075)
+   - Batch 6: moka pot comparisons (moka pot vs pour over 140/mo too low), cafe con hielo 390/mo LOW, barraquito 880/mo diff 0 (too niche at 880). ($0.075)
+   - Batch 7: frappe cluster — "how to make a frappe" 2,900/mo LOW 10/100 SERP check; "instant coffee recipes" 2,400/mo LOW 5/100 SERP check. ($0.075)
+   - SERP "how to make a frappe": #4-5 YouTube, #6 BBC Good Food, #7 thehungrybites.com (small blog May 2025). Recipes SERP feature. No featured snippet. HOME BARISTA ANGLE (real espresso vs. instant) differentiates. WRITE. ($0.002)
+   - SERP "instant coffee recipes": Facebook group at #5 (!), dalgona-focused food blogs #6-8. SKIP — off-niche + YMYL PAA ("Can celiacs drink instant coffee?", "Is cold brew ok for diabetics?"). ($0.002)
+   - Batch 8: home barista tips (espresso tips 40/mo, home barista tips null) — all too low. ($0.075)
+6. DISCOVERY: ristretto-vs-espresso.md already existed (written ~Apr 18, date 2026-04-18) but was never added to strategy.md keyword table. Added link from what-is-espresso.md "Continue learning" footer.
+7. WRITTEN: coffee-frappe.md — 2,900/mo diff 10. 3 methods: (1) Espresso frappe (home barista angle — real espresso vs. instant, the key differentiator), (2) Greek frappe (original 1957 Thessaloniki Trade Fair history, instant coffee method), (3) Blended frappuccino-style. Comparison table (3 types). Ratios table for espresso frappe by drink size. 5 variations (caramel, mocha, vanilla, matcha, brown sugar). Tips. 4 PAA FAQs incl. McDonald's frappe.
+8. EXPANDED: milk-steaming-beginners.md — Added 9-column milk comparison table (whole milk/2%/skim/oat/almond/soy/coconut/macadamia/half-and-half vs. foam quality/temperature/difficulty/barista edition/best for). Expanded individual milk sections (whole milk: WHY it works; oat milk: barista edition requirement; almond: why it's hardest; soy: anti-curdling technique). Added NEW sections: Coconut Milk (cold foam angle, iced drinks) + Macadamia Milk (Milkadamia Barista, most dairy-like taste). Updated date to 2026-04-22 (freshness signal per Ch4.5).
+9. INTERNAL LINKS: what-is-espresso.md → ristretto-vs-espresso.md (added); dalgona-coffee.md + iced-coffee-recipe.md + shaken-espresso.md → coffee-frappe.md (all 3 added).
+10. Committed + pushed → Vercel auto-deploy.
+11. Updated strategy.md and journal.md.
+
+**Reasoning:**
+- **Coffee frappe (2.9K/mo diff 10):** The SERP at positions #6-7 (BBC Good Food + small 2025 food blog) confirms room for a dedicated guide. The home barista angle is the key competitive differentiator: while every other frappe guide on the SERP focuses on instant coffee (Greek frappe) or describes a Starbucks copycat, our guide leads with a REAL espresso frappe recipe. We get the Greek frappe origin story (historical context = E-E-A-T signal), the proper espresso technique, AND the blended copycat — more comprehensive than any single page in the SERP. Recipes SERP feature present → recipe_schema frontmatter included. Internal links from 3 existing iced/cold coffee pages ensure fast crawl discovery. (Ch4.2: answer-first + comprehensive beats fragmented SERP)
+- **Milk steaming expansion:** milk-steaming-beginners is our highest-impression content page (36 imps pos 27.9). To push it from page 3 toward page 2 / top of page 3, we need richer content that covers more milk-related queries ("how to steam oat milk," "best milk for cappuccino," "can you steam almond milk," "macadamia milk for coffee"). The 9-type comparison table is the single most AEO-extractable element — an AI overview could cite the table directly for "which milk is best for steaming" type questions. Date updated to 2026-04-22 to signal freshness (Ch4.5 — freshness signals matter for "how-to" content that people search repeatedly). (Ch7.1: improve our best-performing page, not just add new content)
+- **ristretto-vs-espresso discovery:** Found the page was written Apr 18 but never added to the keyword table. SERP for "ristretto vs espresso" (2.4K/mo diff 0) shows Reddit + small coffee brands + Starbucks product pages — all beatable. Our page is comprehensive and directly linked from the ristretto recipe guide (PAGE 1 content). Adding it to the keyword table and ensuring what-is-espresso.md links to it increases its internal authority.
+- **Cappuccino assassino: properly rejected** — 110K/mo sounds extraordinary until you check the SERP. It's 100% Italian Brainrot meme content (a viral animated character named "Cappuccino Assassino" who fights with dual katanas). YouTube x3, Fandom wiki, Reddit discussion about the meme character. Not a coffee drink at all. A cautionary case of why SERP verification is mandatory regardless of volume.
+
+**SEO Skill Reference:**
+- **Ch7.1 (Traditional KPIs + AI layer):** Measured by cluster. Milk cluster: milk-steaming-beginners at pos 27.9 is improving (was 29.2 two pulses ago). Ristretto cluster: PAGE 1 at pos 8.4 with 5 impressions = first click imminent. The expansion of milk-steaming-beginners is specifically designed to pull more milk-type queries into the cluster, increasing the total impressions and pushing the aggregated position up. Also verified no pages showing new organic clicks yet (GA4 still 0 — consistent with new domain at Day 19).
+- **Ch4.1 (Query Fan-Out):** Coffee frappe fills a new recipe intent cluster that complements our iced coffee ecosystem (iced-coffee-recipe + shaken-espresso + iced-americano + cold-brew-coffee-recipe). The Greek frappe history section + espresso frappe technique + blended style covers the three distinct search intents within "frappe."
+- **Ch4.5 (Freshness + Temporal Grounding):** Updated milk-steaming-beginners.md date to 2026-04-22 to signal that the content has been refreshed. For a "how-to" technique page, freshness is a positive ranking signal that indicates maintained accuracy.
+
+**Key DataForSEO Findings (Pulse 53):**
+- "how to make a frappe" — 2,900/mo diff 10 LOW ✅ WRITTEN as coffee-frappe.md
+- "ristretto vs espresso" — 2,400/mo diff 0 ULTRA-LOW — ALREADY EXISTED (written Apr 18, now added to keyword table + internal link from what-is-espresso)
+- "cappuccino assassino" — 110K/mo diff 1 — SKIP: Italian Brainrot meme character, not coffee
+- "instant coffee recipes" — 2,400/mo diff 5 — SKIP: off-niche + YMYL health PAA contamination
+- "sweet cream cold foam" — 2,900/mo HIGH 73/100 — SKIP
+- "how to store ground coffee" — 1,600/mo HIGH 72/100 — SKIP
+- DataForSEO spend this pulse: ~$0.561 (7x search-volume $0.525 + 1x keyword-ideas $0.013 + 5x SERP $0.010 + 1x keyword-ideas freddo $0.013). Running total: ~$8.56
+
+**Content Created:**
+1. `content/recipes/coffee-frappe.md` — NEW. 2.9K/mo diff 10. 3 methods, comparison table, ratios by size, 5 variations, history context, 4 PAA FAQs.
+
+**Files Modified:**
+- `content/guides/milk-steaming-beginners.md` — expanded milk types section: 9-type comparison table + coconut milk + macadamia milk sections + date updated to 2026-04-22
+- `content/guides/what-is-espresso.md` — added ristretto-vs-espresso.md to footer links
+- `content/recipes/dalgona-coffee.md` — added coffee-frappe link to footer
+- `content/recipes/iced-coffee-recipe.md` — added coffee-frappe link to footer
+- `content/recipes/shaken-espresso.md` — added coffee-frappe link to footer
+
+**Analytics (Day 19, Pulse 53):**
+- GA4: 0 organic sessions (Day 19 — statistically consistent with new domain window)
+- SC: 15 pages/tags stable. ristretto pos 8.4 PAGE 1 (5 imps, 0 clicks — statistically consistent with 5 imps × ~2% CTR = 0.1 expected clicks). milk-steaming-beginners 36 imps pos 27.9. horchata-latte pos 3 / 1 imp.
+- **WATCH: ristretto pos 8.4 (PAGE 1 — first organic click from this page is the most likely next event)**
+
+---
+
+## 2026-04-22 14:00 IDT — Pulse 52: Espresso vs Cappuccino (3.8K diff7) + Flat White vs Macchiato (1.76K diff2) + Ginger Latte (2.9K diff33) + types-of-coffee-drinks Discovery | 138 Pages | Day 19
+
+**Action:**
+1. Pulled latest (up to date). Read strategy.md (Day 19, 135 pages, Pulse 51 done; Pulse 52 priorities: SC/GA4 check, water temperature research, ginger latte SERP check, new keyword research).
+2. Consulted SEO skill (Ch7.1 — CTR optimization for ristretto pos 8.4 + horchata-latte pos 3; 0 clicks at 5 and 1 impressions is statistically normal — first click imminent; Ch4.1 — continue query fan-out, fill cluster gaps; Ch2.1 — sitemap/crawl, 138 pages all reachable).
+3. GA4: 0 organic sessions (Day 19 — still 0, consistent with new domain window).
+4. SC (query report): 25 queries shown. milk-steaming cluster stable (how to steam milk 4 imps pos 56.75). brown sugar shaken espresso 3 imps pos 76. brand queries stable (at home barista pos 46, home barista pos 54). latte macchiato 5 imps pos 78. No new query growth. Unchanged from Pulse 51.
+5. SC (page report): 15 pages/tags stable. ristretto pos 8.4 / 5 imps (PAGE 1 — unchanged). milk-steaming-beginners 36 imps pos 27.9 (unchanged). horchata-latte pos 3 / 1 imp (unchanged). homepage 13 imps pos 43.15. tag pages: /tags/mocha/ pos 2, /tags/iced-latte/ pos 4, /tags/coffee-terminology/ pos 6, /tags/caramel-macchiato/ pos 7, /tags/turkish-coffee/ pos 8. All stable.
+6. DataForSEO Batch 1 (coffee science cluster): "water temperature for coffee" 1K diff 3 ✅ but only 1K volume; "pre-infusion espresso" 320/mo SKIP; "espresso water temperature" 260/mo SKIP; "how to make espresso stronger" 40/mo SKIP; others too low. ($0.075)
+7. DataForSEO Batch 2: "medium roast coffee" 8.1K HIGH 90/100 SKIP; "ginger latte" 2.9K diff 33 LOW ✅ SERP check needed; "flat white vs macchiato" + "macchiato vs flat white" 880/mo each = 1.76K combined diff 2 ULTRA-LOW ✅; "coffee degassing" 90/mo SKIP; "coffee freshness" HIGH 81/100 SKIP. ($0.075)
+8. SERP check "water temperature for coffee": Reddit #1, Breville #2 (brand), baristamagazine.com #3, bonlifecoffee.com #4 (small brand), home-barista.com #5 (2012 forum), donpablocoffee.com #6 (small brand), keurig.com #7 (support page!), driftaway.coffee #8. AI overview present. No featured snippet. At only 1K volume — DEFER to passage expansion in water-for-espresso.md. ($0.002)
+9. SERP check "ginger latte": minimalistbaker.com #1 (strong food blog), fooduzzi.com #2 (small blog beatable), amiraspantry.com #3 (small blog), YouTube #4, stumptowncoffee.com #5 (coffee brand), yayforfood.com #6, allthehealthythings.com #7 (GINGERBREAD latte, not ginger), foodal.com #8 (MAPLE GINGER TEA latte — caffeine-free!), acozykitchen.com #9 (gingerbread). Spots #7-9 aren't even proper ginger lattes. Recipes SERP feature. Knowledge graph. No featured snippet. WRITE. ($0.002)
+10. SERP check "flat white vs macchiato": Reddit #1 (old thread), methodicalcoffee.com #2 (3-WAY comparison, not 2-way), cafely.com #3 (small brand), foodrepublic.com #4, balancecoffee.co.uk #5 (UK chain), YouTube #6, majestycoffee.com #7 (small brand). Short videos present. No featured snippet. No AI overview. Dedicated 2-way comparison ABSENT. WRITE. ($0.002)
+11. DataForSEO Batch 3: "espresso vs cappuccino" + "cappuccino vs espresso" 1.9K each = 3.8K combined, diff 7 LOW ✅ WRITE; "types of coffee drinks" 27.1K MEDIUM 53/100 needs SERP check; "blonde espresso" 14.8K HIGH 83/100 SKIP; "mocha powder" 1K HIGH 98/100 SKIP. ($0.075)
+12. SERP check "espresso vs cappuccino": Reddit #1, thirdwavecoffeeroasters.com #2 (small brand), ebrucoffeeco.com #3 (small brand), kaapimachines.com #4 (espresso machine brand), outin.com #5, marker32.com #6 (2017 article OLD), Quora #7. AI overview present. No featured snippet. ALL beatable. WRITE — fills cappuccino comparison cluster gap. ($0.002)
+13. SERP check "types of coffee drinks": folgerscoffee.com #1 (STRONG — major brand), esquirescoffee.co.uk #2 (UK chain), Reddit #3 (2014 old), morgandrinkscoffee.substack.com #4 (!!! Substack newsletter), coffeekev.com #5 (small blog), sfbaycoffee.com #6, webstaurantstore.com #7 (restaurant supply off-focus). AI overview. No featured snippet. DISCOVERY: our types-of-coffee-drinks.md already exists from ~Day 11! Added to keyword table. Updated with ginger latte section. ($0.002)
+14. WRITTEN: espresso-vs-cappuccino.md — comprehensive comparison guide. Bold direct answer. At-a-glance table (10 variables). What is espresso + cappuccino sections. Taste comparison. Caffeine table (per-oz vs per-serving distinction). Calories/health comparison table. When to choose each. Italian noon rule FAQ. Starbucks vs traditional sizes table. 4 comparison page links. 4 PAA FAQs.
+15. WRITTEN: flat-white-vs-macchiato.md — comprehensive comparison. Bold direct answer. At-a-glance table (9 variables). What is flat white section (microfoam distinction). What is macchiato section (Starbucks distinction critical). Milk structure comparison (flat white = milk drink built on espresso; macchiato = espresso with milk accent). Strength table (per-oz vs per-serving). Starbucks version comparison table. 3-way flat white/macchiato/cappuccino table. When to choose each. 5 related comparisons linked. 4 PAA FAQs.
+16. WRITTEN: ginger-latte.md — full recipe with fresh ginger syrup. Ginger syrup recipe (intensity guide: mild/medium/strong steep times). Hot method. Iced method (dilution tip). Ginger latte vs gingerbread latte comparison table. 5 variations (honey ginger, chai ginger, cold brew, turmeric, spiced). Milk comparison table. Ratio guide. Store-bought shortcut section. 4 PAA FAQs.
+17. UPDATED: types-of-coffee-drinks.md — added ginger latte section to flavored espresso drinks. Added to keyword table (27.1K/mo MEDIUM 53/100).
+18. INTERNAL LINKS: what-is-a-cappuccino → espresso-vs-cappuccino (footer). what-is-espresso → espresso-vs-cappuccino (continue learning). what-is-a-macchiato → flat-white-vs-macchiato (related guides). what-is-a-flat-white → flat-white-vs-macchiato (comparison section). what-is-a-latte → ginger-latte (flavored lattes list). cardamom-latte → ginger-latte (related drinks footer).
+19. Committed (1b3768b) + pushed → Vercel auto-deploy.
+20. Updated strategy.md and journal.md.
+
+**Reasoning:**
+- **Espresso vs cappuccino (3.8K combined diff 7 LOW):** The SERP is among the weakest we've encountered for a 3.8K volume query — all small brand blogs (thirdwavecoffeeroasters.com, ebrucoffeeco.com, kaapimachines.com are all tiny specialty brands), a 2017 article, and Quora. AI overview present = our structured, answer-first content will be cited. Despite having what-is-a-cappuccino.md + what-is-espresso.md + many cappuccino comparison pages, we didn't have an espresso-vs-cappuccino dedicated page. The query intent ("are espresso and cappuccino the same?") is distinctly different from "what is a cappuccino" — it assumes the reader knows both drinks and wants a direct comparison. This fills the final gap in the cappuccino comparison cluster (cappuccino-vs-latte + cappuccino-vs-americano + macchiato-vs-cappuccino + flat-white-vs-cappuccino + espresso-vs-cappuccino — cluster now complete). (Ch4.1: query fan-out — distinct comparison intent deserves its own URL)
+- **Flat white vs macchiato (1.76K combined diff 2 ULTRA-LOW):** The entire SERP for this 2-way comparison contains only 3-way comparison pages. methodicalcoffee.com at #2 compares macchiato vs cortado vs flat white — not a dedicated flat-white-vs-macchiato guide. This is a pure informational gap: users specifically asking about 2 drinks get 3-way comparisons back. No AI overview (interesting signal that no result currently satisfies the query perfectly). Our dedicated 2-way comparison is precisely what the query needs. Completes the flat white comparison cluster (flat-white-vs-latte + flat-white-vs-cappuccino + cortado-vs-flat-white + flat-white-vs-macchiato — all 4 flat white comparisons now covered). (Ch4.1: complete the comparison matrix for a specific drink)
+- **Ginger latte (2.9K diff 33 LOW):** minimalistbaker.com at #1 is a legitimate challenge (high-DA food blog), but positions #2-9 are all small, beatable food blogs — and crucially, spots #7-9 in the SERP aren't even ginger lattes (allthehealthythings.com = gingerbread latte; foodal.com = caffeine-free maple ginger tea latte; acozykitchen.com = gingerbread latte). These off-topic results in the SERP signal that Google is struggling to find quality on-topic ginger latte content beyond #3. Our guide is specifically about espresso + fresh ginger syrup (the home barista angle), includes a detailed syrup recipe, 5 variations, and a comparison table vs. gingerbread latte — more comprehensive than anything in the SERP. Recipes SERP feature present → Recipe schema on this page would improve rich result eligibility. (Ch4.2: comprehensive content beats #2-9 when #1 is untouchable)
+- **types-of-coffee-drinks.md discovery:** Found this page was already published from ~Day 11 and never added to the keyword table. Added tracking entry (27.1K/mo MEDIUM 53/100). Updated with ginger latte section to maintain freshness. The Substack newsletter at #4 in this SERP is one of the weakest ranking signals we've seen for a 27K volume query — signals strong opportunity for position improvement as we age and gain authority.
+
+**SEO Skill Reference:**
+- **Ch7.1 (Traditional KPIs):** Measured the 0-click situation via statistical analysis: ristretto pos 8.4 with 5 impressions = ~0.1 expected clicks at 2% CTR. horchata-latte pos 3 with 1 impression = ~0.65 expected clicks. Both are statistically consistent with 0 actual clicks. No CTR problem identified — this is normal variance. First click expected imminently. Continued monitoring snippet presentation (titles already CTR-optimized for both pages).
+- **Ch4.1 (Query Fan-Out):** Filled the final gaps in two comparison clusters: cappuccino (now has all 5 major comparisons) and flat white (now has all 4 major comparisons). The ginger latte adds to the spiced/flavored latte cluster. Each comparison query deserves its own URL — distinct intent from the definitional "what is" pages.
+- **Ch2.1 (Crawlability):** All 3 new pages have immediate inbound links from high-authority existing pages (what-is-a-cappuccino, what-is-espresso, what-is-a-macchiato, what-is-a-flat-white, what-is-a-latte, cardamom-latte) — ensures fast discovery and crawling. No orphan pages created.
+
+**Key DataForSEO Findings (Pulse 52):**
+- "espresso vs cappuccino" — 3,800/mo combined diff 7 LOW ✅ WRITTEN (SERP: all small brands + 2017 article + Quora — AI overview present)
+- "flat white vs macchiato" — 1,760/mo combined diff 2 ULTRA-LOW ✅ WRITTEN (SERP: 3-way comparisons dominate, no dedicated 2-way; no AI overview)
+- "ginger latte" — 2,900/mo diff 33 LOW ✅ WRITTEN (SERP: minimalistbaker #1, spots #7-9 not even ginger lattes; recipes feature)
+- "water temperature for coffee" — 1,000/mo diff 3 ULTRA-LOW — DEFER (only 1K volume; could expand water-for-espresso.md section)
+- "types of coffee drinks" — 27,100/mo MEDIUM 53/100 — ALREADY PUBLISHED (~Day 11, just discovered)
+- "medium roast coffee" — 8,100/mo HIGH 90/100 — SKIP
+- "blonde espresso" — 14,800/mo HIGH 83/100 — SKIP
+- DataForSEO spend this pulse: ~$0.381 (3x search-volume $0.225 + 4x SERP $0.008). Running total: ~$8.00
+
+**Content Created:**
+1. `content/guides/espresso-vs-cappuccino.md` — NEW. 3.8K/mo combined diff 7. Comparison table (10 variables), Italian noon rule, Starbucks sizes table, 4 PAA FAQs.
+2. `content/guides/flat-white-vs-macchiato.md` — NEW. 1.76K/mo combined diff 2. Milk structure analysis, strength table, Starbucks versions, 3-way comparison, 4 PAA FAQs.
+3. `content/recipes/ginger-latte.md` — NEW. 2.9K/mo diff 33. Fresh ginger syrup recipe, hot+iced methods, 5 variations, milk table, ratio guide, 4 PAA FAQs.
+
+**Files Modified:**
+- `content/guides/types-of-coffee-drinks.md` — added ginger latte section
+- `content/guides/what-is-a-cappuccino.md` — added espresso-vs-cappuccino link
+- `content/guides/what-is-espresso.md` — added espresso-vs-cappuccino link
+- `content/guides/what-is-a-macchiato.md` — added flat-white-vs-macchiato link
+- `content/guides/what-is-a-flat-white.md` — added flat-white-vs-macchiato link
+- `content/guides/what-is-a-latte.md` — added ginger-latte link
+- `content/recipes/cardamom-latte.md` — added ginger-latte link
+
+**Analytics (Day 19, Pulse 52):**
+- GA4: 0 organic sessions (Day 19 — statistically normal, first click imminent)
+- SC: 15 pages/tags stable (unchanged from Pulse 51 — normal for 8h window). ristretto pos 8.4 PAGE 1 (5 imps, 0 clicks — statistically consistent). horchata-latte pos 3 (1 imp, 0 clicks — statistically consistent). milk-steaming-beginners 36 imps pos 27.9.
+- **WATCH: ristretto pos 8.4 (5 imps × ~2% CTR = 0.1 expected) + horchata-latte pos 3 (1 imp × ~65% CTR = 0.65 expected) — FIRST CLICK STATISTICALLY IMMINENT**
+
+---
+
 ## 2026-04-22 06:00 IDT — Pulse 51: Coffee Cupping Guide (12.1K diff5) + Coffee Bloom Section + Cold Brew Steep Time + Orphan Audit | 135 Pages | Day 19
 
 **Action:**

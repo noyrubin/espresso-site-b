@@ -7,7 +7,11 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 19 of indexing — **135 pages published.** SC Pulse 51: **15 pages/tags with impressions** (stable). milk-steaming-beginners 36 imps pos 27.9 (UP from 35/28.43). ristretto pos 8.4 / 5 imps (PAGE 1 — minor position fluctuation from 7.75, still page 1). homepage 13 imps pos 43.15. horchata-latte pos 3 / 1 imp. /tags/mocha/ pos 2 / 1 imp, /tags/iced-latte/ pos 4 / 1 imp. GA4 organic still 0 (Day 19 — new domain, first click expected imminently). **Pulse 51 additions (06:00 IDT 2026-04-22):** what-is-coffee-cupping (12.1K diff 5 ULTRA-LOW — SERP: Reddit #1, Fellow brand #2, small roaster #3 — all beatable; AI overview = AEO target; SCA protocol for home baristas) + coffee bloom section in what-is-pour-over-coffee (1.3K diff 7 passage ranking) + "How Long to Steep Cold Brew" heading update in cold-brew-ratio (1K diff 7) + orphan audit: added light-roast-vs-dark-roast + what-is-coffee-cupping links from what-is-espresso + arabica-vs-robusta + espresso-glossary. SEO skill: Ch5.2 (orphan audit — what-is-espresso + arabica-vs-robusta now link to light-roast-vs-dark-roast), Ch4.2 (answer-first — cupping guide leads with direct definition, 7-step procedural breakdown), Ch7.1 (cluster measurement — coffee education cluster now started: cupping + glossary + arabica-vs-robusta + light-roast-vs-dark-roast).
+Day 19 of indexing — **139 pages published.** SC Pulse 53: **15 pages/tags with impressions** (stable). milk-steaming-beginners 36 imps pos 27.9 (stable). ristretto pos 8.4 / 5 imps (PAGE 1 — stable). homepage 13 imps pos 43.15. horchata-latte pos 3 / 1 imp. /tags/mocha/ pos 2, /tags/iced-latte/ pos 4. GA4 organic still 0 (Day 19 — new domain, first click expected imminently). **Pulse 53 additions (22:00 IDT 2026-04-22):** coffee-frappe (2.9K diff 10 LOW — espresso frappe home barista angle; Greek frappe history; 3 methods + ratios + 5 variations) + milk-steaming-beginners EXPANDED (9-type comparison table, coconut + macadamia milk new sections, date updated for freshness signal) + ristretto-vs-espresso DISCOVERED (written Apr 18, not in keyword table — 2.4K/mo diff 0 ULTRA-LOW, SERP: Reddit + small brands + Starbucks product pages all beatable, AI overview; added link from what-is-espresso). SEO skill: Ch7.1 (cluster-level measurement — milk-steaming-beginners expansion targets more milk-type queries; ristretto cluster: PAGE 1 momentum; first click statistically imminent), Ch4.1 (fan-out — frappe fills iced coffee recipe cluster gap; SERP cappuccino assassino = Italian Brainrot meme not coffee — rejected), Ch4.5 (freshness — milk-steaming-beginners date updated to 2026-04-22). **DataForSEO spend to date: ~$8.56 (~$0.561 this pulse).**
+
+**Pulse 52 additions (14:00 IDT 2026-04-22):** espresso-vs-cappuccino (3.8K combined diff 7 LOW — SERP: small brands all beatable; AI overview) + flat-white-vs-macchiato (1.76K combined diff 2 ULTRA-LOW — dedicated 2-way comparison absent from SERP) + ginger-latte (2.9K diff 33 LOW — minimalistbaker #1, small food blogs #2-9 beatable; fresh ginger syrup recipe + 5 variations). DISCOVERY: types-of-coffee-drinks.md already existed (~Day 11) — added to keyword table (27.1K/mo MEDIUM 53/100). SEO skill: Ch7.1 (CTR optimization — ristretto pos 8.4 + horchata-latte pos 3 approaching first click threshold; statistical 0 clicks at 5 and 1 impression is normal), Ch4.1 (query fan-out — cappuccino comparison cluster now complete + flat white comparison cluster now complete), Ch2.1 (sitemap/crawl — all 138 pages reachable via bidirectional internal links).
+
+**Pulse 51 additions (06:00 IDT 2026-04-22):** what-is-coffee-cupping (12.1K diff 5 ULTRA-LOW — SERP: Reddit #1, Fellow brand #2, small roaster #3 — all beatable; AI overview = AEO target; SCA protocol for home baristas) + coffee bloom section in what-is-pour-over-coffee (1.3K diff 7 passage ranking) + "How Long to Steep Cold Brew" heading update in cold-brew-ratio (1K diff 7) + orphan audit: added light-roast-vs-dark-roast + what-is-coffee-cupping links from what-is-espresso + arabica-vs-robusta + espresso-glossary. SEO skill: Ch5.2 (orphan audit — what-is-espresso + arabica-vs-robusta now link to light-roast-vs-dark-roast), Ch4.2 (answer-first — cupping guide leads with direct definition, 7-step procedural breakdown), Ch7.1 (cluster measurement — coffee education cluster now started: cupping + glossary + arabica-vs-robusta + light-roast-vs-dark-roast).
 
 **IMPORTANT: ristretto (pos 7.75) is confirmed PAGE 1 — CTR-optimized title live. Cappuccino cluster now complete: what-is-a-cappuccino ↔ cappuccino recipe ↔ cappuccino-vs-latte ↔ cappuccino-vs-americano ↔ macchiato-vs-cappuccino ↔ flat-white-vs-cappuccino. Cold brew cluster: what-is-cold-brew-coffee ↔ cold-brew-ratio ↔ cold-brew-coffee-recipe ↔ cold-brew-vs-iced-coffee (broken link in cold-brew-ratio fixed). Americano cluster: what-is-an-americano ↔ americano recipe ↔ iced-americano ↔ cappuccino-vs-americano ↔ americano-vs-latte ↔ americano-vs-coffee ↔ espresso-vs-americano. Latte comparison cluster complete: cappuccino-vs-latte ↔ flat-white-vs-latte ↔ latte-vs-macchiato ↔ cortado-vs-latte ↔ latte-vs-mocha ↔ latte-vs-coffee ↔ americano-vs-latte ↔ espresso-vs-latte.**
 
@@ -165,6 +169,12 @@ Day 19 of indexing — **135 pages published.** SC Pulse 51: **15 pages/tags wit
 | cupping coffee / coffee cupping | 12,100 | 5/100 ULTRA-LOW | /guides/what-is-coffee-cupping/ | **Published (NEW Pulse 51 — SERP: Reddit #1, Fellow Products brand #2, crema-coffee.com small roaster #3, Wikipedia #4 — all beatable; AI overview = AEO target; no featured snippet; SCA protocol simplified for home baristas: equipment table, 1:18 ratio, 7-step process, flavor wheel guide, cupping vs. brewing comparison table, 4 PAA FAQs; linked from arabica-vs-robusta + espresso-glossary + what-is-espresso)** |
 | coffee bloom | 1,300 | 7/100 LOW | /guides/what-is-pour-over-coffee/ | **Published (Pulse 51 EXPANSION — passage ranking via new Coffee Bloom section in what-is-pour-over-coffee; SERP: SeriousEats #5 + PerfectDailyGrind #6 = too competitive for standalone at 1.3K; new section covers: what bloom is, why to bloom, 5-step how-to, swirl vs stir, what happens without bloom, freshness indicator, channeling, 4 PAA questions answered inline)** |
 | how long to steep cold brew | 1,000 | 7/100 LOW | /guides/cold-brew-ratio/ | **Published (Pulse 51 HEADING UPDATE — heading now "How Long to Steep Cold Brew" for exact query match; added oversteeping vs understeeping guidance + food safety note for room temp brewing)** |
+| espresso vs cappuccino / cappuccino vs espresso | 1,900 + 1,900 = 3,800 | 7/100 LOW | /guides/espresso-vs-cappuccino/ | **Published (NEW Pulse 52 — SERP: all small brands + Reddit/Quora — very beatable; AI overview = AEO target; no featured snippet; comparison table, Italian noon rule FAQ, Starbucks sizes table, 4 PAA FAQs; linked from what-is-a-cappuccino + what-is-espresso; fills cappuccino comparison cluster gap)** |
+| flat white vs macchiato / macchiato vs flat white | 880 + 880 = 1,760 | 2/100 ULTRA-LOW | /guides/flat-white-vs-macchiato/ | **Published (NEW Pulse 52 — SERP: Reddit #1, 3-way comparison blogs #2-7 — dedicated 2-way comparison absent; no AI overview; no featured snippet; milk structure comparison, strength table, Starbucks versions table, 3-way comparison, 4 PAA FAQs; linked from what-is-a-macchiato + what-is-a-flat-white; completes flat white comparison cluster)** |
+| ginger latte | 2,900 | 33/100 LOW | /recipes/ginger-latte/ | **Published (NEW Pulse 52 — SERP: minimalistbaker.com #1 tough but #2-9 all small food blogs beatable; recipes SERP feature; no featured snippet; fresh ginger syrup recipe (intensity guide), hot + iced methods, 5 variations (honey ginger, chai ginger, cold brew, turmeric, spiced), milk comparison table, ratio guide, 4 PAA FAQs; linked from what-is-a-latte + cardamom-latte)** |
+| types of coffee drinks | 27,100 | 53/100 MEDIUM | /guides/types-of-coffee-drinks/ | **DISCOVERED Pulse 52 — already published ~Day 11 but not in keyword table. Comprehensive hub page covering all drink categories. Folgers #1 (strong), Esquires #2 (UK chain), Substack #4 (!), small brands #5-9 — positions #2-4 achievable. AI overview. No featured snippet.** |
+| ristretto vs espresso | 2,400 | 0/100 ULTRA-LOW | /guides/ristretto-vs-espresso/ | **DISCOVERED Pulse 53 — written ~Apr 18 but not in keyword table. SERP: Reddit #1, cafebritt.com #2, starbucksathome.com (product page) #3, coffeecircle.com (3-way comparison) #4, old 2019 article #5. AI overview present. No featured snippet. Directly builds on ristretto PAGE 1 momentum. Link added from what-is-espresso.md.** |
+| how to make a frappe / coffee frappe | 2,900 | 10/100 LOW | /recipes/coffee-frappe/ | **Published (NEW Pulse 53 — SERP: #6 BBC Good Food, #7 small 2025 food blog; recipes SERP feature; no featured snippet; 3 methods: espresso frappe (home barista angle) + Greek frappe (1957 Thessaloniki history) + blended frappuccino-style; comparison table; ratios by size; 5 variations; 4 PAA FAQs incl. McDonald's frappe)** |
 ## Biggest Opportunities Found So Far
 
 0. **"espresso martini recipe"** — 246,000/mo, diff 19/100 LOW. Pulse 18 find. **LARGEST VOLUME KEYWORD FOUND TO DATE.**
@@ -366,6 +376,15 @@ Day 19 of indexing — **135 pages published.** SC Pulse 51: **15 pages/tags wit
 - **"how long to steep cold brew" (Pulse 50):** 1.0K diff 7 — too low standalone. Defer — may add as section to cold-brew-ratio.md.
 - **"french press steep time" (Pulse 50):** 1.0K diff 27 — already captured by french-press-ratio.md. No standalone needed.
 - **"chemex vs french press" (Pulse 50):** 320/mo diff 20 — too low volume.
+- **"cappuccino assassino" (Pulse 53):** 110,000/mo diff 1 — SERP HIJACKED by Italian Brainrot meme content. "Cappuccino Assassino" is a viral animated character (dual katanas, coffee cup body) from TikTok/YouTube. SERP is 100% meme videos, Fandom wiki, Reddit discussions about the character. Not a coffee drink query at all. Skip indefinitely.
+- **"instant coffee recipes" (Pulse 53):** 2,400/mo LOW 5/100 — SKIP. Off-niche for home barista site + YMYL PAA contamination ("Can celiacs drink instant coffee?", "Is cold brew coffee ok for diabetics?"). High E-E-A-T bar for health claims. Our dalgona-coffee.md already covers the most popular instant coffee recipe. Facebook group at #5 in SERP confirms weak results, but health PAA risk outweighs the opportunity.
+- **"sweet cream cold foam" (Pulse 53):** 2,900/mo HIGH 73/100 — too competitive.
+- **"how to store ground coffee" (Pulse 53):** 1,600/mo HIGH 72/100 — too competitive.
+- **"vanilla cold foam" (Pulse 53):** No measurable search volume.
+- **"what is specialty coffee" (Pulse 53):** 320/mo LOW 5/100 — too low volume standalone.
+- **"moka pot vs french press" (Pulse 53):** No measurable search volume.
+- **"barraquito" (Pulse 53):** 880/mo LOW 0/100 — ultra-low competition but 880/mo is too niche for a standalone page. Canarian coffee specialty from the Canary Islands. Volume too low.
+- **"how to make a frappe at home" (Pulse 53):** Intent handled by coffee-frappe.md. Not writing as separate page.
 
 ## Hypotheses Being Tested
 - **H1:** "espresso vs coffee" + "latte recipe" high-volume / ultra-low competition keywords rankable in 4-8 weeks (Ch4.1)
@@ -555,18 +574,27 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ DataForSEO: ~$0.233 this pulse (2x search-volume $0.150 + 3x SERP $0.006). Running total: ~$7.62. Total pages: 135
 - ❌ SKIP: "espresso puck screen" 3.6K HIGH 91/100; "cupping coffee" SERP: SeriousEats #5 confirmed not blocking (Reddit + brand blogs #1-3 = beatable); "mocha vs latte" 3.6K = already covered by latte-vs-mocha.md; "how much coffee per cup" = already in coffee-to-water-ratio.md
 
-### Pulse 52 — NEXT (14:00 IDT 2026-04-22)
-- SC + GA4 check — Day 19 (2nd check), watch for first organic click. Ristretto pos 8.4 PAGE 1, horchata-latte pos 3 = prime click candidates.
-- Research: coffee science cluster — any uncovered queries in grind, water, temperature? "water temperature for coffee" (needs volume check), "bloom time" (captured by coffee bloom section), "pre-infusion" as espresso concept
-- Research: "ginger latte" 2.9K diff 33 — deferred from Pulse 35; needs SERP check to verify if beatable
-- Research: new food/drink adjacent keywords not yet explored
-- Consider: YMYL-adjacent topics to avoid vs. target
-- Internal link audit: drip-coffee-vs-espresso — needs additional inbound links (currently only what-is-drip-coffee links to it)
+### Pulse 52 — DONE ✅ (14:00 IDT 2026-04-22)
+- ✅ GA4: 0 organic sessions (Day 19 — normal, first click imminent). SC stable: ristretto pos 8.4 PAGE 1 (5 imps), horchata-latte pos 3 (1 imp), milk-steaming-beginners 36 imps pos 27.9.
+- ✅ espresso-vs-cappuccino (3.8K combined diff 7 LOW) — SERP: small brands + Reddit/Quora all beatable; AI overview = AEO target; fills cappuccino comparison cluster. Linked from what-is-espresso + what-is-a-cappuccino.
+- ✅ flat-white-vs-macchiato (1.76K combined diff 2 ULTRA-LOW) — dedicated 2-way comparison absent from SERP (Reddit #1, 3-way blogs #2-7); completes flat white comparison cluster. Linked from what-is-a-flat-white + what-is-a-macchiato.
+- ✅ ginger-latte (2.9K diff 33 LOW) — minimalistbaker #1 tough, but #2-9 all small food blogs; fresh ginger syrup recipe, hot + iced, 5 variations, 4 PAA FAQs. Linked from what-is-a-latte + cardamom-latte.
+- ✅ DISCOVERY: types-of-coffee-drinks.md was published ~Day 11 but never tracked. Added to keyword table (27.1K/mo MEDIUM 53/100). Added ginger latte section to the guide.
+- ✅ DataForSEO: ~$0.381 (3x search-volume $0.225 + 4x SERP $0.008). Running total: ~$8.00. Total pages: 138
+- ❌ SKIP: "water temperature for coffee" 1K diff 3 — worth noting: SERP has AI overview + PAA but only 1K volume. Could add section to water-for-espresso.md. "types of coffee drinks" already covered. "medium roast coffee" HIGH 90/100. "blonde espresso" HIGH 83/100. "mocha powder" HIGH 98/100.
+- ❌ SKIP: "pre-infusion espresso" 320/mo — too low volume. "espresso water temperature" 260/mo — too low.
 
 ### Pulse 53 — PLAN (22:00 IDT 2026-04-22)
-- Day 19 SC/GA4 — watch for first click (Day 19 = outer edge of new domain window)
-- Continue uncovered coffee science or barista technique cluster
-- Evaluate brewing method cluster: any sub-queries still missing?
+- SC + GA4 check — Day 19 third check. Watch for first click. Ristretto pos 8.4 + horchata-latte pos 3 are the prime candidates.
+- Research: any remaining cluster gaps? Check "cappuccino ratio" (probably low volume), "espresso grind settings" (probably too competitive), "what is medium roast" (8.1K HIGH 90/100 = skip)
+- Consider: "water temperature for coffee" 1K diff 3 as a section expansion to water-for-espresso.md (passage ranking, AI overview target)
+- Consider: any remaining comparison pages in the cappuccino, espresso, or latte clusters
+- drip-coffee-vs-espresso still needs additional inbound links — check current state
+
+### Pulse 54 — PLAN (06:00 IDT 2026-04-23)
+- Day 20 SC/GA4 check — Day 20 = expect first organic click any time
+- Review CTR data for ristretto + horchata-latte — optimize if needed
+- Continue content production based on keyword findings from Pulse 53
 
 ### Pulse 7 — DONE
 - ✅ SC: milk-steaming-beginners 9 impressions across 5 query variants, avg pos 43.8
