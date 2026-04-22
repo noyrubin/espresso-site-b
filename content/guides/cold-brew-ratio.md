@@ -54,19 +54,26 @@ draft: false
 
 ---
 
-## Steep Time: How Long to Brew Cold Brew
+## How Long to Steep Cold Brew
+
+**Steep cold brew for 12–16 hours in the refrigerator, or 8–12 hours at room temperature.** The exact time depends on your ratio and how strong you want the result.
 
 Steep time and ratio work together — a stronger ratio benefits from slightly less steep time to avoid over-extraction:
 
 | Ratio | Fridge Steep (cold) | Room Temp Steep | Result |
 |-------|--------------------|-----------------|----|
-| 1:8 (regular) | 12–16 hours | 8–12 hours | Balanced, smooth |
+| 1:8 (regular strength) | 12–16 hours | 8–12 hours | Balanced, smooth |
 | 1:6 (medium concentrate) | 14–18 hours | 10–14 hours | Rich, strong |
 | 1:4 (concentrate) | 18–24 hours | 12–18 hours | Dense, bold, slightly bitter |
 
 **Standard recommendation:** 12–16 hours in the refrigerator at 1:8. Most home brewers find overnight (12 hours) in the fridge hits the sweet spot.
 
-> **Fridge vs. room temperature:** Fridge-brewed cold brew is slower but produces a cleaner, smoother result. Room temperature brewing is faster but can produce a slightly more acidic, earthy flavor. Both work — fridge is preferred for flavor.
+**Oversteeping vs. understeeping:**
+- **Too short (under 8 hours in fridge):** Weak, under-extracted, sour or salty-tasting — the sugars and acids dissolve before the richer compounds do
+- **Too long (over 24 hours):** Harsh, astringent, overly bitter — even cold water over-extracts eventually
+- **Sweet spot:** 12–16 hours gives you full extraction of flavor compounds without bitterness
+
+> **Fridge vs. room temperature:** Fridge-brewed cold brew steeps more slowly (cold water extracts slower) but produces a cleaner, smoother result. Room temperature brewing is faster but can produce a slightly more acidic, earthy flavor. Both work — fridge is preferred for flavor. Never steep at room temperature longer than 16 hours (food safety: cold brew brewed warm can harbor bacterial growth beyond that window).
 
 ---
 

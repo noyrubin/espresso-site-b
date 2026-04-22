@@ -30,6 +30,37 @@ Pour over brewing relies on two forces: **water saturation** (fully wetting the 
 
 The bloom step is what separates pour over from basic drip: fresh coffee releases CO₂ aggressively, which can create uneven extraction. The bloom allows the gas to escape before the main pour, ensuring water contacts the grounds evenly.
 
+## The Coffee Bloom: What It Is and Why It Matters
+
+**The coffee bloom is the 30–45 second pre-infusion step at the start of a pour over, where a small amount of hot water saturates the grounds and releases trapped CO₂ before the main pour begins.**
+
+Fresh coffee beans contain dissolved carbon dioxide from the roasting process — the hotter and faster the roast, the more CO₂. When hot water hits the grounds, CO₂ escapes rapidly, and you'll see the grounds bubble, puff, and expand (sometimes dramatically). That expansion is the bloom.
+
+### Why You Should Always Bloom Pour Over Coffee
+
+If you pour all your water at once without blooming, the escaping CO₂ creates gas pockets in the coffee bed, pushing water around the grounds rather than through them. This is called **channeling** — and it causes uneven extraction, where some grounds are over-extracted (bitter) while others are under-extracted (sour). The bloom vents the CO₂ first so the main pour can saturate the bed evenly.
+
+**A dramatic bloom = fresh beans.** If your grounds barely puff at all, the beans have off-gassed most of their CO₂ already — a sign they're past their peak freshness. Third-wave roasters often recommend waiting 5–14 days after the roast date before brewing (fresh-off-roast beans have too much CO₂ for ideal extraction).
+
+### How to Bloom Pour Over Coffee
+
+1. Place your filter and grounds in the dripper over your vessel
+2. Tare (zero) your scale
+3. **Pour twice the weight of coffee in water** — for 15g of coffee, pour 30g of water
+4. Make sure all the grounds are saturated (a slow spiral from center outward works well)
+5. **Wait 30–45 seconds** — you'll see bubbling and gentle expansion
+6. Begin your main pour
+
+A longer bloom (up to 60 seconds) is sometimes used with very fresh or very dark-roasted beans. For beans 1–2 weeks post-roast, 30–45 seconds is typically sufficient.
+
+### Swirl or Stir During the Bloom?
+
+Some baristas give the grounds a gentle swirl (tilting the dripper in a circular motion) or a light stir with a spoon during the bloom. The goal is to ensure all grounds are fully saturated and not clumped. Neither is required — a well-aimed initial pour achieves the same. If you see dry grounds after the bloom pour, a gentle swirl helps.
+
+### What Happens If You Don't Bloom?
+
+Without a bloom, CO₂ escaping during the main pour creates uneven water distribution. The result is a cup that's often sour on one sip and bitter on the next — inconsistent from brew to brew even with identical technique. For lighter roasts and fresher beans (high CO₂ content), skipping the bloom produces a noticeably flatter, less developed cup.
+
 ## Pour Over vs. Drip Coffee: What's the Difference?
 
 **The equipment looks similar — both use a filter cone above a container — but the key difference is who controls the water.**

@@ -65,6 +65,9 @@ A traditional Italian espresso drink made with equal parts espresso, steamed mil
 **Channeling**
 A defect in espresso extraction where water finds a path of least resistance through the coffee puck rather than percolating evenly. Channeling causes uneven extraction (some coffee over-extracted, some under-extracted) and produces bitter, thin, or sour espresso. Caused by uneven distribution, poor tamping, or a damaged puck.
 
+**Cupping**
+The professional method for tasting and evaluating coffee. Ground coffee is brewed directly in a bowl with hot water (no filter), steeped for 4 minutes, then tasted by slurping from a rounded spoon. Used by roasters for quality control, buyers for bean selection, and home baristas for comparing beans and training their palate. The SCA (Specialty Coffee Association) sets the standard protocol and ratio (8.25g per 150ml). → [Full guide](/guides/what-is-coffee-cupping/)
+
 **Cortado**
 A Spanish espresso drink: equal parts espresso and steamed milk (about 1:1 ratio). The milk cuts (cortado = "cut" in Spanish) the acidity of the espresso without dominating it. Smaller than a latte, larger than a macchiato. → [Full guide](/recipes/cortado/)
 
