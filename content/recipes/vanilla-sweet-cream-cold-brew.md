@@ -170,3 +170,7 @@ Ask for 1 pump of vanilla instead of 3 (for a grande). You can also ask for ligh
 
 **Is there espresso in vanilla sweet cream cold brew?**
 No. It's cold brew coffee, not espresso-based. If you want an espresso version, try our [brown sugar shaken espresso](/recipes/brown-sugar-shaken-espresso/) — that's the shaken espresso with the same sweet, creamy concept.
+
+---
+
+*Related: [Cold Foam vs Whipped Cream](/guides/cold-foam-vs-whipped-cream/) — what makes sweet cream different from both · [Vanilla Syrup Recipe](/recipes/vanilla-syrup/) — make the perfect coffee vanilla syrup · [Cold Foam Recipe](/recipes/cold-foam/)*

@@ -60,7 +60,7 @@ The vanilla syrup sweetens and flavors the drink. At Starbucks, it's their house
 
 ## Make the Vanilla Syrup (5 minutes + cooling)
 
-You only need to do this once — the syrup keeps for 2–4 weeks refrigerated.
+You only need to do this once — the syrup keeps for 2–4 weeks refrigerated. For all three vanilla syrup variants (extract, vanilla bean, and brown sugar), see the [complete vanilla syrup recipe guide](/recipes/vanilla-syrup/).
 
 1. Combine sugar and water in a small saucepan over medium heat
 2. Stir until the sugar fully dissolves (about 2–3 minutes) — do not boil

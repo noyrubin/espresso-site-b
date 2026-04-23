@@ -44,6 +44,8 @@ Good sources: specialty grocery stores (in the spice/herb section), farmers' mar
 
 ## Homemade Lavender Syrup
 
+For the full syrup recipe with three strength levels, fresh vs dried lavender comparison, and storage guide, see the [complete lavender syrup recipe](/recipes/lavender-syrup/).
+
 **Makes:** About 300ml (10 oz) — enough for 10+ lattes
 **Time:** 20 minutes (including cooling)
 

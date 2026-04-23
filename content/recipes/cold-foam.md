@@ -187,4 +187,4 @@ Commercial cafés use high-powered blenders or dedicated cold foam blenders (lik
 
 ---
 
-*Related: [Dalgona Coffee (Whipped Coffee)](/recipes/dalgona-coffee/) — The viral whipped coffee foam that goes on top of milk · [Vanilla Sweet Cream Cold Brew](/recipes/vanilla-sweet-cream-cold-brew/) · [Iced Coffee Recipe](/recipes/iced-coffee-recipe/)*
+*Related: [Dalgona Coffee (Whipped Coffee)](/recipes/dalgona-coffee/) — The viral whipped coffee foam that goes on top of milk · [Vanilla Sweet Cream Cold Brew](/recipes/vanilla-sweet-cream-cold-brew/) · [Iced Coffee Recipe](/recipes/iced-coffee-recipe/) · [Cold Foam vs Whipped Cream](/guides/cold-foam-vs-whipped-cream/) — key differences explained*
