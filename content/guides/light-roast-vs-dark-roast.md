@@ -121,4 +121,4 @@ Light roast has slightly more caffeine per gram of coffee. Dark roast has slight
 
 ---
 
-*More on coffee beans:* [Arabica vs Robusta Coffee](/guides/arabica-vs-robusta/) | [How Long Do Coffee Beans Last?](/guides/how-long-do-coffee-beans-last/) | [Espresso vs Coffee: What's the Difference?](/guides/espresso-vs-coffee/)
+*More on coffee beans:* [Arabica vs Robusta Coffee](/guides/arabica-vs-robusta/) | [How Long Do Coffee Beans Last?](/guides/how-long-do-coffee-beans-last/) | [Espresso vs Coffee: What's the Difference?](/guides/espresso-vs-coffee/) | [What Is Blonde Espresso?](/guides/what-is-blonde-espresso/)

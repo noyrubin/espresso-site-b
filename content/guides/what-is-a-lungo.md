@@ -108,4 +108,4 @@ No. A lungo adds water through the grounds during extraction; an Americano adds 
 No. A lungo uses a single dose extracted with more water — it is not the same as a doppio (double shot), which uses twice the coffee dose.
 ---
 
-*See also: [Lungo Recipe](/recipes/lungo/) · [Ristretto](/recipes/ristretto/) · [What Is an Americano](/guides/what-is-an-americano/) · [Ristretto vs. Espresso](/guides/ristretto-vs-espresso/) · [What Is Espresso](/guides/what-is-espresso/)*
+*See also: [Lungo Recipe](/recipes/lungo/) · [Lungo vs Espresso](/guides/lungo-vs-espresso/) · [Ristretto](/recipes/ristretto/) · [What Is an Americano](/guides/what-is-an-americano/) · [Ristretto vs. Espresso](/guides/ristretto-vs-espresso/) · [What Is Espresso](/guides/what-is-espresso/)*
