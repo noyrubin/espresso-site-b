@@ -165,3 +165,4 @@ If you enjoy a mocha, try:
 - [Caramel Macchiato](/recipes/caramel-macchiato/) — another sweet espresso classic
 - [White Chocolate Mocha](/recipes/white-chocolate-mocha/) — the sweeter, vanilla-forward cousin with homemade white chocolate sauce
 - [Latte vs Mocha](/guides/latte-vs-mocha/) — full comparison of the two drinks
+- [Caramel Frappuccino](/recipes/caramel-frappuccino/) — blended espresso + caramel + ice, Starbucks copycat
