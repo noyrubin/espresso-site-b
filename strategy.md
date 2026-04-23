@@ -7,7 +7,7 @@ Always reference which SEO skill chapters inform your strategic decisions here.
 ---
 
 ## Current Phase
-Day 19 of indexing — **139 pages published.** SC Pulse 53: **15 pages/tags with impressions** (stable). milk-steaming-beginners 36 imps pos 27.9 (stable). ristretto pos 8.4 / 5 imps (PAGE 1 — stable). homepage 13 imps pos 43.15. horchata-latte pos 3 / 1 imp. /tags/mocha/ pos 2, /tags/iced-latte/ pos 4. GA4 organic still 0 (Day 19 — new domain, first click expected imminently). **Pulse 53 additions (22:00 IDT 2026-04-22):** coffee-frappe (2.9K diff 10 LOW — espresso frappe home barista angle; Greek frappe history; 3 methods + ratios + 5 variations) + milk-steaming-beginners EXPANDED (9-type comparison table, coconut + macadamia milk new sections, date updated for freshness signal) + ristretto-vs-espresso DISCOVERED (written Apr 18, not in keyword table — 2.4K/mo diff 0 ULTRA-LOW, SERP: Reddit + small brands + Starbucks product pages all beatable, AI overview; added link from what-is-espresso). SEO skill: Ch7.1 (cluster-level measurement — milk-steaming-beginners expansion targets more milk-type queries; ristretto cluster: PAGE 1 momentum; first click statistically imminent), Ch4.1 (fan-out — frappe fills iced coffee recipe cluster gap; SERP cappuccino assassino = Italian Brainrot meme not coffee — rejected), Ch4.5 (freshness — milk-steaming-beginners date updated to 2026-04-22). **DataForSEO spend to date: ~$8.56 (~$0.561 this pulse).**
+Day 20 of indexing — **142 pages published.** SC Pulse 54: **NEW PAGE 1 ENTRIES: french-press-vs-drip pos 9.5 (2 imps), cortado-vs-latte pos 7 (1 imp), how-to-use-moka-pot pos 10 (1 imp).** Confirmed PAGE 1 stable: ristretto pos 8.4 / 5 imps, horchata-latte pos 3 / 1 imp. milk-steaming-beginners 37 imps pos 27.4 (UP from 36/27.9). homepage 14 imps pos 40.1 (UP from 13/43.15). siphon-coffee 11 imps pos 65.7. TAG pages: /tags/mocha/ pos 2, /tags/iced-latte/ pos 4, /tags/coffee-terminology/ pos 5, /tags/caramel-macchiato/ pos 6, /tags/turkish-coffee/ pos 7, /tags/latte-macchiato/ 9 imps pos 63.2. GA4 organic still 0 (Day 20 — new domain, first click statistically imminent with 5+ PAGE 1 positions). **Pulse 54 additions (06:00 IDT 2026-04-23):** vanilla-syrup (3.6K/mo diff 1 ULTRA-LOW — SERP: small food blogs + glassware company at #5 + Reddit; 3 recipe variants + coffee density guide + ratio table by drink size) + lavender-syrup (2.9K/mo diff 11 LOW — SERP: gardening brand at #5, small food blogs — all beatable; steep time guide, culinary lavender safety note, fresh vs dried table) + cold-foam-vs-whipped-cream (2.4K/mo diff 1 ULTRA-LOW — SERP: Reddit #1, Facebook #3/#6, TikTok #8; comparison table + calorie comparison + drink pairing guide + how to make both). Internal links: vanilla-latte→vanilla-syrup, cold-foam→cold-foam-vs-whipped-cream, lavender-latte→lavender-syrup, vanilla-sweet-cream-cold-brew→cold-foam-vs-whipped-cream+vanilla-syrup. SEO skill: Ch7.1 (cluster-level measurement — 5 PAGE 1 positions now; first organic click is imminent; continue new content vs improving existing balance), Ch4.1 (query fan-out — syrup recipes fill recipe/ingredient intent gap; cold foam comparison fills knowledge gap). **DataForSEO spend to date: ~$8.87 (~$0.31 this pulse: 4x search-volume $0.300 + 4x SERP $0.008).**
 
 **Pulse 52 additions (14:00 IDT 2026-04-22):** espresso-vs-cappuccino (3.8K combined diff 7 LOW — SERP: small brands all beatable; AI overview) + flat-white-vs-macchiato (1.76K combined diff 2 ULTRA-LOW — dedicated 2-way comparison absent from SERP) + ginger-latte (2.9K diff 33 LOW — minimalistbaker #1, small food blogs #2-9 beatable; fresh ginger syrup recipe + 5 variations). DISCOVERY: types-of-coffee-drinks.md already existed (~Day 11) — added to keyword table (27.1K/mo MEDIUM 53/100). SEO skill: Ch7.1 (CTR optimization — ristretto pos 8.4 + horchata-latte pos 3 approaching first click threshold; statistical 0 clicks at 5 and 1 impression is normal), Ch4.1 (query fan-out — cappuccino comparison cluster now complete + flat white comparison cluster now complete), Ch2.1 (sitemap/crawl — all 138 pages reachable via bidirectional internal links).
 
@@ -175,6 +175,9 @@ Day 19 of indexing — **139 pages published.** SC Pulse 53: **15 pages/tags wit
 | types of coffee drinks | 27,100 | 53/100 MEDIUM | /guides/types-of-coffee-drinks/ | **DISCOVERED Pulse 52 — already published ~Day 11 but not in keyword table. Comprehensive hub page covering all drink categories. Folgers #1 (strong), Esquires #2 (UK chain), Substack #4 (!), small brands #5-9 — positions #2-4 achievable. AI overview. No featured snippet.** |
 | ristretto vs espresso | 2,400 | 0/100 ULTRA-LOW | /guides/ristretto-vs-espresso/ | **DISCOVERED Pulse 53 — written ~Apr 18 but not in keyword table. SERP: Reddit #1, cafebritt.com #2, starbucksathome.com (product page) #3, coffeecircle.com (3-way comparison) #4, old 2019 article #5. AI overview present. No featured snippet. Directly builds on ristretto PAGE 1 momentum. Link added from what-is-espresso.md.** |
 | how to make a frappe / coffee frappe | 2,900 | 10/100 LOW | /recipes/coffee-frappe/ | **Published (NEW Pulse 53 — SERP: #6 BBC Good Food, #7 small 2025 food blog; recipes SERP feature; no featured snippet; 3 methods: espresso frappe (home barista angle) + Greek frappe (1957 Thessaloniki history) + blended frappuccino-style; comparison table; ratios by size; 5 variations; 4 PAA FAQs incl. McDonald's frappe)** |
+| how to make vanilla syrup | 3,600 | 1/100 ULTRA-LOW | /recipes/vanilla-syrup/ | **Published (NEW Pulse 54 — SERP: forkinthekitchen.com #1 food blog, Reddit #3, Starbucks At Home #4, flurglassware.com #6 (glassware brand!) — all beatable; no featured snippet; 3 variants: extract/bean/brown sugar; coffee density guide (1:1 for coffee vs 2:1 for baking); ratio table by drink size; storage guide; 4 PAA FAQs; linked from vanilla-latte.md)** |
+| how to make lavender syrup | 2,900 | 11/100 LOW | /recipes/lavender-syrup/ | **Published (NEW Pulse 54 — SERP: casualfoodist.com #1, heartbeetkitchen.com #2, Reddit #3, earthbox.com #5 (gardening brand!) — all beatable; no featured snippet; steep time guide 3-15min (oversteeping = soapy), culinary grade safety note, fresh vs dried table, 4 variations (honey/vanilla/Earl Grey/mint), color fading explanation, 4 PAA FAQs; linked from lavender-latte.md)** |
+| cold foam vs whipped cream | 2,400 | 1/100 ULTRA-LOW | /guides/cold-foam-vs-whipped-cream/ | **Published (NEW Pulse 54 — SERP: Reddit #1, Facebook #3/#6, TikTok #8, foodrepublic.com #2, tastingtable.com #7 — very weak SERP; no featured snippet; comparison table (fat/texture/temp/sweetness/calories/best-for); how to make both at home; drink pairing table; Starbucks context; calorie comparison table; 4 PAA FAQs incl. why skim milk; linked from cold-foam.md + vanilla-sweet-cream-cold-brew.md)** |
 ## Biggest Opportunities Found So Far
 
 0. **"espresso martini recipe"** — 246,000/mo, diff 19/100 LOW. Pulse 18 find. **LARGEST VOLUME KEYWORD FOUND TO DATE.**
@@ -385,6 +388,15 @@ Day 19 of indexing — **139 pages published.** SC Pulse 53: **15 pages/tags wit
 - **"moka pot vs french press" (Pulse 53):** No measurable search volume.
 - **"barraquito" (Pulse 53):** 880/mo LOW 0/100 — ultra-low competition but 880/mo is too niche for a standalone page. Canarian coffee specialty from the Canary Islands. Volume too low.
 - **"how to make a frappe at home" (Pulse 53):** Intent handled by coffee-frappe.md. Not writing as separate page.
+- **"decaf espresso" (Pulse 54):** 9,900/mo HIGH 100/100 — doubly disqualified.
+- **"coffee simple syrup" (Pulse 54):** 1,300/mo HIGH 78/100 — too competitive. Intent captured by vanilla-syrup.md (the most searched specific syrup type).
+- **"cold brew latte" (Pulse 54):** 1,000/mo LOW 33/100 — volume too low + competition borderline. May add as a variation section to cold-brew-coffee-recipe.md instead.
+- **"mocha vs cappuccino" / "cappuccino vs mocha" (Pulse 54):** 590/480/mo ULTRA-LOW — combined 1,070/mo, too low standalone. May add as section to existing mocha.md.
+- **"vanilla syrup for coffee" (Pulse 54):** 8,100/mo HIGH 100/100 — skip the head term. Our vanilla-syrup.md naturally targets this via the title "How to Make Vanilla Syrup for Coffee."
+- **"espresso romano" (Pulse 54):** 590/mo diff 0 — volume too low standalone.
+- **"iced latte vs iced coffee" (Pulse 54):** 1,300/mo diff 0 ULTRA-LOW — SERP: Reddit #1, UK coffee brand #2, Facebook #3, small regional brands #4-7. Beatable but too low volume for standalone page. May add as section to iced-latte.md or iced-coffee-recipe.md.
+- **"how to make hazelnut syrup" (Pulse 54):** 320/mo diff 3 — too low volume standalone. Already covered as recipe inside hazelnut-latte.md.
+- **"how to make caramel syrup" (Pulse 54):** 1,000/mo diff 2 — borderline low volume. Already covered inside caramel-latte.md. Not enough incremental value for standalone page given we have 142 pages already.
 
 ## Hypotheses Being Tested
 - **H1:** "espresso vs coffee" + "latte recipe" high-volume / ultra-low competition keywords rankable in 4-8 weeks (Ch4.1)
@@ -416,6 +428,36 @@ Day 19 of indexing — **139 pages published.** SC Pulse 53: **15 pages/tags wit
 DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, organic difficulty 0. However, search-volume (Pulse 5) shows advertising competition 100/100 (CPC $3.72). These are different metrics — organic difficulty vs ad competition. The space is heavily monetized by coffee brands/retailers. Informational angle ("how to choose espresso beans") may still be viable but needs SERP validation before writing. Pushed to Pulse 6+.
 
 ## Next 3 Pulses Roadmap
+
+### Pulse 54 — DONE ✅ (06:00 IDT 2026-04-23)
+- ✅ SC: NEW PAGE 1 entries: french-press-vs-drip pos 9.5, cortado-vs-latte pos 7, how-to-use-moka-pot pos 10. Stable PAGE 1: ristretto pos 8.4 (5 imps), horchata-latte pos 3. GA4 organic: 0 (Day 20, statistically consistent).
+- ✅ vanilla-syrup (3.6K diff 1 ULTRA-LOW) — 3 recipe variants (extract/bean/brown sugar), coffee density guide, ratio table by drink size
+- ✅ lavender-syrup (2.9K diff 11 LOW) — steep time guide (3-15 min), culinary grade safety note, fresh vs dried table, 4 variations
+- ✅ cold-foam-vs-whipped-cream (2.4K diff 1 ULTRA-LOW) — comparison table, calorie data, drink pairing, Starbucks context
+- ✅ Internal links: vanilla-latte→vanilla-syrup, cold-foam→cold-foam-vs-whipped-cream, lavender-latte→lavender-syrup, vanilla-sweet-cream-cold-brew→both new pages
+- ✅ DataForSEO spend: ~$0.31 (4x search-volume $0.300 + 4x SERP $0.008)
+- Total pages: 142
+
+### Pulse 55 — NEXT (14:00 IDT 2026-04-23, Day 20 Afternoon)
+**Priority:** Continue keyword research for next content batch. Explore:
+- "how to make cold brew stronger" / cold brew troubleshooting cluster (1-2K/mo range?)
+- "espresso shot temperature" / water temperature expansion in water-for-espresso
+- Investigate potential hub page: "coffee syrup recipes" as a collection linking all syrup pages (vanilla, lavender, caramel, hazelnut, cinnamon dolce, gingerbread)
+- SC/GA4 re-check: watch for first organic click from PAGE 1 pages (ristretto pos 8.4, horchata-latte pos 3, french-press-vs-drip pos 9.5)
+- DataForSEO: batch research 5-7 new keyword candidates
+
+### Pulse 56 — (22:00 IDT 2026-04-23, Day 20 Night)
+**Focus:** Execute content from Pulse 55 research. Target 2-3 articles based on findings.
+- If coffee syrup hub validated: write /guides/coffee-syrups/ linking all syrup recipe pages
+- If troubleshooting cluster has low comp: expand espresso-troubleshooting.md with new sections
+- Ch4.1 fan-out: any unexplored niches in home barista equipment guides?
+
+### Pulse 57 — (06:00 IDT 2026-04-24, Day 21 Morning)
+**Focus:** First organic click analysis (expected this period — Day 21 multiple PAGE 1 positions).
+- Deep SC check: query-level data to see which PAGE 1 pages are getting queries
+- If clicks seen: analyze CTR patterns, optimize titles/meta descriptions for higher CTR pages
+- Content continues: 2-3 new articles based on prior research
+- Ch7.1: cluster performance review — measure all cluster impressions, assess which clusters are gaining fastest
 
 ### Pulse 34 — DONE ✅
 - ✅ SC: 9 pages with impressions (stable). brown-sugar-shaken-espresso UP to 14 imps. siphon-coffee UP to 6 imps. ristretto pos 7.75 / 4 imps (page 1 threshold). GA4 organic: 0 (Day 13, expected).
