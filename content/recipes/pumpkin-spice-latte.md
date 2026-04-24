@@ -124,4 +124,4 @@ A Starbucks Grande PSL has about 380 calories and 50g sugar. The homemade versio
 
 ---
 
-*Related recipes: [Vanilla Sweet Cream Cold Brew](/recipes/vanilla-sweet-cream-cold-brew/) · [Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/) · [Dirty Chai Latte](/recipes/dirty-chai-latte/) · [Iced Matcha Latte](/recipes/iced-matcha-latte/) · [Gingerbread Latte](/recipes/gingerbread-latte/) · [Maple Latte](/recipes/maple-latte/) · [Pumpkin Cream Cold Brew](/recipes/pumpkin-cream-cold-brew/)*
+*Related recipes: [Vanilla Sweet Cream Cold Brew](/recipes/vanilla-sweet-cream-cold-brew/) · [Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/) · [Dirty Chai Latte](/recipes/dirty-chai-latte/) · [Iced Matcha Latte](/recipes/iced-matcha-latte/) · [Gingerbread Latte](/recipes/gingerbread-latte/) · [Eggnog Latte](/recipes/eggnog-latte/) · [Maple Latte](/recipes/maple-latte/) · [Pumpkin Cream Cold Brew](/recipes/pumpkin-cream-cold-brew/)*

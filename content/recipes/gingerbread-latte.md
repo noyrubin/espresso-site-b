@@ -108,3 +108,7 @@ Starbucks removed the Gingerbread Latte from its US menu in 2019. It is still av
 
 **Can I make a gingerbread latte without espresso?**
 Yes. Brew a very strong cup of drip coffee (2 tablespoons of ground coffee per 4 oz of water) or use instant espresso (2 tsp dissolved in 2 oz of hot water). The flavor will be slightly less intense than with a real espresso shot, but the gingerbread syrup provides enough flavor to make up for it. You can also make a caffeine-free version using a rooibos or chamomile tea base.
+
+---
+
+*More holiday and seasonal lattes: [Pumpkin Spice Latte Recipe](/recipes/pumpkin-spice-latte/) · [Eggnog Latte Recipe](/recipes/eggnog-latte/) · [Cinnamon Dolce Latte](/recipes/cinnamon-dolce-latte/) · [Coffee Syrup Recipes Hub](/guides/coffee-syrup-recipes/)*
