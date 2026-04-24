@@ -135,6 +135,7 @@ Yes. Ice cream works fine, though the higher air content means it melts faster a
 - [Ristretto: The Concentrated Short Shot](/recipes/ristretto/)
 - [Lungo: The Extended Espresso](/recipes/lungo/)
 - [Espresso Martini Recipe](/recipes/espresso-martini/) — Another after-dinner espresso experience: vodka + espresso + coffee liqueur, shaken
+- [Coffee Jelly Recipe](/recipes/coffee-jelly/) — Another espresso-meets-cold dessert, Japanese style
 - [Latte Recipe](/recipes/latte/)
 - [Cappuccino Recipe](/recipes/cappuccino/)
 - [How Much Caffeine is in a Shot of Espresso?](/guides/espresso-caffeine-guide/)

@@ -167,4 +167,4 @@ The Caramel Ribbon Crunch Crème Frappuccino is a coffee-free version with caram
 
 ---
 
-*Related drinks: [Caramel Macchiato](/recipes/caramel-macchiato/) | [Caramel Latte](/recipes/caramel-latte/) | [Cold Foam Recipe](/guides/cold-foam/) | [Mocha Recipe](/recipes/mocha/) | [Coffee Frappe Guide](/recipes/coffee-frappe/)*
+*Related drinks: [Caramel Macchiato](/recipes/caramel-macchiato/) | [Caramel Latte](/recipes/caramel-latte/) | [Cold Foam Recipe](/guides/cold-foam/) | [Mocha Recipe](/recipes/mocha/) | [Coffee Frappe Guide](/recipes/coffee-frappe/) | [Java Chip Frappuccino](/recipes/java-chip-frappuccino/)*

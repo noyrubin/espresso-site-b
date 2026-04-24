@@ -154,4 +154,4 @@ Yes. The Greek frappe (Method 2) uses only instant coffee and requires no equipm
 
 ---
 
-*For more iced espresso drinks, see our [iced americano recipe](/recipes/iced-americano/), [shaken espresso guide](/recipes/shaken-espresso/), or [cold brew coffee recipe](/recipes/cold-brew-coffee-recipe/).*
+*For more iced espresso drinks, see our [iced americano recipe](/recipes/iced-americano/), [shaken espresso guide](/recipes/shaken-espresso/), [java chip frappuccino](/recipes/java-chip-frappuccino/), or [cold brew coffee recipe](/recipes/cold-brew-coffee-recipe/).*
