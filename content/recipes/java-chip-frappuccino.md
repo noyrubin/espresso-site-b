@@ -170,6 +170,7 @@ Yes — use ½ cup of very strong cold brew concentrate as a substitute. Brew do
 
 ## Related Drinks
 
+- [Mocha Frappuccino](/recipes/mocha-frappuccino/) — The same espresso + mocha base, without the chocolate chips (currently on US menu)
 - [Caramel Frappuccino](/recipes/caramel-frappuccino/) — The same blended base, caramel instead of mocha
 - [Mocha Recipe](/recipes/mocha/) — The hot version of the chocolate-espresso combination
 - [Coffee Frappe](/recipes/coffee-frappe/) — Greek-style blended coffee compared to the American frappuccino

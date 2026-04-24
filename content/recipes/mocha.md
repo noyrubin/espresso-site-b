@@ -166,3 +166,4 @@ If you enjoy a mocha, try:
 - [White Chocolate Mocha](/recipes/white-chocolate-mocha/) — the sweeter, vanilla-forward cousin with homemade white chocolate sauce
 - [Latte vs Mocha](/guides/latte-vs-mocha/) — full comparison of the two drinks
 - [Caramel Frappuccino](/recipes/caramel-frappuccino/) — blended espresso + caramel + ice, Starbucks copycat
+- [Mocha Frappuccino](/recipes/mocha-frappuccino/) — the blended frozen version of this mocha, with homemade mocha sauce recipe

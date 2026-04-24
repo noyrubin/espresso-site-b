@@ -185,3 +185,7 @@ Refrigerated in a sealed glass jar, homemade vanilla syrup lasts 3–4 weeks. Th
 
 **Is vanilla syrup the same as simple syrup with vanilla?**
 Yes, essentially. Vanilla syrup is flavored simple syrup — a basic 1:1 sugar-to-water syrup infused with vanilla. The difference is in the vanilla source: extract-based syrups taste clean and mild; vanilla bean syrups are richer and have visible specks. Both are "vanilla simple syrup," but coffee recipes often just say "vanilla syrup."
+
+---
+
+*For the complete flavored syrup collection — vanilla, lavender, caramel, hazelnut, brown sugar, pumpkin spice — see the [Coffee Syrup Recipes guide](/guides/coffee-syrup-recipes/).*

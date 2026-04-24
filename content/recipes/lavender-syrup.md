@@ -148,3 +148,7 @@ Start with 1 tablespoon per 12 oz (tall) drink and adjust to taste. Most home ba
 
 **Can I use lavender essential oil instead of dried lavender?**
 No. Lavender essential oil is highly concentrated and most food-grade uses require only a single drop (1–3 drops maximum per recipe), and even then it's a different flavor profile — more perfume-like than the gentle floral of steeped buds. Most essential oils are also not approved for internal consumption. Use culinary lavender buds for the best and safest result.
+
+---
+
+*See all flavored coffee syrups: [Coffee Syrup Recipes Guide](/guides/coffee-syrup-recipes/) — vanilla, caramel, hazelnut, brown sugar, pumpkin spice, and more.*
