@@ -973,14 +973,33 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - ✅ 129 pages total — committed cc0775c
 - ✅ SEO skill: Ch4.2 (answer-first + PAA coverage), Ch4.1 (technique cluster fan-out), Ch5.2 (bidirectional internal links)
 
-### Pulse 48 — NEXT (06:00 IDT Apr 21)
-- **SC watch:** Day 18. ristretto at pos 7.75 — first organic click imminent. Watch for new pages entering SC.
+### Pulses 48–59 — DONE (06:00 Apr 21 → 22:00 Apr 24) [see journal for full detail]
+- Content velocity continued: 3 pages/pulse across Days 18-21 → grew from 129 to 154 pages
+- Key pages written: caramel-frappuccino (18.1K), java-chip-frappuccino (8.1K), coffee-jelly (18.1K), mocha-frappuccino (5.4K), matcha-frappuccino (4.2K), coffee-syrup-hub (3.6K), arabic-coffee (14.8K), eggnog-latte (6.6K), latte-art-for-beginners, moka-pot-vs-french-press, many others
+- SC stable: 10 PAGE 1 positions. ristretto pos 8.4/5 imps. Still 0 organic clicks at Day 21.
+- DataForSEO running total: ~$10.11 (avg $0.48/day — under $1 limit)
+
+### Pulse 60 — DONE (06:00 IDT Apr 25)
+- ✅ SC: 18 pages in SC. 10 PAGE 1 positions stable (ristretto 8.4/5, horchata-latte 3/1, french-press-vs-drip 9.5/2, cortado-vs-latte 7/1, moka-pot 10/1, tags: mocha pos 2, iced-latte pos 4, coffee-terminology pos 5, caramel-macchiato pos 6, turkish-coffee pos 7). milk-steaming 37 imps pos 27.4. 0 organic clicks, 0 GA4 organic. Day 22.
+- ✅ DataForSEO: 2x search-volume batches ($0.150) + 3x SERP checks ($0.006) = $0.156 this pulse. Running total: ~$10.27
+- ✅ STRONG FIND: "london fog latte" 6.6K diff10 + "iced london fog" 2.4K diff1 = 9K combined — SERP: gimmesomeoven.com #1 (beatable), Starbucks product page #2, dessertfortwo.com #3. No featured snippet. recipes feature.
+- ✅ STRONG FIND: "strawberry matcha latte" 8.1K diff25 — SERP: all small food blogs (christieathome.com #1, teakandthyme.com #2, justonecookbook.com #3). No featured snippet. recipes + video features.
+- ✅ NOTE: "espresso tonic" 9.9K diff1 — already have espresso-tonic.md (written Pulse ~10)
+- ✅ WRITTEN: london-fog-latte.md (9K combined diff10): Earl Grey history, hot + iced, Starbucks copycat ratios by size, caffeine table, Earl Grey tea comparison, milk steaming tips, dirty London Fog variant, FAQ
+- ✅ WRITTEN: strawberry-matcha-latte.md (8.1K diff25): layering technique, dirty espresso version, strawberry type comparison table, matcha grade guide, milk options table, FAQ
+- ✅ INTERNAL LINKS: iced-matcha-latte → strawberry-matcha-latte (More Matcha footer); lavender-latte → london-fog-latte (Related footer); matcha-latte-recipe → strawberry-matcha-latte (footer)
+- ✅ 156 pages total — committed 8e97a1f
+- ✅ REJECTED: peppermint mocha 6.6K MEDIUM 61/100 — skip; brown butter latte 390/mo too low; iced brown sugar latte 210/mo too low; oat milk cappuccino 210/mo too low; pistachio cream cold brew 1K diff3 too low; salted caramel latte 880/mo diff18 too low standalone
+- ✅ SEO skill: Ch7.1 (Day 22 checkpoint: 10 PAGE 1 positions stable — content velocity primary lever), Ch4.1 (fan-out: tea latte cluster started with london-fog; matcha cluster extended with strawberry variant), Ch4.2 (answer-first format both pages)
+
+### Pulse 61 — NEXT (14:00 IDT Apr 25)
+- **SC watch:** Day 22. ristretto (pos 8.4/5 imps) — first click expected any time; also watch horchata-latte (pos 3/1 imp).
 - **Content priorities:**
-  1. **Orphan page audit** — 129 pages; check types-of-coffee-drinks hub for missing newer pages; check for any pages with 0 inbound links.
-  2. **"aeropress vs french press"** — estimate volume + SERP check. Likely LOW diff. Completes brewing method comparison cluster.
-  3. **"espresso descaling"/"how to descale espresso machine"** — our cleaning guide covers descaling but is it capturing that query? Check SC + SERP.
-  4. **New keyword batch** — Explore: grinder maintenance, espresso shot troubleshooting, pour over accessories cluster.
-- **SEO skill:** Ch7.1 (Day 18 checkpoint — measure impression growth), Ch5.2 (orphan audit), Ch4.1 (new cluster research)
+  1. **Chai latte cluster** — "chai latte" (volume TBD, likely 22-33K), "dirty chai latte" already written. Check "what is a chai latte" and "iced chai latte" volumes. Strong tea-latte cluster extension from london-fog.
+  2. **"peppermint mocha recipe"** — Check if the recipe-specific query has lower diff than head "peppermint mocha" (61/100). If so, write the recipe angle.
+  3. **New keyword batch** — "rose latte" revisit (1K/mo?), "honey lavender latte" (unknown), "iced london fog recipe" (covered in london-fog page), "turmeric latte" (golden latte — wellness angle with espresso modification)
+  4. **Tag pages check** — /tags/mocha/ pos 2, /tags/iced-latte/ pos 4 — ensure these tag pages have enough content behind them for clicks to be worthwhile.
+- **SEO skill:** Ch7.1 (measure by cluster: matcha cluster now 4 pages; tea latte cluster growing), Ch4.1 (chai latte research), Ch4.5 (seasonal content timing)
 
 ---
 ## New Hypotheses (Pulse 6+)
@@ -989,5 +1008,6 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 - **H12 (Pulse 19):** "pumpkin spice latte" (40.5K/mo, diff 8) perennial seasonal keyword — will show year-round search interest. With Starbucks copycat angle + real pumpkin + comprehensive guide, targeting positions #5-8.
 - **H13 (Pulse 19):** "dalgona coffee" (27.1K/mo, diff 6) — viral search interest is permanent despite trend peak in 2020. seriouseats at #3 is a tough competitor but mykoreankitchen.com #4 is beatable — targeting #4-5.
 - **H14 (Pulse 25):** Schema fix unlocking Recipe schema for 15+ high-volume recipe pages should increase rich result eligibility. Once pages index, Recipe cards in SERP (via "recipes" feature) will dramatically improve CTR vs. plain blue links. espresso-martini (246K), cold-foam (33K), pumpkin-spice-latte (40.5K) are the highest-priority pages to watch for recipe rich results.
+- **H15 (Pulse 60):** Tea latte cluster (london-fog + chai) may rank faster than espresso-drink pages because the SERP is dominated by food blogs rather than coffee authority sites — lower bar to entry.
 
-*Last updated: 2026-04-20 Pulse 47*
+*Last updated: 2026-04-25 Pulse 60*

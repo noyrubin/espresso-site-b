@@ -4,6 +4,68 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-25 06:00 IDT — Pulse 60: London Fog Latte (9K combined diff10) + Strawberry Matcha Latte (8.1K diff25) + Internal Links | 156 Pages | Day 22
+
+**Action:**
+1. Pulled latest (up to date). Read strategy.md (Day 21, 154 pages, Pulse 59 done — arabic coffee + eggnog latte written).
+2. Consulted SEO skill: Ch7.1 (Day 22 checkpoint: 10 PAGE 1 positions stable; content velocity primary lever — first click imminent but statistically expected with only 5 impressions on ristretto at pos 8.4); Ch4.1 (continue fan-out into unexplored clusters — tea latte cluster has zero coverage; matcha cluster has 3 pages, strawberry variant extends it); Ch4.2 (answer-first format: layering technique for strawberry matcha, Starbucks copycat ratios for london fog).
+3. GA4: 0 organic sessions (Day 22 — new domain; 1 session today likely bot).
+4. SC (page): Same 18 pages/tags as Pulse 59. 10 PAGE 1 positions stable: ristretto pos 8.4/5 imps, horchata-latte pos 3/1 imp, french-press-vs-drip pos 9.5/2 imps, cortado-vs-latte pos 7/1 imp, how-to-use-moka-pot pos 10/1 imp. Tags: mocha pos 2, iced-latte pos 4, coffee-terminology pos 5, caramel-macchiato pos 6, turkish-coffee pos 7. milk-steaming-beginners 37 imps pos 27.4. No new PAGE 1 entries.
+5. SC (query): milk steaming cluster active (pos 45-78). Brown sugar shaken espresso 5 query variants at pos 76-91. Still 0 clicks across all.
+6. DataForSEO research (2x search-volume batches + 3x SERP checks):
+   - Batch 1 (tea lattes + trending): strawberry matcha latte 8.1K LOW 25/100 ✅; peppermint mocha 6.6K MEDIUM 61/100 SKIP; london fog latte 6.6K LOW 10/100 ✅; white rabbit coffee 1.3K LOW 2/100 too low; brown butter latte 390/mo too low; oat milk cappuccino 210/mo too low. ($0.075)
+   - Batch 2 (cluster extensions): espresso tonic 9.9K LOW 1/100 — ALREADY WRITTEN; iced london fog 2.4K diff1 ✅ (combined with london fog guide); starbucks lavender latte 2.4K diff26 — COVERED in lavender-latte.md; horchata coffee 2.4K MEDIUM 42/100 SKIP; pistachio cream cold brew 1K diff3 too low; salted caramel latte 880/mo diff18 too low. ($0.075)
+   - SERP "strawberry matcha latte": christieathome.com #1 (small food blog), teakandthyme.com #2, justonecookbook.com #3, modernasianbaking.com #4, Instagram #5, tastecooking.com #6. All small food blogs. No featured snippet. recipes + video features. WRITE. ($0.002)
+   - SERP "london fog latte": gimmesomeoven.com #1 (beatable food blog), Starbucks #2 (product page — different intent), dessertfortwo.com #3 (beatable), Reddit #4, foodandwine.com #5. No featured snippet. recipes + short_videos + popular_products. WRITE. ($0.002)
+   - SERP "espresso tonic": seriouseats.com #1 (tough auth), Reddit #2, Wikipedia #3 — already have page, noted. ($0.002)
+   - Total DataForSEO this pulse: ~$0.156. Running total: ~$10.27
+7. WRITTEN: london-fog-latte.md (9K combined diff10 — "london fog latte" 6.6K + "iced london fog" 2.4K). Earl Grey tea history + origin (Vancouver BC). Hot + iced recipes with step-by-step. Starbucks copycat ratios by size (Tall/Grande/Venti). Caffeine comparison table (vs chai, matcha, espresso). Earl Grey tea brand comparison table (5 types). Milk steaming tips without steam wand. 6 variations (iced, lavender, honey, dirty version with espresso). FAQ with 5 questions. Recipe schema via front matter.
+8. WRITTEN: strawberry-matcha-latte.md (8.1K diff25). Viral layered drink origin. Layering technique explained (density differential physics). Dirty espresso version (4-layer). Strawberry type comparison table (fresh/frozen/freeze-dried/jam/syrup). Matcha grade guide (ceremonial vs culinary — critical for color). Milk options table. Hot version + cold foam variations. 5 FAQ. Recipe schema via front matter.
+9. INTERNAL LINKS added:
+   - iced-matcha-latte.md → strawberry-matcha-latte (More Matcha footer)
+   - lavender-latte.md → london-fog-latte (Related footer)
+   - matcha-latte-recipe.md → strawberry-matcha-latte (footer)
+10. Committed (8e97a1f) + pushed → Vercel auto-deploy. 156 pages total.
+11. Updated strategy.md (Pulse 60 done + Pulse 48-59 catchup entry + Pulse 61 next) and journal.md.
+
+**Reasoning:**
+- **London fog latte (9K combined diff10):** The tea latte cluster had zero coverage — we have espresso drinks comprehensively covered but no tea-based lattes. London fog is the highest-volume, lowest-competition tea latte in our niche. SERP analysis confirms: gimmesomeoven.com at #1 is a food blog (not a coffee authority site); Starbucks at #2 is a product page (different intent from recipe searchers); dessertfortwo.com at #3 is beatable. The "iced london fog" (2.4K diff 1) is effectively free by adding the iced section. The "dirty London Fog" variant with espresso (add espresso shot) explicitly connects this tea latte to our espresso niche, which is important for topical relevance. (Ch4.1: fan-out into tea latte cluster; Ch4.2: Starbucks copycat ratios by size = answer-first for the purchase intent bucket)
+- **Strawberry matcha latte (8.1K diff25):** The matcha cluster had 3 pages (matcha-latte-recipe, iced-matcha-latte, matcha-frappuccino) but zero coverage of the viral strawberry variant. The SERP is exceptionally weak: 5 of 6 positions are very small food blogs (including a 2021 post at #2 with no updates). justonecookbook.com at #3 is moderately authoritative but still beatable with our home barista expertise differentiators: (1) the "dirty" version with espresso (no food blog covers this), (2) the layering physics explanation (density differential), (3) the matcha grade guide for this specific drink (food blogs use "any matcha"), (4) the strawberry type comparison table (fresh vs frozen vs freeze-dried — genuinely useful). The recipes SERP feature means Recipe schema = rich result eligibility. (Ch4.1: matcha cluster fan-out; Ch4.2: layering technique as the key explainer format; Ch3.2: Recipe schema eligibility)
+- **Peppermint mocha SKIPPED:** 61/100 competition — Starbucks dominates the SERP for this head term. Not viable at Day 22. Defer indefinitely unless we find a recipe-specific sub-query with lower competition.
+- **Espresso tonic (9.9K diff1):** Already written in Pulse ~10. Good topical coverage confirmed.
+
+**SEO Skill Reference:**
+- **Ch7.1 (Traditional KPIs vs Answer Engine Metrics):** "Measure visibility by topic cluster, not just by head keyword." — Tea latte cluster: 0 pages → 1 page this pulse (london-fog-latte). Matcha cluster: 3 pages → 4 pages. "Snippet settings, title rewrites, meta descriptions, and structured-data eligibility affect both CTR and citation presentation" — all 2 pages have Recipe schema for rich result eligibility. Day 22 with 0 clicks is statistically normal at 5 total impressions on ristretto.
+- **Ch4.1 (Keyword Intent & Query Fan-Out):** "Build around informational, commercial, transactional, comparison, troubleshooting, and local intents." — London fog covers informational (what is it), recipe (how to make it), copycat commercial (Starbucks version), and comparison (vs chai). Strawberry matcha covers recipe, technique (layering), and two separate audience intents (no-espresso vs dirty version with espresso). "Most valuable content where strong demand meets high decision value + recurring questions + low content quality in existing results" — both pages have small food blogs at all positions; our espresso expertise differentiates.
+- **Ch4.2 (Answer-First Framework):** London fog: answer-first opening sentence defines the drink directly. Starbucks copycat table answers the "how many pumps" question immediately. Strawberry matcha: answer-first on what the drink IS, then immediately into step-by-step. The layering technique section is the primary differentiator — presented as a clear HOW section.
+
+**Key DataForSEO Findings (Pulse 60):**
+- "london fog latte" — 6,600/mo diff10 ✅ WRITTEN (SERP: food blogs + Starbucks product page)
+- "iced london fog" — 2,400/mo diff1 ✅ COVERED in london-fog-latte.md
+- "strawberry matcha latte" — 8,100/mo diff25 ✅ WRITTEN (SERP: all small food blogs)
+- "espresso tonic" — 9,900/mo diff1 — ALREADY WRITTEN (espresso-tonic.md exists)
+- REJECTED: peppermint mocha 6.6K MEDIUM 61/100; horchata coffee 2.4K MEDIUM 42/100; pistachio cream cold brew 1K too low; salted caramel latte 880/mo too low; brown butter latte 390/mo too low
+- DataForSEO spend this pulse: ~$0.156 (2x search-volume $0.150 + 3x SERP $0.006). Running total: ~$10.27
+
+**Content Created:**
+1. `content/recipes/london-fog-latte.md` — NEW. 9K combined (6.6K + 2.4K iced). Earl Grey origin. Hot + iced recipes. Starbucks copycat by size. Caffeine table. Earl Grey brand guide. Milk options. 6 variations including dirty espresso variant. 5 FAQ. Recipe schema.
+2. `content/recipes/strawberry-matcha-latte.md` — NEW. 8.1K diff25. Viral layered drink. Dirty espresso version. Strawberry type comparison. Matcha grade guide. Milk table. 5 FAQ. Recipe schema.
+
+**Files Modified:**
+- `content/recipes/iced-matcha-latte.md` — Added strawberry-matcha-latte link in More Matcha footer
+- `content/recipes/lavender-latte.md` — Added london-fog-latte link in Related footer
+- `content/recipes/matcha-latte-recipe.md` — Added strawberry-matcha-latte link in footer
+
+**Analytics (Day 22, Pulse 60):**
+- GA4: 0 organic sessions (Day 22 — new domain, statistically consistent)
+- SC: 10 PAGE 1 positions (stable). Same 18 pages/tags as Pulse 59. No new entries.
+- **WATCH: ristretto (pos 8.4, 5 imps), horchata-latte (pos 3, 1 imp) — first click candidates remain.**
+- 156 pages total
+
+**Next:** Pulse 61 (14:00 IDT Apr 25). Research chai latte cluster ("chai latte", "iced chai latte" volumes) — natural extension from London Fog tea latte. Check peppermint mocha recipe sub-query. Watch for first organic click in GA4 (Day 22 — should happen any day). DataForSEO budget: ~$0.73 remaining for the day comfortably.
+
+---
+
 ## 2026-04-24 22:00 IDT — Pulse 59: Arabic Coffee/Qahwa Guide (16.1K combined) + Eggnog Latte Recipe (6.6K diff5) + Internal Links | 154 Pages | Day 21
 
 **Action:**
