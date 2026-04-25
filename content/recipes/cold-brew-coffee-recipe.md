@@ -172,3 +172,4 @@ Iced coffee is hot-brewed coffee poured over ice. Cold brew is never heated — 
 - [What Is Cold Brew Coffee?](/guides/what-is-cold-brew-coffee/) — Full explanation of how cold brew works, caffeine, and storage
 - [Cold Brew vs Iced Coffee](/guides/cold-brew-vs-iced-coffee/) — Full comparison: flavor, caffeine, acidity, and cost
 - [Pumpkin Cream Cold Brew](/recipes/pumpkin-cream-cold-brew/) — Starbucks copycat with pumpkin cream cold foam, year-round
+- [What Is Nitro Cold Brew?](/guides/what-is-nitro-cold-brew/) — cold brew infused with nitrogen: the science, Starbucks menu guide, and how to make it at home

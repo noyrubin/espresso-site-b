@@ -1,8 +1,8 @@
 ---
-title: "Café au Lait: What It Is, How to Make It, and How It Differs from a Latte"
-date: 2026-04-11
-description: "Café au lait is brewed coffee mixed with hot milk — not espresso. Learn what makes it different from a latte, how to make both the French and New Orleans styles, and exact ratios."
-tags: ["cafe au lait", "coffee with milk", "french coffee", "New Orleans coffee", "cafe au lait recipe"]
+title: "Café au Lait and Caffè Misto: What They Are, How to Make Them, and How They Differ from a Latte"
+date: 2026-04-25
+description: "Café au lait is brewed coffee with hot milk — not espresso. Learn how it differs from a latte, how to make the French and New Orleans styles, and how to order Starbucks' Caffè Misto."
+tags: ["cafe au lait", "caffe misto", "coffee with milk", "french coffee", "New Orleans coffee", "Starbucks drinks"]
 categories: ["guides"]
 author: "Barista At Home"
 showToc: true
@@ -47,7 +47,7 @@ This is the most-asked question about café au lait, and the answer is simple:
 **The short version:** A latte is espresso + steamed milk. A café au lait is brewed coffee + hot milk. They're similar in concept — a coffee drink diluted with milk — but the coffee base creates fundamentally different flavor profiles.
 
 **What is café au lait called at Starbucks?**
-Starbucks does not have a "café au lait" on their standard menu, but a "Caffè Misto" is the equivalent — it's half brewed coffee and half steamed milk. Order a Caffè Misto and you're getting essentially a café au lait made with Starbucks drip coffee.
+Starbucks calls it a "Caffè Misto" — half brewed coffee (Pike Place) and half steamed milk, the same 1:1 ratio. It's available at every location even if it's not on the printed menu. See the [full Caffè Misto ordering guide below](#what-is-caffè-misto-starbucks-café-au-lait).
 
 ## How to Make Café au Lait: Classic French Style
 
@@ -127,6 +127,50 @@ If you are coming from lattes, café au lait tastes softer and less intense. The
 If you are coming from black coffee, café au lait tastes creamier and more approachable — half the bitterness, twice the comfort.
 
 **The New Orleans version** tastes like black coffee + warm milk but with an earthy, woody undercurrent from the chicory. It's an acquired taste for some and an instant favorite for others. The chicory note is most prominent in the first few sips and mellows as the drink cools slightly.
+
+## What Is Caffè Misto? (Starbucks Café au Lait)
+
+**Caffè Misto is Starbucks' name for café au lait** — half brewed coffee (Pike Place Roast or your choice of any Starbucks coffee) plus half steamed milk. "Misto" is Italian for "mixed."
+
+It is not on the standard printed Starbucks menu in all markets, but it is available at every location by name. Baristas know it well.
+
+### Caffè Misto vs Café au Lait: Any Difference?
+
+Functionally identical. The difference is context:
+
+| | Caffè Misto | Café au Lait |
+|--|-------------|--------------|
+| What it is | Starbucks branding | Traditional French/US term |
+| Coffee base | Starbucks Pike Place (or chosen coffee) | Any brewed coffee |
+| Milk | Steamed whole milk (or your choice) | Hot milk (steamed or heated) |
+| Ratio | 1:1 coffee to milk | 1:1 coffee to milk |
+| Caffeine | ~150 mg (Grande, Pike Place base) | ~80–120 mg (home version) |
+
+The Starbucks version uses more caffeine because Pike Place Roast brews stronger than typical home drip at the volumes used. A Grande Caffè Misto contains roughly 150mg caffeine.
+
+### How to Order a Caffè Misto at Starbucks
+
+- **Standard order:** "Grande Caffè Misto" — you get Pike Place drip + steamed milk, 1:1
+- **Upgrade the coffee:** Ask for it with "pour-over" (any single-origin coffee) instead of Pike Place
+- **Milk options:** Oat milk, almond, coconut, soy — all available at standard upcharge
+- **Add flavors:** A pump of vanilla, caramel, or hazelnut works well; this drink takes syrups better than lattes because the milk-to-coffee ratio makes the base sweeter to begin with
+- **Iced version:** Ask for "iced Caffè Misto" — brewed coffee over ice, cold milk on top. Not the same as iced latte (which uses espresso), but a clean low-calorie iced coffee
+
+### Caffè Misto vs Latte at Starbucks
+
+A latte (at Starbucks) is made with espresso + steamed milk. A Caffè Misto uses brewed drip coffee + steamed milk. If you find lattes too intense or too expensive (Caffè Misto is priced like a brewed coffee, not a specialty drink), the Misto is the better choice.
+
+| | Caffè Misto | Caffè Latte |
+|--|-------------|-------------|
+| Coffee base | Pike Place drip | Espresso shots |
+| Caffeine (Grande) | ~150 mg | 150 mg (2 shots) |
+| Price | Brewed coffee price + milk upcharge | Full specialty price |
+| Flavor | Gentle, grain-forward | Brighter, espresso-forward |
+| Best for | Transitioning from black coffee | Espresso-forward preference |
+
+Interestingly, the caffeine is similar — both Grande versions deliver about 150mg — but the flavor profile is noticeably different.
+
+---
 
 ## Frequently Asked Questions
 

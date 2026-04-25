@@ -1,7 +1,7 @@
 ---
-title: "Ristretto: What It Is, How to Make It & Espresso Comparison"
-date: 2026-04-06
-description: "Learn what a ristretto is, how to pull one at home, and how it compares to espresso and lungo — with troubleshooting tips, a comparison table, and a complete FAQ."
+title: "What Is a Ristretto? The Sweeter, More Concentrated Espresso Shot Explained"
+date: 2026-04-25
+description: "A ristretto is pulled with the same coffee dose as espresso but only half the water — shorter, sweeter, and more concentrated. How to pull one at home, how it tastes, and how it compares to espresso and lungo."
 tags: ["ristretto", "espresso", "recipe", "technique"]
 categories: ["recipes"]
 author: "Barista At Home"
