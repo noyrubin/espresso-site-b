@@ -189,3 +189,7 @@ The matcha paste can be made ahead and refrigerated for up to 24 hours in a seal
 
 **Is matcha latte the same as a green tea latte?**
 They're related but not the same. Matcha is made from shade-grown tea leaves that are stone-ground into a fine powder — giving it a much more intense flavor, deeper green color, and higher antioxidant content than standard green tea. A green tea latte using brewed tea or tea concentrate is milder and less caffeinated.
+
+---
+
+*Related: [Strawberry Matcha Latte](/recipes/strawberry-matcha-latte/) | [Matcha Frappuccino](/recipes/matcha-frappuccino/) | [Iced Matcha Latte](/recipes/iced-matcha-latte/)*

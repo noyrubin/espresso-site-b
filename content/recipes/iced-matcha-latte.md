@@ -188,3 +188,5 @@ Starbucks uses a pre-sweetened matcha blend (matcha powder + sugar) — not pure
 Looking for the hot version or a complete technique overview? See our [matcha latte recipe guide](/recipes/matcha-latte-recipe/) — it covers hot and iced versions, every milk type, and a full troubleshooting section.
 
 Want a blended frozen version? See the [Matcha Frappuccino guide](/recipes/matcha-frappuccino/) — includes the Starbucks Matcha Crème copycat and the "dirty matcha" version with espresso.
+
+Want a fruity twist? Try the [Strawberry Matcha Latte](/recipes/strawberry-matcha-latte/) — the viral three-layer recipe with fresh strawberry puree and an optional espresso shot.

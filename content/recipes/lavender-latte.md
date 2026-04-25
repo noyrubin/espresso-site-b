@@ -150,3 +150,7 @@ Yes. Lavender extract (food-grade) is very concentrated — start with just a fe
 
 **Why does my lavender latte taste like soap?**
 Three possible causes: (1) you over-steeped the lavender in the syrup (past 20 minutes), (2) you used cosmetic-grade or perfume lavender instead of culinary lavender, or (3) you used French lavender (higher camphor content) instead of English lavender. Remake the syrup with culinary *Lavandula angustifolia* and steep for only 10–12 minutes.
+
+---
+
+*Related: [London Fog Latte](/recipes/london-fog-latte/) | [Lavender Syrup Recipe](/recipes/lavender-syrup/) | [Iced Matcha Latte](/recipes/iced-matcha-latte/)*
