@@ -155,4 +155,4 @@ Yes. Use 1–2 tsp of chai powder (like David Rio or Oregon Chai mix) dissolved 
 
 ---
 
-*Also in the iced drinks collection: [Iced Latte →](/recipes/iced-latte/) · [Iced Matcha Latte →](/recipes/iced-matcha-latte/) · [Vietnamese Iced Coffee →](/recipes/vietnamese-iced-coffee/) · [Dirty Chai Latte (hot) →](/recipes/dirty-chai-latte/)*
+*Also in the iced drinks collection: [Iced Latte →](/recipes/iced-latte/) · [Iced Matcha Latte →](/recipes/iced-matcha-latte/) · [Vietnamese Iced Coffee →](/recipes/vietnamese-iced-coffee/) · [Dirty Chai Latte (hot) →](/recipes/dirty-chai-latte/) · [Classic Chai Latte →](/recipes/chai-latte-recipe/)*

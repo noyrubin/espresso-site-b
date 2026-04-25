@@ -208,9 +208,12 @@ A London Fog tastes like a creamy, gently sweet tea latte with a floral citrus n
 **Can you make a London Fog without a milk frother?**
 Yes. Heat the milk in a saucepan and use a French press, handheld frother, or even a mason jar (shake vigorously) to create foam. The drink tastes the same without perfect microfoam — it just looks less café-style.
 
+**What's the difference between an Earl Grey latte and a London Fog?**
+They are the same drink with different names. An Earl Grey latte is made with Earl Grey tea, steamed milk, and typically vanilla syrup — which is exactly what a London Fog is. "London Fog" is the North American café name (originating in Vancouver, BC). "Earl Grey latte" is the more descriptive term. The Starbucks version is officially called the "London Fog Tea Latte." All three refer to the identical drink.
+
 **What's the difference between a London Fog and a chai latte?**
 Both are tea lattes. A chai latte uses spiced black tea (cinnamon, cardamom, ginger, cloves) with milk and usually a sweetener. A London Fog uses Earl Grey tea (bergamot-scented) with vanilla. Chai is spicy-warm; London Fog is floral-citrusy.
 
 ---
 
-*Related: [Lavender Latte](/recipes/lavender-latte/) | [Iced Matcha Latte](/recipes/iced-matcha-latte/) | [Chai Latte](/recipes/chai-latte-recipe/) | [Milk Steaming Guide](/guides/milk-steaming-beginners/)*
+*Related: [Lavender Latte](/recipes/lavender-latte/) | [Iced Matcha Latte](/recipes/iced-matcha-latte/) | [Chai Latte](/recipes/chai-latte-recipe/) | [Golden Latte](/recipes/golden-latte/) | [Milk Steaming Guide](/guides/milk-steaming-beginners/)*

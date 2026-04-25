@@ -183,4 +183,4 @@ Yes — use strong instant coffee, a moka pot, or strong brewed coffee. The hone
 
 ---
 
-*Other naturally sweetened lattes: [Maple Latte](/recipes/maple-latte/) · [Cinnamon Dolce Latte](/recipes/cinnamon-dolce-latte/) · [Lavender Latte](/recipes/lavender-latte/) · [Cardamom Latte](/recipes/cardamom-latte/)*
+*Other naturally sweetened lattes: [Maple Latte](/recipes/maple-latte/) · [Cinnamon Dolce Latte](/recipes/cinnamon-dolce-latte/) · [Lavender Latte](/recipes/lavender-latte/) · [Cardamom Latte](/recipes/cardamom-latte/) · [Golden Latte (Turmeric)](/recipes/golden-latte/)*
