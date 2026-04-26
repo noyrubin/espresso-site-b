@@ -4,6 +4,62 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-26 06:00 IDT — Pulse 63: Café de Olla (67.2K Combined) + Iced Macchiato (5.4K diff 1) | First Organic Click Milestone | 161 Pages | Day 23
+
+**Action:**
+1. Consulted SEO skill (Ch7.1 — measurement at Day 23 with 10 PAGE 1 positions; Ch4.1 — query fan-out for next content targets)
+2. Pulled latest from git (up to date)
+3. Read strategy.md + journal.md for context
+4. Checked GA4: **1 organic session on 2026-04-25 — FIRST ORGANIC CLICK MILESTONE** (Day 22/23 boundary)
+5. Checked SC: Same 10 PAGE 1 positions (ristretto 8.4/5imps, horchata-latte 3/1imp, french-press-vs-drip 9.5/2imps, cortado-vs-latte 7/1imp, moka-pot 10/1imp; tag pages: mocha 2, iced-latte 4, coffee-terminology 5, caramel-macchiato 6, turkish-coffee 7). milk-steaming-beginners 37imps pos 27.4 (stable). latte-macchiato tag 9imps pos 63.2.
+6. DataForSEO research: 3x search-volume batches ($0.225) + 1x SERP check on cafe-de-olla ($0.002)
+7. Discovered "cafe de olla" 60,500/mo — SERP confirmed beatable (food blogs + product page in top 8)
+8. Wrote 2 new content pages + 4 internal link updates
+9. Committed and pushed to git (Vercel auto-deploys)
+10. Updated strategy.md + journal.md
+
+**Reasoning:** Ch7.1 confirms Day 23 with first organic click = site entering early conversion phase; content velocity remains the primary lever. "Cafe de olla" (60.5K) is exactly the type of high-volume, weak-SERP find — SERP populated by a single niche food blog at #1, a bakery product page at #2, and a restaurant homepage at #6. Competition index of 46 overestimates actual difficulty. "Iced macchiato" (5.4K diff 1) fills a macchiato cluster gap: we have what-is-a-macchiato (definitional) and caramel-macchiato (Starbucks-style), but no clean "generic iced macchiato recipe" targeting users who want the espresso-over-milk layering technique.
+
+**SEO Skill Reference:**
+- **Ch7.1 (Measurement):** Day 23 = first organic click arrived. 10 PAGE 1 positions with low CTR (1 session total). Content velocity is the right lever — build more pages to increase the probability surface.
+- **Ch4.1 (Keyword Intent + Query Fan-Out):** "cafe de olla" (60.5K) + "cafe de olla recipe" (5.4K diff 2) + "how to make cafe de olla" (1.3K diff 2) = 67.2K combined. One comprehensive page captures all three phrasing patterns. World coffee culture cluster now complete: Turkish → Arabic → Mexican.
+- **Ch4.2 (Answer-First):** Both pages lead with direct definition. All PAA questions answered as H2 FAQ sections.
+
+**DataForSEO Findings (Pulse 63):**
+- "cafe de olla" — 60,500/mo, MEDIUM 46/100 → ✅ WROTE (SERP analysis confirms beatable)
+- "cafe de olla recipe" — 5,400/mo, LOW 2/100 → ✅ captured in same page
+- "how to make cafe de olla" — 1,300/mo, LOW 2/100 → ✅ captured in same page
+- "mexican coffee" — 18,100/mo, MEDIUM 47/100 → ⏭ defer; cafe-de-olla page naturally captures
+- "iced macchiato" — 5,400/mo, LOW 1/100 → ✅ WROTE
+- "proffee" — 880/mo, HIGH 94/100 → ❌ SKIP
+- "oleato coffee" — 210/mo, LOW 1/100 → ❌ too low volume
+- DataForSEO spend Pulse 63: ~$0.227. Running total: ~$10.89
+
+**Content Created:**
+1. `content/guides/cafe-de-olla.md` — 67.2K combined. 4 home methods, piloncillo guide, canela vs cassia cinnamon table, espresso-based modern latte adaptation (home barista angle), vs Turkish coffee table, piloncillo substitutes, 4 PAA FAQs. Recipe schema.
+2. `content/recipes/iced-macchiato.md` — 5.4K diff 1. Espresso-over-milk layering; vs iced latte table; vs iced caramel macchiato table; 5 variations; Starbucks vs homemade table; 4 PAA FAQs. Recipe schema.
+
+**Internal Links (4 files updated):**
+- cafe-cubano.md → cafe-de-olla
+- what-is-a-macchiato.md → iced-macchiato
+- what-is-turkish-coffee.md → cafe-de-olla
+- cardamom-latte.md → cafe-de-olla
+
+**Analytics (Day 23, Pulse 63):**
+- GA4: **1 organic session 2026-04-25 — FIRST ORGANIC CLICK**
+- SC: 10 PAGE 1 positions stable (unchanged from Pulse 62)
+- Total published pages: 161
+
+**Outcome:** 2 pages deployed. Café de olla is biggest volume find since nitro cold brew. World coffee culture cluster complete: Turkish + Arabic + Mexican.
+
+**Next (Pulse 64):**
+- Check GA4 + SC for additional organic sessions and position changes
+- Research: milk-steaming-beginners CTR optimization opportunity (37 imps pos 27.4 — pushing toward PAGE 1?)
+- New keyword research: iced espresso / cold espresso gap; Malaysian white coffee; specialty brewing topics
+- Skill ref: Ch7.1 (click conversion tracking now meaningful), Ch4.1 (next fan-out)
+
+---
+
 ## 2026-04-25 22:00 IDT — Pulse 62: Nitro Cold Brew (45.7K combined) + Caffè Misto Section (2.4K) + Ristretto CTR Optimization | 159 Pages | Day 22
 
 **Action:**
