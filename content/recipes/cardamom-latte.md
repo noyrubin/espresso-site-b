@@ -136,4 +136,4 @@ No. Chai is a spice blend that includes cardamom alongside cinnamon, ginger, bla
 
 ---
 
-*Related drinks: [Cinnamon Dolce Latte Recipe](/recipes/cinnamon-dolce-latte/) | [Ginger Latte Recipe](/recipes/ginger-latte/) | [Lavender Latte Recipe](/recipes/lavender-latte/) | [Honey Latte Recipe](/recipes/honey-latte/) | [Chai Latte Recipe](/recipes/chai-latte-recipe/) | [Golden Latte (Turmeric)](/recipes/golden-latte/) | [Turkish Coffee Guide](/guides/what-is-turkish-coffee/) | [What Is Arabic Coffee (Qahwa)?](/guides/what-is-arabic-coffee/) | [All Latte Recipes](/recipes/latte/)*
+*Related drinks: [Cinnamon Dolce Latte Recipe](/recipes/cinnamon-dolce-latte/) | [Ginger Latte Recipe](/recipes/ginger-latte/) | [Lavender Latte Recipe](/recipes/lavender-latte/) | [Honey Latte Recipe](/recipes/honey-latte/) | [Chai Latte Recipe](/recipes/chai-latte-recipe/) | [Golden Latte (Turmeric)](/recipes/golden-latte/) | [Turkish Coffee Guide](/guides/what-is-turkish-coffee/) | [What Is Arabic Coffee (Qahwa)?](/guides/what-is-arabic-coffee/) | [Café de Olla](/guides/cafe-de-olla/) | [All Latte Recipes](/recipes/latte/)*

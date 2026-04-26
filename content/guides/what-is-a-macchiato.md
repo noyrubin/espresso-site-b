@@ -169,3 +169,4 @@ A cortado uses a 1:1 ratio of espresso to warm (not foamy) milk — typically 2 
 - [Macchiato vs. Cappuccino](/guides/macchiato-vs-cappuccino/) — Head-to-head size and milk comparison
 - [Flat White vs. Macchiato](/guides/flat-white-vs-macchiato/) — Two very different milk drinks compared
 - [Getting Started with Home Espresso](/guides/getting-started/) — Equipment and technique overview
+- [Iced Macchiato Recipe](/recipes/iced-macchiato/) — How to make a classic layered iced macchiato at home

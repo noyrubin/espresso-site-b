@@ -163,3 +163,4 @@ Yes — café cubano is stronger than a standard espresso per volume because it'
 - [Cortado Recipe](/recipes/cortado/) — the Spanish precursor to the cortadito
 - [How to Use a Moka Pot](/guides/how-to-use-moka-pot/) — the authentic brewing method for café cubano
 - [Espresso Ratio Guide](/guides/espresso-ratio-guide/) — understanding espresso concentration
+- [Café de Olla](/guides/cafe-de-olla/) — Mexican spiced coffee with piloncillo and cinnamon

@@ -164,4 +164,4 @@ Any Arabica bean works well. Medium to dark roasts are traditional. Pre-ground T
 
 ---
 
-*Ready to explore more brewing methods? See our [coffee-to-water ratio guide](/guides/coffee-to-water-ratio/) for every brewing method, or compare your options in our [moka pot vs espresso machine guide](/guides/moka-pot-vs-espresso-machine/). Also related: [What Is Arabic Coffee (Qahwa)?](/guides/what-is-arabic-coffee/) — the cardamom-spiced unfiltered coffee from the Arabian Peninsula, distinct from Turkish coffee.*
+*Ready to explore more brewing methods? See our [coffee-to-water ratio guide](/guides/coffee-to-water-ratio/) for every brewing method, or compare your options in our [moka pot vs espresso machine guide](/guides/moka-pot-vs-espresso-machine/). Also related: [What Is Arabic Coffee (Qahwa)?](/guides/what-is-arabic-coffee/) — the cardamom-spiced unfiltered coffee from the Arabian Peninsula, distinct from Turkish coffee. | [Café de Olla](/guides/cafe-de-olla/) — Mexican spiced coffee tradition with piloncillo and cinnamon.*
