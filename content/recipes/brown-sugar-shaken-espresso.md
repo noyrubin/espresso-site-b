@@ -152,4 +152,4 @@ Always served cold. The shaking process over ice is a defining part of the drink
 
 ---
 
-*Looking to expand your iced drink repertoire? See our [shaken espresso guide](/recipes/shaken-espresso/) for the full technique, or explore [Vietnamese iced coffee](/recipes/vietnamese-iced-coffee/), [cold foam](/recipes/cold-foam/), [iced latte](/recipes/iced-latte/), and [cold brew coffee](/recipes/cold-brew-coffee-recipe/).*
+*Looking to expand your iced drink repertoire? See our [shaken espresso guide](/recipes/shaken-espresso/) for the full technique, or compare with the classic [iced shaken espresso](/recipes/iced-shaken-espresso/) (the unflavored Starbucks version). Also explore [Vietnamese iced coffee](/recipes/vietnamese-iced-coffee/), [cold foam](/recipes/cold-foam/), [iced latte](/recipes/iced-latte/), and [cold brew coffee](/recipes/cold-brew-coffee-recipe/).*
