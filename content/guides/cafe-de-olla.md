@@ -198,3 +198,4 @@ Café de olla is a specific type of Mexican coffee. "Mexican coffee" can refer b
 - [What Is Arabic Coffee (Qahwa)?](/guides/what-is-arabic-coffee/) — Arabian Peninsula spiced coffee tradition
 - [What Is Turkish Coffee?](/guides/what-is-turkish-coffee/) — Unfiltered, simmered coffee with cardamom
 - [Greek Coffee](/guides/greek-coffee/) — Briki-brewed with kaymaki foam and the iced frappé variant
+- [Yemeni Coffee (Qahwa Yemenia & Qishr)](/guides/yemeni-coffee/) — Coffee's birthplace, with the original Mocha port story

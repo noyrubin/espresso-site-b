@@ -190,4 +190,5 @@ The discontinued Doubleshot on Ice was 2 shots of espresso shaken with ice, simp
 - [Iced Latte](/recipes/iced-latte/) — Smoother, milkier alternative
 - [Iced Americano](/recipes/iced-americano/) — Espresso + cold water + ice (no shake)
 - [Iced Macchiato](/recipes/iced-macchiato/) — Layered espresso-over-milk
+- [Olive Oil Coffee (Oleato)](/recipes/olive-oil-coffee/) — Starbucks Oleato copycat using the same shaken-espresso technique
 - [Coffee Syrup Recipes](/guides/coffee-syrup-recipes/) — All flavor syrups for shaken espresso variations

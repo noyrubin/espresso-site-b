@@ -181,3 +181,5 @@ Technically yes — it contains calories (300–450 depending on portions). Whet
 
 **Can I use regular coffee or does it have to be specialty beans?**
 Any coffee works. The fat in butter coffee is rich enough to mask lower-quality beans. That said, a good-quality medium roast or light roast will taste noticeably better.
+
+**Related drinks:** [Olive Oil Coffee (Oleato)](/recipes/olive-oil-coffee/) — the Mediterranean fat-in-coffee drink popularized by Starbucks in 2023, using extra virgin olive oil instead of butter. | [Yemeni Qahwa](/guides/yemeni-coffee/) — traditionally finished with a small spoon of clarified butter (samn).

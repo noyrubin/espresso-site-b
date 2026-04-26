@@ -223,6 +223,7 @@ Specify the sweetness: *sketo* (no sugar), *me ligi* (a little, ½ tsp), *metrio
 
 - [What Is Turkish Coffee?](/guides/what-is-turkish-coffee/) — Greek coffee's closest cousin, brewed in a cezve
 - [What Is Arabic Coffee?](/guides/what-is-arabic-coffee/) — Cardamom-spiced qahwa from the Gulf and Levant
+- [Yemeni Coffee (Qahwa Yemenia & Qishr)](/guides/yemeni-coffee/) — the birthplace of cultivated coffee
 - [Café de Olla](/guides/cafe-de-olla/) — Mexican spiced coffee with piloncillo and canela
 - [Vietnamese Coffee](/guides/vietnamese-coffee/) — Phin filter brewing and condensed milk variations
 - [Espresso Glossary](/guides/espresso-glossary/) — Briki, demitasse, kaymaki and other coffee terms defined

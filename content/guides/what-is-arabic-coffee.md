@@ -215,6 +215,7 @@ In traditional Arab society, refusing a cup of qahwa from a host is considered a
 
 - [What Is Turkish Coffee — and How Is It Different?](/guides/what-is-turkish-coffee/) — the most common comparison
 - [Greek Coffee](/guides/greek-coffee/) — briki-brewed with kaymaki foam and four sugar levels
+- [Yemeni Coffee (Qahwa Yemenia & Qishr)](/guides/yemeni-coffee/) — coffee's birthplace, with cardamom + cinnamon + ginger
 - [Cardamom Latte Recipe](/recipes/cardamom-latte/) — if you love the cardamom flavor in lattes
 - [Cafe Cubano (Cuban Espresso)](/recipes/cafe-cubano/) — another intense cultural coffee tradition
 - [Cafe Con Leche](/guides/cafe-con-leche/) — Spanish-style sweet milk coffee
