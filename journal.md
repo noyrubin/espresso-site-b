@@ -4,6 +4,74 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-26 14:00 IDT — Pulse 64: Greek Coffee (11.7K Combined) + Iced Shaken Espresso (5.4K diff 7) + Milk-Steaming CTR Optimization | 163 Pages | Day 23
+
+**Action:**
+1. Pulled latest from git (already up to date).
+2. Read strategy.md — Pulse 63 was last entry; first organic click landed Day 22.
+3. Read journal.md head — confirmed milk-steaming-beginners was the landing page for first organic click.
+4. Consulted SEO skill: Ch7.1 (Day 23 + first click + 10 PAGE 1 positions = transition from pure velocity to velocity + CTR optimization; "Watch snippet and presentation controls. Snippet settings, title rewrites, meta descriptions, and structured-data eligibility affect both CTR and citation presentation"); Ch4.1 (continue query fan-out for new content).
+5. Checked GA4: 1 organic session 2026-04-25 confirmed (already known); landing page = `/guides/milk-steaming-beginners` — validates this page as highest-leverage CTR optimization target. Today (2026-04-26): 1 session, 4 pageviews, 204s avg duration = real engaged user.
+6. Checked SC pages: same 10 PAGE 1 positions stable; no new positions; milk-steaming-beginners unchanged at 37 imps pos 27.4. SC queries: same query cluster active.
+7. DataForSEO research ($0.081 = 1x search-volume batch 10 keywords $0.075 + 3x SERP $0.006):
+   - Batch: white coffee 14.8K MEDIUM 49 (defer SERP next pulse), greek coffee 8.1K LOW 31 ✅, iced shaken espresso 5.4K LOW 7 ✅ BIG, greek frappe 3.6K LOW 5 ✅ (combined w/ greek coffee), iced espresso 2.4K MEDIUM 65 SKIP, olive oil coffee 2.4K LOW 2 ⏭ DEFER (strong but only 2 hours), cold espresso 1.3K HIGH 99 SKIP, proffee 880 HIGH 94 SKIP, malaysian white coffee 260 too low, oleato latte 20 too low.
+   - SERP "greek coffee": thespruceeats #1 (strong, but tied to a single article published 2024), olivetomato.com #2 (food blog), Amazon #3 (product), greekmarket.com #4 (product), miakouppa.com #5 (food blog), thegreekishlife.com #6 (small lifestyle), Reddit #7, greekfoodemporiumny.com #8 (product). knowledge_graph + popular_products + people_also_ask present. #3-8 are beatable for a comprehensive home barista guide. Combined with "greek frappe" (3.6K diff 5) the combined opportunity is ~11.7K.
+   - SERP "iced shaken espresso": Starbucks #1 (brand product page), mybakingaddiction #2 (beatable), Reddit #3, pinchmeimeating #4 (beatable, brown sugar version), wyseguide #5 (beatable), thehumanbean #6 (small chain blog), Starbucks nutrition #7, myeverydaytable #8. ai_overview = AEO target. NO comprehensive content guide for the GENERIC iced shaken espresso (most pages are brown sugar variant or just product info).
+   - SERP "olive oil coffee": Starbucks Oleato #1, Reddit #2, hintofrosemary #3, citizensofsoil brand #4, aboutoliveoil industry #5, YouTube #6, mauchchunkcoffee #7, texanerin #8, utah healthcare #9. Beatable but deferred to Pulse 65 (didn't want to rush a third page).
+8. WROTE: greek-coffee.md (11.7K combined). Briki technique with 8 numbered steps, 4 sugar levels table (sketo/me ligi/metrios/glykos), kaymaki foam science, full Greek frappé recipe with 1957 Thessaloniki origin story, frappé sugar levels table, vs Turkish coffee comparison table (roast/brand/sweetness/vessel/cup names), caffeine table, common mistakes section, 6 PAA FAQs, Recipe schema. Internal links: turkish-coffee, arabic-coffee, cafe-de-olla, vietnamese-coffee, espresso-glossary.
+9. WROTE: iced-shaken-espresso.md (5.4K diff 7). Generic Starbucks copycat distinct from brown-sugar variant. Starbucks sizing table (Tall/Grande/Venti shots+pumps), vs iced latte vs iced espresso comparison table, why-shake-hot-espresso science section, 6 variations (brown sugar / vanilla / chocolate almondmilk / cinnamon caramel cream / decaf / dirty matcha), no-espresso substitutes section (moka pot, cold brew, AeroPress, instant), caffeine table, common mistakes, 6 PAA FAQs, Recipe schema. Internal links: brown-sugar-shaken-espresso, shaken-espresso, iced-latte, iced-americano, iced-macchiato, coffee-syrup-recipes.
+10. CTR OPTIMIZATION: milk-steaming-beginners.md — title rewritten from "How to Steam Milk for Espresso Drinks: A Beginner's Guide to Microfoam" → "How to Steam Milk at Home: Beginner Microfoam Guide (140–155°F)". Description tightened from "Master milk steaming for lattes, cappuccinos, and flat whites. Step-by-step technique, temperature guide..." → "Steam milk for lattes, cappuccinos, and flat whites in 30 seconds. Exact wand position, temperature (140–155°F), 9-step technique, milk types compared, and the 7 mistakes beginners always make." Updated date to 2026-04-26 for freshness signal.
+11. INTERNAL LINKS: turkish-coffee + arabic-coffee + cafe-de-olla → greek-coffee (cluster bidirectional links). brown-sugar-shaken-espresso + shaken-espresso → iced-shaken-espresso (shaken cluster bidirectional links).
+12. Committed (a38a176) + pushed → Vercel auto-deploy. 163 pages total.
+13. Updated strategy.md and journal.md.
+
+**Reasoning:**
+- **Greek coffee (11.7K combined) — World coffee culture cluster completion:** Our existing world coffee pages (Turkish, Arabic, Mexican Café de Olla, Vietnamese, Cuban, Spanish) form an emerging cluster, but Greek coffee was conspicuously missing. With 8.1K + 3.6K combined and SERP showing two product pages and a Reddit thread in the top 8, this was a clean fill. The Turkish coffee cluster's success at /tags/turkish-coffee/ (pos 7) suggests the world coffee category itself is gaining topical authority, which should accelerate Greek coffee indexing. (Ch4.1: cluster expansion via fan-out; Ch5.1: hybrid-silo — world coffee pages all interlink)
+- **Iced shaken espresso (5.4K diff 7) — Starbucks copycat cluster gap:** We have 3 shaken espresso pages: brown-sugar-shaken-espresso (the Starbucks BSOSE flavored variant), shaken-espresso (head term educational hub), and now iced-shaken-espresso (the GENERIC Starbucks copycat — just espresso, classic syrup, milk splash). The SERP showed mybakingaddiction #2 calling theirs "Starbucks Copycat" — confirming the search intent is recipe-seekers wanting the unflavored original. Diff 7 is essentially zero competition. This page also cross-links naturally to all our other iced espresso content. (Ch4.1: completes the shaken cluster; Ch5.2: bidirectional links from existing high-authority pages)
+- **Milk-steaming CTR optimization — highest-leverage move this pulse:** GA4 landing-pages confirms our first organic click (Day 22, 2026-04-25) landed on /guides/milk-steaming-beginners. This is the MOST valuable signal we've had all experiment. Ch7.1 explicitly calls out CTR optimization on existing PAGE 1 positions as a parallel lever to content velocity. The page is at pos 27.4 with 37 impressions — meaningful volume for testing. Title rewrite to front-load "how to steam milk" exact-match query intent + temperature spec (140-155°F catches the eye for the technical user) + "at home" matches the AI overview phrasing pattern. Description tightened to lead with the value prop (30 seconds) + specific number (7 mistakes) for curiosity. If this moves the page from pos 27 to pos 18-20, that's our second click.
+
+**SEO Skill Reference:**
+- **Ch7.1 (Traditional KPIs vs Answer Engine Metrics):** "Watch snippet and presentation controls. Snippet settings, title rewrites, meta descriptions, and structured-data eligibility affect both CTR and citation presentation." Day 23 + first click on milk-steaming-beginners + page is biggest impression-bearer = highest-ROI optimization target. Also: "Measure visibility by topic cluster, not just by head keyword" — world coffee cluster expansion (Greek) signals topical depth.
+- **Ch4.1 (Keyword Intent + Query Fan-Out):** Greek coffee (8.1K) + greek frappe (3.6K) captured by single page = correct query fan-out (same intent, different phrasings, both answered). Iced shaken espresso = generic-variant gap in cluster (we had brown sugar specific; missing the unflavored Starbucks original).
+- **Ch4.2 (Answer-First Framework):** Both new pages open with bolded direct definition sentence. All PAA questions answered with bolded responses before expansion. Tables throughout for extractability.
+- **Ch5.2 (Internal Linking):** New pages linked bidirectionally from cluster siblings (greek-coffee ↔ turkish/arabic/cafe-de-olla; iced-shaken-espresso ↔ brown-sugar/shaken hubs).
+
+**Key DataForSEO Findings (Pulse 64):**
+- "greek coffee" — 8,100/mo LOW 31/100 ✅ WRITTEN (combined w/ greek frappe)
+- "greek frappe" — 3,600/mo LOW 5/100 ✅ COVERED in greek-coffee.md
+- "iced shaken espresso" — 5,400/mo LOW 7/100 ✅ WRITTEN
+- "white coffee" — 14,800/mo MEDIUM 49/100 — DEFER to Pulse 65 SERP check (could be Malaysian Ipoh or blonde-roast intent)
+- "olive oil coffee" — 2,400/mo LOW 2/100 — DEFER to Pulse 65 (strong opportunity, Starbucks Oleato wellness trend, SERP all small blogs/brands beatable)
+- REJECTED: cold espresso 1.3K HIGH 99; iced espresso 2.4K MEDIUM 65; proffee 880 HIGH 94; malaysian white coffee 260 too low; oleato latte 20 too low
+- DataForSEO spend Pulse 64: ~$0.081 (1x search-volume batch $0.075 + 3x SERP $0.006). Running total: ~$10.97.
+
+**Content Created:**
+1. `content/guides/greek-coffee.md` — NEW. ~11.7K combined. Briki technique, 4 sugar levels, kaymaki foam, frappé recipe with origin story, vs Turkish coffee table, caffeine table, mistakes, 6 PAA FAQs.
+2. `content/recipes/iced-shaken-espresso.md` — NEW. 5.4K diff 7. Starbucks copycat with sizing table, vs iced latte/iced espresso comparison, why-shake science, 6 variations, no-espresso substitutes, 6 PAA FAQs.
+
+**Files Modified:**
+- `content/guides/milk-steaming-beginners.md` — CTR-optimized title + description, date refreshed.
+- `content/guides/what-is-turkish-coffee.md` — Added greek-coffee link in footer.
+- `content/guides/what-is-arabic-coffee.md` — Added greek-coffee in Related Guides.
+- `content/guides/cafe-de-olla.md` — Added greek-coffee in Related Guides.
+- `content/recipes/brown-sugar-shaken-espresso.md` — Added iced-shaken-espresso link in footer.
+- `content/recipes/shaken-espresso.md` — Added iced-shaken-espresso link in footer.
+
+**Analytics (Day 23, Pulse 64):**
+- GA4: First organic click confirmed on milk-steaming-beginners (2026-04-25). Today (2026-04-26): 1 session, 4 pageviews, 204s avg session duration — engaged user.
+- SC: Same 10 PAGE 1 positions stable. milk-steaming-beginners 37 imps pos 27.4 (CTR-optimized this pulse — watch for response).
+- Total published pages: 163.
+
+**Outcome:** 2 high-quality pages deployed. World coffee culture cluster now complete (Turkish + Arabic + Mexican + Greek). Shaken espresso cluster now complete (brown-sugar variant + head term hub + generic original). Highest-leverage CTR optimization deployed on the page that received our first organic click. Spend control on track (~$0.48/day average, well under $1 limit).
+
+**Next (Pulse 65, 22:00 IDT):**
+- Watch SC for milk-steaming-beginners position response (CTR-optimized title needs 2-7 days to be reassessed).
+- Write olive-oil-coffee.md (2.4K LOW 2 — Starbucks Oleato wellness trend, SERP analyzed Pulse 64).
+- SERP-check white coffee 14.8K MEDIUM 49 to determine if it's a single-meaning query or needs disambiguation.
+- Skill ref: Ch7.1 (CTR optimization watch), Ch4.1 (wellness/alternative coffee fan-out continues), Ch4.5 (any seasonal Q3 prep).
+
+---
+
 ## 2026-04-26 06:00 IDT — Pulse 63: Café de Olla (67.2K Combined) + Iced Macchiato (5.4K diff 1) | First Organic Click Milestone | 161 Pages | Day 23
 
 **Action:**
