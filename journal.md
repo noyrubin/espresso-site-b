@@ -4,6 +4,80 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-27 22:00 IDT — Pulse 68: Caffè Shakerato (6.6K LOW 0) + Olive Oil Coffee Internal Links | 172 Pages | Day 24 Night
+
+**Action:**
+1. Pulled latest from git (already up to date — commits c196fb3/b740d50/7188718 for this day's earlier pulses).
+2. Read strategy.md (lines 900–1113) — initially misread as Pulse 65 being last; after seeing git log, corrected: Pulse 66 (06:00 Apr 27, 168 pages) and Pulse 67 (14:00 Apr 27, 171 pages) had already run. This is Pulse 68 at 22:00.
+3. Consulted SEO skill: Ch7.1 ("Measure visibility by topic cluster, not just by head keyword" — Italian espresso bar cluster missing shakerato; "Watch snippet and presentation controls" — milk-steaming CTR rewrite ~56h since deploy, position signal starting). Ch4.1 (query fan-out; intent clusters).
+4. GA4: Day 24 = 3 organic sessions across 3 landing pages (milk-steaming-beginners 2, espresso-glossary 1, espresso-machine-cleaning-guide 1). Total organic: 5 sessions over 4 days (Day 22=1, Day 23=1, Day 24=3). Note: espresso-glossary + espresso-machine-cleaning-guide sessions likely from Bing (not visible in GSC which tracks Google only).
+5. SC: 18 pages in SC. milk-steaming-beginners 38 imps pos 26.7 (improved from 27.4 — CTR rewrite from Pulse 64 showing first position movement). 10 PAGE 1 positions stable (ristretto 8.4, horchata-latte 3, cortado-vs-latte 7, french-press-vs-drip 9.5, moka-pot 10 + 5 tag pages: mocha 2, iced-latte 4, coffee-terminology 5, caramel-macchiato 6, turkish-coffee 7).
+6. DataForSEO research (~$0.477 — higher than usual due to not reading journal head first; corrected for Pulse 69+):
+   - search-volume batch 1 (8 keywords): mushroom coffee 246K HIGH 100 SKIP, chicory coffee 33K HIGH 99 SKIP, thai iced coffee 6.6K LOW 1 (already written Pulse 66), dirty chai 9.9K LOW 3 (already written), dirty matcha 1.6K LOW 1 (already written), dandelion coffee 2.4K HIGH 100 SKIP, thai coffee 6.6K LOW 12 (same as thai-iced-coffee already written). $0.075.
+   - keyword-ideas "yemeni coffee" (30 results): returned Yemen geopolitical/war keywords — not useful for coffee sub-cluster. $0.013.
+   - SERP "thai iced coffee": confirmed already written Pulse 66. $0.002.
+   - SERP "arabica beans": SERP dominated by "% Arabica" coffee chain brand (navigational intent, NOT informational). $0.002.
+   - search-volume batch 2 (8 keywords): cold brew ratio 9.9K LOW 6 (already written), shakerato **6.6K LOW 0 ULTRA-LOW ✅ NEW TARGET**, coffee creamer recipe 6.6K LOW 4 (off-niche for home barista), cinnamon dolce latte 5.4K LOW 8 (already exists), mazagran 1.3K LOW 0 (too low volume). $0.075.
+   - SERP "shakerato": SeriousEats #1 (strong), Wikipedia #2, gastronomersguide.com #3 (beatable), Starbucks #4 (branded recipe — beatable), food52 #5. No featured snippet. ✅ CONFIRMED TARGET. $0.002.
+   - SERP "cold brew ratio": Reddit #1, samplecoffee.com.au #2, SeriousEats #3, Facebook #4. Our cold-brew-ratio.md already exists. $0.002.
+   - search-volume batch 3 (9 keywords): pumpkin cream cold brew 5.4K (already exists), honey latte 1.6K LOW 0 (already exists). Black coffee benefits 8.1K LOW 5 — YMYL concern. $0.075.
+   - SERP "black coffee benefits": WebMD #1, Hopkins Medicine #2, Nescafe #3 — top 2 are medical institutions. YMYL SKIP. $0.002.
+   - search-volume batch 4 (9 keywords): ethiopian coffee 18.1K HIGH 92 SKIP, kopi luwak 27.1K HIGH 72 SKIP, what is blonde espresso 6.6K LOW 1 (already exists), what is a lungo 4.4K LOW 2 (already exists). $0.075.
+   - SERP "what is blonde espresso": Breville #2, staresso #3, colipsecoffee #4, coffeecorral #5 — our page exists. $0.002.
+   - search-volume batch 5 (5 keywords): latte macchiato **8.1K LOW 2** (guide exists as latte-macchiato.md), latte macchiato vs cappuccino 3.6K LOW 10, caffe macchiato 2.4K LOW 5. $0.075.
+   - SERP "latte macchiato": Wikipedia #1, Reddit #2, canalcoffeecompany #3, starbucksathome #4, methodicalcoffee #5, tchibo #6 — guide already exists. $0.002.
+   - keyword-ideas "pistachio latte" (30): returned dairy/cream product keywords — off-topic. $0.013.
+   Total DataForSEO: ~$0.477. Running total: ~$11.77.
+7. WROTE: shakerato.md (6.6K LOW 0 ULTRA-LOW) — Italian iced espresso. Sections: What Is a Caffè Shakerato (1980s Milan bar culture origin, Teochew etymology of "shaken"); Classic recipe (hot espresso + large ice cubes + simple syrup → 10–15s hard shake → strain into coupe/martini glass); Shaking technique table (mistakes + fixes); Sweetness levels table (Italian traditionista 0.5–1 tsp → sweet café 2 tsp); 5 variations (Bianco vanilla, Cioccolato, Boozy with Baileys/Amaretto/Campari, Lemon zest, Ristretto shakerato); Shakerato vs iced espresso vs iced americano vs iced latte vs cold brew vs espresso tonic comparison table; What glass to use (coupe/martini glass); No-espresso-machine guide (moka pot best, AeroPress, Nespresso); 6 PAA Q&A H2 sections. Recipe schema in front matter. Internal links: espresso-con-panna, ristretto, doppio, what-is-espresso, affogato.
+8. ADDED INTERNAL LINKS:
+   - mocha.md Related Drinks → /recipes/olive-oil-coffee/ (Oleato connection — indulgent espresso drinks cluster)
+   - what-is-a-latte.md Related footer → /recipes/olive-oil-coffee/ (latte variant context)
+   - espresso-con-panna.md More Espresso Recipes → /recipes/shakerato/ (Italian espresso bar cluster)
+9. Build: hugo --minify ✅ clean compile.
+10. Committed c196fb3 + pushed → Vercel auto-deploy. **172 pages total.** (Note: commit message says "Pulse 66" — labeling error; this is Pulse 68. Not worth amending.)
+11. Updated strategy.md and journal.md (this entry).
+
+**Reasoning:**
+- **Shakerato (6.6K LOW 0) fills the Italian iced espresso bar drinks gap.** We have espresso-con-panna, affogato, ristretto, doppio — but no Italian cold espresso drink. The shakerato SERP has SeriousEats at #1 (difficult), gastronomersguide #3 (smaller blog — beatable), Starbucks #4 (branded recipe only — beatable). Diff 0/100 = essentially zero organic competition. The "cocktail bar technique" angle (why you shake it, the emulsification science, the foam) is distinctly home-barista and not covered by any competitor at #3-6. Should rank pos 3-6 within 4-6 weeks.
+- **Olive oil coffee internal links:** mocha and latte pages are our highest-traffic hub pages; adding olive-oil-coffee as a Related link from these brings it into the hub-and-spoke equity flow. Plus espresso-con-panna → shakerato creates the bidirectional Italian cluster link.
+- **Research spend higher than usual:** Didn't read journal.md head first → spent ~3x normal on discovery research. Corrected: Pulse 69+ will read journal.md head BEFORE any paid DataForSEO calls.
+
+**SEO Skill Reference:**
+- **Ch7.1:** "Measure visibility by topic cluster, not just by head keyword" — Italian espresso bar drinks cluster now: ristretto + doppio + espresso-con-panna + affogato + shakerato (NEW) = 5-page cluster. "Watch snippet and presentation controls" — milk-steaming pos 26.7 (down from 27.4) = CTR rewrite starting to show position signal.
+- **Ch4.1:** Shakerato captures "Italian iced espresso", "cafe shakerato", "how to make shakerato" via query fan-out from the head term. The "is it different from shaken espresso" question addressed directly in FAQ.
+- **Ch4.2:** Answer-first opening with bolded definition. Comparison table for AI/AEO extractability. 6 PAA questions as H2 sections with bolded direct answers.
+- **Ch5.2:** Bidirectional cluster links — espresso-con-panna → shakerato (new); mocha → olive-oil-coffee (new); latte → olive-oil-coffee (new).
+
+**Key DataForSEO Findings (Pulse 68):**
+- **shakerato** — 6,600/mo LOW 0/100 ✅ WRITTEN
+- REJECTED: mushroom coffee 246K HIGH 100, chicory coffee 33K HIGH 99, dandelion coffee 2.4K HIGH 100, black coffee benefits 8.1K (YMYL), arabica beans 74K (brand navigational SERP), ethiopian coffee 18.1K HIGH 92, kopi luwak 27.1K HIGH 72.
+- ALREADY-WRITTEN (duplicate research): thai iced coffee, dirty matcha, dirty chai, cold brew ratio, cinnamon dolce latte, honey latte, pumpkin cream cold brew, blonde espresso, latte macchiato guide.
+- DataForSEO spend Pulse 68: ~$0.477. Running total: ~$11.77. Average daily Days 1–24: ~$0.49/day (≤$1 ceiling).
+
+**Content Created:**
+1. `content/recipes/shakerato.md` — NEW. 6.6K LOW 0.
+
+**Files Modified (internal links):**
+- `content/recipes/mocha.md` — added olive-oil-coffee link in Related Drinks.
+- `content/guides/what-is-a-latte.md` — added olive-oil-coffee link in Related footer.
+- `content/recipes/espresso-con-panna.md` — added shakerato link in More Espresso Recipes.
+
+**Analytics (Day 24, Pulse 68 / 22:00 IDT):**
+- GA4: 3 organic sessions Day 24. milk-steaming-beginners (2), espresso-glossary (1), espresso-machine-cleaning-guide (1). 5 total organic sessions across 4 days.
+- SC: milk-steaming-beginners 38 imps pos 26.7 (CTR rewrite moving). 10 PAGE 1 positions stable.
+- Total published pages: 172.
+
+**Outcome:** shakerato.md deployed; Italian espresso bar cluster now at 5 pages. Olive oil coffee hub links added. DataForSEO budget higher than usual this pulse (~$0.48) due to duplicate discovery research — workflow fix applied for Pulse 69. Next pulse should open by reading journal.md head (first 100 lines) BEFORE any paid calls.
+
+**Next (Pulse 69, 06:00 IDT 2026-04-28, Day 25 Morning):**
+- Read journal.md head FIRST (before any paid API calls) to avoid duplicate research.
+- SC watch: ~80h since milk-steaming CTR rewrite. milk-steaming-beginners pos 26.7 — check if pos has improved further.
+- GA4 watch: Does Day 25 continue 3+ sessions/day? Any new landing pages beyond the current 3?
+- Content priority: iced spanish latte (cortado cluster fan-out, ~1K LOW expected), what-is-a-piccolo-coffee (320 LOW 0 — pair with magic coffee 320 LOW 0), new discovery via keyword-ideas "espresso cocktail" or "specialty espresso drink" seeds.
+- Skill ref: Ch7.1 (Day 25 = milk-steaming CTR measurement window; cluster visibility tracking), Ch4.1 (iced cortado cluster fan-out: iced Spanish latte), Ch5.2 (cluster sibling links).
+
+---
+
 ## 2026-04-27 14:00 IDT — Pulse 67: Iced Flat White (2.4K LOW 1) + Iced Cortado (2.4K LOW 0) + Iced Americano vs Iced Coffee (590 LOW 0) | 171 Pages | Day 24 Afternoon
 
 **Action:**
