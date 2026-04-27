@@ -180,3 +180,4 @@ No — espresso is stronger by definition (no milk dilution). A cortado contains
 - [Cortado vs Flat White](/guides/cortado-vs-flat-white/) — similar size, different milk ratios
 - [What Is a Gibraltar Coffee?](/guides/what-is-gibraltar-coffee/) — the American specialty coffee twin
 - [Cortado Recipe](/recipes/cortado/) — step-by-step guide to making one at home
+- [Iced Cortado Recipe](/recipes/iced-cortado/) — the same equal-parts ratio over ice, full recipe and variations

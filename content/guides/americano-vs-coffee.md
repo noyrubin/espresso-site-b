@@ -125,4 +125,4 @@ Yes — it tastes like a milder, more diluted version of espresso. If you're use
 
 ---
 
-*See also: [What Is an Americano?](/guides/what-is-an-americano/) · [What Is Drip Coffee?](/guides/what-is-drip-coffee/) · [Espresso vs. Coffee](/guides/espresso-vs-coffee/) · [Espresso vs. Americano](/guides/espresso-vs-americano/)*
+*See also: [What Is an Americano?](/guides/what-is-an-americano/) · [What Is Drip Coffee?](/guides/what-is-drip-coffee/) · [Espresso vs. Coffee](/guides/espresso-vs-coffee/) · [Espresso vs. Americano](/guides/espresso-vs-americano/) · [Iced Americano vs Iced Coffee](/guides/iced-americano-vs-iced-coffee/)*

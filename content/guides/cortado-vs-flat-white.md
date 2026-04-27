@@ -169,4 +169,6 @@ No — a flat white is smaller and more concentrated than a latte. See our [Flat
 - [Cortado vs Macchiato](/guides/cortado-vs-macchiato/) — the small espresso-with-milk comparison
 - [What Is a Flat White?](/guides/what-is-a-flat-white/) — origin, ratio, and how it compares to all drinks
 - [What Is Cortado Coffee?](/guides/what-is-cortado-coffee/) — the complete cortado guide
+- [Iced Cortado Recipe](/recipes/iced-cortado/) — the iced version of the smaller, stronger drink
+- [Iced Flat White Recipe](/recipes/iced-flat-white/) — the iced version with ristretto shots and cold whole milk
 - [Getting Started with Home Espresso](/guides/getting-started/)

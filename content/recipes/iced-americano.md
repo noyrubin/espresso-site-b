@@ -151,4 +151,4 @@ They're roughly similar. A double-shot iced americano has ~140mg caffeine. A 12o
 
 ---
 
-*Want to explore more iced espresso drinks? Try the [red eye coffee](/recipes/red-eye-coffee/) for maximum caffeine, our [iced latte recipe](/recipes/iced-latte/), the [classic hot americano guide](/recipes/americano/), or the [iced coffee recipe with 4 methods](/recipes/iced-coffee-recipe/).*
+*Want to explore more iced espresso drinks? Try the [red eye coffee](/recipes/red-eye-coffee/) for maximum caffeine, our [iced latte recipe](/recipes/iced-latte/), the [iced flat white](/recipes/iced-flat-white/) for a milkier alternative, the [iced cortado](/recipes/iced-cortado/) for a small strong drink, or compare iced americano to plain [iced coffee](/guides/iced-americano-vs-iced-coffee/) and to the [classic hot americano](/recipes/americano/).*

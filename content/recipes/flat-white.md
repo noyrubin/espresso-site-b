@@ -100,7 +100,7 @@ If the espresso gets lost in the milk, try a ristretto shot (shorter, more conce
 
 ## Variations
 
-- **Iced flat white:** Pull a double shot over ice in a small glass, top with 3-4oz of cold milk. No foam. Stir gently.
+- **[Iced flat white](/recipes/iced-flat-white/):** Two ristretto shots over cold whole milk and ice in a 12oz glass — no foam, no syrup. The summer version of this drink.
 - **Double ristretto flat white:** Use two ristretto shots (18g in, 25g out) for an even more concentrated drink. Popular in Australian specialty cafes.
 - **Oat flat white:** Use barista-edition oat milk. The natural sweetness of oat milk pairs beautifully with medium-roast espresso.
 

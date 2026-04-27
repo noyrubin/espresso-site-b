@@ -78,7 +78,7 @@ The cortado sits between a macchiato (barely any milk) and a flat white (more mi
 
 ## Variations
 
-- **Iced cortado:** Pull espresso over ice, add cold milk. Use a 1:1 ratio. Simple and refreshing.
+- **[Iced cortado](/recipes/iced-cortado/):** Double espresso poured over equal parts cold milk and a few ice cubes in a small 5–6 oz glass. The Spanish iced espresso drink, full recipe and variations.
 - **Cortado with honey:** Add 1 teaspoon of honey to the espresso before adding milk. The sweetness pairs well with nutty or chocolatey espresso.
 - **Cortadito (Cuban-style):** Whip a small amount of the first espresso drops with sugar to create "espuma," then top with steamed milk.
 

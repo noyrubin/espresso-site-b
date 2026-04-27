@@ -191,3 +191,5 @@ An iced latte should be consumed immediately. Once made, the ice continues to me
 - [Getting Started with Home Espresso](/guides/getting-started/) — Complete beginner's guide
 - [How to Make Iced Coffee (4 Methods)](/recipes/iced-coffee-recipe/) — Flash brew, cold brew, and blended iced coffee without an espresso machine
 - [Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/) — A shaken iced espresso drink with brown sugar and cinnamon
+- [Iced Flat White](/recipes/iced-flat-white/) — Stronger ristretto-based version with less milk
+- [Iced Cortado](/recipes/iced-cortado/) — The smaller, much stronger 1:1 espresso-to-milk drink

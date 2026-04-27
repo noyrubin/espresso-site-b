@@ -172,3 +172,6 @@ Stronger than a latte or cappuccino, but not the strongest milk drink. A cortado
 
 **Does flat white have more caffeine than a latte?**
 Not necessarily — both typically use a double shot. A flat white is stronger in taste because there's less milk diluting the espresso, but the actual caffeine content is similar if both use a double shot.
+
+**Is there an iced flat white?**
+Yes. The [iced flat white](/recipes/iced-flat-white/) uses two ristretto shots over cold whole milk and ice in a 12 oz glass — no foam. It's stronger and more concentrated than an iced latte.
