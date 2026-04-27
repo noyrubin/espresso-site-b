@@ -81,6 +81,8 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 - Content priority: **iced flat white** (if validates — flat white cluster expansion); **iced cortado** if validates; **dirty chai vs dirty matcha** standalone comparison page if SERP shows gap.
 - Skill ref: Ch7.1 (CTR + cluster), Ch4.1 (cluster gap-filling), Ch5.2 (orphan + cross-cluster link audits).
 
+**Reconciliation note (08:55 IDT addendum):** A second concurrent Pulse 66 instance fired before this entry's author observed commit `90709cb`. Both runs independently consulted SEO skill Ch7.1, pulled GA4/SC, and ran the same DataForSEO batch + 2 SERP checks (thai-iced-coffee, dirty-matcha) before the second run detected the already-pushed commit. Net effect: no content duplication (commit `90709cb` is the canonical record), but actual DataForSEO spend for Pulse 66 was ~$0.160 (2× the $0.081 logged above), because both runs queried the API. **Corrected running total: ~$11.21** (was $11.13). Average daily Days 1–24: ~$0.47/day, still well under $1 ceiling. Future pulse: read git log + check `git status` for unrelated processes' commits before running paid API calls.
+
 ---
 
 ## 2026-04-26 22:00 IDT — Pulse 65: Yemeni Coffee (60.5K LOW 7) + Olive Oil Coffee / Oleato (2.4K LOW 2) | 165 Pages | Day 23 Night
