@@ -190,3 +190,5 @@ Looking for the hot version or a complete technique overview? See our [matcha la
 Want a blended frozen version? See the [Matcha Frappuccino guide](/recipes/matcha-frappuccino/) — includes the Starbucks Matcha Crème copycat and the "dirty matcha" version with espresso.
 
 Want a fruity twist? Try the [Strawberry Matcha Latte](/recipes/strawberry-matcha-latte/) — the viral three-layer recipe with fresh strawberry puree and an optional espresso shot.
+
+Want espresso in your matcha? See the [Dirty Matcha Latte](/recipes/dirty-matcha/) — matcha + espresso layered, iced or hot, with the cortisol question answered.

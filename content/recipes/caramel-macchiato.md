@@ -177,6 +177,7 @@ A homemade double-shot caramel macchiato has roughly 120-140mg of caffeine — t
 
 If you enjoy a caramel macchiato, try:
 
+- [Iced Caramel Macchiato](/recipes/iced-caramel-macchiato/) — the iced version with caramel drizzle on top
 - [Latte](/recipes/latte/) — same milk base, no sweeteners, simpler profile
 - [Iced Latte](/recipes/iced-latte/) — cold, refreshing, easy to customize
 - [Cappuccino](/recipes/cappuccino/) — smaller, stronger, more foam

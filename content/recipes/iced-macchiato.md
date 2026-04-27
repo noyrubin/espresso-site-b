@@ -166,7 +166,8 @@ Yes. Strong Moka pot coffee (2 oz concentrated) works well as a substitute. Cold
 ## Related Recipes
 
 - [What Is a Macchiato?](/guides/what-is-a-macchiato/) — All macchiato types explained
-- [Iced Caramel Macchiato](/recipes/caramel-macchiato/) — Starbucks-style with caramel drizzle
+- [Iced Caramel Macchiato](/recipes/iced-caramel-macchiato/) — Starbucks-style with caramel drizzle
+- [Caramel Macchiato (hot)](/recipes/caramel-macchiato/) — The hot version
 - [How to Make Cold Foam](/recipes/cold-foam/) — For the cold foam iced macchiato variation
 - [Iced Latte Recipe](/recipes/iced-latte/) — The smoother, blended alternative
 - [Shaken Espresso](/recipes/shaken-espresso/) — Another cold espresso technique

@@ -181,4 +181,4 @@ Very good iced. The iced version is arguably more refreshing than the hot versio
 
 ---
 
-*Explore more espresso drink recipes: [caramel macchiato](/recipes/caramel-macchiato/), [mocha latte](/recipes/mocha/), [cortado](/recipes/cortado/), [iced latte](/recipes/iced-latte/), and [pumpkin spice latte](/recipes/pumpkin-spice-latte/). For the cold version, see the [iced chai latte →](/recipes/iced-chai-latte/). For the base drink without espresso, see the [classic chai latte →](/recipes/chai-latte-recipe/).*
+*Explore more espresso drink recipes: [caramel macchiato](/recipes/caramel-macchiato/), [mocha latte](/recipes/mocha/), [cortado](/recipes/cortado/), [iced latte](/recipes/iced-latte/), and [pumpkin spice latte](/recipes/pumpkin-spice-latte/). For the cold version, see the [iced chai latte →](/recipes/iced-chai-latte/). For the base drink without espresso, see the [classic chai latte →](/recipes/chai-latte-recipe/). For the matcha version of "dirty," see the [dirty matcha latte →](/recipes/dirty-matcha/).*

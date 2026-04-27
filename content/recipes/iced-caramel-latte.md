@@ -175,5 +175,6 @@ Yes — a moka pot makes strong enough coffee to use as an espresso substitute. 
 - [Caramel Latte (hot version)](/recipes/caramel-latte/) — the hot counterpart with steamed milk
 - [Iced Vanilla Latte](/recipes/iced-vanilla-latte/) — same construction, vanilla syrup base
 - [Iced Latte](/recipes/iced-latte/) — unflavored version for a purer espresso flavor
-- [Caramel Macchiato](/recipes/caramel-macchiato/) — the layered Starbucks-style version
+- [Iced Caramel Macchiato](/recipes/iced-caramel-macchiato/) — the layered version with caramel drizzle on top
+- [Caramel Macchiato (hot)](/recipes/caramel-macchiato/) — the layered Starbucks-style version, hot
 - [Iced Americano](/recipes/iced-americano/) — espresso over ice with water, no milk, no sweetener

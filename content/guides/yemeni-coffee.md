@@ -184,5 +184,6 @@ You can, but the flavor will be different. Espresso beans are typically dark-roa
 - **[What Is Greek Coffee?](/guides/greek-coffee/)** — the Mediterranean cousin
 - **[Cafe de Olla](/guides/cafe-de-olla/)** — Mexico's spiced coffee tradition
 - **[Vietnamese Coffee](/guides/vietnamese-coffee/)** — Asia's coffee culture
+- **[Thai Iced Coffee (Oliang)](/recipes/thai-iced-coffee/)** — another cardamom-led tradition
 - **[Cardamom Latte](/recipes/cardamom-latte/)** — modern espresso version inspired by Middle Eastern coffee
 - **[Mocha Recipe](/recipes/mocha/)** — the chocolate-coffee drink named after Yemen's port

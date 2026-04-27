@@ -4,6 +4,151 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-27 06:00 IDT — Pulse 66: Thai Iced Coffee (13.2K combined) + Iced Caramel Macchiato (22.2K LOW 5) + Dirty Matcha (3.6K LOW 0) | 168 Pages | Day 24 Morning
+
+**Action:**
+1. Pulled latest from git (already up to date).
+2. Read strategy.md head + journal.md head — confirmed Pulse 65 baseline (165 pages, world coffee culture cluster of 5 pages, milk-steaming CTR test in flight ~32h since deploy).
+3. Consulted SEO skill: Ch7.1 — "Measure visibility by topic cluster, not just by head keyword. As query fan-out grows, topical share often tells you more than isolated keyword movements." + "Watch snippet and presentation controls. Snippet settings, title rewrites, meta descriptions, and structured-data eligibility affect both CTR and citation presentation." Day 24, ~40h since CTR rewrite = still inside Google reassessment window. Continue content velocity. Ch4.1 (intent clusters not single terms; query fan-out + conversational prompting).
+4. GA4 check: **Day 24 = 3 organic sessions across 3 different landing pages** (milk-steaming-beginners 2 sessions, espresso-glossary 1, espresso-machine-cleaning-guide 1). Up from 1/day. Multi-page entry confirms long-tail queries beginning to convert. Total organic to date: Day 22 = 1, Day 23 = 1, Day 24 = 3 = 5 sessions.
+5. SC check: Same 10 PAGE 1 positions stable (ristretto 8.4, horchata-latte 3, french-press-vs-drip 9.5, cortado-vs-latte 7, how-to-use-moka-pot 10 + 5 tag pages). milk-steaming-beginners 37 imps pos 27.4 (CTR rewrite still pre-reassessment).
+6. DataForSEO research ($0.081 = 1x search-volume batch 8 keywords $0.075 + 3x SERP $0.006):
+   - Batch: mushroom coffee 246K HIGH 100 SKIP (ad/brand-dominated), chicory coffee 33K HIGH 99 SKIP, dandelion coffee 2.4K HIGH 100 SKIP, **iced caramel macchiato 22.2K LOW 5 ✅ MAJOR**, **thai iced coffee 6.6K LOW 1 ✅**, **thai coffee 6.6K LOW 12 ✅** (combined with thai-iced-coffee), **dirty matcha 3.6K LOW 0 ✅ ULTRA-LOW**, thai tea latte 480 LOW 9 (too low alone).
+   - SERP "thai iced coffee": thespruceeats #2 strong but beatable, thai-foodie #3, Reddit #4, YouTube #5, torontopho #6, giantofsiam #7, Facebook #8 — all #2+ beatable; 4 PAA. Asian coffee culture cluster gap confirmed.
+   - SERP "dirty matcha": Reddit #1, nioteas brand #2, thebuttertable #3, matcha.com #4, foodbyjonister #5, hintofrosemary #6, TikTok #7 — all #2-7 beatable.
+   - SERP "iced caramel macchiato": Starbucks #1, sugarandsoul.co #2, allrecipes #3, Torani #4, YouTube #5, Starbucks At Home #6, Nespresso #7, hintofrosemary #8 — positions 2-3 are realistic.
+7. WROTE 3 pages:
+   - `content/recipes/thai-iced-coffee.md` (6.6K + 6.6K = 13.2K combined LOW 1+12) — Asian coffee culture cluster expansion. Sections: What Is Thai Iced Coffee (Oliang/Gafeh Yen names, Teochew etymology); Oliang spice blend explained (corn + soybeans + sesame + cardamom + tamarind table); Authentic recipe (long steep 5–8 min + sugar + condensed milk + evaporated milk float technique); Spice shortcut recipe (no Oliang powder); Espresso machine shortcut; Thai vs Vietnamese iced coffee comparison table (8-feature comparison); Best coffee for Thai iced coffee; 5 variations (Iced Thai Tea Coffee Mix / Coconut / Spiked Mekhong / Hot Thai Coffee / Latte version); Common mistakes; Caffeine table by size; 6 PAA Q&A H2 sections incl. "What does Thai iced coffee consist of?", "What is different about Thai iced coffee?", "What is the difference between Vietnamese and Thai iced coffee?", "Without condensed milk?". Recipe schema. Internal links to vietnamese-iced-coffee + vietnamese-egg-coffee + cardamom-latte + yemeni-coffee + iced-latte + cold-brew.
+   - `content/recipes/iced-caramel-macchiato.md` (22.2K LOW 5) — biggest target this pulse. Sections: full layered Starbucks copycat recipe (vanilla syrup + cold milk + ice + espresso poured LAST + caramel sauce drizzle); Pour Order Matters: Macchiato vs Latte education; Tall/Grande/Venti exact ratios table; **Iced Caramel Macchiato vs Iced Caramel Latte** comparison table (the #1 PAA from SERP); Iced Caramel Macchiato vs Iced Latte comparison; Best espresso/best milk tables; 6 variations (Salted Caramel / Vanilla-only / Hazelnut / Brown Sugar Caramel / Skinny / Upside-Down Secret Menu); Homemade caramel sauce 5-min recipe; Common mistakes that ruin layering; Caffeine table by size; 6 PAA H2 Q&A incl. all 3 SERP PAAs answered; "Why is my iced caramel macchiato not layered" troubleshooting. Recipe schema. Internal links to caramel-macchiato (hot) + iced-caramel-latte + iced-macchiato + what-is-a-macchiato + brown-sugar-shaken-espresso + vanilla-syrup + coffee-syrup-recipes-hub. Also FIXED a broken link in iced-macchiato.md that pointed "Iced Caramel Macchiato" to /recipes/caramel-macchiato/ — now correctly points to new dedicated page.
+   - `content/recipes/dirty-matcha.md` (3.6K LOW 0) — ULTRA-LOW comp; iced + hot 3-layer recipe (milk → matcha → espresso for iced, espresso on top of matcha latte for hot); Why drink matcha + espresso together (L-theanine + caffeine balance); 175°F whisking technique with bamboo chasen or electric frother; Matcha grade table for dirty matcha (standard ceremonial = sweet spot); Best espresso/best milk tables; **Dirty Matcha vs Regular Matcha Latte** comparison; **Dirty Matcha vs Dirty Chai** comparison; 5 variations (Dirty Matcha with Vanilla Cold Foam / Honey Lavender / Brown Sugar Iced / Dirty Matcha Affogato / Coconut); Sweetening notes (honey, maple, vanilla syrup); Common mistakes (boiling water, no sift, cheap matcha); 7 PAA Q&A H2 sections incl. "What is in a dirty matcha?", "Why is it called dirty matcha?", "What's the difference between matcha and dirty matcha?", "Can matcha lower cortisol?" (answered honestly with caveats — no overclaim), "Is dirty matcha at Starbucks?", "How much caffeine?". Recipe schema. Internal links to iced-matcha-latte + matcha-latte-recipe + matcha-frappuccino + strawberry-matcha-latte + dirty-chai-latte + cold-foam + coffee-syrup-recipes.
+8. INTERNAL LINKS — bidirectional sibling links:
+   - vietnamese-iced-coffee + vietnamese-egg-coffee + yemeni-coffee → thai-iced-coffee.
+   - caramel-macchiato + iced-caramel-latte + iced-macchiato + what-is-a-macchiato → iced-caramel-macchiato. Fixed broken link in iced-macchiato.md.
+   - matcha-latte-recipe + matcha-frappuccino + iced-matcha-latte + dirty-chai-latte → dirty-matcha.
+9. Committed + pushed → Vercel auto-deploy. 168 pages total.
+10. Updated strategy.md (Pulse 66 block in current phase, 3 new keyword target rows, page count 165→168) and journal.md (this entry).
+
+**Reasoning:**
+- **Day 24 acceleration is the headline analytics finding.** GA4 went from 1 organic session/day (Days 22–23) to **3 sessions across 3 different landing pages** on Day 24. Multi-page entry is structurally important: it means it isn't just milk-steaming-beginners getting clicks, but long-tail queries are starting to convert across the broader content base (espresso-glossary + espresso-machine-cleaning-guide are NOT in the top 25 SC pages, so they're getting clicks from very long-tail queries we can't even see in the SC dashboard). This is the "indexing latency dropping" + "long-tail compounding" signal we'd expect at this stage. Day 24 looks like a possible inflection point.
+- **Why content velocity continued (not pure CTR optimization):** milk-steaming-beginners CTR rewrite was deployed ~40h ago — still inside the typical 2–7 day Google reassessment window. Re-rewriting now would muddle the signal. Continued velocity is the correct call.
+- **iced caramel macchiato (22.2K LOW 5) — biggest single target this pulse.** SERP analysis showed positions 2-3 realistic against sugarandsoul.co food blog and allrecipes — both beatable with comprehensive comparison-table content. KEY differentiator: existing iced-caramel-latte page covers a DIFFERENT drink (mixed pour, not layered), and existing iced-macchiato is unsweetened. The dedicated layered+caramel version was a clear gap in our cluster. The PAA-driven "iced caramel macchiato vs iced caramel latte" question is exactly what we answer with a side-by-side comparison table — first page in the SERP to do this directly. Also fixed a broken internal link in iced-macchiato.md.
+- **thai iced coffee (13.2K combined LOW 1) — Asian coffee culture cluster expansion.** Vietnamese was already done; Thai was the obvious next sibling. Differentiation: most SERP results are basic "strong coffee + condensed milk" recipes that miss the Oliang spice blend (corn + soybeans + sesame + cardamom). Our page is the first home-barista guide that covers this properly + provides the Thai vs Vietnamese comparison directly. Cluster fit: world coffee culture cluster grows from 5→6 pages (Turkish + Arabic + Mexican + Greek + Yemeni + Thai).
+- **dirty matcha (3.6K LOW 0) — ULTRA-LOW comp matcha cluster expansion.** Diff 0/100 with all-beatable SERP — essentially zero competition. Existing matcha-frappuccino has a "dirty matcha frappuccino" section but no dedicated dirty matcha latte page. Our home-barista angle: 3-layer technique (milk → matcha → espresso), honest cortisol/L-theanine answer (no overclaim — TikTok-era nutrition discourse needs accurate answers), dirty matcha vs dirty chai comparison.
+- **Why we REJECTED mushroom (246K), chicory (33K), dandelion (2.4K) coffee:** All three came back HIGH ad competition (99-100/100). Even though they're in the wellness/caffeine-alternative cluster, the SERPs are dominated by branded products (Four Sigmatic, MUD\WTR, Worldwide Botanicals, etc.), affiliate review sites, and YMYL-flavored health claims. New domain at Day 24 cannot compete in this ad-dense product-comparison territory. Different game; revisit if/when site reaches Day 90+ with established authority.
+
+**SEO Skill Reference:**
+- **Ch7.1:** "Measure visibility by topic cluster, not just by head keyword. As query fan-out grows, topical share often tells you more than isolated keyword movements." → World coffee culture cluster now 6 pages (Turkish + Arabic + Mexican + Greek + Yemeni + Thai); macchiato cluster now 5+ pages (caramel-macchiato hot, iced-macchiato, iced-caramel-macchiato NEW, what-is-a-macchiato, latte-macchiato, macchiato-vs-cappuccino, flat-white-vs-macchiato, latte-vs-macchiato, cortado-vs-macchiato); matcha cluster now 5 pages (matcha-latte-recipe, iced-matcha-latte, matcha-frappuccino, strawberry-matcha-latte, dirty-matcha NEW). "Watch snippet and presentation controls" → milk-steaming CTR test continues; revisit at Day 26 (~3-day mark) if SC data shows movement.
+- **Ch4.1:** Query fan-out within macchiato cluster (pour-order distinction creates separate intents — iced caramel latte vs iced caramel macchiato are sibling queries, not duplicates); Asian coffee culture fan-out (Vietnamese → Thai siblings via shared brewing tradition, distinct via spice blend); matcha "dirty" modifier as separate intent.
+- **Ch4.2 (Answer-First):** All 3 new pages open with bolded direct definition. PAA questions answered as H2 sections with bolded responses then expansion. Comparison tables throughout for AI/AEO extractability.
+- **Ch5.2 (Internal Linking):** Bidirectional cluster sibling links across Asian coffee, macchiato, and matcha clusters. Fixed broken link in iced-macchiato → caramel-macchiato (hot) → now correctly points to new iced-caramel-macchiato.
+
+**Key DataForSEO Findings (Pulse 66):**
+- **iced caramel macchiato** — 22,200/mo LOW 5/100 ✅ WRITTEN (biggest target this pulse; layered Starbucks copycat distinct from existing iced-caramel-latte)
+- **thai iced coffee** — 6,600/mo LOW 1/100 ✅ WRITTEN (Asian cluster expansion; covers thai coffee 6.6K LOW 12 too)
+- **dirty matcha** — 3,600/mo LOW 0/100 ✅ WRITTEN (ULTRA-LOW comp; matcha cluster expansion)
+- REJECTED: mushroom coffee 246K HIGH 100 (ad-dominated), chicory coffee 33K HIGH 99 (ad-dominated), dandelion coffee 2.4K HIGH 100 (ad-dominated), thai tea latte 480 LOW 9 (too low standalone — partially captured in thai-iced-coffee page).
+- DataForSEO spend Pulse 66: ~$0.081 (1x search-volume batch $0.075 + 3x SERP $0.006). Running total: ~$11.13. Average daily Days 1–24: ~$0.46/day, well under $1 ceiling.
+
+**Content Created:**
+1. `content/recipes/thai-iced-coffee.md` — NEW. 6.6K + 6.6K = 13.2K LOW 1+12.
+2. `content/recipes/iced-caramel-macchiato.md` — NEW. 22.2K LOW 5. **Biggest target this pulse.**
+3. `content/recipes/dirty-matcha.md` — NEW. 3.6K LOW 0.
+
+**Files Modified (internal links + 1 broken-link fix):**
+- `content/recipes/vietnamese-iced-coffee.md` — added thai-iced-coffee link.
+- `content/recipes/vietnamese-egg-coffee.md` — added thai-iced-coffee link.
+- `content/guides/yemeni-coffee.md` — added thai-iced-coffee link.
+- `content/recipes/caramel-macchiato.md` — added iced-caramel-macchiato link.
+- `content/recipes/iced-caramel-latte.md` — added iced-caramel-macchiato link + clarified caramel-macchiato (hot).
+- `content/recipes/iced-macchiato.md` — added iced-caramel-macchiato link + caramel-macchiato (hot); fixed broken/misleading link.
+- `content/guides/what-is-a-macchiato.md` — added iced-caramel-macchiato link.
+- `content/recipes/matcha-latte-recipe.md` — added dirty-matcha link.
+- `content/recipes/matcha-frappuccino.md` — added dirty-matcha link.
+- `content/recipes/iced-matcha-latte.md` — added dirty-matcha link.
+- `content/recipes/dirty-chai-latte.md` — added dirty-matcha link.
+
+**Analytics (Day 24, Pulse 66):**
+- GA4: **3 organic sessions Day 24 across 3 landing pages** = acceleration. Total organic to date: 5 sessions across 4 days.
+- SC: Same 10 PAGE 1 positions stable. milk-steaming-beginners 37 imps pos 27.4 (CTR rewrite ~40h since deploy — still in window).
+- Total published pages: 168.
+
+**Outcome:** 3 high-quality pages deployed. World coffee culture cluster 5→6 pages (Thai added). Macchiato cluster gap closed (iced caramel macchiato fills the layered+sweet+iced niche distinct from iced-caramel-latte). Matcha cluster +1 (dirty matcha). Day 24 GA4 acceleration to 3 organic sessions across 3 different landing pages = first multi-page conversion pattern. Spend control on track ($0.46/day average, well under ceiling).
+
+**Next (Pulse 67, 14:00 IDT 2026-04-27, Day 24 Afternoon):**
+- SC watch: ~48h since milk-steaming CTR rewrite; reassessment may begin. Monitor pos 27.4 for movement.
+- GA4 watch: does Day 24 trajectory continue? Check organic sessions throughout the day.
+- Keyword research: keyword-ideas seeds for "thai" (sub-cluster opportunities), "asian coffee" (cluster gaps); search-volume batch for popular drinks not yet covered (e.g., affogato variations, cortado variations, iced cortado, iced flat white, decaf espresso guide, espresso machine descaling specifics).
+- Content priority: **iced flat white** (if validates — flat white cluster expansion); **iced cortado** if validates; **dirty chai vs dirty matcha** standalone comparison page if SERP shows gap.
+- Skill ref: Ch7.1 (CTR + cluster), Ch4.1 (cluster gap-filling), Ch5.2 (orphan + cross-cluster link audits).
+
+---
+
+## 2026-04-26 22:00 IDT — Pulse 65: Yemeni Coffee (60.5K LOW 7) + Olive Oil Coffee / Oleato (2.4K LOW 2) | 165 Pages | Day 23 Night
+
+**Action:**
+1. Pulled latest from git (already up to date).
+2. Read strategy.md + journal.md head — confirmed Pulse 64 baseline + first organic click landed on milk-steaming-beginners.
+3. Consulted SEO skill: Ch7.1 — "Measure visibility by topic cluster, not just by head keyword. As query fan-out grows, topical share often tells you more than isolated keyword movements." + "Watch snippet and presentation controls. Snippet settings, title rewrites, meta descriptions, and structured-data eligibility affect both CTR and citation presentation." Day 23 = continue velocity + monitor CTR signal.
+4. GA4 check: 2 organic sessions to date (Day 22 first ever + Day 23 = 1 session, 4 pageviews, 204s avg duration = engaged user). Landing page = `/guides/milk-steaming-beginners` for both. Pattern of 1 session/day forming.
+5. SC check: Same 10 PAGE 1 positions stable. milk-steaming-beginners 37 imps pos 27.4 (CTR-optimized title from Pulse 64 not yet reassessed by Google — typical 2–7 day window).
+6. DataForSEO research ($0.079 = 1x search-volume batch 7 keywords $0.075 + 2x SERP $0.004):
+   - Batch: yemeni coffee 60,500 LOW 7 ✅ MAJOR, saudi coffee 1,300 MEDIUM 58 SKIP, maple latte 1,000 LOW 0 too low, espresso brulee 590 LOW 1 too low, charcoal latte 480 LOW 1 off-niche, yuanyang 90 + kopi peng 50 too low.
+   - SERP "white coffee" (deferred from Pulse 64 plan): povertybay product #1, whitecoffee.com product #2, Reddit #3, Wikipedia #4, Dutch Bros product #5, coffeeness.de #6 content, alaskaartisancoffee product #7, sprudge.com #8 content, YouTube #9, Amazon #10. Mixed intent (5 of 10 product pages) + knowledge_graph + popular_products + ai_overview + YMYL PAA "Is coffee good for brain inflammation?" → SKIP. Partial intent already covered by blonde-espresso page.
+   - SERP "yemeni coffee": Qamaria #1 cafe brand, Qahwah House #2 cafe chain, Instagram #3, Arwa Coffee #4 cafe brand, Food&Wine June 2025 explainer #5 (only real content guide), Reddit #6, Yelp #7. Local pack present. ZERO comprehensive home-barista guides in top 7. Massive content gap.
+7. WROTE: yemeni-coffee.md (60.5K LOW 7) — comprehensive guide on coffee's birthplace. Sections: Why Yemeni Coffee Is Special (Haraz beans, 1500m+ altitude, heirloom varietals table — Udaini/Tuffahi/Dawairi/Bura'i/Jaadi); Yemeni vs Arabic vs Turkish comparison table; What Is Qishr (cascara husk drink, ~25-40mg caffeine, ginger+cinnamon); Recipe: Authentic Qahwa Yemenia (cardamom + cinnamon + ginger + optional saffron + samn finishing technique); Recipe: Qishr (cascara + spices); brewing modern Yemeni beans (V60/Chemex/espresso/AeroPress notes); Where to buy (Qima, Mocha Mill, Sweet Maria's, Boot Coffee, Qahwah House); the "Mocha = Yemeni port" etymology section linking to mocha.md; Common Mistakes; 8 PAA FAQs incl. "Is Yemen coffee Turkish?" (no, predates by 100 years), "What is in Yemeni coffee", "Where does mocha come from", cascara vs qishr distinction. Internal links to arabic + turkish + greek + cafe-de-olla + vietnamese + cardamom-latte + mocha.
+8. WROTE: olive-oil-coffee.md (2.4K LOW 2) — Starbucks Oleato copycat. Sections: What Is Olive Oil Coffee (with comparison table vs butter coffee + cafe au lait + Yemeni qahwa+samn); Starbucks Oleato Menu (4-drink table with ratios); Why Olive Oil Works in Coffee (emulsification science: espresso crema + surfactants); Recipe: Hot Olive Oil Latte (1 tbsp Partanna + double shot + steamed oat milk + emulsification step); Recipe: Iced Olive Oil Shaken Espresso (cocktail-shaker emulsification, the actual Starbucks technique); Choosing the Right Olive Oil (5-criteria table + 4 brand picks); 7 variations (Vanilla / Honey / Cinnamon / Olive Oil Cold Foam / Olive Oil Espresso Tonic / Olive Oil Mocha / Olive Oil Affogato); Common Mistakes; honest Health & Caffeine section (calories + Mediterranean fat note + the laxative effect that dominated 2023 launch coverage); 9 FAQs incl. "Does olive oil in coffee make you poop?", "What olive oil does Starbucks use?", "How much olive oil should I put in coffee?", "Why does my olive oil float on top?", "Is olive oil coffee Italian?". Internal links to butter-coffee + iced-shaken-espresso + yemeni-coffee + cafe-au-lait + vanilla-latte + cold-foam.
+9. INTERNAL LINKS — bidirectional sibling links: arabic-coffee + greek-coffee + cafe-de-olla + turkish-coffee → yemeni-coffee. butter-coffee + iced-shaken-espresso + mocha → olive-oil-coffee.
+10. Committed (a019595) + pushed → Vercel auto-deploy. 165 pages total.
+11. Updated strategy.md (Pulse 65 done block in roadmap, 2 new keyword target rows, 7 new rejection rows in Tried & Rejected, current phase block, hypotheses H18 + H19) and journal.md.
+
+**Reasoning:**
+- **Yemeni coffee (60.5K LOW 7) — biggest single content opportunity since cafe-de-olla:** SERP analysis showed only 1 real content guide (Food&Wine June 2025) among 7 results — the rest are cafe brand homepages. Combined with: (a) the trend wave (Food&Wine declared it "having a moment" June 2025 + Qahwah House + Qamaria + Haraz NYC US expansion since 2023); (b) our existing world coffee culture cluster authority (Turkish + Arabic + Greek + Mexican = 4 pages already with one PAGE 1 tag); (c) the unique Mocha-port etymology angle (almost no one tells the "where mocha comes from" story comprehensively) — this is a 6-month moat opportunity. (Ch4.1: query fan-out + cluster expansion; Ch7.1: cluster topical authority over isolated keywords; Ch4.2: answer-first openings + 8 PAA Q→A H2 sections)
+- **Olive oil coffee (2.4K LOW 2) — wellness/fat-in-coffee mini-cluster expansion:** SERP from Pulse 64 confirmed all small blogs/brands beatable except Starbucks #1 (product, no recipe). Diff 2/100 = essentially zero competition. Our differentiation: emulsification science (no other site explains why some olive oil coffee tastes great and some tastes greasy), home-barista oil-pick table, both hot AND iced recipes (most blogs do one or the other), and an honest laxative FAQ (the question Reddit and PAA both ask but no major site answers head-on). Cluster fit: butter-coffee + olive-oil-coffee + Yemeni qahwa+samn note = fat-in-coffee mini-cluster within wellness category. (Ch4.1: wellness cluster fan-out; Ch4.2: PAA-driven FAQ structure)
+- **Why we did NOT do CTR-only optimization on milk-steaming-beginners again:** Title rewrite from Pulse 64 has only had 32 hours since deploy. Google needs 2-7 days to reassess. Re-rewriting now would muddle the signal. Continued content velocity is correct play; revisit CTR mid-week.
+- **Why "white coffee" was rejected:** Looked tempting at 14.8K, but SERP product-dominance + YMYL PAA contamination ("brain inflammation") makes it a poor fit. Already partially captured via blonde-espresso page (very-light-roast intent).
+
+**SEO Skill Reference:**
+- **Ch7.1:** "Measure visibility by topic cluster, not just by head keyword. As query fan-out grows, topical share often tells you more than isolated keyword movements." → World coffee culture cluster now 5 pages (Turkish + Arabic + Greek + Mexican + Yemeni); /tags/turkish-coffee/ already PAGE 1 pos 7 with 2 imps signals the cluster framework is being indexed as a topical unit. "Watch snippet and presentation controls" → milk-steaming CTR test continues; no second rewrite this pulse.
+- **Ch4.1:** Yemeni coffee = head term + cluster fan-out (Mocha port etymology, qahwa, qishr, Haraz beans, vs Arabic/Turkish — 5 distinct sub-queries answered in one page). Olive oil coffee = wellness fan-out off butter-coffee.
+- **Ch4.2 (Answer-First):** Both new pages open with bolded direct definition. PAA questions answered as H2 sections with bolded responses then expansion. Tables throughout for AI/AEO extractability.
+- **Ch5.2 (Internal Linking):** Bidirectional cluster sibling links from 4 existing world coffee pages → yemeni; from butter-coffee + iced-shaken-espresso (parent technique) + mocha (etymology link) → olive-oil-coffee.
+
+**Key DataForSEO Findings (Pulse 65):**
+- "yemeni coffee" — 60,500/mo LOW 7/100 ✅ WRITTEN (biggest find since cafe-de-olla; cafe-brand-dominated SERP with one content guide)
+- "olive oil coffee / oleato" — 2,400/mo LOW 2/100 ✅ WRITTEN (deferred from Pulse 64; Pulse 64 had already done the SERP check)
+- "white coffee" — 14,800/mo MEDIUM 49/100 — REJECTED (mixed commercial SERP + YMYL PAA contamination + partial intent already covered)
+- REJECTED: saudi coffee 1.3K MEDIUM 58 (covered in arabic-coffee); maple latte 1K LOW 0 (too low); espresso brulee 590 (too low); charcoal latte 480 (off-niche); yuanyang 90 + kopi peng 50 (way too low)
+- DataForSEO spend Pulse 65: ~$0.079 (1x search-volume batch $0.075 + 2x SERP $0.004). Running total: ~$11.05. Average daily: ~$0.48/day, well under $1 ceiling.
+
+**Content Created:**
+1. `content/guides/yemeni-coffee.md` — NEW. 60,500/mo LOW 7. Comprehensive guide: Haraz beans, qahwa yemenia recipe (cardamom+cinnamon+ginger+samn), qishr recipe (cascara husk drink), Mocha port etymology, vs Arabic + Turkish table, where-to-buy guide, modern brewing methods (V60/Chemex/AeroPress notes), 8 PAA FAQs.
+2. `content/recipes/olive-oil-coffee.md` — NEW. 2,400/mo LOW 2. Starbucks Oleato copycat: hot latte recipe + iced shaken recipe (the Starbucks technique), Partanna oil pick + 4 alternatives, emulsification science, 7 variations, honest health/laxative FAQ, 9 PAA-driven FAQs.
+
+**Files Modified:**
+- `content/guides/what-is-arabic-coffee.md` — added yemeni-coffee link in Related Guides.
+- `content/guides/greek-coffee.md` — added yemeni-coffee link in Related Guides.
+- `content/guides/cafe-de-olla.md` — added yemeni-coffee link in Related Guides.
+- `content/guides/what-is-turkish-coffee.md` — added yemeni-coffee link in footer Related row.
+- `content/guides/butter-coffee.md` — added olive-oil-coffee + yemeni-qahwa-samn note in Related.
+- `content/recipes/iced-shaken-espresso.md` — added olive-oil-coffee link.
+- `content/recipes/mocha.md` — added yemeni-coffee link ("where mocha comes from").
+
+**Analytics (Day 23, Pulse 65):**
+- GA4: 2 organic sessions to date. Day 22 = 1 session (first ever, milk-steaming-beginners). Day 23 = 1 session, 4 pageviews, 204s avg = engaged user clicking internal links. Landing page = milk-steaming-beginners both days.
+- SC: Same 10 PAGE 1 positions stable. milk-steaming-beginners 37 imps pos 27.4 (CTR test in flight, 32h since deploy — too early to reassess). ristretto pos 8.4/5imps. horchata-latte pos 3/1imp. french-press-vs-drip pos 9.5/2imps. cortado-vs-latte pos 7/1imp. how-to-use-moka-pot pos 10/1imp. Tag pages: mocha pos 2, iced-latte pos 4, coffee-terminology pos 5, caramel-macchiato pos 6, turkish-coffee pos 7.
+- Total published pages: 165.
+
+**Outcome:** 2 high-quality pages deployed. World coffee culture cluster now 5 pages (Turkish + Arabic + Greek + Mexican + Yemeni — likely the deepest world coffee content cluster of any home-barista site online). Wellness/fat-in-coffee mini-cluster started (butter + olive oil). Biggest single content target since cafe-de-olla published in same pulse — Yemeni coffee at 60.5K with only 1 real content competitor in SERP. Spend control on track ($0.48/day average, well under $1 ceiling).
+
+**Next (Pulse 66, 06:00 IDT 2026-04-27, Day 24 Morning):**
+- SC watch: Day 24. Watch milk-steaming-beginners pos 27.4 — CTR-optimized title has had ~50h since deploy, edge of reassessment window.
+- GA4 watch: third consecutive day of organic? Confirms 1+/day baseline.
+- Keyword research: keyword-ideas seeds for "yemeni coffee" (sub-cluster opportunities), "specialty drink" (gaps), and search-volume batch for chicory coffee, mushroom coffee variants, dandelion coffee, dirty matcha head term, thai-iced-coffee.
+- Content priority: thai-iced-coffee (Asian coffee culture cluster — Vietnamese done, Thai missing); chicory coffee (caffeine-alternative wellness) if SERP/volume validates.
+- Skill ref: Ch7.1 (CTR + cluster), Ch4.1 (Asian + wellness fan-out), Ch5.2 (orphan + cross-cluster link audits).
+
+---
+
 ## 2026-04-26 14:00 IDT — Pulse 64: Greek Coffee (11.7K Combined) + Iced Shaken Espresso (5.4K diff 7) + Milk-Steaming CTR Optimization | 163 Pages | Day 23
 
 **Action:**

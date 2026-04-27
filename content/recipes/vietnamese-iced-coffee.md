@@ -178,4 +178,4 @@ Not necessarily in caffeine — espresso has 60–70mg per ounce, phin-brewed co
 
 ---
 
-*Explore more Vietnamese coffee: [Vietnamese Coffee: Complete Guide](/guides/vietnamese-coffee/) | [Vietnamese Egg Coffee (Cà Phê Trứng)](/recipes/vietnamese-egg-coffee/) | [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) | [Café Bombón — Spanish Condensed Milk Espresso](/recipes/cafe-bombon/)*
+*Explore more world coffee culture: [Vietnamese Coffee: Complete Guide](/guides/vietnamese-coffee/) | [Vietnamese Egg Coffee (Cà Phê Trứng)](/recipes/vietnamese-egg-coffee/) | [Thai Iced Coffee (Oliang)](/recipes/thai-iced-coffee/) | [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) | [Café Bombón — Spanish Condensed Milk Espresso](/recipes/cafe-bombon/)*

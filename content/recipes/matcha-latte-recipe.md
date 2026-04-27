@@ -192,4 +192,4 @@ They're related but not the same. Matcha is made from shade-grown tea leaves tha
 
 ---
 
-*Related: [Strawberry Matcha Latte](/recipes/strawberry-matcha-latte/) | [Matcha Frappuccino](/recipes/matcha-frappuccino/) | [Iced Matcha Latte](/recipes/iced-matcha-latte/)*
+*Related: [Strawberry Matcha Latte](/recipes/strawberry-matcha-latte/) | [Matcha Frappuccino](/recipes/matcha-frappuccino/) | [Iced Matcha Latte](/recipes/iced-matcha-latte/) | [Dirty Matcha (with Espresso)](/recipes/dirty-matcha/)*

@@ -187,5 +187,6 @@ Crohn's disease affects different people differently, and there's no universal a
 
 - [Iced Matcha Latte](/recipes/iced-matcha-latte/) — Not blended. Matcha dissolved in hot water, cooled, poured over ice with milk.
 - [Matcha Latte Recipe](/recipes/matcha-latte-recipe/) — The hot version. Whisked matcha + steamed milk.
+- [Dirty Matcha (with Espresso)](/recipes/dirty-matcha/) — Matcha latte + espresso shot, layered iced or hot.
 - [Caramel Frappuccino](/recipes/caramel-frappuccino/) — The espresso-based blended Starbucks copycat.
 - [Java Chip Frappuccino](/recipes/java-chip-frappuccino/) — Mocha frappuccino with blended chocolate chips (discontinued from US menu).
