@@ -144,3 +144,4 @@ A [latte](/recipes/latte/) uses steamed milk (mostly liquid) that blends with th
 - [Latte Recipe](/recipes/latte/)
 - [What Is a Doppio?](/guides/what-is-a-doppio/)
 - [Getting Started with Home Espresso](/guides/getting-started/)
+- [Caffè Shakerato: Italian Iced Espresso](/recipes/shakerato/)

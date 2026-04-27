@@ -168,3 +168,4 @@ If you enjoy a mocha, try:
 - [Caramel Frappuccino](/recipes/caramel-frappuccino/) — blended espresso + caramel + ice, Starbucks copycat
 - [Mocha Frappuccino](/recipes/mocha-frappuccino/) — the blended frozen version of this mocha, with homemade mocha sauce recipe
 - [Yemeni Coffee](/guides/yemeni-coffee/) — where the word "mocha" actually comes from (the Yemeni port of Mokha)
+- [Olive Oil Coffee (Oleato)](/recipes/olive-oil-coffee/) — Starbucks Oleato copycat; olive oil emulsified into espresso for a rich, buttery finish
