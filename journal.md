@@ -4,6 +4,93 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-27 14:00 IDT — Pulse 67: Iced Flat White (2.4K LOW 1) + Iced Cortado (2.4K LOW 0) + Iced Americano vs Iced Coffee (590 LOW 0) | 171 Pages | Day 24 Afternoon
+
+**Action:**
+1. Pulled latest from git (already up to date — commit `ad10c14` Pulse 66 reconciliation was the last).
+2. Applied the Pulse 66 mitigation: ran `git log -1` + `git status` BEFORE any paid-API call to confirm no concurrent in-progress pulse.
+3. Read strategy.md head + journal.md head — confirmed Pulse 66 baseline (168 pages, Day 24 morning = 3 organic sessions across 3 landing pages, world coffee culture cluster of 6 pages, milk-steaming CTR test ~40h since deploy at the time of Pulse 66).
+4. Consulted SEO skill: Ch7.1 — "Measure visibility by topic cluster, not just by head keyword. As query fan-out grows, topical share often tells you more than isolated keyword movements." + "Watch snippet and presentation controls. Snippet settings, title rewrites, meta descriptions, and structured-data eligibility affect both CTR and citation presentation." Day 24 afternoon, ~48h since CTR rewrite = approaching the early end of Google reassessment window. Continue content velocity. Ch4.1 (intent clusters not single terms; query fan-out + conversational prompting).
+5. GA4 check: **Day 24 = 3 organic sessions across 3 different landing pages** (milk-steaming-beginners 2 sessions, espresso-glossary 1, espresso-machine-cleaning-guide 1) — same as morning pulse, no new sessions added at 14:00 IDT yet. Total organic to date: Day 22 = 1, Day 23 = 1, Day 24 = 3 = 5 sessions across 4 days.
+6. SC check: Same 10 PAGE 1 positions stable (ristretto 8.4, horchata-latte 3, french-press-vs-drip 9.5, cortado-vs-latte 7, how-to-use-moka-pot 10 + 5 tag pages: mocha 2, iced-latte 4, coffee-terminology 5, caramel-macchiato 6, turkish-coffee 7). milk-steaming-beginners 37 imps pos 27.4 (CTR rewrite ~48h since deploy — reassessment window now opening but no movement yet).
+7. DataForSEO research ($0.081 = 1x search-volume batch 10 keywords $0.075 + 3x SERP $0.006):
+   - Batch: decaf espresso 9.9K HIGH 100 SKIP (ad-dominated), espresso machine descaling 5.4K HIGH 96 SKIP (ad-dominated; informational angle covered in espresso-machine-cleaning-guide), **iced flat white 2.4K LOW 1 ✅ ULTRA-LOW**, **iced cortado 2.4K LOW 0 ✅ ULTRA-LOW**, how-to-descale-espresso-machine 720 LOW 7 (covered in cleaning guide — re-confirmed alignment), **iced americano vs iced coffee 590 LOW 0 ✅ ULTRA-LOW**, what is a piccolo coffee 320 LOW 0 (saved for future pulse — small but validates), affogato variations 10 LOW 3 (too low), dirty chai vs dirty matcha N/A volume (already covered as comparison sections in dirty-matcha + dirty-chai-latte pages), affogato vs ice cream N/A volume.
+   - SERP "iced flat white": Starbucks #1 product, Reddit #2, starbucksathome.com #3 basic recipe, guentercoffee.com #4 — all #2-4 beatable. SERP features incl. popular_products + perspectives + short_videos.
+   - SERP "iced cortado": Reddit #1 "is iced cortado a thing?" (query confusion = clear gap), arecipeforfun.com #2 (only content competitor), gregoryscoffee #3 product, bennasphere #4 product. Massive content vacuum.
+   - SERP "iced americano vs iced coffee": Reddit #1, starbucks.com.cn #2, cliffandpebble.com #3, hermanoscoffeeroasters.com #4 (different — cold brew angle), Quora #5 = all beatable.
+8. WROTE 3 pages:
+   - `content/recipes/iced-flat-white.md` (2.4K LOW 1) — flat white cluster expansion to iced format. Sections: full recipe (2 ristretto shots + 6 oz cold whole milk + ice in 12 oz glass), Why Ristretto Shots Matter (3-stage extraction-curve table teaching extraction theory), Iced Flat White vs Iced Latte vs Iced Cortado vs Iced Cappuccino vs Iced Macchiato (5-row comparison table), Starbucks Tall/Grande/Venti size table, Best Espresso (medium-dark roast picks), Best Milk table (whole milk + barista oat champion + alt rankings), 6 variations (Honey / Vanilla / Brown Sugar / Decaf / Oat Milk / Coconut), Common Mistakes, Caffeine table by size, 6 PAA Q&A H2 sections incl. "What is the difference between an iced latte and an iced flat white?", "Why does Starbucks use ristretto shots in a flat white?", "Is an iced flat white stronger than an iced latte?", "Can I use regular espresso instead of ristretto?", "Is an iced flat white the same as an iced cortado?", "What milk is best for an iced flat white?". Recipe schema. Internal links to flat-white (hot) + what-is-a-flat-white + ristretto + iced-latte + iced-cortado + cortado-vs-flat-white + flat-white-vs-latte + iced-cappuccino + iced-macchiato.
+   - `content/recipes/iced-cortado.md` (2.4K LOW 0) — cortado cluster expansion. Sections: full recipe (2 oz espresso + 2 oz cold whole milk + 3-4 ice cubes in 5-6 oz glass), What Is an Iced Cortado (Spanish "cut" etymology), Iced Cortado vs Iced Flat White vs Iced Latte vs Iced Macchiato vs Iced Espresso (5-row comparison), Iced Cortado vs Iced Latte deep-dive table (the #1 comparison query), Iced Cortado vs Iced Cubano family table (Cuban cortadito sugar-espuma variation), Best Espresso (Latin/Cuban + medium roast), Best Milk table, 6 variations (Iced Cortadito with espuma / Iced Spanish Latte with condensed milk / with Cinnamon / Honey / Decaf / Oat Milk), Common Mistakes (1:1 ratio + 5-6 oz glass + don't foam milk), Caffeine table, 7 PAA H2 Q&A incl. "Is an iced cortado a real thing?" (answering Reddit's #1 SERP confusion directly), "What is the difference between an iced cortado and an iced latte?", "Can you make an iced cortado at Starbucks?", "What does cortado mean?", "Iced cortado vs iced flat white — which is stronger?". Recipe schema. Internal links to cortado (hot) + what-is-cortado-coffee + cortado-vs-flat-white + cortado-vs-latte + cortado-vs-macchiato + iced-flat-white + iced-latte + cafe-cubano + iced-americano.
+   - `content/guides/iced-americano-vs-iced-coffee.md` (590 LOW 0) — americano comparison cluster. Sections: TL;DR comparison table (8 rows), What Is an Iced Americano + What Is Iced Coffee (with Japanese flash-brew method note), 5 differences that matter (caffeine table by Tall/Grande/Venti, taste profile table, acidity discussion, speed/scaling table, calories), When to Choose Which (decision section), What About Cold Brew (4-row 3-way table: americano / iced coffee / cold brew), How to Make Both (iced americano 3-min recipe + Japanese flash-brew iced coffee 5-min recipe), 7 PAA H2 Q&A incl. "What is the difference between an iced americano and iced coffee?", "Which has more caffeine?", "Is an iced americano stronger than iced coffee?", "Is iced americano better for you than iced coffee?", "Why is iced americano cheaper than iced coffee at some cafes?", "Can I make an iced americano without an espresso machine?", "What is the difference between an iced latte, iced americano, and iced coffee?". Internal links to iced-americano + what-is-an-americano + americano-vs-coffee + espresso-vs-americano + cold-brew-vs-iced-coffee + cold-brew-coffee-recipe + cold-brew-caffeine + espresso-vs-cold-brew.
+9. INTERNAL LINKS — bidirectional sibling links (10 sibling pages updated):
+   - flat-white.md "Variations" section: rewrote "Iced flat white" bullet to link to /recipes/iced-flat-white/ with detailed description.
+   - cortado.md "Variations" section: rewrote "Iced cortado" bullet to link to /recipes/iced-cortado/ with detailed description.
+   - iced-americano.md tail-link footer: added iced-flat-white + iced-cortado + iced-americano-vs-iced-coffee links.
+   - iced-latte.md "Related" section: added iced-flat-white + iced-cortado links.
+   - what-is-a-flat-white.md FAQ: added "Is there an iced flat white?" Q&A with link.
+   - what-is-cortado-coffee.md "Related Guides": added iced-cortado link.
+   - cortado-vs-flat-white.md "Related Comparisons": added iced-cortado + iced-flat-white links.
+   - cold-brew-vs-iced-coffee.md "Related Guides": added iced-americano-vs-iced-coffee link.
+   - americano-vs-coffee.md tail link: added iced-americano-vs-iced-coffee link.
+10. Committed (`7188718`) + pushed → Vercel auto-deploy. **171 pages total.**
+11. Updated strategy.md (Pulse 67 block in current phase, 3 new keyword target rows below dirty-matcha row, page count 168→171, removed PRIMARY/PREVIOUS conflicting markers) and journal.md (this entry).
+
+**Reasoning:**
+- **Iced espresso drinks cluster is now THE biggest seasonal cluster on the site (8+ pages).** Hot drinks have full hot→iced parity for: latte, cappuccino-route, flat white (NEW), cortado (NEW), americano, macchiato, caramel-macchiato, shaken espresso, matcha latte, mocha. This matches Ch7.1 cluster-completion principle — fewer cluster gaps = stronger topical authority signal as Google indexes the site at Day 24+.
+- **Why iced flat white (2.4K LOW 1) — ULTRA-LOW comp + ristretto education angle:** SERP analysis showed only Starbucks (product page, no recipe), starbucksathome.com (basic recipe), Reddit, and one small content blog. Diff 1/100 = open lane. Our differentiation is the **ristretto-shot extraction theory section** (3-stage extraction curve table) — none of the competitors explain WHY a flat white uses ristretto. This is exactly the kind of "depth differentiator" Ch4.2 calls for: answer-first, then go deeper than competitors via tables and structured H2/Q&A.
+- **Why iced cortado (2.4K LOW 0) — ULTRA-LOW comp + Reddit query-confusion angle:** Reddit at SERP #1 ("Is iced cortado a thing?") is the strongest possible signal of search intent confusion that no content competitor has resolved. Diff 0/100 — essentially zero competition. Our page directly answers the Reddit question in a PAA H2: "Is an iced cortado a real thing? **Yes.**" + comprehensive comparison tables addressing all the cortado-vs-X subqueries. This page should rank top 3 quickly.
+- **Why iced americano vs iced coffee (590 LOW 0) — ULTRA-LOW comp + americano-cluster gap:** Volume is moderate (590) but ULTRA-LOW comp + the existing iced-americano page already gets impressions in SC means we have authority signal in this niche. Comparison guides historically convert well in SERPs because they answer a specific decision intent. Filling the americano comparison cluster (we have iced-americano, americano-vs-coffee, espresso-vs-americano, americano-vs-latte, cappuccino-vs-americano — but no iced-coffee comparison until now).
+- **Why we did NOT do CTR-only optimization on milk-steaming-beginners again:** ~48h since the Pulse 64 title rewrite. Google reassessment window is 2–7 days, so we're at the early end. Re-rewriting now would muddle the signal and waste the test. Continued content velocity is correct play; revisit Pulse 68 (Day 24 evening) or Pulse 69 (Day 25 morning).
+- **Why we REJECTED decaf espresso (9.9K) + espresso machine descaling (5.4K):** Both came back HIGH ad competition (100 and 96/100). New domain at Day 24 cannot compete in ad-dense product/equipment territory. The informational sub-intent for descaling is already partially covered by espresso-machine-cleaning-guide. Different game; revisit if/when site reaches Day 90+ with established authority.
+- **Why we held on what-is-a-piccolo-coffee (320 LOW 0):** Volume is small but validates as ULTRA-LOW comp (Australian coffee). Saving for a future pulse where we can pair it with another small-volume Italian/Australian-cluster keyword to make a single batch run efficient. Cluster fit candidates: piccolo + machiatto-trad-Italian + Australian magic coffee.
+
+**SEO Skill Reference:**
+- **Ch7.1:** "Measure visibility by topic cluster, not just by head keyword." → Iced espresso drinks cluster now structurally complete for hot↔iced parity (8+ pages: iced-latte, iced-americano, iced-flat-white NEW, iced-cortado NEW, iced-macchiato, iced-caramel-macchiato, iced-shaken-espresso, iced-matcha-latte). "Watch snippet and presentation controls" → milk-steaming CTR rewrite ~48h since deploy; reassessment window now opening; monitoring for SC pos movement at Pulse 68/69.
+- **Ch4.1:** Query fan-out — iced flat white captures the "is there an iced flat white" + ristretto-distinction sub-intents; iced cortado captures Reddit's "is it a thing?" confusion query directly via PAA H2; iced-americano-vs-iced-coffee fills the americano comparison cluster gap with a head-on decision-intent query.
+- **Ch4.2 (Answer-First):** All 3 new pages open with bolded direct definition. PAA questions answered as H2 sections with bolded responses then expansion. Comparison tables throughout for AI/AEO extractability.
+- **Ch5.2 (Internal Linking):** Bidirectional cluster sibling links — flat-white + cortado + iced-latte + iced-americano + what-is-a-flat-white + what-is-cortado-coffee + cortado-vs-flat-white + cold-brew-vs-iced-coffee + americano-vs-coffee all updated with descriptive anchor text.
+
+**Key DataForSEO Findings (Pulse 67):**
+- **iced flat white** — 2,400/mo LOW 1/100 ✅ WRITTEN (ristretto-distinction angle = 6-month moat against Reddit + product pages)
+- **iced cortado** — 2,400/mo LOW 0/100 ✅ WRITTEN (ULTRA-LOW comp + answers Reddit's #1 SERP confusion directly)
+- **iced americano vs iced coffee** — 590/mo LOW 0/100 ✅ WRITTEN (americano cluster expansion)
+- HELD: what is a piccolo coffee 320 LOW 0 (small but validates — pair with Italian/Australian cluster keyword in future pulse).
+- REJECTED: decaf espresso 9.9K HIGH 100 (ad-dominated), espresso machine descaling 5.4K HIGH 96 (ad-dominated; informational sub-intent covered by espresso-machine-cleaning-guide), affogato variations 10 LOW 3 (too low), dirty chai vs dirty matcha N/A volume (already covered as comparison sections in dirty-matcha and dirty-chai-latte pages), affogato vs ice cream N/A volume.
+- DataForSEO spend Pulse 67: ~$0.081 (1x search-volume batch 10 keywords $0.075 + 3x SERP $0.006). Running total: ~$11.29. Average daily Days 1–24: ~$0.47/day, well under $1 ceiling.
+
+**Content Created:**
+1. `content/recipes/iced-flat-white.md` — NEW. 2.4K LOW 1.
+2. `content/recipes/iced-cortado.md` — NEW. 2.4K LOW 0.
+3. `content/guides/iced-americano-vs-iced-coffee.md` — NEW. 590 LOW 0.
+
+**Files Modified (internal links):**
+- `content/recipes/flat-white.md` — added iced-flat-white link in Variations.
+- `content/recipes/cortado.md` — added iced-cortado link in Variations.
+- `content/recipes/iced-americano.md` — added iced-flat-white + iced-cortado + iced-americano-vs-iced-coffee links in tail footer.
+- `content/recipes/iced-latte.md` — added iced-flat-white + iced-cortado links in Related.
+- `content/guides/what-is-a-flat-white.md` — added "Is there an iced flat white?" FAQ.
+- `content/guides/what-is-cortado-coffee.md` — added iced-cortado link in Related Guides.
+- `content/guides/cortado-vs-flat-white.md` — added iced-cortado + iced-flat-white links.
+- `content/guides/cold-brew-vs-iced-coffee.md` — added iced-americano-vs-iced-coffee link.
+- `content/guides/americano-vs-coffee.md` — added iced-americano-vs-iced-coffee link in tail footer.
+
+**Analytics (Day 24, Pulse 67 / 14:00 IDT):**
+- GA4: Day 24 still 3 organic sessions across 3 landing pages (no new since morning pulse).
+- SC: Same 10 PAGE 1 positions stable. milk-steaming-beginners 37 imps pos 27.4 (CTR rewrite ~48h since deploy — reassessment window now opening).
+- Total published pages: 171.
+
+**Outcome:** 3 high-quality pages deployed. Iced espresso drinks cluster expanded from 6 to 8+ pages with full hot↔iced parity for flat white and cortado. Americano comparison cluster fills the iced-coffee comparison gap. Spend control on track ($0.47/day average, under ceiling). Ran git status + git log -1 BEFORE paid-API calls to detect concurrent in-progress pulses (Pulse 66 mitigation).
+
+**Next (Pulse 68, 22:00 IDT 2026-04-27, Day 24 Night):**
+- SC watch: ~56h since milk-steaming CTR rewrite — squarely inside reassessment window. Monitor pos 27.4 for ANY movement (delta ±2 positions = signal).
+- GA4 watch: does Day 24 reach 4+ sessions or new landing pages by night pulse?
+- Keyword research: keyword-ideas seed for "decaf coffee" (informational angle, dodge ad-dense head term); search-volume batch for: piccolo coffee + magic coffee (Australian), iced spanish latte (cortado cluster fan-out), iced honey latte, iced peppermint mocha (seasonal Dec peak indexing), espresso ice cubes, espresso powder substitutes (informational only, ad-light).
+- Content priority: **iced spanish latte** if validates (~1K LOW expected — leverage iced-cortado authority via cluster), **iced honey latte** if validates (Starbucks copycat seasonal). Hold what-is-a-piccolo-coffee for paired Italian/Australian cluster batch.
+- Technical: spot-check sitemap.xml inclusion of new Pulse 67 pages once Vercel deploys (~2 min).
+- Skill ref: Ch7.1 (CTR + cluster), Ch4.1 (cluster gap-filling), Ch5.2 (orphan + cross-cluster link audits).
+
+---
+
 ## 2026-04-27 06:00 IDT — Pulse 66: Thai Iced Coffee (13.2K combined) + Iced Caramel Macchiato (22.2K LOW 5) + Dirty Matcha (3.6K LOW 0) | 168 Pages | Day 24 Morning
 
 **Action:**
