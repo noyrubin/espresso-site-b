@@ -145,3 +145,4 @@ A [latte](/recipes/latte/) uses steamed milk (mostly liquid) that blends with th
 - [What Is a Doppio?](/guides/what-is-a-doppio/)
 - [Getting Started with Home Espresso](/guides/getting-started/)
 - [Caffè Shakerato: Italian Iced Espresso](/recipes/shakerato/)
+- [Marocchino: Italian Cocoa-Dusted Espresso](/recipes/marocchino/) — small Italian espresso bar drink with cocoa + layered frothed milk

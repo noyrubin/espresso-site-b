@@ -1,7 +1,7 @@
 ---
-title: "How to Steam Milk at Home: Beginner Microfoam Guide (140–155°F)"
+title: "How to Steam Milk for Lattes, Cappuccinos & Flat Whites: Beginner Guide"
 date: 2026-04-26
-description: "Steam milk for lattes, cappuccinos, and flat whites in 30 seconds. Exact wand position, temperature (140–155°F), 9-step technique, milk types compared, and the 7 mistakes beginners always make."
+description: "How to steam milk for espresso drinks at home in 30 seconds. Exact wand position, temperature (140–155°F), 9-step microfoam technique, foam levels for latte vs cappuccino vs flat white, and the 7 mistakes beginners always make."
 tags: ["milk steaming", "latte", "cappuccino", "beginner", "technique", "microfoam"]
 categories: ["guides"]
 author: "Barista At Home"

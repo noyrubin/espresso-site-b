@@ -170,3 +170,4 @@ Looking for more Italian espresso bar classics?
 - [Affogato](/recipes/affogato/) — espresso poured over vanilla gelato
 - [Ristretto](/recipes/ristretto/) — the ultra-short, more concentrated espresso shot
 - [Doppio](/guides/what-is-a-doppio/) — the standard double espresso
+- [Marocchino](/recipes/marocchino/) — Italian cocoa-and-milk layered shot from Alessandria

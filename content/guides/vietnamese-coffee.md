@@ -172,6 +172,7 @@ Yes — some people drink it black (cà phê đen đá), either unsweetened or w
 
 ## Related Guides
 
+- [Phin Coffee: Complete Vietnamese Drip Filter Guide](/guides/phin-coffee/) — equipment deep-dive on the phin: sizing chart, best brands, troubleshooting
 - [Vietnamese Iced Coffee Recipe](/recipes/vietnamese-iced-coffee/) — step-by-step iced cà phê sữa đá with variations
 - [Vietnamese Egg Coffee (Cà Phê Trứng)](/recipes/vietnamese-egg-coffee/) — the Hanoi specialty with whipped egg yolk cream
 - [Arabica vs Robusta](/guides/arabica-vs-robusta/) — understanding the bean behind Vietnamese coffee
