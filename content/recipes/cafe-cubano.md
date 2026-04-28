@@ -160,6 +160,7 @@ Yes — café cubano is stronger than a standard espresso per volume because it'
 - [Café con Leche](/guides/cafe-con-leche/) — the fuller milk version of Cuban coffee at home
 - [Café Bombón](/recipes/cafe-bombon/) — Spanish condensed milk espresso, same cultural family
 - [Spanish Latte](/recipes/spanish-latte/) — condensed milk latte from Southeast Asia
+- [Cortadito Recipe](/recipes/cortadito/) — the milk-cut Cuban version of the cafecito (full recipe and variations)
 - [Cortado Recipe](/recipes/cortado/) — the Spanish precursor to the cortadito
 - [How to Use a Moka Pot](/guides/how-to-use-moka-pot/) — the authentic brewing method for café cubano
 - [Espresso Ratio Guide](/guides/espresso-ratio-guide/) — understanding espresso concentration

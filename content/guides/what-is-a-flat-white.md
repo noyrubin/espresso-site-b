@@ -78,6 +78,11 @@ Today, most specialty coffee shops in the US serve flat whites. You may also see
 - **Melbourne-style latte** — reference to its Australian origin
 - **Double ristretto latte** — the espresso-specific term used at some specialty shops
 
+The flat white also has two close Australian siblings worth knowing:
+
+- **[Piccolo](/guides/what-is-a-piccolo-coffee/)** — a 4 oz Sydney specialty: 1 ristretto + 3 oz milk in a small piccolo glass. "A flat white at half size."
+- **[Magic coffee](/recipes/magic-coffee/)** — a 5 oz Melbourne specialty: 2 ristrettos + 3.5 oz milk in a small tulip cup. Same caffeine as a flat white in a smaller, denser format. Often off-menu in Melbourne cafes.
+
 ---
 
 ## Is Flat White the Strongest Coffee Drink?

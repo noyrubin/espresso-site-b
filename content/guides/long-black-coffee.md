@@ -139,7 +139,7 @@ Yes, slightly. The long black uses less water (120–150 ml total) versus a typi
 Like any black espresso drink, it has no added calories and contains the same antioxidants and caffeine as any double espresso. The water simply dilutes it to a more drinkable volume without changing the coffee's nutritional profile.
 
 **Why is it called a long black?**
-"Long" refers to the water extending the drink to a longer volume (vs a short black = straight espresso). "Black" means no milk. The naming is Australian coffee shorthand — part of the local lexicon alongside flat white, magic, and piccolo.
+"Long" refers to the water extending the drink to a longer volume (vs a short black = straight espresso). "Black" means no milk. The naming is Australian coffee shorthand — part of the local lexicon alongside [flat white](/recipes/flat-white/), [magic](/recipes/magic-coffee/), and [piccolo](/guides/what-is-a-piccolo-coffee/).
 
 **What coffee beans work best for a long black?**
 Because there's no milk to mask flavors, the long black showcases your beans fully. Medium-roast single origins with fruit or chocolate notes shine in a long black. Light roasts can work but may taste sour. Dark roasts tend to be bitter without milk's softening effect.

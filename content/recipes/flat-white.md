@@ -103,5 +103,7 @@ If the espresso gets lost in the milk, try a ristretto shot (shorter, more conce
 - **[Iced flat white](/recipes/iced-flat-white/):** Two ristretto shots over cold whole milk and ice in a 12oz glass — no foam, no syrup. The summer version of this drink.
 - **Double ristretto flat white:** Use two ristretto shots (18g in, 25g out) for an even more concentrated drink. Popular in Australian specialty cafes.
 - **Oat flat white:** Use barista-edition oat milk. The natural sweetness of oat milk pairs beautifully with medium-roast espresso.
+- **[Piccolo (small flat white)](/guides/what-is-a-piccolo-coffee/):** Same proportions but smaller — 1 ristretto + 3 oz milk in a 4 oz glass. The "tasting size" Sydney specialty.
+- **[Magic coffee (Melbourne specialty)](/recipes/magic-coffee/):** 2 ristretto shots + 3.5 oz milk in a 5 oz glass — denser than a flat white, smaller cup, off-menu in Melbourne cafes.
 
 For milk steaming technique in detail, see our [milk steaming guide](/guides/milk-steaming-beginners/). For more espresso drink recipes, browse our [recipe collection](/recipes/). New to home espresso? Start with our [complete beginner's guide](/guides/getting-started/).

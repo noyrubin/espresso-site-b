@@ -113,7 +113,7 @@ The traditional choice is whole milk. With only 2 oz in the drink, the milk's bo
 
 ## Variations
 
-**Iced Cortadito** — Add 1 tsp sugar to the espresso while still hot. Whisk vigorously to create a tan-colored sugar foam (espuma) before adding milk and ice. Cuban-style sweet cortado.
+**Iced Cortadito** — Add 1 tsp sugar to the espresso while still hot. Whisk vigorously to create a tan-colored sugar foam (espuma) before adding milk and ice. Cuban-style sweet cortado. See our full [cortadito recipe](/recipes/cortadito/) for the proper espumita technique.
 
 **Iced Spanish Latte (Café con Leche Helado)** — Same 1:1 ratio but with sweetened condensed milk instead of plain whole milk. Sweet, dessert-like.
 

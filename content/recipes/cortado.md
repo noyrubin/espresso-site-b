@@ -80,7 +80,8 @@ The cortado sits between a macchiato (barely any milk) and a flat white (more mi
 
 - **[Iced cortado](/recipes/iced-cortado/):** Double espresso poured over equal parts cold milk and a few ice cubes in a small 5–6 oz glass. The Spanish iced espresso drink, full recipe and variations.
 - **Cortado with honey:** Add 1 teaspoon of honey to the espresso before adding milk. The sweetness pairs well with nutty or chocolatey espresso.
-- **Cortadito (Cuban-style):** Whip a small amount of the first espresso drops with sugar to create "espuma," then top with steamed milk.
+- **[Cortadito (Cuban-style)](/recipes/cortadito/):** Whip a small amount of the first espresso drops with sugar to create *espumita*, then top with steamed milk in a 4 oz glass — the Cuban answer to the cortado. Full recipe and cortado vs cortadito comparison.
+- **[Piccolo (Australian small latte)](/guides/what-is-a-piccolo-coffee/):** Same 4 oz format as a cortado but with a 1:3 ratio of ristretto to milk — a milk-forward Australian alternative.
 
 For more espresso drink recipes, browse our [recipe collection](/recipes/). If you are still setting up your home espresso station, start with our [getting started guide](/guides/getting-started/).
 
