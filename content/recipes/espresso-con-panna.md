@@ -146,3 +146,4 @@ A [latte](/recipes/latte/) uses steamed milk (mostly liquid) that blends with th
 - [Getting Started with Home Espresso](/guides/getting-started/)
 - [Caffè Shakerato: Italian Iced Espresso](/recipes/shakerato/)
 - [Marocchino: Italian Cocoa-Dusted Espresso](/recipes/marocchino/) — small Italian espresso bar drink with cocoa + layered frothed milk
+- [Bicerin: Turin's 300-Year-Old Espresso, Chocolate & Cream Drink](/recipes/bicerin/) — the layered Piedmontese cousin: hot chocolate + espresso + cream in a 4 oz glass

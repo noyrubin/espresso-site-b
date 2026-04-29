@@ -165,6 +165,7 @@ If you enjoy a mocha, try:
 - [Caramel Macchiato](/recipes/caramel-macchiato/) — another sweet espresso classic
 - [White Chocolate Mocha](/recipes/white-chocolate-mocha/) — the sweeter, vanilla-forward cousin with homemade white chocolate sauce
 - [Marocchino](/recipes/marocchino/) — the Italian small-glass cousin: cocoa-dusted espresso layered with frothed milk in a 3 oz tumbler
+- [Bicerin](/recipes/bicerin/) — the Turin original from 1763: hot drinking chocolate, espresso, and barely-whipped cream layered in a 4 oz glass
 - [Latte vs Mocha](/guides/latte-vs-mocha/) — full comparison of the two drinks
 - [Caramel Frappuccino](/recipes/caramel-frappuccino/) — blended espresso + caramel + ice, Starbucks copycat
 - [Mocha Frappuccino](/recipes/mocha-frappuccino/) — the blended frozen version of this mocha, with homemade mocha sauce recipe

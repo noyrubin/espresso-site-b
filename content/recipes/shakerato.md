@@ -171,3 +171,4 @@ Looking for more Italian espresso bar classics?
 - [Ristretto](/recipes/ristretto/) — the ultra-short, more concentrated espresso shot
 - [Doppio](/guides/what-is-a-doppio/) — the standard double espresso
 - [Marocchino](/recipes/marocchino/) — Italian cocoa-and-milk layered shot from Alessandria
+- [Bicerin](/recipes/bicerin/) — Turin's 1763 layered espresso + hot chocolate + cream specialty

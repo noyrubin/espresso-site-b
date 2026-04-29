@@ -271,6 +271,8 @@ Grind is too fine, press disk is too tight, or the perforations are clogged with
 - [Vietnamese coffee: complete guide](/guides/vietnamese-coffee/) — All styles, history, and bean culture.
 - [Vietnamese iced coffee (cà phê sữa đá) recipe](/recipes/vietnamese-iced-coffee/) — The classic recipe with exact ratios.
 - [Vietnamese egg coffee (cà phê trứng) recipe](/recipes/vietnamese-egg-coffee/) — The Hanoi specialty.
+- [Vietnamese salt coffee (cà phê muối) recipe](/recipes/vietnamese-salt-coffee/) — The Huế specialty with salted whipped foam.
+- [Bạc Xỉu recipe](/recipes/bac-xiu/) — Saigon's milky white coffee with extra fresh milk.
 - [Thai iced coffee (Oliang)](/recipes/thai-iced-coffee/) — A close cousin from Southeast Asia.
 - [French press vs drip coffee](/guides/french-press-vs-drip/) — How metal filters change the cup.
 - [Cold brew coffee recipe](/recipes/cold-brew-coffee-recipe/) — Another low-equipment cold coffee method.
