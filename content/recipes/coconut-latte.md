@@ -111,7 +111,7 @@ The iced version is where coconut latte shines brightest — the chilled coconut
 | **Coconut Vietnamese iced coffee** | Condensed milk + coconut | Strong brew | Southeast Asian tradition |
 | **Horchata latte** | Rice milk | Yes | Cinnamon + rice, different tropical register |
 
-For the full Southeast Asian coconut coffee tradition, see our [Vietnamese iced coffee guide](/recipes/vietnamese-iced-coffee/) and [horchata latte](/recipes/horchata-latte/).
+For the full Southeast Asian coconut coffee tradition, see our [Vietnamese coconut coffee (cà phê dừa)](/recipes/vietnamese-coconut-coffee/) — phin coffee with a frosty coconut slushy — and the broader [Vietnamese iced coffee guide](/recipes/vietnamese-iced-coffee/) and [horchata latte](/recipes/horchata-latte/).
 
 ## Variations
 

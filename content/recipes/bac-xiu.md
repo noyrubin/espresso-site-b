@@ -244,6 +244,7 @@ A Bạc Xỉu has **roughly half the caffeine of a standard Cà Phê Sữa Đá*
 
 - **[Phin Coffee Guide](/guides/phin-coffee/)** — Equipment guide for the Vietnamese phin filter.
 - **[Cà Phê Sữa Đá (Vietnamese Iced Coffee)](/recipes/vietnamese-iced-coffee/)** — The strong-coffee sibling — same phin base, different proportions.
+- **[Vietnamese Coconut Coffee (Cà Phê Dừa)](/recipes/vietnamese-coconut-coffee/)** — The frosty coconut-slushy version popularized by Cộng Cà Phê.
 - **[Vietnamese Salt Coffee (Cà Phê Muối)](/recipes/vietnamese-salt-coffee/)** — The Hue specialty with salted whipped foam.
 - **[Vietnamese Egg Coffee (Cà Phê Trứng)](/recipes/vietnamese-egg-coffee/)** — The Hanoi cousin with whipped egg yolk.
 - **[Vietnamese Coffee Culture](/guides/vietnamese-coffee/)** — Overview of robusta, brewing methods, and regional traditions.

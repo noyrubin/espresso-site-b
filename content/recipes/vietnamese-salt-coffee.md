@@ -249,6 +249,7 @@ All refer to the same drink.
 
 - **[Phin Coffee Guide](/guides/phin-coffee/)** — Complete guide to brewing with the Vietnamese phin filter.
 - **[Cà Phê Sữa Đá (Vietnamese Iced Coffee)](/recipes/vietnamese-iced-coffee/)** — The most famous Vietnamese coffee drink.
+- **[Cà Phê Dừa (Vietnamese Coconut Coffee)](/recipes/vietnamese-coconut-coffee/)** — The Cộng Cà Phê signature with a coconut slushy on top.
 - **[Cà Phê Trứng (Vietnamese Egg Coffee)](/recipes/vietnamese-egg-coffee/)** — The Hanoi cousin with whipped egg yolk.
 - **[Bạc Xỉu](/recipes/bac-xiu/)** — Vietnamese white coffee with extra milk.
 - **[Vietnamese Coffee Culture](/guides/vietnamese-coffee/)** — Overview of robusta, brewing methods, and regional traditions.
