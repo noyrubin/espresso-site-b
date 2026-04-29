@@ -163,6 +163,7 @@ A cortado uses a 1:1 ratio of espresso to warm (not foamy) milk — typically 2 
 
 - [Caramel Macchiato Recipe](/recipes/caramel-macchiato/) — How to make the popular caramel macchiato at home (hot or iced)
 - [Latte Recipe: How to Make a Latte at Home](/recipes/latte/) — Full milk technique and ratio guide
+- [Italian Coffee Drinks: The Complete Guide](/guides/italian-coffee-drinks/) — pillar guide to Italy's full espresso bar menu and ordering rules
 - [Cappuccino Recipe: The Classic Ratio](/recipes/cappuccino/) — Dense foam technique
 - [Cortado: The 1:1 Espresso Drink](/recipes/cortado/) — For espresso-forward milk drinks
 - [What Is a Latte Macchiato?](/guides/latte-macchiato/) — Deep dive into the inverted layered espresso drink

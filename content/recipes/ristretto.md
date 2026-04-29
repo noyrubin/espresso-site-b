@@ -130,4 +130,4 @@ A blonde shot (also called a blonde espresso) refers to espresso made from light
 
 ---
 
-*Looking to explore all espresso shot sizes? See also: [Ristretto vs Espresso: Key Differences](/guides/ristretto-vs-espresso/) | [Lungo Recipe](/recipes/lungo/) | [What Is a Doppio?](/guides/what-is-a-doppio/) | [Espresso Ratio Guide](/guides/espresso-ratio-guide/) | [Affogato: Espresso Over Gelato](/recipes/affogato/) | [Getting Started with Home Espresso](/guides/getting-started/)*
+*Looking to explore all espresso shot sizes? See also: [Italian Coffee Drinks: The Complete Guide](/guides/italian-coffee-drinks/) | [Ristretto vs Espresso: Key Differences](/guides/ristretto-vs-espresso/) | [Lungo Recipe](/recipes/lungo/) | [What Is a Doppio?](/guides/what-is-a-doppio/) | [Espresso Ratio Guide](/guides/espresso-ratio-guide/) | [Affogato: Espresso Over Gelato](/recipes/affogato/) | [Getting Started with Home Espresso](/guides/getting-started/)*

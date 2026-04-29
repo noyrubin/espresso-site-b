@@ -132,6 +132,7 @@ Yes. Ice cream works fine, though the higher air content means it melts faster a
 
 ## More Espresso Drinks and Recipes
 
+- [Italian Coffee Drinks: The Complete Guide](/guides/italian-coffee-drinks/) — the full Italian espresso bar menu with comparison tables and ordering rules
 - [Ristretto: The Concentrated Short Shot](/recipes/ristretto/)
 - [Lungo: The Extended Espresso](/recipes/lungo/)
 - [Espresso Martini Recipe](/recipes/espresso-martini/) — Another after-dinner espresso experience: vodka + espresso + coffee liqueur, shaken

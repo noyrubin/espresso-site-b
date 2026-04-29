@@ -166,6 +166,7 @@ No. Starbucks Shaken Espresso uses the same shaking technique but adds milk and 
 
 Looking for more Italian espresso bar classics?
 
+- [Italian Coffee Drinks: The Complete Guide](/guides/italian-coffee-drinks/) — the master pillar guide to all 15+ Italian espresso bar drinks
 - [Espresso Con Panna](/recipes/espresso-con-panna/) — espresso topped with whipped cream
 - [Affogato](/recipes/affogato/) — espresso poured over vanilla gelato
 - [Ristretto](/recipes/ristretto/) — the ultra-short, more concentrated espresso shot

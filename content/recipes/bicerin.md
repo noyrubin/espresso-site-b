@@ -238,6 +238,7 @@ A bicerin is comparable to a cappuccino in caffeine but roughly 3x the calories 
 
 ## Related Drinks
 
+- **[Italian Coffee Drinks: The Complete Guide](/guides/italian-coffee-drinks/)** — The full Italian espresso bar menu with comparison tables, etiquette, and ordering rules.
 - **[Marocchino](/recipes/marocchino/)** — The Alessandrian sibling: cocoa powder + espresso + frothed milk in a 3 oz glass.
 - **[Mocha](/recipes/mocha/)** — The American take: chocolate syrup + espresso + steamed milk in a mug.
 - **[Espresso con panna](/recipes/espresso-con-panna/)** — Espresso with whipped cream on top — the bicerin without the chocolate.

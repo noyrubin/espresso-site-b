@@ -158,6 +158,7 @@ Yes. Use Moka pot coffee or strong AeroPress espresso as your base. Dissolve the
 
 If you enjoy a mocha, try:
 
+- [Italian Coffee Drinks: The Complete Guide](/guides/italian-coffee-drinks/) — pillar guide to Italy's full espresso bar menu including the chocolate-coffee triad
 - [Latte](/recipes/latte/) — same structure, no chocolate, cleaner coffee flavor
 - [Cappuccino](/recipes/cappuccino/) — smaller, stronger, more foam
 - [Iced Latte](/recipes/iced-latte/) — cold coffee base, easily add chocolate for an iced mocha

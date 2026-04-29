@@ -138,6 +138,7 @@ A [latte](/recipes/latte/) uses steamed milk (mostly liquid) that blends with th
 
 ## More Espresso Recipes
 
+- [Italian Coffee Drinks: The Complete Guide](/guides/italian-coffee-drinks/)
 - [Affogato: Espresso Poured Over Gelato](/recipes/affogato/)
 - [Ristretto: The Concentrated Short Shot](/recipes/ristretto/)
 - [Cappuccino Recipe](/recipes/cappuccino/)

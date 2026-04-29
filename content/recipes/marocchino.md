@@ -220,6 +220,7 @@ Layering is the marocchino's defining visual. Mixed-in milk turns it into a smal
 
 ## Related Recipes
 
+- [Italian Coffee Drinks: The Complete Guide](/guides/italian-coffee-drinks/) — The full Italian espresso bar menu in one pillar guide.
 - [Bicerin recipe](/recipes/bicerin/) — The Turin sibling: layered espresso, hot drinking chocolate, and barely-whipped cream in a 4 oz glass.
 - [Mocha (caffè mocha) recipe](/recipes/mocha/) — The bigger, sweeter chocolate-coffee drink.
 - [Latte vs mocha](/guides/latte-vs-mocha/) — chocolate coffee comparison.
