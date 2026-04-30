@@ -226,4 +226,5 @@ Specify the sweetness: *sketo* (no sugar), *me ligi* (a little, ½ tsp), *metrio
 - [Yemeni Coffee (Qahwa Yemenia & Qishr)](/guides/yemeni-coffee/) — the birthplace of cultivated coffee
 - [Café de Olla](/guides/cafe-de-olla/) — Mexican spiced coffee with piloncillo and canela
 - [Vietnamese Coffee](/guides/vietnamese-coffee/) — Phin filter brewing and condensed milk variations
+- [Dalgona Coffee](/recipes/dalgona-coffee/) — Whipped instant-coffee cousin to the frappe; Korean 2020 viral
 - [Espresso Glossary](/guides/espresso-glossary/) — Briki, demitasse, kaymaki and other coffee terms defined

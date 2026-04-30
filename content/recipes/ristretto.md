@@ -1,7 +1,7 @@
 ---
-title: "What Is a Ristretto? The Sweeter, More Concentrated Espresso Shot Explained"
+title: "Ristretto Shot: The Sweeter, Stronger Espresso (Recipe + Espresso vs Ristretto)"
 date: 2026-04-25
-description: "A ristretto is pulled with the same coffee dose as espresso but only half the water — shorter, sweeter, and more concentrated. How to pull one at home, how it tastes, and how it compares to espresso and lungo."
+description: "A ristretto is the first 15-20 ml of an espresso shot — same dose, half the water. Result: thicker crema, more sweetness, less bitterness, and yes — slightly stronger per ml than espresso. Step-by-step recipe + how it compares to espresso, lungo, and doppio."
 tags: ["ristretto", "espresso", "recipe", "technique"]
 categories: ["recipes"]
 author: "Barista At Home"

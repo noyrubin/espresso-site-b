@@ -254,6 +254,7 @@ All refer to the same drink.
 - **[Bạc Xỉu](/recipes/bac-xiu/)** — Vietnamese white coffee with extra milk.
 - **[Vietnamese Coffee Culture](/guides/vietnamese-coffee/)** — Overview of robusta, brewing methods, and regional traditions.
 - **[Coconut Latte](/recipes/coconut-latte/)** — Coconut cream and espresso, in the same modern viral category.
+- **[Dalgona Coffee](/recipes/dalgona-coffee/)** — The Korean whipped-coffee cloud and its 2020 viral lockdown story.
 
 ---
 
