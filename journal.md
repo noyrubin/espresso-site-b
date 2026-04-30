@@ -4,6 +4,81 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-30 06:00 IDT — Pulse 75: Dalgona Enhancement + Ristretto CTR Rewrite + East Asian Cluster Seed | 182 Pages | Day 27 Morning
+
+**Action:**
+1. Pulled latest from git (Already up to date — last commit 4f3040e = Pulse 74 vietnamese-coconut-coffee at 182 pages).
+2. Read strategy.md head + journal.md head BEFORE any DataForSEO calls (workflow established Pulses 68 → 70 → 72 → 73 → 74, continued).
+3. Verified previous Pulse # = 74; this Pulse = 75 (22 IDT prev day → 06 IDT today, contiguous).
+4. Consulted SEO skill (`anthropic-skills:seo-aeo`) — loaded **Ch7.1** (KPIs, snippet-control reassessment window) + **Ch5.1** (hybrid silo, canonical pillar pages, intelligent cross-cluster links). Decision logic:
+   - milk-steaming v2 at ~40h since deploy (~Day 2 of the 2-7 day reassessment window). Direction-only check OK; full re-read still premature.
+   - ristretto pos 8.4 PAGE 1 is on a completely different keyword universe from milk-steaming → CTR pass on ristretto is **signal-isolated by design**, not contaminated by the milk-steaming v2 read. Cleared for action this pulse.
+   - East Asian cluster cold start: Vietnamese is mature (7 pages), Thai 1 page, Korean / Japanese / Filipino unexplored. Seeding the Korean cluster with the highest-volume Korean coffee term that's beatable is the cluster-architecture move per Ch5.1.
+5. **GA4 check:** Day 26 closed at 3 organic sessions (final). Day 25 = 2. Day 24 = 5 (still best). Day 22 = 1. Day 23 = 0 (gap). Day 27 not yet populated (very early — 06:00 IDT). 9 distinct organic-converting landing pages cumulatively.
+6. **SC check:** milk-steaming-beginners 38 imps **pos 26.68 UNCHANGED** at ~40h since v2 deploy — but new query variations are firing: "how to steam milk for flat white" pos 45 (1 imp, the v2 title's exact phrasing), "how to steam milk for espresso" pos 51.5 (2 imps), "how to steam milk" 4 imps pos 56.75. The v2 IS expanding the page's query footprint at deep positions; not yet driving up the head-position. 10 PAGE 1 positions stable: ristretto 8.4 / 5 imps, horchata-latte 3, cortado-vs-latte 7, french-press-vs-drip 9.5, moka-pot 10 + 5 tag pages. NEW SC entry: tags/latte-macchiato pos 63.2 / 9 imps (tag page collecting impressions on "latte macchiato" head term, 5 imps pos 78). brown-sugar-shaken-espresso pos 77 / 15 imps with 4 query variations firing.
+7. **DataForSEO research (focused):**
+   - SERP "ristretto" ($0.002): Wikipedia #1, Reddit #2, cafebritt #3, **ristretto.us #4 = bike company (off-topic, beatable)**, YouTube #5, coffeegeek #6, 787coffee #7, Breville #8, Starbucks #9. PAA: "Is a ristretto stronger than an espresso?" / "What is the point of ristretto?" / "How do you drink ristretto?" / "What is a blonde shot?". Our page is at pos 8.4 — already PAGE 1 mid; CTR rewrite to push toward top half.
+   - keyword-ideas "korean coffee" + "japanese coffee" ($0.026 total): broad seeds returned generic / off-topic / brand-flavored results — not productive at the broad-seed level.
+   - search-volume batch 10 specific East Asian drinks ($0.075): **dalgona coffee 27.1K LOW 6** (massive find — same volume tier as cortadito Pulse 69), kissaten 3.6K LOW 0 (Japanese cafe culture), japanese iced coffee 1.3K LOW 6, korean iced coffee 590 LOW 10, kyoto iced coffee 170 LOW 5, japanese coffee culture 110 LOW 0. REJECTED: japanese cold brew HIGH 91, hand drip coffee HIGH 74, kapeng barako MEDIUM 42 (Filipino — defer), mizudashi vol 30 (too low).
+   - SERP "dalgona coffee" ($0.002): jessicainthekitchen #1 food blog, SeriousEats #2 (strong, Jul 2025), Wikipedia #3, Reddit #4, YouTube #5, Cafe Bustelo #6 brand, minnesotamonthly #7 (2020, beatable), melscoffeetravels #8 (small blog, beatable). 1-2 strong content competitors. PAA: "How do you make Dalgona coffee?" / "What is special about Dalgona coffee?" / "What is the difference between normal coffee and Dalgona coffee?" / "Is Dalgona coffee frappe?".
+   - **Pulse 75 spend: $0.103. Running total: ~$12.19. Avg daily Days 1-27: ~$0.452. Well under $1/day ceiling.**
+8. **DISCOVERY: dalgona-coffee.md already exists** (date 2026-04-10 = Day 7, Pulse ~7-8 era; ~140 lines, ~2,300 words). Decision: ENHANCE rather than write new (avoids canonicalization conflict + strengthens already-indexed page). The existing page was solid on recipe + chemistry but missing: Macau/Korea origin moat, comparison tables (vs frappe / cappuccino / Vietnamese egg coffee), best-instant-coffee table, tools comparison table, caffeine+calorie table, and PAA-aligned FAQ.
+9. **DALGONA ENHANCEMENT** (`content/recipes/dalgona-coffee.md`):
+   - **Title CTR rewrite:** "Dalgona Coffee (Whipped Coffee Recipe)" → **"Dalgona Coffee Recipe: The Whipped Korean Coffee Cloud (1:1:1 Ratio + Why Only Instant Coffee Works)"** (front-loads exact-match query + adds the structural ratio + the chemistry hook that no competitor's title front-loads).
+   - **Description CTR rewrite:** answer-first definition, names the 1:1:1 ratio, names the Greek frappe / Vietnamese egg coffee comparison cluster.
+   - **NEW: Drink At-A-Glance master table** (origin / coffee base / ratio / technique / glassware / caffeine / calories / season / difficulty).
+   - **NEW: Origin Story section** — Hon Kee Café Macau (Leong Kam Hon, hand-beaten coffee) → January 2020 Korean variety show (Jung Il-woo) → COVID-19 lockdown viral spread → SBS *Squid Game* candy connection. The named-entity moat the SERP doesn't tell — competing pages just say "Korean candy" without context.
+   - **NEW: Best Instant Coffee table** (Nescafé Gold freeze-dried / Maxwell House / Folgers / Café Bustelo / Mount Hagen / Starbucks Via / decaf — 7 brands rated by foam quality + notes).
+   - **NEW: Tools comparison table** (8 tools: stand mixer / electric hand mixer / handheld milk frother / immersion blender / hand whisk / fork-or-chopsticks / standard blender / cocktail shaker — rated by time / effort / quality).
+   - **NEW: Dalgona vs Greek Frappe vs Cappuccino vs Vietnamese Egg Coffee 4-way comparison table** — the AEO moat that none of the SERP top 8 has.
+   - **NEW: Caffeine + Calorie breakdown table** — closes "is it caffeinated" + "how many calories" PAA gaps.
+   - **REPLACED FAQ section:** 6 generic Q&A → **8 PAA-aligned bolded H3 Q&A** mirroring SERP PAA verbatim (How do you make / What is special / Difference vs normal coffee / Is it a frappe / Why won't it whip / Korean or Macau / Without sugar / How long does foam last).
+   - **NEW: Where to Go Next** cluster routing section — 16 internal links across whipped/foamy Asian coffees (Vietnamese egg / salt / coconut / Greek frappe), Asian and tropical iced (Thai / Vietnamese iced / phin), iced coffee techniques, espresso fundamentals, world coffee culture (Vietnamese / Italian / Yemeni pillars).
+10. **RISTRETTO CTR REWRITE** (`content/recipes/ristretto.md`):
+    - Old title: "What Is a Ristretto? The Sweeter, More Concentrated Espresso Shot Explained"
+    - **New title: "Ristretto Shot: The Sweeter, Stronger Espresso (Recipe + Espresso vs Ristretto)"** — front-loads "Ristretto Shot" exact-match, answers PAA #1 ("Is a ristretto stronger than espresso?") inline with "Stronger", explicit comparison phrasing for the recipe-vs-comparison dual intent.
+    - Old description: generic.
+    - **New description:** "A ristretto is the first 15-20 ml of an espresso shot — same dose, half the water. Result: thicker crema, more sweetness, less bitterness, and yes — slightly stronger per ml than espresso. Step-by-step recipe + how it compares to espresso, lungo, and doppio." — concrete numbers, answers PAA #1 inside the snippet, names comparison cluster.
+11. **BIDIRECTIONAL CLUSTER LINKS (Ch5.2)** added 3 inbound links to dalgona-coffee:
+    - `content/recipes/vietnamese-egg-coffee.md` → dalgona (footer "Explore more": "Dalgona Coffee — the Korean whipped-coffee cousin")
+    - `content/recipes/vietnamese-salt-coffee.md` → dalgona (Related Drinks footer: "Dalgona Coffee — The Korean whipped-coffee cloud and its 2020 viral lockdown story")
+    - `content/guides/greek-coffee.md` → dalgona (Related Guides: "Whipped instant-coffee cousin to the frappe; Korean 2020 viral")
+12. Build validation: 0 shortcodes used in any of the 5 modified files (`grep '{{ '` = 0 in dalgona-coffee.md and ristretto.md). YAML front matter unchanged structurally. Pure markdown additions.
+13. Committed + pushed → Vercel auto-deploy (commit 3c6e519). **Site total: still 182 pages** (page enhancement, not new page).
+
+**Reasoning:**
+- **Why dalgona enhancement over new page:** Discovered the existing /recipes/dalgona-coffee/ page was already published Day 7 (Pulse ~7-8 era). Writing a new page would create canonicalization conflict; deleting and rewriting would forfeit any indexing equity already earned. Enhancement is strictly better — the page becomes more comprehensive, more AEO-extractable, and more cluster-connected without losing the URL's history.
+- **Why dalgona is the right Korean cluster seed:** dalgona coffee at 27.1K LOW 6 is the highest-volume LOW-comp Korean-associated coffee term. Same volume tier as cortadito (27.1K LOW 3, Pulse 69 = our best Korean-cluster sibling find). SERP has only 1-2 strong content competitors (SeriousEats Jul 2025 strong; jessicainthekitchen #1 a 2020 food blog beatable on depth) and the named-entity origin story (Macau Hon Kee → Korean variety show → COVID lockdown) is a moat no competitor tells. Per Ch5.1, this is the canonical Korean-coffee destination that should be made obvious for the broad query.
+- **Why ristretto CTR pass NOW (signal-isolated from milk-steaming v2):** This is the strategic pivot from Pulse 73-74's "wait" stance. Reasoning per Ch7.1: signal isolation is keyword-page bound, not site-bound. milk-steaming v2 affects only the milk-steaming page's CTR signal; ristretto is a completely different page with a completely different keyword. Running both experiments concurrently doesn't contaminate either — they're independent variables. Earlier pulses (73-74) deferred ristretto out of caution about *experiment design clarity*, but with milk-steaming v2 at ~40h still pos 26.68 unchanged, holding ristretto further would just be wasted opportunity. Ristretto pos 8.4 with 5 impressions is high-leverage for a CTR pass — moving it from PAGE 1 mid (pos 8) to PAGE 1 top (pos 3-5) per Ch7.1's "snippet and presentation controls" guidance.
+- **Why the 4-way comparison table is the AEO moat:** None of the SERP top 8 for "dalgona coffee" includes a side-by-side comparison of dalgona vs frappe vs cappuccino vs Vietnamese egg coffee. The PAA "Is Dalgona coffee a frappe?" suggests this exact disambiguation is in demand. A 7-row table covering origin / coffee base / foam ingredient / foam location / sweetness / texture / served is highly extractable for both AI overviews and "vs" featured snippets per Ch4.2.
+- **Why East Asian cluster seed before Vietnamese pillar:** Per Ch5.1's "intelligent cross-links between related clusters", seeding Korean (1 page now) + Japanese (still 0 pages, but kissaten 3.6K LOW 0 is queued for Pulse 76-77) gives the Asian super-cluster more breadth before consolidating Vietnamese into a hub. Building Vietnamese pillar at 7 pages is still premature; instead, expanding the East Asian footprint creates the bridging context that makes a future Vietnamese pillar more naturally embedded in the broader Asian-coffee architecture.
+
+**SEO Skill Reference:**
+- **Ch7.1 (Snippet-control reassessment + signal isolation):** ristretto CTR pass is keyword-page-isolated from milk-steaming v2's reassessment window — concurrent experiments on different pages don't contaminate. Dalgona enhancement adds AEO-extractable comparison tables + PAA-mirror FAQs to drive both SERP CTR and AI citation eligibility.
+- **Ch5.1 (Hybrid silo, canonical destination, intelligent cross-cluster links):** Dalgona is now the canonical Korean coffee page. Cross-cluster bridges to Vietnamese egg coffee (whipped-foam cousin) and Greek frappe (instant-coffee cousin) make both Asian and Mediterranean cluster destinations unambiguous.
+- **Ch4.1 (Intent fan-out):** Dalgona enhancement covers recipe + chemistry + cultural-origin + comparison + caffeine-calorie + tools intents in a single canonical page — broader intent surface than any competing top-8 result.
+- **Ch4.2 (Answer-first formatting):** Bolded direct-definition leads on dalgona + ristretto, comparison tables front-loaded, 8-FAQ section structured as bolded H3 PAA Q&A mirroring the actual SERP PAA panel verbatim.
+- **Ch5.2 (Bidirectional cluster sibling links):** 3 inbound links to dalgona from Vietnamese egg coffee, Vietnamese salt coffee, and Greek coffee.
+
+**Outcome:**
+- Dalgona page substantially enhanced: ~2,300 words → ~4,000+ words; +6 new structured sections (At-A-Glance / Origin Story / Best Instant Coffee / Tools / Dalgona-vs-Frappe / Caffeine-Calorie); FAQ replaced with PAA-aligned 8-Q version; +16 outbound cluster links via Where to Go Next.
+- Ristretto title + description CTR-optimized — front-loaded query, answered PAA #1 inline.
+- 3 new bidirectional cluster sibling links (Asian whipped-foamy cluster bridge).
+- East Asian cluster footprint widened: Korean now seeded with the highest-volume Korean-associated drink. Japanese still queued (kissaten 3.6K LOW 0 + japanese iced coffee 1.3K LOW 6).
+- DataForSEO spend: $0.103 (well under daily $1 ceiling). Running total ~$12.19. Avg daily $0.452.
+- Vercel auto-deployed (commit 3c6e519). Site total still 182 (enhancement, not new page).
+- milk-steaming v2 still pos 26.68 at ~40h — but query footprint expanding ("how to steam milk for flat white" pos 45 NEW, "how to steam milk for espresso" pos 51.5, "how to steam milk" 4 imps pos 56.75). v2 IS doing its job at deep positions — not yet pulling the head-position up.
+
+**Next (Pulse 76 14:00 IDT Apr 30, Day 27 Afternoon):**
+- Read journal.md head FIRST.
+- SC milk-steaming watch — ~48h since v2 deploy = approaching read-zone edge. Direction check + assess if a third CTR pass is needed or if v2 is still cooking.
+- SC ristretto pos 8.4 watch — has the new title/description shifted position? (Most likely too early at 8h since deploy.)
+- SC dalgona watch — new entry expected? Page was ~140 lines pre-enhancement, ~2,300 words; will the +1,700 words + 6 new tables + 16 new outbound links push it into SC impressions?
+- GA4 Day 27 watch — first reading on whether new content + enhancements compound the daily session count.
+- Content priorities: (a) **kissaten 3.6K LOW 0** — Japanese cafe culture page (Showa-era 喫茶店 culture, pour-over hand drip, jazz kissaten subgenre, Tokyo / Kyoto kissaten institutions, kissaten vs modern cafe disambiguation); (b) **japanese iced coffee 1.3K LOW 6** — distinct from cold brew, the flash-brew-over-ice technique that originated in Kyoto cafés; (c) brown-sugar-shaken-espresso CTR pass IF the page has continued accumulating queries (currently pos 77, 4 query variations firing); (d) DataForSEO seed "asian iced coffee" or "specialty coffee shop" for fresh discovery if Korean/Japanese cluster doesn't yet have a clear Pulse 76 priority.
+
+---
+
 ## 2026-04-29 22:00 IDT — Pulse 74: Vietnamese Coconut Coffee / Cà Phê Dừa (880 LOW 17) | 182 Pages | Day 26 Night
 
 **Action:**
