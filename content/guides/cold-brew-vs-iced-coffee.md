@@ -203,3 +203,4 @@ Yes — cold brew is a form of iced coffee. When people say "iced coffee" vs "co
 - [Espresso vs Cold Brew](/guides/espresso-vs-cold-brew/) — full comparison of both brewing methods
 - [What Is Nitro Cold Brew?](/guides/what-is-nitro-cold-brew/) — nitrogen-infused cold brew explained: what makes it creamy, Starbucks guide, how to make it at home
 - [Iced Americano vs Iced Coffee](/guides/iced-americano-vs-iced-coffee/) — the espresso-based vs brewed-coffee comparison
+- [Japanese Iced Coffee (Flash Brew)](/recipes/japanese-iced-coffee/) — the third iced coffee method: hot pour-over directly over ice — brighter than cold brew, faster than overnight steeping

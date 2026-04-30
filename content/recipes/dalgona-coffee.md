@@ -269,6 +269,8 @@ No, but they are cousins. **Both use instant coffee, sugar, and aeration, but th
 - [Best Espresso Machines for Beginners](/guides/best-espresso-machines-beginners/) — entry-level home setups
 
 **Coffee culture from around the world:**
+- [Kissaten](/guides/kissaten/) — Japan's Showa-era coffee houses (the broader Japanese coffee culture pillar)
+- [Japanese Iced Coffee](/recipes/japanese-iced-coffee/) — the Kyoto flash-brew technique — Japan's other contribution to iced coffee
 - [What Is Vietnamese Coffee?](/guides/vietnamese-coffee/) — the broader Vietnamese cultural and equipment hub
 - [Italian Coffee Drinks](/guides/italian-coffee-drinks/) — the canonical Italian espresso-bar pillar
 - [Yemeni Coffee](/guides/yemeni-coffee/) — coffee's birthplace and the qahwa tradition

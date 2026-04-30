@@ -148,3 +148,5 @@ The first few attempts have a learning curve — managing heat, timing the steep
 - [Pour Over Ratio Guide: V60, Chemex, Kalita, and Drip](/guides/pour-over-ratio/)
 - [How to Use a Moka Pot (Step-by-Step Guide)](/guides/how-to-use-moka-pot/)
 - [Espresso vs Coffee: What's Actually Different?](/guides/espresso-vs-coffee/)
+- [Kissaten — Japan's Showa-era coffee houses](/guides/kissaten/) — the cultural home of siphon coffee; Japanese kissaten popularized the vacuum brewer as the master's signature method
+- [Japanese Iced Coffee Recipe](/recipes/japanese-iced-coffee/) — the flash-brew-over-ice pour-over technique from Kyoto kissaten
