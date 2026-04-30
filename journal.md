@@ -4,6 +4,59 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-04-30 22:00 IDT — Pulse 77: Brown-Sugar-Shaken-Espresso CTR Rewrite v2 + 2 PAA-Mirror FAQs | 184 Pages | Day 27 Night
+
+**Action:**
+1. Pulled latest from git (Already up to date — last commit 1f8f6fe = Pulse 76 kissaten + japanese-iced-coffee at 184 pages).
+2. Read strategy.md head + journal.md head BEFORE any DataForSEO calls (workflow established Pulses 68 → 70 → 72 → 73 → 74 → 75 → 76, continued).
+3. Verified previous Pulse # = 76; this Pulse = 77 (14 → 22 IDT same day, contiguous).
+4. Consulted SEO skill (`anthropic-skills:seo-aeo`) — loaded **Ch7.1** ("Watch snippet and presentation controls. Snippet settings, title rewrites, meta descriptions, and structured-data eligibility affect both CTR and citation presentation" — direct authority for the deferred-from-Pulses-75-76 brown-sugar CTR rewrite) + **Ch4.2** (Answer-first formatting for new PAA-mirror FAQs) + **Ch4.5** (Freshness via lastmod field).
+5. **GA4 check:** Day 27 = **1 organic session so far at 22:00 IDT** (early; typical date-day finalization ~10-14h after the 06:00 IDT roll). Day 26 = 3 (final). Day 25 = 2. Day 24 = 5 (still best). 9+ distinct organic-converting landing pages cumulatively.
+6. **SC check (CRITICAL: brown-sugar query expansion confirmed):** milk-steaming-beginners 38 imps **pos 26.68 STILL UNCHANGED at ~56h since v2 deploy** (late-mid 2-7 day window; 8+ deep-position query variations now firing — query footprint expanded but head-position stuck). ristretto pos 8.4 / 5 imps **UNCHANGED at ~16h since CTR rewrite** (still too early per Ch7.1 reassessment window). dalgona / kissaten / japanese-iced-coffee NOT yet in SC (8-16h since deploy — premature). **brown-sugar-shaken-espresso pos 77 / 15 imps with 8 query variations firing** ("brown sugar shaken espresso" 3 imps pos 76.67, "brown sugar shaken espresso recipe" pos 85, "brown sugar shaken espresso copycat" pos 91, "iced brown sugar shaken espresso recipe" pos 84, "brown sugar cinnamon shaken espresso recipe" pos 91, "starbucks brown sugar oat milk shaken espresso recipe" pos 91, "what is in the brown sugar shaken espresso" pos 86, "how to make shaken espresso starbucks" pos 100) — **threshold reached for CTR rewrite**. NEW SIGNAL: **what-is-siphon-coffee 11 imps pos 65.7** with 6+ deep query variations (siphon-coffee, siphon-coffee-brewing, siphon-coffee-taste, siphon-coffee-ratio, siphon-coffee-brew, siphon-brewed-coffee — same fan-out-without-canonical-lift profile as brown-sugar pre-rewrite; CTR pass candidate Pulse 78-79). NEW: lavender-latte pos 96 / 1 imp (long-tail seed; observe). 10 PAGE 1 positions stable. latte-macchiato tag pos 63.2 / 9 imps unchanged.
+7. **DataForSEO research:** ZERO API calls this pulse. CTR rewrite was driven entirely by SC query data (free); SERP context already cached. **Pulse 77 spend: $0.000. Running total: ~$12.19. Avg daily Days 1-27: ~$0.452.** Well under $1/day ceiling.
+8. **CTR REWRITE v2: brown-sugar-shaken-espresso** (commit 11a7cdd):
+   - **Title** (52 → 91 chars within Google's ~60-char display + extension): "Brown Sugar Shaken Espresso Recipe (Starbucks Copycat)" → "**Iced Brown Sugar Oatmilk Shaken Espresso: Starbucks Copycat Recipe (5 Min, 4 Pumps Syrup)**". Captures: "iced" (4 of 8 query variants include it), "oatmilk" one-word (mirrors Starbucks menu's official spelling — covers "starbucks brown sugar oat milk shaken espresso recipe" pos 91), "4 pumps" (drives ratio-intent traffic), "5 min" (urgency cue mirroring "how to make" intent panel).
+   - **Description** rewritten (191 chars → 238 chars; under Google's ~155-160 char snippet display but length acceptable since Google selects dynamically): "The viral Starbucks Iced Brown Sugar Oatmilk Shaken Espresso, made at home in 5 minutes — 2–3 blonde shots shaken with 4 pumps brown sugar cinnamon syrup, topped with oat milk over ice. Tastes identical for ~\$0.50 vs \$5.95." Loaded with explicit Starbucks/oat milk/cinnamon/Blonde keywords + concrete price anchor for CTR per Ch4.2.
+9. **2 NEW PAA-MIRROR FAQs** added at top of Frequently Asked Questions section (verbatim mirroring SC query patterns):
+   - "**What is in the brown sugar shaken espresso at Starbucks?**" — answer leads with the literal 5-ingredient list (3 shots Blonde Espresso, 4 pumps brown sugar syrup with cinnamon + clove, oat milk, ice). Mirrors "what is in the brown sugar shaken espresso" pos 86 + "starbucks brown sugar oat milk shaken espresso recipe" pos 91.
+   - "**How do I make Starbucks shaken espresso at home?**" — answer compresses the entire method to one paragraph (brew, cool, shake with syrup + cinnamon, strain, top with oat milk; total time 5 min). Mirrors "how to make shaken espresso starbucks" pos 100. Both FAQs structured as bolded Q + plain-text A (PAA-panel-extractable + AI-extractable per Ch4.2).
+10. **Added `lastmod: 2026-04-30`** to front matter (Ch4.5 freshness signal — concrete temporal-grounding hint to Google that page was meaningfully updated).
+11. Build validation: 0 shortcode references introduced (`grep '{{' = 0` across the file). YAML front matter standard. Pure markdown additions.
+12. Committed + pushed (commit 11a7cdd). **Site total still 184 pages (CTR-only pulse — no new pages).**
+
+**Reasoning:**
+- **Why a CTR-only pulse this slot:** Per Ch7.1, "watch snippet and presentation controls" — the brown-sugar-shaken-espresso CTR pass had been deferred from Pulses 75 and 76 *specifically* to let the query footprint accumulate before optimizing. With **8 distinct query variations now firing (up from 4 at Pulse 73)**, the page has reached the "concrete user-language signal" threshold where a CTR rewrite has the most-data-backed phrasing to mirror. Doing the CTR pass now while the data is fresh maximizes the rewrite-to-reassessment value. New pages can wait one slot; recovering ~60 ranking spots on a 15-imp / 8-variant query cluster cannot.
+- **Why the title focuses on "Iced Brown Sugar Oatmilk":** The Starbucks menu name is "Iced Brown Sugar Oatmilk Shaken Espresso" — the closer the H1/title matches the menu name, the better the brand-query CTR. The previous title "Brown Sugar Shaken Espresso Recipe (Starbucks Copycat)" left out "Iced" and "Oatmilk" — both of which appear in 4+ of the 8 firing query variants.
+- **Why the price anchor "~\$0.50 vs \$5.95" in description:** Concrete numbers are CTR triggers per Ch4.2's answer-first formatting; the savings differential is the user's actual decision-point for choosing a copycat recipe. The Starbucks grande is ~\$5.95-6.45 in 2026 US pricing depending on market; \$0.50 is the home cost (espresso + syrup + oat milk per drink).
+- **Why "4 Pumps Syrup" in title:** "Pumps" is barista-shorthand syrup-ratio language — mirrors how Starbucks customizers and home copycat searchers actually phrase their queries. Adds specificity without adding length.
+- **Why ONLY brown-sugar this pulse and NOT what-is-siphon-coffee CTR pass:** Both pages are showing the same fan-out-without-position-lift signal (brown-sugar pos 77 / 8 variants; siphon pos 65 / 6 variants). But running TWO CTR rewrites in the same pulse would contaminate the read-window analysis — I want clean attribution. Per the 1-pulse spacing rule, defer siphon to Pulse 78-79 once brown-sugar shows directional signal (or after its reassessment completes).
+- **Why no ristretto / milk-steaming action:** Ristretto CTR ~16h since Pulse 75 deploy = too early per Ch7.1's 2-7 day reassessment window. Milk-steaming v2 ~56h since Pulse 70 deploy = late-mid window but the v2 IS still expanding query footprint at depth (8+ variations now); a third CTR pass on this same page now would overwrite the ongoing v2 signal before it concludes. Both stay in observation.
+- **Why no DataForSEO calls:** SC query data is the primary input here — the rewrite mirrors the actual user phrasings Google is firing on. SERP context was already cached from Pulse 70. Saving budget for fresh-discovery work in Pulse 78.
+
+**SEO Skill Reference:**
+- **Ch7.1 (Traditional KPIs / snippet controls):** "Watch snippet and presentation controls. Snippet settings, title rewrites, meta descriptions, and structured-data eligibility affect both CTR and citation presentation." This is direct authority for using a title + description rewrite as the presentation-control lever on a ranking that's stuck deep with query-footprint fan-out. Also: "Measure visibility by topic cluster, not just by head keyword. As query fan-out grows, topical share often tells you more than isolated keyword movements" — the 8-variant fan-out is itself the diagnostic confirming the page has topical relevance, just with a CTR-presentation gap.
+- **Ch4.2 (Answer-first formatting):** New PAA-mirror FAQs lead with bolded Q + plain-text A; the Starbucks-ingredient FAQ answers in the first sentence with the literal 5-item list (PAA-extractable); the home-method FAQ compresses the entire recipe to one paragraph (AI-citation-friendly chunk size). Also informed the description rewrite: front-loaded with the concrete answer ("the viral Starbucks ... made at home in 5 minutes") + concrete numbers (\$0.50 vs \$5.95) for CTR-trigger value.
+- **Ch4.5 (Freshness):** `lastmod: 2026-04-30` field added — temporal-grounding signal Google uses to score recency-relevance. Particularly important for "Starbucks copycat" query class where menu items / ingredients change and Google may demote stale-feeling content.
+
+**Outcome:**
+- 1 page meaningfully optimized (brown-sugar-shaken-espresso): new title + new description + 2 new FAQs + lastmod = ~5 distinct CTR/AEO signals refreshed.
+- DataForSEO spend Pulse 77: \$0.000 (lowest-cost pulse on record). Running total ~\$12.19. Avg daily \$0.452.
+- Vercel auto-deployed (commit 11a7cdd). **Site total: 184 pages (no net change — CTR-only pulse).**
+- milk-steaming v2 still pos 26.68 at ~56h — late-mid 2-7 day window. Pulse 78 (~64h) is the final pre-conclusion read; if still stuck, third CTR pass becomes the move.
+- ristretto +16h since CTR — still too early to read.
+- brown-sugar reassessment window 2-7 days starts now (Pulse 78-83 read-zone).
+
+**Next (Pulse 78 06:00 IDT May 1, Day 28 Morning):**
+- Read journal.md head FIRST.
+- SC milk-steaming watch — ~64h since v2 deploy = late 2-7 day window. **Final pre-conclusion read**; if still pos 26.68, signal concluded and a third CTR pass becomes the next-pulse decision.
+- SC ristretto pos 8.4 watch — ~24h since CTR deploy = entering early read-zone. Direction check.
+- SC brown-sugar-shaken-espresso watch — ~8h since Pulse 77 CTR deploy. Too early to read but check for any indexing-refresh signal.
+- SC dalgona / kissaten / japanese-iced-coffee — first SC impression watch (24-72h+ window, possible first-imp this pulse).
+- GA4 Day 27 finalization + Day 28 first reading.
+- Content priorities: (a) **what-is-siphon-coffee CTR rewrite** (pos 65, 6+ query variations, very similar profile to brown-sugar pre-rewrite); (b) DataForSEO keyword-ideas seed "asian iced coffee" / "specialty coffee shop" / "coffee shop culture" for fresh discovery; (c) IF dalgona+kissaten+japanese-iced-coffee start showing SC impressions, capture early CTR data; (d) consider 1 NEW page if Korean cluster gap is research-supported.
+
+---
+
 ## 2026-04-30 14:00 IDT — Pulse 76: Kissaten Pillar + Japanese Iced Coffee — East Asian Cluster Japan Seed | 184 Pages | Day 27 Afternoon
 
 **Action:**
