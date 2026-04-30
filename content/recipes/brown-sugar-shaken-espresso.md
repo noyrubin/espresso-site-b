@@ -1,7 +1,8 @@
 ---
-title: "Brown Sugar Shaken Espresso Recipe (Starbucks Copycat)"
+title: "Iced Brown Sugar Oatmilk Shaken Espresso: Starbucks Copycat Recipe (5 Min, 4 Pumps Syrup)"
 date: 2026-04-09
-description: "Make the viral brown sugar shaken espresso at home in 5 minutes. Espresso + brown sugar syrup + cinnamon shaken over ice and topped with oat milk. Better than Starbucks."
+lastmod: 2026-04-30
+description: "The viral Starbucks Iced Brown Sugar Oatmilk Shaken Espresso, made at home in 5 minutes — 2–3 blonde shots shaken with 4 pumps brown sugar cinnamon syrup, topped with oat milk over ice. Tastes identical for ~$0.50 vs $5.95."
 tags: ["shaken espresso", "iced coffee", "brown sugar", "Starbucks copycat", "recipes"]
 categories: ["recipes"]
 author: "Barista At Home"
@@ -125,6 +126,12 @@ For beginners: a pressurized portafilter machine (Breville Bambino, De'Longhi De
 Nespresso pods also work — use 2 Lungo capsules or 2–3 standard espresso capsules.
 
 ## Frequently Asked Questions
+
+**What is in the brown sugar shaken espresso at Starbucks?**
+The Starbucks Iced Brown Sugar Oatmilk Shaken Espresso (grande) contains 3 shots of Blonde Espresso, 4 pumps of brown sugar syrup (which itself includes brown sugar, cinnamon, and a hint of clove), and oat milk, shaken hard over ice. That's the entire drink — five ingredients including the ice. The home copycat in this recipe matches all five.
+
+**How do I make Starbucks shaken espresso at home?**
+Brew 2–3 shots of espresso (Blonde or light roast preferred), let it cool 60 seconds, then add to a cocktail shaker or mason jar with 2 tablespoons of brown sugar syrup, 1/4 teaspoon ground cinnamon, and a half-cup of ice. Shake hard for 15–20 seconds until frothy. Strain into a tall glass of fresh ice and top with 1/2 cup oat milk. Total time: 5 minutes.
 
 **What is brown sugar shaken espresso made of?**
 Brown sugar shaken espresso contains espresso, brown sugar syrup, cinnamon, ice, and oat milk (or any milk). The espresso, syrup, and cinnamon are shaken together over ice first, then topped with milk.
