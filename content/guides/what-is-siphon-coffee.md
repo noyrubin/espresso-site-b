@@ -1,7 +1,8 @@
 ---
-title: "What Is Siphon Coffee? The Science Behind the Most Theatrical Brew Method"
+title: "Siphon Coffee Brewing Guide: How Vacuum Pot Works, 1:13 Recipe & Step-by-Step"
 date: 2026-04-09
-description: "Siphon coffee uses vacuum and heat to brew an exceptionally clean, flavorful cup. Learn how siphon coffee makers work, what makes them special, and whether one belongs in your home setup."
+lastmod: 2026-05-01
+description: "Siphon (vacuum) coffee brewing guide: full recipe with 1:13 ratio (15g coffee per 200ml water, 60-90s steep, ~5 min total), Hario/Yama/Kōno equipment, plus 4 troubleshooting fixes."
 tags: ["siphon coffee", "brewing methods", "coffee guides", "vacuum coffee"]
 categories: ["guides"]
 author: "Barista At Home"
@@ -121,6 +122,12 @@ Siphon brewers use cloth, metal, or paper filters in the upper chamber. **Cloth 
 ---
 
 ## Frequently Asked Questions
+
+**What is the ratio for siphon coffee?**
+The standard siphon coffee ratio is **1:13** — 15 grams of ground coffee per 200 ml of water. For a stronger cup, try 1:12 (16g per 200ml). For a lighter, more tea-like cup, try 1:15 (13g per 200ml). Always measure by weight, not volume — siphon brewing is sensitive to dose accuracy.
+
+**What does siphon coffee taste like?**
+Siphon coffee tastes exceptionally **clean, bright, and complex** — closer to a high-end pour over than a French press, but with more body and depth. Floral and fruit notes from light-roast single origins are pronounced. There is virtually no sediment. Compared to drip coffee, siphon has more clarity and aromatic intensity; compared to espresso, it has no crema or syrupy body. The taste profile is often described as "the cleanest cup possible without paper-filtered pour over."
 
 **Does siphon coffee taste better than other methods?**
 "Better" depends on what you value. Siphon produces exceptional clarity and complexity — ideal for light roasts and single origins. It won't satisfy you if you want espresso body or French press richness. For the right coffee, many aficionados consider it the finest expression of the bean.

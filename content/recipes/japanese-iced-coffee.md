@@ -2,7 +2,8 @@
 title: "Japanese Iced Coffee Recipe: Flash-Brewed Over Ice (The Fastest Iced Coffee Method)"
 date: 2026-04-30
 description: "Japanese iced coffee is hot pour-over brewed directly onto ice — finished in 4 minutes, brighter and cleaner than cold brew. Full recipe with the 1:15 brew + 1/3 ice ratio, why flash-brewing preserves aromatics, and Japanese vs cold brew comparison."
-tags: ["japan", "iced coffee", "japanese coffee", "pour over", "flash brew", "kissaten"]
+tags: ["japan", "iced coffee", "japanese coffee", "kyoto iced coffee", "pour over", "flash brew", "kissaten"]
+lastmod: 2026-05-01
 categories: ["recipes"]
 author: "Barista At Home"
 showToc: true
@@ -13,6 +14,8 @@ draft: false
 **Japanese iced coffee is hot pour-over coffee brewed directly onto ice — about one-third of the brew water is replaced with ice in the carafe.** The hot coffee melts the ice on contact and chills instantly, locking in volatile aromatics that cold brew throws away. Total brew time: about 4 minutes. The result is a cup that tastes like the best version of the coffee — bright, fragrant, clean — served cold.
 
 The technique was popularized in **Kyoto kissaten** in the postwar decades, refined as a way to serve genuinely good iced coffee without the dilution and flatness of pouring hot coffee over ice after the fact. Today it is the iced-coffee method used by most Japanese specialty cafés and a growing share of third-wave roasters worldwide. It is also the **fastest iced coffee method** — about 4 minutes from grind to glass, versus 12–24 hours for cold brew.
+
+Because the technique was refined in Kyoto, you may also see it called **Kyoto iced coffee** — though strictly speaking that name is a synonym for flash-brew Japanese iced coffee, not for the slow-drip cold-brew tower method that is also (confusingly) called "Kyoto-style cold brew." The disambiguation matters: see the FAQ at the bottom of this guide.
 
 ## Japanese Iced Coffee At a Glance
 
