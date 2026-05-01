@@ -227,5 +227,6 @@ Specify the sweetness: *sketo* (no sugar), *me ligi* (a little, ½ tsp), *metrio
 - [Café de Olla](/guides/cafe-de-olla/) — Mexican spiced coffee with piloncillo and canela
 - [Vietnamese Coffee](/guides/vietnamese-coffee/) — Phin filter brewing and condensed milk variations
 - [Kopi Tubruk](/guides/kopi-tubruk/) — Indonesian unfiltered settle-and-sip method; the closest Asian cousin to the cezve family
+- [Ipoh White Coffee](/guides/ipoh-white-coffee/) — Malaysian margarine-roasted kopitiam coffee with sweetened condensed milk
 - [Dalgona Coffee](/recipes/dalgona-coffee/) — Whipped instant-coffee cousin to the frappe; Korean 2020 viral
 - [Espresso Glossary](/guides/espresso-glossary/) — Briki, demitasse, kaymaki and other coffee terms defined

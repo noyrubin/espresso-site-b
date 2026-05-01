@@ -187,3 +187,4 @@ Yes — some people drink it black (cà phê đen đá), either unsweetened or w
 - [Kissaten](/guides/kissaten/) — Japan's Showa-era coffee houses; the East Asian coffee culture cousin to Vietnam's cà phê tradition
 - [Japanese Iced Coffee](/recipes/japanese-iced-coffee/) — flash-brew-over-ice technique from Kyoto kissaten; the Japanese answer to cà phê sữa đá
 - [Kopi Tubruk](/guides/kopi-tubruk/) — Indonesia's unfiltered settle-and-sip coffee; the SE Asian cluster sibling to Vietnamese phin brewing
+- [Ipoh White Coffee](/guides/ipoh-white-coffee/) — Malaysia's margarine-roasted kopitiam classic with sweetened condensed milk; the SE Asian cousin to Vietnamese cà phê sữa

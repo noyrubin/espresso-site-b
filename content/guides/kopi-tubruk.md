@@ -250,6 +250,7 @@ Some Indonesians chew through the final mouthful intentionally to absorb the caf
 - [Vietnamese coffee — the regional pillar](/guides/vietnamese-coffee/)
 - [Vietnamese iced coffee (ca phe sua da) recipe](/recipes/vietnamese-iced-coffee/)
 - [Thai iced coffee (oliang) recipe](/recipes/thai-iced-coffee/)
+- [Ipoh white coffee](/guides/ipoh-white-coffee/) — the Malaysian kopitiam classic; SE Asian condensed-milk cousin to the unfiltered tubruk method
 
 **Other unfiltered / settled-grounds methods:**
 - [What is Turkish coffee?](/guides/what-is-turkish-coffee/)
