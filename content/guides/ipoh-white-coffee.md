@@ -225,6 +225,7 @@ You can make a *similar* drink — strong coffee with sweetened condensed milk �
 ## Where to Go Next
 
 **Other Asian condensed-milk coffees:**
+- [Nanyang coffee](/guides/nanyang-coffee/) — the Singapore-Malaysian kopitiam tradition; Ipoh white's wok-roasted sibling (margarine *and* caramelized sugar in the roast)
 - [Vietnamese iced coffee (cà phê sữa đá)](/recipes/vietnamese-iced-coffee/) — Vietnamese phin-brewed coffee with sweetened condensed milk
 - [Bạc xỉu](/recipes/bac-xiu/) — the Vietnamese "milky white" cousin
 - [Vietnamese coffee — full pillar guide](/guides/vietnamese-coffee/) — phin brewing, regional variants, the cultural backbone

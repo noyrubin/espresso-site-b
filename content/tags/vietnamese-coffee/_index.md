@@ -1,0 +1,10 @@
+---
+title: "Vietnamese Coffee Guides & Recipes"
+description: "Vietnamese coffee is the world's second-largest coffee culture and one of its most distinctive — Robusta-dominant beans, slow phin filter brewing, and sweetened condensed milk by default. Learn the phin technique, the regional variants, and the full recipe library covering cà phê sữa đá, cà phê trứng, bạc xỉu, and more."
+---
+
+**Vietnamese coffee** is one of the world's most distinctive coffee traditions — built around Robusta-dominant beans, the slow-drip *phin* filter, sweetened condensed milk as the default sweetener, and a culture of strong, deeply caramelized cups served either hot or iced. Vietnam is the second-largest coffee producer in the world after Brazil, and the only major producing country whose domestic coffee culture is built almost entirely on Robusta rather than Arabica.
+
+The defining piece of equipment is the **phin** — a small stainless-steel filter that sits on top of the cup, holds the ground coffee under a perforated weight, and lets a slow gravity drip extract a concentrated brew over four to seven minutes. The defining sweetener is **sweetened condensed milk**, a colonial-era staple that survived because it kept without refrigeration and pairs beautifully with the dark, caramelized Robusta roast. The defining serve is either *nóng* (hot) or *đá* (iced), with the iced version — *cà phê sữa đá* — among the most popular coffee drinks in Southeast Asia.
+
+These guides cover the full Vietnamese coffee landscape: the phin brewing technique end-to-end, the iced classic *cà phê sữa đá*, the whipped-egg-yolk Hanoi specialty *cà phê trứng*, the Saigonese *bạc xỉu* (the "milky white" version with more milk than coffee), the regional variants from north to south, and the place of Vietnamese coffee in the broader Southeast Asian kopitiam family alongside Singaporean Nanyang coffee and Malaysian Ipoh white coffee. If you have only met Vietnamese coffee through the touristy "egg coffee" Instagram clip, the recipes and guides below will fill in the rest of the picture.
