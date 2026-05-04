@@ -178,4 +178,31 @@ Not necessarily in caffeine — espresso has 60–70mg per ounce, phin-brewed co
 
 ---
 
-*Explore more world coffee culture: [Phin Coffee — equipment & technique guide](/guides/phin-coffee/) | [Vietnamese Coffee: Complete Guide](/guides/vietnamese-coffee/) | [Vietnamese Coconut Coffee (Cà Phê Dừa)](/recipes/vietnamese-coconut-coffee/) | [Vietnamese Egg Coffee (Cà Phê Trứng)](/recipes/vietnamese-egg-coffee/) | [Vietnamese Salt Coffee (Cà Phê Muối)](/recipes/vietnamese-salt-coffee/) | [Bạc Xỉu — Vietnamese white coffee](/recipes/bac-xiu/) | [Thai Iced Coffee (Oliang)](/recipes/thai-iced-coffee/) | [Japanese Iced Coffee — Kyoto flash-brew](/recipes/japanese-iced-coffee/) | [Kissaten — Japan's coffee houses](/guides/kissaten/) | [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) | [Café Bombón — Spanish Condensed Milk Espresso](/recipes/cafe-bombon/)*
+## Related World Coffee Guides
+
+If Cà Phê Sữa Đá is your gateway into Asian coffee traditions, here's the full regional map of the styles it sits next to.
+
+**Vietnamese cluster:**
+- [Vietnamese Coffee — Complete Guide](/guides/vietnamese-coffee/) — beans, history, the phin, and the full drink lineup
+- [Phin Coffee — Equipment & Technique Guide](/guides/phin-coffee/) — the small drip device that defines the style
+- [Vietnamese Coconut Coffee (Cà Phê Dừa)](/recipes/vietnamese-coconut-coffee/) — phin coffee blended with frozen coconut cream
+- [Vietnamese Egg Coffee (Cà Phê Trứng)](/recipes/vietnamese-egg-coffee/) — Hanoi's whipped-yolk-and-condensed-milk classic
+- [Vietnamese Salt Coffee (Cà Phê Muối)](/recipes/vietnamese-salt-coffee/) — Huế's salted-cream variant
+- [Bạc Xỉu — Vietnamese white coffee](/recipes/bac-xiu/) — the milk-forward, lower-coffee sibling of cà phê sữa đá
+
+**Singaporean / Malaysian / Indonesian (kopitiam tradition):**
+- [Nanyang Coffee — Singapore's wok-roasted kopitiam style](/guides/nanyang-coffee/) — margarine + sugar wok-roast plus the kopi vocabulary system
+- [Ipoh White Coffee — Malaysia's margarine-only wok roast](/guides/ipoh-white-coffee/) — the Hainanese-Malaysian sibling of Nanyang
+- [Kopi Tubruk — Indonesia's unfiltered village coffee](/recipes/kopi-tubruk/) — the simplest "boil and settle" brew that predates the kopitiam template
+
+**East Asian:**
+- [Japanese Iced Coffee — Kyoto flash-brew](/recipes/japanese-iced-coffee/) — hot brew dripped directly onto ice for clarity
+- [Kissaten — Japan's century-old coffee houses](/guides/kissaten/) — the room and ritual behind Japanese specialty coffee
+- [Dalgona Coffee — Korea's whipped instant coffee](/recipes/dalgona-coffee/) — frothed instant + sugar over milk, born from a Korean variety show
+
+**Thai:**
+- [Thai Iced Coffee (Oliang)](/recipes/thai-iced-coffee/) — corn, sesame, soybean coffee blend over ice with sweetened condensed milk
+
+**Adjacent condensed-milk and cold-brew traditions:**
+- [Café Bombón — Spanish condensed milk espresso](/recipes/cafe-bombon/) — Valencia's layered take on the same condensed-milk-plus-strong-coffee idea
+- [Cold Brew Coffee Recipe](/recipes/cold-brew-coffee-recipe/) — the modern Western cold-coffee template, for contrast with the phin-and-condensed approach
