@@ -4,6 +4,99 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-05-05 06:00 IDT — Pulse 90: Siphon CTR v2 — TL;DR Quick Reference Table + 3 Head-Targeted PAA-Mirror FAQs (Ch4 Answer-First Formatting + Ch7.1 Windows-Must-Close) | 187 Pages | Day 32 Morning
+
+**(Note: scheduled task fired ~08:33 IDT for the 06:00 IDT 2026-05-05 slot. Slot computation per CLAUDE.md = snap down to most recent of {06,14,22} = 06:00 IDT 2026-05-05 = Day 32 Morning. Pulse 88 + Pulse 89 slots were missed — see brief stubs immediately below this entry.)**
+
+**Action:**
+1. Pulled latest from git (`Already up to date` — last commit f3e2ab9 = Pulse 87 strategy + journal updates after the crawl-signal injection at 7640c15).
+2. Read strategy.md head + journal.md head BEFORE any DataForSEO calls (workflow established Pulses 68 → 87, continued).
+3. Verified previous Pulse # = 87; this Pulse = 90 (P88 + P89 stubs added below per "never skip a number" rule in CLAUDE.md when slots are missed).
+4. Consulted SEO skill (`anthropic-skills:seo-aeo`) — loaded **Ch5.2** ("Eliminate orphan pages — pages with no internal links" + "Internal links from indexed pages are the strongest non-sitemap crawl signal" — backdrop for the P87 crawl-signal injection still in detection window). **Ch7.1** ("Watch snippet and presentation controls" + "Use governance, not ad hoc checks" — direct authority for declaring three windows closed (milk-steaming v3 = full win, brown-sugar v2 = stable, ristretto = net-neutral) and for the canonical next step after siphon v1 partial-win = v2 attempt). **Ch4** (answer-first formatting authority for the TL;DR Quick Reference table + PAA-mirror FAQs; the milk-steaming v3 pattern from Pulse 79 = validated reference implementation that produced the lift visible at this pulse).
+5. **GA4 check (Day 31 finalized + Day 32 partial through 08:33 IDT — slot is 06:00 so this is the freshest read available):**
+   - Day 32 (May 5, partial through 08:33 IDT) = **0 organic visible** (early morning, lag)
+   - Day 31 (May 4, finalized) = **1 organic, all-traffic 6 sessions** (UP from P87's "0 organic partial through 11:04 IDT" — captured the day's full activity)
+   - Day 30 (May 3) = 2 organic, all-traffic 4 sessions
+   - Day 29 (May 2) = 1 organic, all-traffic 5 sessions
+   - Day 28 (May 1) = 1 organic, all-traffic 3 sessions
+   - Day 27 (Apr 30) = 2 organic, all-traffic 3 sessions
+   - Day 26 (Apr 29) = 3 organic, all-traffic 4 sessions
+   - Day 25 (Apr 28) = 2 organic, all-traffic 3 sessions
+   - Days 26-32 7-day partial avg = 3+2+1+1+2+1+0 = **10/7 = 1.43/day organic** (down from P87's 1.57/day — Day 32 zero-so-far drag + Day 25's 2 rolling out of window)
+   - 9 distinct organic-converting landing pages cumulatively (no change from P87)
+6. **SC check (key reads — three major findings + three formal conclusions):**
+   - **FINDING 1: MILK-STEAMING v3 SECOND CONFIRMATION READ POSITIVE.** Page-level pos shifted from **20.43 → 18.76** at ~144h+ post-v3 deploy = late-mid 2-7 day window. Across 3 reads now: 38 imps pos 26.68 (P84) → 28 imps pos 20.43 (P87) → 25 imps pos 18.76 (P90) = monotonic ~8 spots cumulative improvement. Impressions concentration around stronger positions, not loss of footprint — math: 25 imps × 18.76 = 469 sum; 6 visible long-tail variants ("espresso steam milk" pos 58, "how steam milk" pos 52, "how to steam cappuccino milk" pos 56, "how to steam milk" pos 55, "how to steam milk for espresso" pos 52, "how to steamed milk" pos 59) sum ~332; remaining 19 imps at avg ~7.21 = strong hidden depth ranking. **CONCLUDED: milk-steaming v3 = full win; NO v4 needed; window can close at Pulse 91-92 with one sustainability read.**
+   - **FINDING 2: TAG-CURATION LEVER DOES NOT GENERALIZE BEYOND LATTE-MACCHIATO.** All 4 subsequent tag treatments (vietnamese-coffee P81 ~96h+, iced-coffee P82 ~80h+, world-coffee P83 ~72h+, kopitiam P84 ~64h+) STILL pre-impression at well past expected detection windows. Per the P87 hardening + Pulse 90 last-chance reads, the lever-does-not-generalize hypothesis is now the working conclusion. **CONCLUDED: stop deploying new tag-curation _index.md files as a generalized lever.** Future tag deployments only on case-specific topical-intent rationale, not as a generalizable mechanism. The latte-macchiato P80 success was a unique alignment of (a) 2pp scale + (b) pre-existing definitional-intent query footprint ("what is in a latte macchiato") that the curated _index.md was perfectly positioned to amplify in a pre-existing demand vacuum. The other 4 tag pages lacked this latent-search-volume substrate.
+   - **FINDING 3: SIPHON CTR v1 = HEAD-FLAT FINAL.** ~112h post-deploy, page-level pos 65.73 / 11 imps STILL UNCHANGED across 3 reads (P84 → P87 → P90). 6-variant depth fan-out + 2 hidden imps at pos ~8.5 (math: 11 × 65.73 = 723; visible 9 imps sum 706; remaining 2 imps avg 8.5 = 17 sum) = depth-only partial win. Head term "siphon coffee" stuck at pos 81.25 across all 3 reads + "siphon coffee brew" pos 90 + "siphon brewed coffee" pos 87 = head intent not capturing despite strong page coverage. **CONCLUDED: v1 = depth-only partial win; CTR v2 deployed THIS pulse as direct response.**
+   - **OTHER READS:** ristretto pos 8.4 / 5 imps STILL UNCHANGED at ~136h+ = past day 7 / 168h late edge — **net-neutral verdict from P87 robustly confirmed; window CLOSED**. brown-sugar-shaken-espresso 15 imps pos 77 STABLE at ~120h post-v2 = late edge of 2-7 day window — **v2 = stable baseline confirmed; NO v3 needed; window closes Pulse 91**. latte-macchiato tag pos 63.22 / 9 imps SUSTAINED across 5 indexing cycles (~96h+ post-lift, robust 5-cycle validation). Two pages indexed at P87 ARE SUSTAINING: vietnamese-iced-coffee 2 imps pos 83.5 (firing on "ca phe sua da" pos 73 + "vietnamese coffee drinks" pos 94) + lavender-latte 1 imp pos 96.
+   - **CRAWL-SIGNAL INJECTION P87 — STILL IN DETECTION WINDOW:** 6 SE Asian queued pages STILL pre-impression at ~21h post-injection (front-edge of 24-48h detection window). Real read window opens P91-P92.
+   - **NEW SC observations P90 (vs P87)**: "shaken espresso" 2 imps pos 64 (visible row this cycle); "shaken espresso recipe" 1 imp pos 29 NEW (best position discovered for brown-sugar's long-tail); brand-ish "home barista" 2 imps pos 54.5 + "barista at home" 2 imps pos 63 + "at home barista" 2 imps pos 46 sustained.
+   - 10 PAGE 1 positions stable + latte-macchiato tag 63.22.
+7. **NO DataForSEO this pulse** — internal data sufficient. Spend Pulse 90: $0. Running total ~$12.37, avg daily Days 1-32 ~$0.387/day, well under $1 ceiling.
+8. **SIPHON CTR v2 — `what-is-siphon-coffee.md` (commit 217abd0)**:
+   - **Added "Siphon Coffee at a Glance" Quick Reference table** after the bold answer-lead opener (mirroring the milk-steaming v3 pattern from Pulse 79 that produced the lift visible at this pulse). 10-row table covering: ratio (1:13, 15g/200ml) / grind size (medium-fine) / water temp (92-96°C) / steep time (60-90s) / drawdown time (~60s) / total brew time (3-5 min) / yield (1-3 cups) / best-for use case (light-roast single origins) / filter type (cloth/metal/paper) / common brewers (Hario Technica, Yama Glass, Kōno). Plus a "One-line answer" line below the table giving a snippet-extractable summary.
+   - **Added 3 NEW PAA-mirror FAQs at end of FAQ section** (before "Related Guides"), explicitly mirroring the unmoving head queries:
+     - "What is siphon brewed coffee?" — mirrors "siphon brewed coffee" pos 87 + "siphon coffee brew" pos 90 head queries; defines the term explicitly + notes variant spellings (syphon, vacuum, vacuum-brewed).
+     - "How long does it take to brew siphon coffee?" — targets uncovered process-intent gap; gives structured time breakdown (3-5 min active brew, ~60s rise, 60-90s steep, ~60s drawdown, plus 5-10 min setup/cleanup).
+     - "What grind size should I use for siphon coffee?" — targets uncovered procedural gap; gives sensory reference ("fine table salt") + adjustment heuristic.
+   - **lastmod updated to 2026-05-05** in frontmatter.
+   - **Internal-link footer preserved intact** — Japanese cultural-home framing to /guides/kissaten/ + /recipes/japanese-iced-coffee/ unchanged (the v2 changes are above-the-fold + FAQ-tail only, no link-graph disruption per Ch5.2).
+9. **NO new content page this pulse** — indexing queue still has 6 pages pre-impression; P87 crawl-signal injection at front-edge of detection window. Adding a 7th would dilute the read-zone.
+10. **NO new tag treatment this pulse** — lever-does-not-generalize concluded; no further deployments as generalized lever.
+11. **NO CTR pass on milk-steaming v4 / brown-sugar v3 / ristretto v2** — milk-steaming v3 = full win declared (NO v4); brown-sugar v2 = stable confirmed (NO v3); ristretto = net-neutral closed (NO v2).
+12. **NO second crawl-signal injection site** — P87 at ~21h is front-edge of detection window; premature to escalate.
+13. **Build validation skipped locally** (Hugo not on PATH this session) — Vercel will build remotely on push. The edit is pure markdown body content with no shortcodes/frontmatter changes (only lastmod date); risk of build break is zero.
+14. Committed (217abd0). **PUSH BLOCKED — GitHub PAT in remote URL returns HTTP 401 (token revoked/expired/invalid).** Verified via direct API check: `curl -H "Authorization: token <PAT>" https://api.github.com/repos/noyrubin/espresso-site-b` → 401. Push hangs because credentials are rejected and the harness disables interactive prompts. Local commit 217abd0 is preserved on `main` (1 commit ahead of origin/main); will deploy on the next pulse once the user refreshes the PAT in the git remote URL. **Site total: 187 pages (no change — CTR-rewrite pulse). LIVE SITE STILL AT f3e2ab9 (P87 footer restructure) UNTIL CREDENTIALS REFRESH.**
+
+**⚠️ ACTION ITEM FOR USER (NOY): The GitHub Personal Access Token embedded in `git remote get-url origin` for this repo (and likely Agent A's repo too) returned HTTP 401 at this pulse. Please regenerate the PAT (or restore it) and update the remote with `git remote set-url origin https://<NEW_TOKEN>@github.com/noyrubin/espresso-site-b.git`. Once refreshed, `git push origin main` from this directory will deploy commit 217abd0 (Pulse 90 siphon CTR v2). The same fix is likely needed for Agent A.**
+
+**Reasoning:**
+- **Why Siphon CTR v2 over a new page / tag treatment / second injection:** Three constraints aligned. (a) Three CTR windows just closed cleanly (milk-steaming v3 = full win, brown-sugar v2 = stable, ristretto = net-neutral) freeing strategic attention for the one CTR window still in active diagnosis (siphon v1 = head-flat partial win). Per Ch7.1 windows-must-close discipline, the canonical next step after declaring a partial win is the v2 attempt. (b) The P87 crawl-signal injection is at ~21h post-deploy = front-edge of detection window — too early to escalate; reading the effect at P91-P92 is the right next step there. (c) New content page deployment is paused until queue clears OR P87 injection produces 2-3 first-impressions. Siphon v2 is the only zero-conflict, high-leverage action available this pulse.
+- **Why TL;DR table + 3 head-targeted FAQs (instead of title rewrite or full restructure):** The milk-steaming v3 pattern at Pulse 79 = bold answer lead + Quick Reference table immediately at top + 3 PAA-mirror FAQs. That deployment produced the ~8-spot lift now visible at P90 (pos 26.68 → 20.43 → 18.76). Mirroring it on siphon — similar profile (strong page coverage, good depth fan-out, but stuck head term) — is the closest available analog. Title rewrite was rejected because the existing title is keyword-strong and rewriting risks losing existing depth-query firings. Full restructure was rejected as too aggressive — would muddy attribution if v2 produces lift.
+- **Why these 3 specific FAQs:** "What is siphon brewed coffee?" directly mirrors the "siphon brewed coffee" pos 87 + "siphon coffee brew" pos 90 head queries v1 didn't capture — defines the term explicitly + notes variant spellings. "How long does it take to brew siphon coffee?" targets an uncovered process-intent gap (common Google PAA pattern for any brewing method). "What grind size should I use for siphon coffee?" targets another uncovered procedural gap (also common PAA pattern).
+- **Why the lever-does-not-generalize conclusion is the right call NOW:** Per Ch7.1 windows-must-close discipline, leaving 4 tag-treatment windows open indefinitely would muddy attribution for any future tag deployment + waste strategic attention. At ~64-96h+ post-deploy across all 4 treatments with zero impressions, declaring the lever-does-not-generalize is the right move. The latte-macchiato P80 case stays as the exception with a specific topical-intent explanation (latent-search-volume substrate at definitional queries).
+
+**SEO Skill Reference:**
+- **Ch7.1 (KPIs, Indexing Health, Windows-Must-Close):** Direct authority for the THREE simultaneous window-closes this pulse (milk-steaming v3 = full win, brown-sugar v2 = stable, ristretto = net-neutral). Also direct authority for the lever-does-not-generalize conclusion across 4 tag-treatment experiments. The chapter's "windows-must-close discipline" framework makes the decide-or-conclude moments necessary: leaving CTR or lever windows open indefinitely would muddy attribution + waste strategic attention. Closing windows with clear verdicts frees the strategic surface for the next interventions. The chapter's "Watch snippet and presentation controls" framing also authorizes the siphon CTR v2 deployment as the canonical next step after v1 partial-win declaration.
+- **Ch4 (Content Strategy, Answer-First Formatting):** Direct authority for the TL;DR Quick Reference table + PAA-mirror FAQ pattern. The milk-steaming v3 deployment at Pulse 79 (bold answer lead + Quick Reference table + 3 PAA-mirror FAQs) is the validated reference implementation now confirmed at P90 by the ~8-spot cumulative lift across 3 reads. Mirroring this exact pattern on siphon is reuse of a measured-effective lever.
+- **Ch5.2 (Internal Linking & Crawl-Signal Hierarchy):** The P87 crawl-signal injection (footer restructure on vietnamese-iced-coffee with regional sub-cluster links to all 6 queued pages) is in active detection window at ~21h post-deploy — too early to read effect. The siphon v2 changes are above-the-fold + FAQ-tail only, preserving the existing internal-link footer (kissaten + japanese-iced-coffee Japanese cultural-home framing) per Ch5.2's link-graph stability principle. No other Ch5.2 actions this pulse.
+
+**Outcome:**
+- 1 page CTR-optimized: **what-is-siphon-coffee.md** (commit 217abd0) — TL;DR Quick Reference table inserted + 3 head-targeted PAA-mirror FAQs added; lastmod updated. Pure additive markdown edit, no link disruption.
+- DataForSEO spend Pulse 90: $0. Running total ~$12.37. Avg daily Days 1-32 ~$0.387.
+- **PULSE 90 MAJOR FINDING #1**: milk-steaming v3 SECOND CONFIRMATION READ POSITIVE — full win declared (pos 26.68 → 20.43 → 18.76 monotonic across 3 reads, ~8 spots cumulative).
+- **PULSE 90 MAJOR FINDING #2**: tag-curation lever DOES NOT GENERALIZE — 4 of 5 treatments pre-impression past all expected detection windows; lever-does-not-generalize concluded as the working model.
+- **PULSE 90 MAJOR FINDING #3**: siphon CTR v1 = head-flat partial win (depth-only) — CTR v2 deployed THIS pulse as the canonical next step.
+- **THREE FORMAL WINDOW-CLOSES**: milk-steaming v3 full win; brown-sugar v2 stable confirmed; ristretto net-neutral confirmed.
+- **CRAWL-SIGNAL INJECTION P87 STILL IN DETECTION WINDOW**: 6 queued SE Asian pages still pre-impression at ~21h post-deploy (front-edge of 24-48h window). Read at P91-P92.
+- 2 NEW PAGES INDEXED P87 STILL SUSTAINING: vietnamese-iced-coffee 2 imps pos 83.5 + lavender-latte 1 imp pos 96.
+- GA4 Day 31 finalized at 1 organic, all-traffic 6 sessions. Day 32 partial 0 organic visible. 7-day moving avg Days 26-32 = 1.43/day.
+- **Site total: 187 pages (no change — CTR-rewrite pulse).** Curated tags still 10 total.
+
+**Next (Pulse 91 14:00 IDT May 5, Day 32 Afternoon):**
+- Read journal.md head FIRST.
+- **Siphon CTR v2 first read at ~8h post-deploy** — likely too early; first directional window opens P92 at ~24-32h.
+- **Milk-steaming v3 sustainability read at ~152h+** = day 6 of 2-7 day window (4th data point — verify pos 18.76 sustained or further improving).
+- **Crawl-signal injection P87 effect read at ~29h post-deploy** = front-edge of 24-48h detection window — first-impression check on the 6 queued SE Asian pages.
+- **Latte-macchiato tag continued sustainability — 6th cycle confirmation** (verify pos 63.22 / 9 imps still holds).
+- **Brown-sugar v2 final-close read at ~128h+** (full 7-day window — declare confirmed-stable + close).
+- GA4 Day 32 mid-day reading.
+- **Content priorities:** (a) **NEW PAGE candidate** — only resume if queue clears OR P87 injection produces first-impressions on 2-3 queued pages by Pulse 92-93; (b) **SECOND CRAWL-SIGNAL INJECTION SITE** deferred until Pulse 92-93 — if queue still stalled, target turkish-coffee tag (pos 7) or homepage (pos 44.81); (c) **NO MORE TAG TREATMENTS** as generalized lever — concluded does-not-generalize; (d) **Siphon v2 read protocol**: ~24h Pulse 92 + ~80h Pulse 93 — if v2 produces head-position lift = milk-steaming-v3 pattern reproduces on similar-profile pages = strategic learning; if v2 also head-flat = update model that head-flat = saturation for "siphon coffee" intent at this domain authority.
+
+---
+
+## 2026-05-04 14:00 IDT — Pulse 88: SLOT MISSED (Stub) | Day 31 Afternoon
+
+**Stub entry per CLAUDE.md "If a slot was missed, still increment and log a stub" rule.** The scheduled `agent-b-pulse` task did not fire for this slot. No agent activity occurred. State at this slot's expected fire: same as Pulse 87 close (187 pages, vietnamese-iced-coffee footer crawl-signal injection just deployed at ~3h, milk-steaming v3 first directional positive read pos 20.43, ristretto net-neutral declared, latte-macchiato tag holding at pos 63.22 / 9 imps from P81-P87, 4 CTR experiments active, 6 SE Asian queued pages pre-impression). All planned P88 reads + decisions deferred to Pulse 90 (next actual fire).
+
+---
+
+## 2026-05-04 22:00 IDT — Pulse 89: SLOT MISSED (Stub) | Day 31 Night
+
+**Stub entry per CLAUDE.md "If a slot was missed, still increment and log a stub" rule.** The scheduled `agent-b-pulse` task did not fire for this slot. No agent activity occurred. State at this slot's expected fire: same as Pulse 87 close + ~11h additional indexing time (187 pages, P87 crawl-signal injection at ~11h post-deploy, milk-steaming v3 first positive read still standing, latte-macchiato sustainability ~75h post-lift, 6 SE Asian queued pages still pre-impression). All planned P89 reads + decisions deferred to Pulse 90 (next actual fire).
+
+---
+
 ## 2026-05-04 06:00 IDT — Pulse 87: Crawl-Signal Injection — Footer Restructure on Fresh-Indexed vietnamese-iced-coffee with Direct Body Links to All 6 Queued SE Asian / Indonesian / Korean / Japanese Pages (Ch5.2 Internal-Linking Lever) | 187 Pages | Day 31 Morning
 
 **(Note: scheduled task fired late at ~11:04 IDT for the 06:00 IDT 2026-05-04 slot. Slot computation per CLAUDE.md = snap down to most recent of {06,14,22} = 06:00 IDT 2026-05-04 = Day 31 Morning. Pulse 85 + Pulse 86 slots were missed — see brief stubs immediately below this entry.)**
