@@ -9,6 +9,29 @@ author: "Barista At Home"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - q: "What is the ratio for siphon coffee?"
+    a: "The standard siphon coffee ratio is 1:13 — 15 grams of ground coffee per 200 ml of water. For a stronger cup, try 1:12 (16g per 200ml). For a lighter, more tea-like cup, try 1:15 (13g per 200ml). Always measure by weight, not volume — siphon brewing is sensitive to dose accuracy."
+  - q: "What does siphon coffee taste like?"
+    a: "Siphon coffee tastes exceptionally clean, bright, and complex — closer to a high-end pour over than a French press, but with more body and depth. Floral and fruit notes from light-roast single origins are pronounced. There is virtually no sediment. Compared to drip coffee, siphon has more clarity and aromatic intensity; compared to espresso, it has no crema or syrupy body. The taste profile is often described as the cleanest cup possible without paper-filtered pour over."
+  - q: "Does siphon coffee taste better than other methods?"
+    a: "Better depends on what you value. Siphon produces exceptional clarity and complexity — ideal for light roasts and single origins. It won't satisfy you if you want espresso body or French press richness. For the right coffee, many aficionados consider it the finest expression of the bean."
+  - q: "Is siphon coffee the same as vacuum coffee?"
+    a: "Yes. Vacuum coffee and siphon coffee are the same thing. Vacuum pot, syphon coffee, and vacuum brewer are also used interchangeably."
+  - q: "How much coffee do I use in a siphon?"
+    a: "A 1:13 ratio is the standard starting point — about 15g coffee per 200ml water. Adjust based on taste."
+  - q: "Can I use pre-ground coffee in a siphon?"
+    a: "Yes, though freshly ground delivers dramatically better results. Use a medium-fine grind size — similar to drip coffee but slightly finer."
+  - q: "How do I clean a siphon coffee maker?"
+    a: "Rinse all glass components immediately after use while still warm. Wash with mild dish soap. Rinse the cloth filter under cold water and let it air dry. Never put glass siphon components in a dishwasher."
+  - q: "Is siphon coffee hard to make?"
+    a: "The first few attempts have a learning curve — managing heat, timing the steep, removing the heat at the right moment. After 3–5 uses, the process becomes intuitive. The technique is forgiving once you understand the basics."
+  - q: "What is siphon brewed coffee?"
+    a: "Siphon brewed coffee — sometimes written syphon brewed coffee or just vacuum brewed coffee — refers to coffee made in a two-chamber vacuum brewer where heat first pushes water up to steep with the grounds, then a vacuum pulls the brewed liquid back down through a filter. The end result is a clean, immersion-style cup that drops back into the lower chamber and is poured directly from there. Siphon coffee, siphon brewed coffee, vacuum coffee, and vacuum-brewed coffee all describe the same drink and method."
+  - q: "How long does it take to brew siphon coffee?"
+    a: "A single siphon brew takes about 3–5 minutes of active brew time once the heat is on: roughly 60 seconds for water to rise into the upper chamber, 60–90 seconds of steeping, and ~60 seconds for drawdown back to the lower chamber. Add another 5–10 minutes for setup, pre-heating water, and cleanup, so the full ritual is typically 15–20 minutes door-to-door. Larger 5-cup brewers add another minute or so to each phase."
+  - q: "What grind size should I use for siphon coffee?"
+    a: "Use a medium-fine grind — slightly finer than drip or pour-over, noticeably coarser than espresso. A common reference is fine table salt. Too coarse and the coffee under-extracts (sour, weak, watery); too fine and the drawdown stalls or pushes fines through the filter into the cup. Burr grinders give the consistent particle size siphon brewing rewards. If you're tasting bitter notes, go one step coarser; if you're tasting sour/weak, go one step finer."
 ---
 
 **Siphon coffee (also called vacuum coffee) is a brewing method that uses heat and vacuum pressure to pull water through coffee grounds, producing an exceptionally clean, bright, and flavorful cup.**

@@ -83,6 +83,27 @@
 </script>
 {{- end }}
 {{- end }}
+{{- if and .IsPage .Params.faq }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- range $i, $item := .Params.faq }}
+    {{- if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $item.q | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $item.a | jsonify }}
+      }
+    }
+    {{- end }}
+  ]
+}
+</script>
+{{- end }}
 {{- if .IsPage }}
 <script type="application/ld+json">
 {
