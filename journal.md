@@ -4,6 +4,85 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-05-05 22:00 IDT — Pulse 92: FAQPage JSON-LD Schema Partial + Siphon faq Frontmatter (Ch3.2 Schema Types — AEO Q&A Chunk Extraction) | 187 Pages | Day 32 Night
+
+**(Note: scheduled task fired ~22:56 IDT for the 22:00 IDT 2026-05-05 slot. Slot computation per CLAUDE.md = snap down to most recent of {06,14,22} = 22:00 IDT 2026-05-05 = Day 32 Night. Pulse 91 slot at 14:00 IDT was missed — see brief stub immediately below this entry.)**
+
+**Action:**
+1. Pulled latest from git (`Already up to date` — last commit f3e2ab9 from Pulse 90 strategy/journal updates after the siphon CTR v2 deploy at 217abd0).
+2. Read strategy.md head + journal.md head BEFORE any DataForSEO calls (workflow established Pulses 68 → 90, continued).
+3. Verified previous Pulse # = 90; this Pulse = 92 (P91 stub added below per "never skip a number" rule in CLAUDE.md when slots are missed).
+4. Consulted SEO skill (`anthropic-skills:seo-aeo`) — loaded **Ch7.1** ("Watch snippet and presentation controls" + "Use governance, not ad hoc checks" — backdrop for the read-cycle status check on all open windows). **Ch5.2** ("Internal links are the strongest crawl signal" — backdrop for the P87 crawl-signal injection still in detection window). **Ch3.2** ("Core Schema Types for Comprehensive Visibility" — direct authority for the FAQPage schema deployment: "If the page genuinely contains Q&A content, structured markup can still help describe it" + "Keep markup aligned with visible content" + "Validate and maintain"). The chapter explicitly notes Google FAQ rich-result eligibility is now restricted (post-2023) but markup remains valuable for AEO/AI-engine extraction — the lens directly relevant to Agent B's experiment design.
+5. **GA4 check (Day 32 partial through 22:56 IDT — slot is 22:00 so Day 32 is mostly captured):**
+   - Day 32 (May 5, partial through 22:56 IDT) = **1 organic, all-traffic [tbd — GA4 traffic command shows Days 21+]**
+   - Day 31 (May 4, finalized) = **1 organic, all-traffic 6 sessions**
+   - Day 30 (May 3) = 2 organic
+   - Day 29 (May 2) = 1 organic
+   - Day 28 (May 1) = 1 organic
+   - Day 27 (Apr 30) = 2 organic
+   - Day 26 (Apr 29) = 3 organic
+   - Day 25 (Apr 28) = 2 organic
+   - Days 26-32 7-day partial avg = 3+2+1+1+2+1+1 = **11/7 = 1.57/day organic** (UP from P90's 1.43/day; Day 32 picked up an organic visit during the day after P90's 0-so-far)
+   - 9 distinct organic-converting landing pages cumulatively (no change from P90)
+6. **SC check (key reads — read-cycle status on all open windows):**
+   - **SIPHON CTR v2 — TOO EARLY TO READ (~14h post-deploy).** Page-level pos 65.73 / 11 imps **IDENTICAL to P90** (predictable — front-edge of detection window is ~24-48h, real read at P93-P94 at ~32-56h). Head queries unchanged: "siphon coffee" 4 imps pos 81.25, "siphon coffee brew" 1 imp pos 90, "siphon brewed coffee" 1 imp pos 87, "siphon coffee taste" 1 imp pos 59, "siphon coffee ratio" 1 imp pos 82, "siphon coffee brewing" 1 imp pos 63. Same 6-variant depth fan-out + 2 hidden imps at pos ~8.5.
+   - **MILK-STEAMING v3 — SUSTAINED (3rd READ AT THIS POSITION CLASS).** Page-level pos **18.76 / 25 imps IDENTICAL to P90** (~158h+ post-v3 deploy = day 7 of 2-7 day window late edge). Cumulative trajectory P84 → P87 → P90 → P92 = 26.68 → 20.43 → 18.76 → 18.76. **Full-win declaration is robust across 4 reads now.** Window can close cleanly at this read.
+   - **CRAWL-SIGNAL INJECTION P87 — STILL MID-DETECTION-WINDOW (~36h post-deploy).** All 6 SE Asian queued pages STILL pre-impression (nanyang-coffee ~36h+post-injection, ipoh-white-coffee, kopi-tubruk, dalgona-coffee, kissaten, japanese-iced-coffee). 24-48h detection window mid-zone. Real diagnostic read at P93-P94 (~50-65h+).
+   - **LATTE-MACCHIATO TAG — 6TH CYCLE CONFIRMATION HOLDING.** Pos 63.22 / 9 imps STILL HOLDING (~110h+ post-lift, 6 indexing cycles validated). Same query breakdown: head "latte macchiato" 5 imps pos 78 + "latte machiato" 1 imp pos 80 + "what is in a latte macchiato" 1 imp pos 91 + 2 hidden imps at avg pos ~4.
+   - **BROWN-SUGAR v2 — STABLE CONFIRMED, WINDOW CLOSES.** 15 imps pos 77 STABLE at ~134h+ post-v2 deploy = late edge of 7-day window. v2 = stable baseline confirmed across 6 reads. **WINDOW CLOSED net-stable.**
+   - **RISTRETTO — NET-NEUTRAL ROBUST.** Pos 8.4 / 5 imps STILL UNCHANGED at ~150h+ past day 7 cliff. Net-neutral verdict from P87 robustly confirmed.
+   - **TWO PAGES INDEXED P87 STILL SUSTAINING:** vietnamese-iced-coffee 2 imps pos 83.5 + lavender-latte 1 imp pos 96 (both unchanged from P90).
+   - **OTHER STABLE READS:** homepage 16 imps pos 44.81, cortado-vs-flat-white 3 imps pos 47.67 (with "cortado vs flat white vs cappuccino" pos 66 + "cortado vs flat white vs latte" pos 58 firing), cortado-vs-latte 1 imp pos 7, french-press-vs-drip 2 imps pos 9.5, moka-pot 1 imp pos 10, horchata-latte 1 imp pos 3. Brand-ish "home barista" 2 imps pos 54.5 + "barista at home" 2 imps pos 63 + "at home barista" 2 imps pos 46 sustained. New brown-sugar long-tail "shaken espresso recipe" 1 imp pos 29 sustained from P90. 10 PAGE 1 positions stable + latte-macchiato tag 63.22.
+7. **NO DataForSEO this pulse** — internal data sufficient. Spend Pulse 92: $0. Running total ~$12.37, avg daily Days 1-32 ~$0.387/day, well under $1 ceiling.
+8. **FAQPage JSON-LD SCHEMA — `layouts/partials/schema.html` + `content/guides/what-is-siphon-coffee.md` (commit afd59dc)**:
+   - **New site-wide reusable schema partial block**: added a 4th conditional block to `layouts/partials/schema.html` that emits `FAQPage` JSON-LD when `.IsPage` AND `.Params.faq` array exists. The block uses Hugo's `range` over the array + `jsonify` filter on each `q` and `a` field for JSON-safe escaping. Sits between the Article/Recipe block and the BreadcrumbList block. Site-wide opportunity: any future page with a `faq:` frontmatter array now gets FAQPage schema for free.
+   - **siphon page frontmatter**: added `faq:` array with **11 Q&A pairs** mirroring the existing visible body FAQ section verbatim (including the 3 PAA-mirror FAQs deployed at Pulse 90: "What is siphon brewed coffee?", "How long does it take to brew siphon coffee?", "What grind size should I use for siphon coffee?"). Markdown body unchanged — schema is metadata-only addition, zero risk to v2 attribution.
+   - **Build risk assessment**: Hugo not on PATH locally; Vercel builds remotely. The Go-template syntax is standard idioms (`{{- range $i, $item := .Params.faq }}`, `{{ $item.q | jsonify }}`); the YAML is well-formed (no embedded quotes or markdown bold inside faq strings — stripped during transcription); the conditional `if and .IsPage .Params.faq` cleanly no-ops on every page that doesn't define faq, so no other pages affected.
+9. **NO new content page this pulse** — indexing queue still has 6 pages pre-impression; P87 crawl-signal injection still mid-detection-window. Strategy explicitly defers new pages until queue clears OR P87 produces first-impressions on 2-3 queued pages. Neither has happened yet.
+10. **NO second crawl-signal injection site this pulse** — strategy's "P92-93 candidate" was conditional on queue still stalled; queue IS still stalled, but at ~36h post-P87 we're mid-detection-window not post-window. Per Ch7.1 windows-must-close discipline: don't add a second injection while the first is still in active detection window — would muddy attribution. Right call is to wait for P93-P94 diagnostic read; if queue still stalled at P94 = escalate then.
+11. **NO new tag treatment this pulse** — lever-does-not-generalize concluded at P90; no further deployments as generalized lever.
+12. **NO CTR v3/v4 passes** — milk-steaming v3 = full win (no v4); brown-sugar v2 = stable confirmed (no v3); ristretto = net-neutral (closed); siphon v2 = too early to evaluate.
+13. Committed (afd59dc) + pushed via Windows Credential Manager workaround (same path as P90 — the URL-embedded PAT is still dead). Both commits 4872ab8 (P90 close) and afd59dc (P92 schema) now on origin/main; Vercel deploy auto-fires.
+14. **Site total: 187 pages (no change — schema/metadata pulse, not page-creation).**
+
+**⚠️ ACTION ITEM FOR USER (NOY) — REPEATED FROM P90:** GitHub PAT in `git remote get-url origin` is still dead (HTTP 401). Push only worked via `git -c credential.helper=manager` override. Recommend regenerating PAT and refreshing both Agent A and Agent B remote URLs.
+
+**Reasoning:**
+- **Why FAQPage schema NOW (not a new page / second injection / CTR pass):** Three constraints aligned. (a) Per Ch3.2 the siphon page genuinely contains an 11-Q&A FAQ section (just expanded at P90 with 3 PAA-mirror FAQs) — markup-aligned-with-visible-content is satisfied; FAQPage schema is the canonical structured-data type. (b) Zero conflict with the active siphon CTR v2 read window — schema is metadata-only, no body content change, v2 attribution stays clean. (c) Site-wide leverage — building the partial as a generic `if .Params.faq` pattern means any future page can get FAQPage schema by adding a single frontmatter array. (d) The P87 crawl-signal injection is still mid-detection-window (~36h, 24-48h zone) — escalating to a second injection would muddy attribution; the right discipline is to wait for the P93-P94 read first.
+- **Why aligning schema with existing visible content (vs adding new FAQs):** Ch3.2 is explicit: "Keep markup aligned with visible content. Hidden, misleading, or irrelevant schema can invalidate eligibility and damage trust." Adding more FAQs solely to populate schema would violate this rule and risk de-eligibility. The 11 existing visible Q&As are the right population for the schema; nothing added or hidden.
+- **Why FAQPage despite the 2023 Google rich-result restriction:** Ch3.2 acknowledges "Google restricted FAQ rich results to well-known government and health sites" but explicitly says "That does not make question-answer or step-based content useless — it just means you should view such markup primarily as a content-description tool where appropriate." For an AEO-focused experiment (Agent B's premise = SEO skill advantage), AI engine extraction (Bing Copilot, Perplexity, Google AI Overviews) of discrete Q&A chunks remains valuable; FAQPage schema makes those chunks machine-readable as structured Question+Answer pairs.
+- **Why the partial-based approach (vs page-by-page inline schema):** Per Ch3.2 "Validate and maintain. Structured data often breaks through template edits, CMS fields, or mismatched property names long before anyone notices." A single partial that auto-emits when `.Params.faq` exists = one canonical implementation; future pages don't risk drift between hand-written inline schema and template patterns. Maintenance cost compounds linearly with each additional FAQ-bearing page in the inline approach.
+
+**SEO Skill Reference:**
+- **Ch3.2 (Core Schema Types for Comprehensive Visibility):** Direct authority for the FAQPage schema deployment. The chapter's "Use foundational schema on the right page types" + "Handle FAQ and HowTo realistically" + "Keep markup aligned with visible content" + "Validate and maintain" guidance is the entire framework for this Pulse 92 action. The 2023 Google rich-result restriction note is acknowledged but explicitly framed as not invalidating the markup — particularly for AEO/AI-engine use cases that are central to Agent B's experiment design.
+- **Ch7.1 (KPIs, Indexing Health, Windows-Must-Close):** Backdrop for the decision NOT to escalate to a second crawl-signal injection at P92 — the P87 window is still mid-detection at ~36h, escalating during active detection muddies attribution. Also backdrop for the milk-steaming v3 close-window declaration (4-read robust at pos 18.76).
+- **Ch5.2 (Internal Linking & Crawl-Signal Hierarchy):** Backdrop for the P87 crawl-signal injection still in detection window — the chapter's "Internal links from indexed pages are the strongest non-sitemap crawl signal" framing is what the P87 footer restructure on vietnamese-iced-coffee operationalized; the diagnostic read window opens P93-P94 (~50-65h+ post-deploy).
+
+**Outcome:**
+- **1 site-wide schema infrastructure addition** (`layouts/partials/schema.html`): new conditional block emitting FAQPage JSON-LD when `.Params.faq` exists; reusable site-wide pattern — any future page with `faq:` frontmatter array gets FAQPage schema for free.
+- **1 page schema-equipped** (`content/guides/what-is-siphon-coffee.md`): 11 Q&A pairs added to frontmatter `faq:` array; markup aligned with visible body content; zero body change preserves CTR v2 attribution clean.
+- DataForSEO spend Pulse 92: $0. Running total ~$12.37. Avg daily Days 1-32 ~$0.387.
+- **Read-cycle status (all open windows reviewed):** siphon v2 too early at ~14h (real read P93-P94); milk-steaming v3 sustained 4-read robust (full-win robust); P87 crawl-signal injection mid-detection-window at ~36h (real read P93-P94); latte-macchiato tag 6th cycle confirmation holding; brown-sugar v2 window closed net-stable; ristretto net-neutral robust.
+- **GA4 Day 31 finalized at 1 organic, all-traffic 6 sessions. Day 32 partial 1 organic visible (UP from P90's 0-so-far during the day). 7-day moving avg Days 26-32 = 1.57/day** (UP from P90's 1.43/day).
+- **Site total: 187 pages (no change — schema/metadata pulse).** Curated tags still 10 total. **First page on the site with FAQPage schema = what-is-siphon-coffee.**
+
+**Next (Pulse 93 06:00 IDT May 6, Day 33 Morning):**
+- Read journal.md head FIRST.
+- **Siphon CTR v2 first directional read at ~32h post-deploy** = front-edge of 24-48h detection window — real read window opens. Watch for: head query "siphon coffee" pos movement off 81.25 (currently flat across 4 reads); head query "siphon brewed coffee" pos movement off 87; new long-tail variants from the TL;DR table content (e.g. "siphon coffee at a glance", "siphon coffee specs", "siphon coffee yield", "siphon coffee filter"); FAQPage schema-driven AEO chunk extraction (visible in any AI-citation tracking — though we don't have Bing AI Performance integration yet).
+- **Crawl-signal injection P87 effect read at ~50h post-deploy** = inside 24-48h window late edge — first-impression check on the 6 queued SE Asian pages (nanyang-coffee, ipoh-white-coffee, kopi-tubruk, dalgona, kissaten, japanese-iced-coffee). If 2-3 pages appear = injection worked, can resume new-page deployment; if all 6 still pre-impression = escalate to second injection site (turkish-coffee tag pos 7 OR homepage pos 44.81).
+- **Milk-steaming v3 day 8+ post-window read** (close window if still stable; v3 full-win declaration robust through 4 reads).
+- **Latte-macchiato tag 7th cycle** (probably still holding; if drop-off begins = note as natural decay).
+- GA4 Day 32 finalized + Day 33 partial reading.
+- **Content priorities:** (a) **NEW PAGE candidate** — only resume if P87 injection produces first-impressions on 2-3 queued pages by P93; (b) **SECOND CRAWL-SIGNAL INJECTION SITE candidate** — if all 6 still pre-impression at P93 ~50h, escalate to turkish-coffee tag (pos 7) OR homepage (pos 44.81) injection; (c) **NO MORE TAG TREATMENTS** as generalized lever; (d) **FAQPage schema expansion candidate** — if siphon FAQPage schema validates cleanly post-deploy (manually inspect rendered HTML on Vercel deploy), evaluate expanding to other FAQ-bearing pages: cortado-vs-flat-white, milk-steaming-beginners (if it has FAQ section), ristretto, brown-sugar-shaken-espresso. Site-wide FAQPage rollout could lift AEO extraction across ~15-20 pages with FAQ sections.
+
+---
+
+## 2026-05-05 14:00 IDT — Pulse 91: SLOT MISSED (Stub) | Day 32 Afternoon
+
+**Stub entry per CLAUDE.md "If a slot was missed, still increment and log a stub" rule.** The scheduled `agent-b-pulse` task did not fire for this slot. No agent activity occurred. State at this slot's expected fire: same as Pulse 90 close + ~6h additional indexing time (187 pages, siphon CTR v2 just deployed at ~6h post-commit, milk-steaming v3 at ~150h+ sustaining, P87 crawl-signal injection at ~30h front-edge of 24-48h detection window, latte-macchiato tag holding at pos 63.22 / 9 imps from P81-P90, 6 SE Asian queued pages still pre-impression). All planned P91 reads + decisions deferred to Pulse 92 (next actual fire).
+
+---
+
 ## 2026-05-05 06:00 IDT — Pulse 90: Siphon CTR v2 — TL;DR Quick Reference Table + 3 Head-Targeted PAA-Mirror FAQs (Ch4 Answer-First Formatting + Ch7.1 Windows-Must-Close) | 187 Pages | Day 32 Morning
 
 **(Note: scheduled task fired ~08:33 IDT for the 06:00 IDT 2026-05-05 slot. Slot computation per CLAUDE.md = snap down to most recent of {06,14,22} = 06:00 IDT 2026-05-05 = Day 32 Morning. Pulse 88 + Pulse 89 slots were missed — see brief stubs immediately below this entry.)**
