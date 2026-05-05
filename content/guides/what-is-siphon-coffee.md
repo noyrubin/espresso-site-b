@@ -1,7 +1,7 @@
 ---
 title: "Siphon Coffee Brewing Guide: How Vacuum Pot Works, 1:13 Recipe & Step-by-Step"
 date: 2026-04-09
-lastmod: 2026-05-01
+lastmod: 2026-05-05
 description: "Siphon (vacuum) coffee brewing guide: full recipe with 1:13 ratio (15g coffee per 200ml water, 60-90s steep, ~5 min total), Hario/Yama/Kōno equipment, plus 4 troubleshooting fixes."
 tags: ["siphon coffee", "brewing methods", "coffee guides", "vacuum coffee"]
 categories: ["guides"]
@@ -14,6 +14,23 @@ draft: false
 **Siphon coffee (also called vacuum coffee) is a brewing method that uses heat and vacuum pressure to pull water through coffee grounds, producing an exceptionally clean, bright, and flavorful cup.**
 
 The siphon coffee maker looks like something out of a chemistry lab — two glass chambers stacked vertically, a heat source below, and coffee rising and falling in a process that's equal parts science experiment and brewing ritual. The result? One of the clearest, most complex cups of coffee possible without espresso equipment.
+
+## Siphon Coffee at a Glance
+
+| Spec | Value |
+|------|-------|
+| **Ratio** | 1:13 (15g coffee per 200ml water) |
+| **Grind size** | Medium-fine (finer than pour over, coarser than espresso) |
+| **Brew water temp** | 92–96°C (197–205°F) |
+| **Steep time** | 60–90 seconds |
+| **Drawdown time** | ~60 seconds |
+| **Total brew time** | 3–5 minutes (plus 5–10 min setup/cleanup) |
+| **Yield per brew** | 1–3 cups (depending on brewer size) |
+| **Best for** | Light-roast single origins; clarity-forward profiles |
+| **Filter type** | Cloth (most common), metal, or paper |
+| **Common brewers** | Hario Technica, Yama Glass, Kōno |
+
+**One-line answer:** A complete siphon brew runs roughly 5 minutes from heat-on to first pour: water rises (~60s), steep (60–90s), drawdown (~60s). The whole process is visible through the glass.
 
 ---
 
@@ -146,6 +163,15 @@ Rinse all glass components immediately after use while still warm. Wash with mil
 
 **Is siphon coffee hard to make?**
 The first few attempts have a learning curve — managing heat, timing the steep, removing the heat at the right moment. After 3–5 uses, the process becomes intuitive. The technique is forgiving once you understand the basics.
+
+**What is siphon brewed coffee?**
+Siphon brewed coffee — sometimes written "syphon brewed coffee" or just "vacuum brewed coffee" — refers to coffee made in a two-chamber vacuum brewer where heat first pushes water up to steep with the grounds, then a vacuum pulls the brewed liquid back down through a filter. The end result is a clean, immersion-style cup that drops back into the lower chamber and is poured directly from there. "Siphon coffee," "siphon brewed coffee," "vacuum coffee," and "vacuum-brewed coffee" all describe the same drink and method.
+
+**How long does it take to brew siphon coffee?**
+A single siphon brew takes about **3–5 minutes of active brew time** once the heat is on: roughly 60 seconds for water to rise into the upper chamber, 60–90 seconds of steeping, and ~60 seconds for drawdown back to the lower chamber. Add another 5–10 minutes for setup, pre-heating water, and cleanup, so the full ritual is typically 15–20 minutes door-to-door. Larger 5-cup brewers add another minute or so to each phase.
+
+**What grind size should I use for siphon coffee?**
+Use a **medium-fine grind** — slightly finer than drip or pour-over, noticeably coarser than espresso. A common reference is "fine table salt." Too coarse and the coffee under-extracts (sour, weak, watery); too fine and the drawdown stalls or pushes fines through the filter into the cup. Burr grinders give the consistent particle size siphon brewing rewards. If you're tasting bitter notes, go one step coarser; if you're tasting sour/weak, go one step finer.
 
 ---
 
