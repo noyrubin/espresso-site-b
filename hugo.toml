@@ -17,7 +17,23 @@ theme = "PaperMod"
 
 [params.homeInfoParams]
   Title = "Your Home Espresso Journey Starts Here"
-  Content = "Expert guides to help you brew cafe-quality espresso at home. Equipment recommendations, brewing technique, drink recipes, and troubleshooting — everything a home barista needs."
+  Content = """
+Expert guides to help you brew cafe-quality espresso at home. Equipment recommendations, brewing technique, drink recipes, and troubleshooting — everything a home barista needs.
+
+### Coffee Around the World — Featured Brewing Traditions
+
+Explore brewing methods, recipes, and coffee houses from across Asia and beyond:
+
+- [Nanyang Coffee — Singapore's wok-roasted kopitiam style](/guides/nanyang-coffee/)
+- [Ipoh White Coffee — Malaysia's margarine-only wok roast](/guides/ipoh-white-coffee/)
+- [Kopi Tubruk — Indonesia's unfiltered village brew](/guides/kopi-tubruk/)
+- [Kissaten — Japan's century-old coffee houses](/guides/kissaten/)
+- [Japanese Iced Coffee — the Kyoto flash-brew method](/recipes/japanese-iced-coffee/)
+- [Dalgona Coffee — Korea's whipped instant coffee](/recipes/dalgona-coffee/)
+- [Vietnamese Iced Coffee — phin-brewed with sweetened condensed milk](/recipes/vietnamese-iced-coffee/)
+- [Thai Iced Coffee — Oliang spice blend over ice](/recipes/thai-iced-coffee/)
+- [Turkish Coffee — unfiltered cezve ritual brew](/tags/turkish-coffee/)
+"""
 
 [[params.socialIcons]]
   name = "rss"

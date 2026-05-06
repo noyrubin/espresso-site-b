@@ -193,7 +193,7 @@ If Cà Phê Sữa Đá is your gateway into Asian coffee traditions, here's the 
 **Singaporean / Malaysian / Indonesian (kopitiam tradition):**
 - [Nanyang Coffee — Singapore's wok-roasted kopitiam style](/guides/nanyang-coffee/) — margarine + sugar wok-roast plus the kopi vocabulary system
 - [Ipoh White Coffee — Malaysia's margarine-only wok roast](/guides/ipoh-white-coffee/) — the Hainanese-Malaysian sibling of Nanyang
-- [Kopi Tubruk — Indonesia's unfiltered village coffee](/recipes/kopi-tubruk/) — the simplest "boil and settle" brew that predates the kopitiam template
+- [Kopi Tubruk — Indonesia's unfiltered village coffee](/guides/kopi-tubruk/) — the simplest "boil and settle" brew that predates the kopitiam template
 
 **East Asian:**
 - [Japanese Iced Coffee — Kyoto flash-brew](/recipes/japanese-iced-coffee/) — hot brew dripped directly onto ice for clarity
