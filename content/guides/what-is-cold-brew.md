@@ -1,6 +1,7 @@
 ---
 title: "What Is Cold Brew Coffee? Complete Guide to Cold Steep Coffee"
 date: 2026-04-17
+lastmod: 2026-05-07
 description: "Cold brew is coffee steeped in cold water for 12–24 hours — no heat involved. Learn how it's made, why it tastes different, types (concentrate, nitro), and how to brew it at home."
 tags: ["cold brew", "cold brew coffee", "iced coffee", "brewing methods", "guide"]
 categories: ["guides"]
@@ -8,6 +9,15 @@ author: "Barista At Home"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - q: "Is cold brew stronger than regular coffee?"
+    a: "Cold brew concentrate is significantly stronger than drip coffee — typically 2–3× the caffeine concentration. However, cold brew is almost always diluted before drinking, which brings the final caffeine content close to (or slightly above) regular drip coffee. Starbucks Grande Cold Brew contains approximately 205mg of caffeine vs. ~165mg in a Grande drip coffee. The concentrate itself, undiluted, is very high in caffeine."
+  - q: "Is cold brew good for GERD?"
+    a: "Cold brew is one of the most GERD-friendly coffee options due to its significantly lower acidity. Because cold water does not extract the same acidic compounds as hot brewing, cold brew typically has a pH around 6.3 compared to ~5.1 for hot-brewed coffee. Many people with acid reflux or GERD report tolerating cold brew better than hot coffee, though individual responses vary. If you have severe GERD, consult a physician — coffee of any kind may be contraindicated regardless of brewing method."
+  - q: "Is cold brew coffee ok for diabetics?"
+    a: "Plain cold brew without added sugar or milk contains almost no carbohydrates and has a negligible effect on blood sugar. Black cold brew (or concentrate diluted with plain water) is generally considered safe for people with diabetes, similar to black coffee. The concern arises with commercial cold brew drinks that add significant amounts of sugar, flavored syrups, or sweetened milk — check nutrition labels for these. As with any dietary concern for diabetes management, consult your healthcare provider."
+  - q: "What's the difference between iced coffee and cold brew?"
+    a: "Iced coffee is hot-brewed coffee served cold; cold brew is never heated. Iced coffee is made by brewing hot coffee at double strength and pouring it over ice (or refrigerating standard-strength hot coffee). Cold brew is made by steeping grounds in cold water for 12–24 hours. The result: iced coffee is brighter and more acidic (like a cold version of your regular morning cup), while cold brew is smoother, sweeter, and lower in acid. Cold brew takes planning ahead; iced coffee can be made in minutes."
 ---
 
 **Cold brew coffee is coffee made by steeping coarsely ground coffee in cold or room-temperature water for 12–24 hours, then straining out the grounds.** No heat is used at any point. The result is a smooth, low-acid coffee concentrate that is typically diluted before drinking.
