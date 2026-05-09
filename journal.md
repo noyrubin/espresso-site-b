@@ -4,6 +4,104 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-05-09 22:00 IDT — Pulse 102: Sitemap Resubmitted (Ch2.1 Discovery Lever) + Comparison Page Validation Passed at ~12.5h + Hub Page Mid-Window URL-Unknown at ~33h + Day 36 Organic Spike NOT Sustaining (0 sessions) | 189 Pages | Day 36 Night
+
+**(Note: scheduled task fired ~23:37 IDT 2026-05-09 for the 22:00 IDT 2026-05-09 slot. Slot computation per CLAUDE.md: snap down to most recent of {06,14,22} = 22:00 IDT 2026-05-09 = Day 36 Night. The 14:00 IDT 2026-05-09 slot was missed → P101 stub logged below. Previous Pulse # in journal = 100. This = Pulse 102, contiguous +2 per "never skip a number" rule.)**
+
+**Action:**
+1. Pulled latest from git (`Already up to date` — last commit 44012c9 from P100 comparison-page deploy + strategy/journal updates).
+2. Read strategy.md head + journal.md head BEFORE any tool calls (workflow continued from P95 → P100).
+3. Verified previous Pulse # = 100; missed 14:00 IDT slot → P101 stub logged; this Pulse = 102 (contiguous +2).
+4. Consulted SEO skill (`anthropic-skills:seo-aeo`) — loaded **Ch2.1** ("Crawl, render, index" + "Submit sitemaps for prioritization" — direct authority for sitemap resubmission as Ch2.1 maintenance lever after discovering 6-day-stale `lastDownloaded`). **Ch7.1** ("Use governance, not ad hoc checks" — direct authority for hub page mid-window deferral, comparison page front-edge deferral, NO new content during active windows). **Ch3.2** ("Validate and maintain" — direct authority for comparison page production validation = 5th FAQPage deployment validated). **Ch4.1** consulted as backdrop (Day 36 0 organic = signal to NOT add new content yet).
+5. **COMPARISON PAGE PRODUCTION VALIDATION at ~12.5h post-deploy — PASSED.** `curl -s https://myhomebarista.com/guides/siphon-vs-pour-over/ | grep -oE '"@type":"[^"]+"' | sort | uniq -c` returned the expected JSON-LD type distribution: **1 FAQPage + 4 Question + 4 Answer** + Article + BlogPosting + 2 BreadcrumbList + 1 ImageObject + 5 ListItem + 2 Organization + 2 Person + 2 WebPage = identical to hub page profile. Per Ch3.2 "Validate and maintain": pattern validated across 5 pages now (siphon P92, milk-steaming P94, cold-brew P95, hub-page P99, comparison-page P100). Pattern is bullet-proof.
+6. **COMPARISON PAGE URL INSPECTION at ~12.5h post-deploy.** `coverageState: "URL is unknown to Google"` = front-edge of 24-48h detection window, expected. Real diagnostic deferred to P103 (~32h, mid-window) and P104 (~40h, late edge).
+7. **HUB PAGE MID-WINDOW URL INSPECTION at ~33h post-deploy.** `coverageState: "URL is unknown to Google"` UNCHANGED from P100 ~21h front-edge read. Mid-window URL-unknown at 33h is concerning — late-edge close (48h) is approaching. Per Ch7.1 windows-must-close: defer formal closure declaration to P103 (~53h, past-edge) — if still URL-unknown at P103, declare hub-page injection close-window FAILED parallel to homepage failure pattern.
+8. **6 STALLED SE ASIAN PAGES URL INSPECTION — ALL 6 STILL URL-UNKNOWN.** `/guides/nanyang-coffee/`, `/guides/kopi-tubruk/`, `/recipes/dalgona-coffee/`, `/guides/ipoh-white-coffee/`, `/guides/kissaten/`, `/recipes/japanese-iced-coffee/` — all returned `coverageState: "URL is unknown to Google"` at ~83h post-homepage-deploy / ~33h post-hub-deploy. Three escalation steps now exhausted: P87 footer, P93 homepage, P99 hub page. Sitemap resubmit (action #9 below) is the only fresh lever pulled this pulse.
+9. **TECHNICAL FINDING + ACTION: SITEMAP REFRESH STALE → RESUBMITTED.** Mid-pulse audit revealed Search Console reported `lastDownloaded: 2026-05-03T09:16:19.046Z` for `https://myhomebarista.com/sitemap.xml` = ~6 days stale. 547 URLs in current sitemap (verified via `curl -s ... | grep -oE '<loc>[^<]+</loc>' | wc -l`) include all 6 stalled SE Asian pages, hub page, comparison page, cold-brew page (with P95 FAQPage update). Pages deployed AFTER May 3 — cold-brew P95 update May 7, hub P99 May 8, comparison P100 May 9 — were NOT in Google's sitemap-snapshot awareness despite being in the live sitemap.xml file. **Resubmitted sitemap via `submit-sitemap` API call** — `lastSubmitted` updated to 2026-05-09T20:43:32.611Z (= 23:43 IDT). `lastDownloaded` still May 3 at moment of write (Google refetch typically lands within hours). Refetch verification deferred to P103.
+10. **GA4 traffic check (Days 28-36):**
+    - Day 36 (May 9, partial through 23:37 IDT = effectively full day) = **0 organic** sessions (spike NOT sustaining)
+    - Day 35 (May 8, FINALIZED confirmed) = **5 organic sessions** (strongest day to date)
+    - Day 34 (May 7) = **4 organic** (confirmed)
+    - Day 33 (May 6) = 0 organic
+    - Day 32 (May 5) = 1 organic
+    - Day 31 (May 4) = 1 organic
+    - Day 30 (May 3) = 2 organic
+    - Days 30-36 7-day rolling so far = 2+1+1+0+4+5+0 = **13/7 = 1.86/day** organic (DOWN from P100's 2.00/day; Day 36 zero pulled the rolling average down)
+    - 11+ distinct organic-converting landing pages cumulatively (no Day 36 contribution to set since 0 organic)
+11. **SC query check (28d, same data set as P100 — reporting cycle hasn't refreshed yet):**
+    - **MILK-STEAMING — POST-WINDOW STABLE.** Pos 6.13 / 8 imps unchanged from P100 (data still pre-FAQPage-schema-deploy reflection due to 2-3 day lag).
+    - **HOMEPAGE — STABLE.** 16 imps pos 46.81 unchanged.
+    - **SIPHON — UNCHANGED 10 reads identical.** 11 imps pos 65.73. v2 closure stands. Comparison page (P100) inbound link not yet captured in SC due to 12.5h-old deploy.
+    - **PAGE-1 ENTRIES (all P100 entries holding):** cortado-vs-latte pos 7 / 1 imp, french-press-vs-drip pos 9.5 / 2 imps, how-to-use-moka-pot pos 10 / 1 imp, ristretto pos 7.33 / 3 imps, /tags/iced-latte/ pos 4 / 1 imp, /tags/mocha/ pos 2 / 2 imps (still TOP), /tags/coffee-terminology/ pos 5 / 2 imps, /tags/caramel-macchiato/ pos 6 / 2 imps, /tags/turkish-coffee/ pos 7 / 2 imps.
+    - **CORTADO-VS-FLAT-WHITE — STABLE.** 3 imps pos 47.67.
+    - **VIETNAMESE-ICED-COFFEE — STABLE.** 2 imps pos 83.5 + long-tails "ca phe sua da" pos 73 + "vietnamese coffee drinks" pos 94.
+    - **HORCHATA-LATTE — STABLE.** 2 imps pos 37.5.
+    - **LATTE-MACCHIATO TAG — 12TH CYCLE CONFIRMATION HOLDING.** Pos 63.22 / 9 imps unchanged. 12 indexing cycles validated — exceptionally robust.
+    - **BROWN-SUGAR — STABLE.** 15 imps pos 77 + Starbucks copycat long-tails preserved.
+    - **2 P87 INDEXED PAGES STILL HOLDING:** vietnamese-iced-coffee 2 imps pos 83.5 + lavender-latte 1 imp pos 96.
+12. **NO new content this pulse** — 5 reasons: (a) comparison page in 12.5h front-edge window (Ch7.1); (b) hub page in 33h mid-window (Ch7.1); (c) Day 36 = 0 organic = spike not sustaining → not yet at "build more" green-light; (d) 5 FAQPage deploys in SC reporting lag — premature to add 6th; (e) governance discipline.
+13. **NO additional FAQPage rollout** — same Ch3.2 + Ch7.1 governance.
+14. **NO siphon page modification** — preserving P100 comparison-page indirect-link attribution.
+15. **NO new tag treatment** — auto-tag pages working organically (validated P100).
+16. **NO DataForSEO this pulse** — internal data sufficient. Spend Pulse 102: $0. Running total ~$12.37, avg daily Days 1-36 ~$0.343/day.
+17. No git commit/push needed — no content/code changes; sitemap resubmit was an API call only. Strategy.md + journal.md updates committed below.
+
+**⚠️ ACTION ITEM FOR USER (NOY) — REPEATED FROM P90 + P92 + P93 + P94 + P95 + P99 + P100:** GitHub PAT in `git remote get-url origin` is still dead (HTTP 401). Push only works via `git -c credential.helper=manager` override. Recommend regenerating PAT and refreshing both Agent A and Agent B remote URLs.
+
+**⚠️ ACTION ITEM FOR USER (NOY) — REPEATED FROM P99/P100 & STILL URGENT:** ALL 6 stalled SE Asian pages STILL `URL is unknown to Google` at ~83h post-homepage-deploy / ~33h post-hub-deploy. THREE link-source-authority escalations now exhausted (P87 footer + P93 homepage + P99 hub). **P102 sitemap resubmit is a final passive lever — gives Google a fresh discovery prompt.** If P103-P104 still show URL-unknown, **manual SC URL Inspection web-UI request-indexing is the ONLY remaining lever**: nanyang-coffee, kopi-tubruk, dalgona-coffee, ipoh-white-coffee, kissaten, japanese-iced-coffee. SC web UI → Inspect URL → "Request indexing" button. The SC API does not expose `requestIndexing`.
+
+**Reasoning:**
+- **Why SITEMAP RESUBMIT NOW (vs other actions):** Six constraints aligned. (a) **Discovered 6-day-stale sitemap state** mid-pulse audit — `lastDownloaded: 2026-05-03` while 3 substantive new pages (cold-brew P95 update, hub P99, comparison P100) deployed since. (b) **Ch2.1 explicit lever**: sitemap-as-discovery-mechanism is a primary indexing-prioritization signal. (c) **Low-cost zero-risk action** — single API call, doesn't modify any page. (d) **May provide additional discovery signal for 6 stalled pages** as a side-benefit — fresh sitemap submission can prompt Google to re-examine all listed URLs. (e) **No conflict with active windows** — sitemap submission is a discovery-prioritization signal, not a content modification; doesn't muddy comparison/hub/FAQPage attribution reads. (f) **Maintenance hygiene gap** — first resubmission in 6+ days = baseline practice gap that should have been addressed earlier.
+- **Why NO new content this pulse:** Three reasons. (1) **Multiple active windows** — comparison page at 12.5h front-edge, hub page at 33h mid-window, both demand isolated observation per Ch7.1. (2) **Day 36 = 0 organic — spike-not-sustaining signal** suggests existing content velocity is not yet at "build more" green-light state. Wait for Day 37 confirmation. (3) **5 FAQPage deployments still in SC reporting lag** (siphon P92 5 days ago through comparison P100 12.5h ago). Adding a 6th deployment without observation evidence on existing 5 risks premature scaling.
+- **Why NO siphon page direct modification still:** Preserving comparison-page (P100) indirect-link attribution. Comparison page is at 12.5h post-deploy = SC reporting lag has not yet captured the inbound link signal. Real siphon rank shift watch lands at P107+ (~7 days post-comparison-deploy).
+- **Why NO additional FAQPage rollout:** Same Ch3.2 incremental governance + Ch7.1 windows-must-close. 5 FAQPage deployments now exist; oldest (siphon) is 5 days old but still no clear SC signal due to reporting lag. Wait for at least 1 page to show measurable post-deploy SC behavior before scaling rollout.
+
+**SEO Skill Reference:**
+- **Ch2.1 (Crawl, render, index — Submit sitemaps for prioritization + Sitemaps as discovery mechanism):** Direct authority for sitemap resubmission after discovering 6-day-stale `lastDownloaded`. The Ch2.1 framing of sitemap-as-discovery-mechanism justifies the resubmit as a meaningful technical lever, not a no-op. Side-benefit potential for 6 stalled pages discovery is grounded in Ch2.1 crawl-budget framing.
+- **Ch7.1 (Use governance, not ad hoc checks):** Direct authority for: comparison page front-edge URL-unknown read deferral; hub page mid-window URL-unknown deferral (formal closure declaration deferred to past-edge at P103); NO new content during active windows; 5-FAQPage-deploys-in-lag justification for not adding a 6th.
+- **Ch3.2 (Validate and maintain):** Direct authority for comparison page production validation = 5th FAQPage deployment validated; pattern bullet-proof across 5 pages.
+- **Ch4.1 (Keyword Intent — backdrop):** Day 36 0 organic = signal to NOT add new content yet; let existing pages compound. Per Ch4.1 "Use search demand to prioritize content depth" — current Day 36 demand signal is too noisy to justify new content velocity.
+
+**Outcome:**
+- **SITEMAP RESUBMITTED via `submit-sitemap` API** — `lastSubmitted: 2026-05-09T20:43:32.611Z` (= 23:43 IDT). `lastDownloaded` still 2026-05-03 at moment of write; refetch typically within hours. P103 will verify refetch.
+- **COMPARISON PAGE PRODUCTION VALIDATION PASSED** — 1 FAQPage + 4 Question + 4 Answer + standard package present in JSON-LD on the live page. Pattern validated across 5 pages now. Site total: 5 pages with FAQPage schema.
+- **COMPARISON PAGE URL INSPECTION at ~12.5h** — front-edge URL-unknown, expected. P103-P104 will be the real diagnostic reads.
+- **HUB PAGE MID-WINDOW URL-UNKNOWN at ~33h** — concerning but not yet late-edge. P103 (~53h past-edge) is the close-window decision point.
+- **6 STALLED SE ASIAN PAGES** all still URL-unknown at ~83h post-homepage / ~33h post-hub. Three escalation steps exhausted. Sitemap resubmit is the only fresh lever; manual web-UI escalation remains the only remaining lever (user action item flagged).
+- **MAJOR ORGANIC FINDING — DAY 36 = 0 organic** through 23:37 IDT (essentially full day). 2-day spike Days 34-35 (4+5=9) NOT sustaining. Spike was isolated, not new baseline. Watching Day 37 to confirm.
+- **SC DATA UNCHANGED** from P100 — same query/page-level data set. Latte-macchiato 12th cycle holding (pos 63.22 / 9 imps). All P100 Page-1 entries holding. Siphon 10 reads identical (v2 closure stands). Milk-steaming pos 6.13 / 8 imps holding strong.
+- DataForSEO spend Pulse 102: $0. Running total ~$12.37. Avg daily Days 1-36 ~$0.343/day.
+
+**Next (Pulse 103 06:00 IDT May 10, Day 37 Morning):**
+- Read journal.md head FIRST.
+- **SITEMAP REFETCH VERIFICATION** — re-check `lastDownloaded` to confirm Google refetched after P102 resubmit (~6h+ post-resubmit).
+- **COMPARISON PAGE MID-WINDOW URL INSPECTION at ~32h** — looking for shift from "URL is unknown" → "Discovered - currently not indexed".
+- **HUB PAGE PAST-EDGE URL INSPECTION at ~53h** — past late edge of 24-48h window; if still URL-unknown, declare hub-page injection close-window FAILED.
+- **6 STALLED SE ASIAN PAGES URL INSPECTION** — track whether sitemap resubmit triggered any shift.
+- **GA4 Day 36 FINALIZED reading + Day 37 partial early read** — confirm spike sustainability.
+- **SC delta watch** — comparison page first impressions may appear at ~32h.
+- **Latte-macchiato 13th cycle** sustainability check.
+- **Content priorities:** (a) defer new content until comparison page indexing diagnostic clear AND Day 37 GA4 signal; (b) FAQPage rollout scaling deferred until at least 1 of 5 deploys shows clear SC signal; (c) siphon page rank shift watch P107+; (d) Vietnamese pillar consolidation still on hold; (e) manual SC URL Inspection web-UI escalation still flagged to user.
+- **NO new content P103 unless GA4 Day 37 partial signals strong AND hub page indexes** — both gates required.
+
+---
+
+## 2026-05-09 14:00 IDT — Pulse 101: STUB (Slot Missed)
+
+**(Stub entry per CLAUDE.md "If a slot was missed, still increment and log a stub — never skip a number." The 14:00 IDT 2026-05-09 slot was not fired by the scheduler in time; agent's actual next firing landed at ~23:37 IDT 2026-05-09 = the 22:00 IDT 2026-05-09 slot = Day 36 Night = Pulse 102. P101 is logged here as a placeholder to maintain Pulse # contiguity.)**
+
+**Action:** No work performed; slot missed. All P101-planned actions (comparison page validation, comparison page URL inspection, hub page mid-window URL inspection, 6 stalled pages URL inspection, latte-macchiato 12th cycle, Day 36 partial GA4) were performed in P102 instead at the 22:00 IDT slot.
+
+**Reasoning:** N/A — stub entry only.
+
+**SEO Skill Reference:** N/A — stub entry only.
+
+**Outcome:** N/A — stub entry only. Pulse # contiguity preserved.
+
+**Next:** See Pulse 102 entry above for actual continuation.
+
+---
+
 ## 2026-05-09 06:00 IDT — Pulse 100: New Comparison Guide "Siphon vs Pour Over" — Silent Rank-Lift for Siphon via New Inbound Link (Ch4.1 Fan-Out Gap + Ch5.2 Link-Source-Authority) + Day 35 Organic Finalized at 5 Sessions + 5 New Page-1 Entries in SC | 189 Pages | Day 36 Morning
 
 **(Note: scheduled task fired ~11:11 IDT 2026-05-09 for the 06:00 IDT 2026-05-09 slot. Slot computation per CLAUDE.md: snap down to most recent of {06,14,22} = 06:00 IDT 2026-05-09 = Day 36 Morning. Previous Pulse # in journal = 99. This = Pulse 100, contiguous +1.)**
