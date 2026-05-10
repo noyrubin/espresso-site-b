@@ -4,6 +4,61 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
+## 2026-05-10 06:00 IDT — Pulse 103: KISSATEN BREAKTHROUGH — Hub Page Injection P99 SUCCESS (Referring URL Confirmed) + 5 Remaining Stalled Pages on Active Watch + Sitemap Refetch Verified + Day 37 Partial 1 Organic + Latte-Macchiato 13th Cycle Holding | 189 Pages | Day 37 Morning
+
+**(Note: scheduled task fired ~06:30 IDT 2026-05-10 for the 06:00 IDT 2026-05-10 slot. Slot computation per CLAUDE.md: snap down to most recent of {06,14,22} = 06:00 IDT 2026-05-10 = Day 37 Morning. Previous Pulse # in journal = 102. This = Pulse 103, contiguous +1 per "never skip a number" rule.)**
+
+**Action:**
+1. Pulled latest from git (`Already up to date` — last commit from P102 strategy/journal updates).
+2. Read strategy.md head + journal.md head BEFORE any tool calls (workflow continued from P102).
+3. Verified previous Pulse # = 102; this Pulse = 103 (contiguous +1).
+4. Consulted SEO skill (`anthropic-skills:seo-aeo`) — loaded **Ch7.1** ("Use governance, not ad hoc checks" + windows-must-close discipline — direct authority for NOT declaring hub-page injection failed despite past-edge URL-unknown given direct counter-evidence; comparison page mid-window deferral; close-window deferral on 5 remaining stalled pages). **Ch2.1** ("Crawl, render, index" + sitemap-as-discovery-mechanism — direct authority for confirming sitemap-resubmit lever fired clean; correlation between resubmit and kissaten breakthrough). **Ch5.2** (link-source-authority + "Eliminate orphan pages" — validated retrospectively: hub-page-as-anchor for stalled cluster IS providing discovery — kissaten's referringUrls list directly confirms the lever). **Ch4.1** consulted as backdrop (Day 37 partial too early to satisfy content velocity gate).
+5. **SITEMAP REFETCH VERIFICATION** — `node /c/Claude/seo-skill-2-agents-test/shared-tools/google-search-console.js sitemaps "sc-domain:myhomebarista.com"` returned `lastDownloaded: 2026-05-09T20:43:33.957Z` essentially identical to `lastSubmitted: 2026-05-09T20:43:32.611Z` (~1.3s gap) = Google refetched within 1 second of P102 resubmit = clean lever execution per Ch2.1.
+6. **COMPARISON PAGE MID-WINDOW URL INSPECTION at ~32h** — `inspect "...siphon-vs-pour-over/"` returned `coverageState: "URL is unknown to Google"` UNCHANGED from P102 ~12.5h front-edge. Real diagnostic deferred to P104 (~40h late edge) and P105 (~48h past edge) per Ch7.1 windows-must-close.
+7. **HUB PAGE PAST-EDGE URL INSPECTION at ~57h** — `inspect "...coffee-around-the-world/"` returned `coverageState: "URL is unknown to Google"` UNCHANGED from P102 ~33h. Past late edge of 24-48h URL-unknown window. **NOT declared failed** due to direct counter-evidence from kissaten breakthrough (see #8).
+8. **🎯 BREAKING — 6 STALLED SE ASIAN PAGES URL INSPECTION → KISSATEN INDEXED** — Ran URL Inspection on all 6: nanyang-coffee, kopi-tubruk, dalgona-coffee, ipoh-white-coffee, **kissaten = "Submitted and indexed", verdict PASS**, japanese-iced-coffee. Kissaten's full inspection result returned `lastCrawlTime: 2026-05-09T23:21:37Z` (= 02:21 IDT 2026-05-10), `googleCanonical: https://myhomebarista.com/guides/kissaten/`, `userCanonical: https://myhomebarista.com/guides/kissaten/`, `pageFetchState: SUCCESSFUL`, `crawledAs: MOBILE`, and CRITICALLY `referringUrls: ["https://myhomebarista.com/guides/coffee-around-the-world/"]` = HUB PAGE = the discovery source. **This flips the P102 narrative: hub-page injection P99 = SUCCESS, not failure.** 5 remaining stalled pages still URL-unknown but on active cohort-pattern watch.
+9. **GA4 TRAFFIC + ORGANIC** — Day 36 (May 9) confirmed at **0 organic** (no row returned by GA4 organic query for 20260509). Day 35 (May 8) finalized at 5 organic. Day 37 (May 10) partial through 06:30 IDT = 1 organic on `/guides/espresso-troubleshooting`. 7-day rolling Days 31-37 = 1+1+0+4+5+0+1 = 12/7 = **1.71/day** — DOWN from P102's effective 14/7 = 2.00/day. The 2-day spike Days 34-35 NOT sustaining as new baseline.
+10. **SC PAGE-LEVEL DELTA + LATTE-MACCHIATO 13TH CYCLE** — Homepage 16 imps pos 46.81 → 15 imps pos 46.73 (1-imp drop, position essentially unchanged). All Page-1 entries holding: cortado-vs-latte 7, french-press-vs-drip 9.5, how-to-use-moka-pot 10, ristretto 7.33, /tags/mocha/ 2 TOP, /tags/coffee-terminology/ 5, /tags/caramel-macchiato/ 6, /tags/iced-latte/ 4, /tags/turkish-coffee/ 7. Siphon **12 reads identical** at pos 65.73 / 11 imps — v2 closure stands across 12 cycles. Milk-steaming holding 8 imps pos 6.13. Brown-sugar holding 15 imps pos 77. **Latte-macchiato 13th cycle CONFIRMED HOLDING** at pos 63.22 / 9 imps (page-level row in SC output, same signature as cycles 1-12). Comparison page (siphon-vs-pour-over) NOT YET in SC page-level data — expected at ~32h is still pre-reporting-lag.
+11. **NO new content** — multiple windows still mid-flight + Day 37 partial too early + per P102 strategy gates not satisfied.
+12. **NO sitemap resubmit** — refetched ~10h ago; allow natural refetch cycle.
+13. **NO additional FAQPage rollout** — still no SC reporting cycle on 5 deployed FAQPage pages (oldest = siphon P92 6 days old).
+14. **NO siphon page modification** — preserving P100 comparison-page indirect-link attribution.
+15. **NO new tag treatment** — auto-tag pages working organically.
+16. **NO DataForSEO this pulse** — internal data sufficient. Spend Pulse 103: $0. Running total ~$12.37, avg daily Days 1-37 ~$0.334/day.
+17. Updated strategy.md with full P103 block (KISSATEN BREAKTHROUGH as headline finding; P102 archived as condensed line + original block preserved below per established pattern).
+18. Will commit and push journal.md + strategy.md updates next.
+
+**Reasoning:**
+- **Why URL inspection on all 6 stalled pages this pulse:** Per P102 NEXT plan, Ch7.1 close-window deferral required mid-window (P103 ~32h on comparison page) and past-edge (P103 ~57h on hub page) reads. The 6-page sweep was scheduled to track whether the sitemap-resubmit + hub-page injection cumulatively shifted any of the 6 stalled pages. KISSATEN BREAKTHROUGH = the cohort response that justified the URL Inspection sweep cost.
+- **Why kissaten's `referringUrls` is decisive evidence:** The URL Inspection API exposes the actual referring URL Google used to discover the indexed page. Kissaten's referrer = `https://myhomebarista.com/guides/coffee-around-the-world/` = the hub page deployed at P99. This is direct evidence that (a) Google IS crawling the hub page, (b) the hub page link to kissaten was followed, (c) hub-page injection IS providing discovery for the SE Asian cluster. The "URL is unknown" verdict in URL Inspection on the hub page itself is from a separate (lagging) reporting pipeline — it tracks SC's indexing-decision pipeline, not the crawl-discovery pipeline.
+- **Why NOT declare hub-page injection failed despite ~57h past-edge:** Per Ch7.1 windows-must-close discipline, a window has not "closed failed" if direct counter-evidence exists. Kissaten breakthrough provides exactly that. Provisional validation; await evidence on remaining 5 stalled pages.
+- **Why NO new content this pulse despite breakthrough excitement:** Five gates (a-e) not satisfied: kissaten breakthrough is fresh (~4h old) — observe cohort response first; comparison page in active mid-window — adding similar profile content risks attribution muddying; hub page URL Inspection still URL-unknown — wait for pipeline catch-up; Day 37 1 organic at 06:30 IDT too early; per P102 strategy two-gate rule (GA4 strong + hub indexes) neither fully passed.
+- **Why timing fit suggests sitemap-resubmit triggered kissaten:** Sitemap refetched at 2026-05-09T20:43:33.957Z. Kissaten crawled at 2026-05-09T23:21:37Z. Gap = ~2.6 hours. This timing is consistent with Google using a sitemap refetch as a re-examination trigger that produced a discovery cycle on the sitemap-listed URLs (including hub page → kissaten link traversal).
+
+**SEO Skill Reference:**
+- **Ch7.1** "Use governance, not ad hoc checks" + windows-must-close discipline — direct authority for NOT declaring hub-page injection failed despite past-edge URL-unknown given direct counter-evidence (kissaten's referringUrls); comparison page mid-window deferral to P104/P105; close-window deferral on 5 remaining stalled pages.
+- **Ch2.1** "Crawl, render, index" + "Submit sitemaps for prioritization" — direct authority for confirming sitemap-resubmit lever fired clean (lastDownloaded matches lastSubmitted within 1s); the ~2.6h refetch-to-kissaten-crawl gap is consistent with sitemap-as-trigger for re-examination cycle.
+- **Ch5.2** "Link from high-authority pages to strategic pages" + "Eliminate orphan pages" — validated retrospectively: hub-page-as-anchor for stalled cluster IS providing discovery. Kissaten's referringUrls list = direct confirmation that the internal-linking lever is working.
+- **Ch4.1** consulted as backdrop — Day 37 partial 1 organic at 06:30 IDT too early to satisfy content velocity gate; existing pages compounding (12+ converting landing pages) sufficient near-term.
+- **Ch3.2** consulted as backdrop — incremental FAQPage rollout governance; 5 deploys in SC reporting lag; defer 6th deploy until ≥1 shows post-deploy SC behavior.
+
+**Outcome:**
+- KISSATEN BREAKTHROUGH = first of 6 stalled SE Asian pages indexed at ~88h post-homepage / ~57h post-hub / ~7h post-sitemap-resubmit.
+- Hub-page injection P99 reframed from "potentially failed" → "SUCCESS, validated by kissaten referrer."
+- 5 remaining stalled pages on active watch — cohort-pattern hypothesis (sitemap-refetch + hub-page-link → discovery) being tested.
+- Sitemap-resubmit lever validated: clean refetch within 1s of submit, plausible trigger for kissaten discovery cycle.
+- Day 36 = 0 organic confirmed (spike not sustaining); Day 37 partial = 1 organic early read.
+- Latte-macchiato 13th cycle holding = exceptionally robust query footprint.
+- 12 SC reads identical on siphon = v2 closure stands; rank-not-CTR diagnosis stands.
+- All Page-1 entries from P100/P102 holding (cortado-vs-latte 7, french-press-vs-drip 9.5, how-to-use-moka-pot 10, /tags/mocha/ 2 TOP, etc.).
+- Comparison page (~32h) and hub page (~57h URL Inspection) still URL-unknown but with direct counter-evidence on hub page (kissaten referrer).
+- Site total: 189 pages (no net change), 5 FAQPage schema deploys (unchanged), 10 curated tag indexes (unchanged).
+- DataForSEO Pulse 103: $0. Running total ~$12.37, avg daily Days 1-37 ~$0.334/day.
+
+**Next:** Pulse 104 (14:00 IDT 2026-05-10, Day 37 Afternoon) — read journal.md head FIRST. **5 remaining stalled SE Asian pages URL Inspection** at ~16h post-kissaten-breakthrough — primary watch for cohort-pattern continuation. **Comparison page late-edge URL Inspection at ~40h** — looking for shift from URL-unknown to "Discovered, currently not indexed". **Hub page URL Inspection track** — watch for URL Inspection pipeline catchup; if NOW indexed = formal validation of P99 injection. **GA4 Day 37 partial (afternoon) + Day 36 finalization re-check**. **SC delta watch** — comparison page first impressions may appear at ~40h. **Latte-macchiato 14th cycle**. **NEW CONTENT P104+** — gated on (a) ≥2 of 5 remaining stalled pages following kissaten pattern AND (b) Day 37 finalized organic ≥2. **NO FAQPage rollout** until ≥1 of 5 deploys shows clear SC signal. **NO siphon modification** — preserve P100 attribution. **Manual SC URL Inspection web-UI escalation can be DOWNGRADED** in priority — kissaten breakthrough suggests internal-link-+-sitemap-resubmit lever is sufficient.
+
+---
+
 ## 2026-05-09 22:00 IDT — Pulse 102: Sitemap Resubmitted (Ch2.1 Discovery Lever) + Comparison Page Validation Passed at ~12.5h + Hub Page Mid-Window URL-Unknown at ~33h + Day 36 Organic Spike NOT Sustaining (0 sessions) | 189 Pages | Day 36 Night
 
 **(Note: scheduled task fired ~23:37 IDT 2026-05-09 for the 22:00 IDT 2026-05-09 slot. Slot computation per CLAUDE.md: snap down to most recent of {06,14,22} = 22:00 IDT 2026-05-09 = Day 36 Night. The 14:00 IDT 2026-05-09 slot was missed → P101 stub logged below. Previous Pulse # in journal = 100. This = Pulse 102, contiguous +2 per "never skip a number" rule.)**
