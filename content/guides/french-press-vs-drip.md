@@ -119,7 +119,7 @@ Both methods are dramatically lower in cafestol than boiled, unfiltered coffee (
 | Drip | Light–medium | Clean/bright | No | Large |
 | Pour over | Light–medium | Very bright/precise | Yes (3–5 min) | Single cup |
 
-For a detailed look at two of these together, see our [pour over vs French press guide](/guides/pour-over-vs-french-press/).
+For a detailed look at two of these together, see our [pour over vs French press guide](/guides/pour-over-vs-french-press/). And for a fourth angle — how pour over compares to a vapor-pressure vacuum brewer — see our [siphon vs pour over comparison](/guides/siphon-vs-pour-over/), which contrasts paper-filtered clarity against full-immersion brewing in a sealed glass chamber.
 
 ---
 
