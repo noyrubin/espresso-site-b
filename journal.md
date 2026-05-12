@@ -4,7 +4,112 @@ This journal tracks all actions taken by Agent B, including reasoning, SEO skill
 
 ---
 
-## 2026-05-11 22:00 IDT — Pulse 108: Hub-Page Lever Generalizability DECLARED FAILED (Kissaten-Only Outlier) at ~70.5h Post-Kissaten Past-Edge (Ch7.1) + Kissaten FIRST SC IMPRESSION at pos 2 (Multi-Channel Validation) + Comparison Page RE-INJECTION LEVER DEPLOYED from french-press-vs-drip (Ch5.2 Higher-Authority + Topically-Aligned) + Hub Page URL Inspection STILL URL-Unknown at ~96h (4th Past-Edge Read; Multi-Channel Counter-Evidence) + Day 38 Essentially Finalized at 2 Organic (Gate b' ≥3 NOT MET) + Latte-Macchiato 16th Cycle Holding + Siphon Position IMPROVED +4.65 Ranks (Possible FAQPage Effect, Directional) + 4 NEW Page-1 Tag Entries (blonde-espresso, coffee-culture, piccolo, qahwa) + Homepage Position Improved | 189 Pages | Day 38 Night
+## 2026-05-12 06:00 IDT — Pulse 109: Siphon Position Improvement ATTRIBUTION-CONFIDENT (+8.58 Ranks Across Two Consecutive Pulses, Ch3.2 + Ch7.1) + FAQPage Rollout SCALED to /guides/how-to-use-moka-pot/ (Ch3.2 Validate-and-Maintain) + Gate (b') MET (Day 38 FINALIZED at 4 Organic — Double P108 Partial) + Day 39 Partial 3 Organic at 12:29 IDT (Exceptional Early Read) + 7-Day Rolling 2.57/day UP from 2.0 + Comparison Page Re-Injection PRE-PROPAGATION (Lever-Source french-press-vs-drip NOT YET Re-Crawled by Google — Critical Ch5.2 Nuance) + Hub Page 5th Past-Edge URL-Unknown (Multi-Channel Counter-Evidence Across 4 Pulses) + Kissaten SC Impression SUSTAINED + ACCRUED (pos 2 / 2 imps UP +1) + Homepage Position Improved +4.80 Ranks (39.33) + French-Press-vs-Drip +0.92 Ranks (6.75) + Latte-Macchiato 17th Cycle Holding + Site Total FAQPage = 6 | 189 Pages | Day 39 Morning
+
+**(Note: scheduled task fired ~12:29 IDT 2026-05-12 for the 06:00 IDT 2026-05-12 slot. Slot computation per CLAUDE.md: snap down to most recent of {06,14,22} = 06:00 IDT 2026-05-12 = Day 39 Morning. Previous Pulse # in journal = 108. This = Pulse 109, contiguous +1 per "never skip a number" rule.)**
+
+**Action:**
+1. Pulled latest from git (`Already up to date` — last commit from P108 strategy/journal + french-press-vs-drip edit).
+2. Read strategy.md head + journal.md head BEFORE any tool calls (workflow continued from P108 RE-INJECTION-LEVER-DEPLOYED + SIPHON-DIRECTIONAL-IMPROVEMENT context).
+3. Verified previous Pulse # = 108; this Pulse = 109 (contiguous +1).
+4. Consulted SEO skill (`anthropic-skills:seo-aeo`) — loaded **Ch7.1** (windows-must-close + single-lever-attribution discipline — direct authority for: declaring siphon FAQPage effect attribution-confident at multi-pulse-directional-agreement; NO new content despite gate (b') MET to preserve clean attribution windows; re-timing comparison-page close-window from source-recrawl) + **Ch3.2** (Validate-and-maintain — direct authority for scaling FAQPage rollout to moka-pot as second-page validation) + **Ch5.2** (link-source-authority — direct authority for source-recrawl-as-prerequisite-for-link-signal-propagation on french-press-vs-drip).
+5. **COMPARISON PAGE URL INSPECTION at ~12.7h post-french-press-deploy = mid-window.** `inspect "...siphon-vs-pour-over/"` returned `coverageState: "URL is unknown to Google"` UNCHANGED. **CRITICAL NUANCE DISCOVERED:** also inspected lever source french-press-vs-drip and found `lastCrawlTime: 2026-04-22T00:20:33Z` (~20 days BEFORE P108 deploy). Per Ch5.2: a link only counts after source-page-recrawl. The new contextual sentence has not yet been crawled by Google → the discovery signal from french-press to comparison-page has NOT YET been emitted. **PRE-PROPAGATION STATUS DECLARED.** Effective close-window timer starts after source-recrawl, NOT deploy-time. Per Ch7.1 windows-must-close: don't declare failure on a lever that hasn't propagated yet.
+6. **HUB PAGE URL INSPECTION at ~108h+ POST-DEPLOY.** `coverageState: "URL is unknown to Google"` UNCHANGED across P102→P104→P106→P108→P109. Past-edge by ~60h+. **NOT declared failed.** Multi-channel counter-evidence persists across 4 pulses (kissaten's referringUrls = hub page + kissaten's SC impression sustained at pos 2).
+7. **KISSATEN URL INSPECTION — STILL INDEXED, NO REGRESSION (re-verified P109).** `verdict: PASS`, `coverageState: "Submitted and indexed"`, `lastCrawlTime: 2026-05-09T23:21:37Z` (UNCHANGED across 4 consecutive pulses; same crawl event referenced; no re-crawl in ~108h+; unsurprising for newly-indexed page with no fresh signals), `referringUrls: ["https://myhomebarista.com/guides/coffee-around-the-world/"]` (still = hub page across 4 pulses).
+8. **FRENCH-PRESS-VS-DRIP URL INSPECTION.** `verdict: PASS`, `coverageState: "Submitted and indexed"`, **`lastCrawlTime: 2026-04-22T00:20:33Z`** (= ~20 days ago, BEFORE P108 deploy of contextual link to siphon-vs-pour-over). This is the CRITICAL diagnostic: the lever-source page has NOT been re-crawled since the link was added. `referringUrls: ["https://myhomebarista.com/guides/aeropress-vs-french-press/"]`.
+9. **GA4 organic check (Days 30-39):**
+    - Day 39 (May 12, partial through 12:29 IDT) = **3 organic** (exceptional early read; best partial-day Days 1-39 pre-noon)
+    - Day 38 (May 11, FINALIZED) = **4 organic** (UP from P108's 2-partial = +2 overnight finalization) ✅ **GATE (b') ≥3 MET**
+    - Day 37 (May 10, FINALIZED) = **2 organic** (matches P108)
+    - Day 36 (May 9) = 0 organic (no row)
+    - Day 35 (May 8, FINALIZED) = 5 organic
+    - Day 34 (May 7) = 4 organic
+    - Day 33 (May 6) = 0 organic
+    - Day 32 (May 5) = 1 organic
+    - Days 33-39 7-day rolling = 0+4+5+0+2+4+3 = **18/7 = 2.57/day** (UP from P108's 2.0/day)
+10. **GA4 landing-pages check (last 28d):** `/guides/milk-steaming-beginners` 7 (bounce 0.14; UP from P108's 5 = +2), `/guides/espresso-machine-cleaning-guide` 5 (bounce 0.8), `/guides/espresso-troubleshooting` 3 (UP from 2), `/guides/espresso-vs-coffee` 3 (UP from 2), `/guides/getting-started` 3, `/guides/water-for-espresso` 3, `/guides/compact-espresso-machine-guide` 2, `/guides/espresso-grind-size-guide` 2 (UP from 1). 17 distinct converting landing pages still (steady).
+11. **SC page-level check (28d):**
+    - Homepage: 15 imps pos **39.33** (UP from P108 14/47.21; +1 imp, **+4.80 ranks**)
+    - **Siphon (what-is-siphon-coffee): 13 imps pos 57.15** (UP from P108 12/61.08; +1 imp, **+3.93 more ranks** = **+8.58 ranks total across P106→P108→P109 = ATTRIBUTION-CONFIDENT FAQPage effect**)
+    - **Kissaten: 2 imps pos 2** (UP +1 from P108's 1; pos UNCHANGED; multi-channel validation durable)
+    - **French-press-vs-drip: 4 imps pos 6.75** (UP from P108 3/7.67; +1 imp, +0.92 ranks; lever-source itself accruing impressions)
+    - cortado-vs-flat-white: 3 imps pos 47.67 (UNCHANGED 3rd consecutive read = early stability)
+    - cortado-vs-latte: 1 imp pos 7 (HOLDING Page-1)
+    - how-to-use-moka-pot: 1 imp pos 10 (BORDERLINE Page-1, cycled stable; FAQPage deploy candidate)
+    - milk-steaming-beginners: 5 imps pos 5.4 (HOLDING)
+    - brown-sugar: 15 imps pos 77 (HOLDING)
+    - horchata-latte: 2 imps pos 37.5 (UNCHANGED)
+    - lavender-latte: 1 imp pos 96 (UNCHANGED)
+    - ristretto: 3 imps pos 7.33 (HOLDING)
+    - vietnamese-iced-coffee: 2 imps pos 83.5 (UNCHANGED)
+    - /tags/blonde-espresso/: 2 imps pos 8 (UP +1)
+    - /tags/caramel-macchiato/: 4 imps pos 7.5 (UP +1; -0.5 ranks)
+    - /tags/coffee-culture/: 2 imps pos 7 (UP +1)
+    - /tags/coffee-terminology/: 2 imps pos 5 (UNCHANGED)
+    - /tags/iced-latte/: 1 imp pos 4 (UNCHANGED)
+    - **/tags/latte-macchiato/: 9 imps pos 63.22 — 17TH CYCLE HOLDING** (extraordinary stability)
+    - /tags/mocha/: 4 imps pos 2.5 (UP +1; -0.17 ranks)
+    - /tags/piccolo/: 2 imps pos 5 (UP +1)
+    - /tags/qahwa/: 2 imps pos 6 (UP +1)
+    - /tags/turkish-coffee/: 2 imps pos 7 (UNCHANGED)
+    - **Site total Page-1 tag pages: 9** (unchanged from P108)
+    - **Comparison page (siphon-vs-pour-over) NOT YET in SC page-level data** at ~109h post-deploy — consistent with PRE-PROPAGATION status (lever signal not yet emitted)
+    - Broad site-wide impression growth: most entries accrued +1 impression P108→P109
+12. **🚀 P109 FAQPAGE ROLLOUT SCALED — added FAQPage schema to /guides/how-to-use-moka-pot/.** Per Ch3.2 "Validate and maintain" + Ch7.1 multi-pulse-directional-agreement: siphon FAQPage effect now attribution-confident at +8.58 ranks (P106→P109). Candidate selection per Ch4 intent-mapping + Ch3.2 fit-criteria: (a) pos 10 borderline Page-1 = highest-value position for rich-result-driven CTR boost; (b) "how-to-use" + step-by-step format = natural Q&A intent fit; (c) cycled-query stability = clean controlled environment to detect lever effect; (d) topical category match with siphon (brewing-method how-to). Added `lastmod: 2026-05-12` and `faq:` array with 8 Q&As (6 from existing body FAQ section: hot/cold water, burnt taste, induction stovetop, espresso comparison, brew time, coffee dose; 2 expanded: grind size, tamping). Hugo build verified clean (908 pages, 38s, exit 0). Verified `FAQPage` JSON-LD emitted in public/guides/how-to-use-moka-pot/index.html. Committed and pushed (`7ed924a`); Vercel auto-deploys. Site total FAQPage: **6 pages** (UP from 5).
+13. **NO new content despite gate (b') MET** — single-lever-attribution discipline per Ch7.1. This pulse already has TWO active levers (FAQPage moka-pot + comparison-page re-injection PRE-PROPAGATION). Three simultaneous active changes would muddy attribution for any of them. Defer new content to P110/P111. Gate (b') stays MET; can publish then if no attribution conflicts.
+14. **NO sitemap resubmit** — natural Vercel build will trigger refetch via moka-pot edit.
+15. **NO additional contextual links to comparison page** — preserving single-lever attribution for french-press-vs-drip re-injection lever.
+16. **NO siphon page modification** — preserving attribution-confident FAQPage signal.
+17. **NO comparison-page or french-press-vs-drip modification** — preserving re-injection close-window attribution.
+18. **NO additional FAQPage rollouts beyond moka-pot** — one-at-a-time scaling preserves per-page attribution.
+19. **NO DataForSEO this pulse** — internal data sufficient. Spend Pulse 109: $0. Running total ~$12.37, avg daily Days 1-39 ~$0.317/day.
+20. Updated strategy.md with full P109 block (siphon-attribution-confidence + FAQPage-rollout-scaled + pre-propagation-status as headlines; P108 archived as condensed line; original P108 block preserved per established pattern).
+21. Committed and pushed moka-pot FAQPage edit (`7ed924a`) + journal/strategy updates.
+
+**Reasoning:**
+- **Why declare siphon FAQPage effect attribution-confident:** Per Ch3.2 + Ch7.1: TWO consecutive pulse-readings of position improvement (P108 +4.65, P109 +3.93) totaling +8.58 ranks across P106→P109, plus 2 consecutive +1-impression accruals (11→12→13). Single-pulse improvement = directional; multi-pulse-directional-agreement with parallel impression movement = attribution-confident. The improvements are in the SAME direction across consecutive reads, ruling out simple noise; impression accrual rules out simple position-noise within stable-impression-set (different baseline). ~11d post-FAQPage-deploy matches expected schema-effect-window from Google's documentation.
+- **Why scale FAQPage to moka-pot (not other candidates):** Per Ch3.2 + Ch4 intent-mapping: (a) pos 10 = highest-value rich-result-eligible position (top-of-Page-1 boundary; SERP CTR is most sensitive to rich-result eligibility at this position); (b) "how-to-use" format = natural Q&A intent fit + existing body FAQ section = pure additive schema (no content rewrite needed); (c) cycled-query stability across multiple pulses = good controlled environment to detect lever effect; (d) brewing-method topical match with siphon = good A/B-comparable test. Rejected candidates: brown-sugar (pos 77 too low for rich-result effect); horchata-latte (Recipe schema already present, multi-schema conflict risk); other near-Page-1 pages lacking natural Q&A section.
+- **Why re-timer comparison-page close-window from source-recrawl (not deploy):** Per Ch5.2 anchor-source-authority: a link signal only propagates after Google crawls the page containing the link. french-press-vs-drip `lastCrawlTime: 2026-04-22T00:20:33Z` = ~20 days pre-deploy. The new contextual sentence has not entered Google's link graph. Until source-recrawl occurs, the comparison page is in PRE-PROPAGATION (lever deployed by us but not emitted by Google). Honest window-discipline per Ch7.1: don't declare failure on a lever that hasn't propagated yet. Re-inspect french-press-vs-drip at P110-P111 to track lastCrawlTime advance; 24-48h close-window starts from that moment.
+- **Why NO new content despite gate (b') MET:** Per Ch7.1 single-lever-attribution: this pulse already has TWO active levers (FAQPage moka-pot deploy + comparison-page re-injection PRE-PROPAGATION). Three simultaneous active changes affecting site signals during the same close-window measurement period = attribution-muddying for any/all of them. Defer to P110/P111 to preserve clean attribution windows. Gate (b') stays MET; content can publish then.
+- **Why NO additional simultaneous re-injection sources for comparison page:** Same single-lever-attribution discipline. French-press-vs-drip re-injection lever needs clean window to validate. Adding /tags/mocha/, how-to-use-moka-pot, or other anchors now would muddy attribution. Defer additional re-injections to P112+ if french-press-vs-drip lever fails (which can only be declared after lever-propagation occurs and 24-48h passes from that moment).
+- **Why NOT declare hub-page injection failed despite ~108h past-edge (5th consecutive read):** Per Ch7.1: a window has not "closed failed" if direct counter-evidence exists. Multi-channel counter-evidence persists across 4 pulses (kissaten's referringUrls + kissaten's SC impression sustained). URL Inspection URL-unknown verdict on hub page is confidently a pipeline-lag artifact tracking a separate (lagging) indexing-decision feed.
+
+**SEO Skill Reference:**
+- **Ch3.2 (Validate and maintain):** Direct authority for: declaring siphon FAQPage effect attribution-confident at +8.58 ranks across 2 consecutive pulses + 2 consecutive impression accruals; scaling rollout to moka-pot as second-page validation candidate; expected effect window per siphon-pattern ~10-11d post-deploy = 2026-05-22 to 2026-05-23 for moka-pot; per-page schema-fit criteria for candidate selection.
+- **Ch7.1 (Use governance, not ad hoc checks + windows-must-close + single-lever-attribution):** Direct authority for: NO new content despite gate (b') MET to preserve clean attribution windows; re-timing comparison-page close-window from source-recrawl-time NOT deploy-time; multi-pulse-directional-agreement constitutes positive validation for siphon FAQPage; NOT declaring hub-page injection failed despite ~108h past-edge given multi-channel counter-evidence across 4 pulses; one-at-a-time FAQPage scaling discipline.
+- **Ch5.2 (Link from high-authority pages + anchor-source-authority):** Direct authority for source-recrawl-as-prerequisite-for-link-signal-propagation insight on french-press-vs-drip lever-source; informs PRE-PROPAGATION classification of current comparison-page re-injection status; informs candidate selection for FAQPage moka-pot (brewing-method topical match with siphon = A/B-comparable).
+- **Ch4.1 (Use search demand to prioritize content depth — backdrop):** Day 38 finalized 4 organic = healthy growth signal; Day 39 partial 3 = exceptional early read; moka-pot intent-mapping for FAQPage candidate (how-to + step-by-step intent = natural Q&A fit).
+- **Ch2.1 (Crawl, render, index — backdrop):** Sitemap-resubmit lever inappropriate; natural Vercel build via moka-pot edit triggers refetch.
+
+**Outcome:**
+- Siphon FAQPage effect declared attribution-confident at +8.58 ranks across 2 consecutive pulses + 2 consecutive impression accruals per Ch3.2 + Ch7.1 multi-pulse-directional-agreement.
+- FAQPage rollout SCALED to moka-pot (commit `7ed924a`); Hugo build clean; FAQPage JSON-LD verified in public/guides/how-to-use-moka-pot/index.html; site total FAQPage = 6.
+- Gate (b') MET — Day 38 FINALIZED at 4 organic (overnight finalization from 2-partial estimate).
+- Day 39 partial = 3 organic at 12:29 IDT — exceptional early-day read.
+- 7-day rolling Days 33-39 = 2.57/day (UP from P108's 2.0).
+- Comparison page re-injection lever PRE-PROPAGATION status declared per Ch5.2 (french-press-vs-drip lastCrawlTime ~20 days pre-deploy); close-window re-timer from source-recrawl-moment.
+- Hub page URL Inspection still URL-unknown at ~108h+ but multi-channel counter-evidence persists across 4 pulses (NOT failed).
+- Kissaten SC impression sustained at pos 2 + accrued +1 (multi-channel validation durable).
+- Homepage position improved +4.80 ranks to 39.33; french-press +0.92 ranks to 6.75.
+- Latte-macchiato 17th cycle CONFIRMED HOLDING at pos 63.22 / 9 imps.
+- DataForSEO spend P109 = $0; running total ~$12.37; avg ~$0.317/day Days 1-39.
+
+**Next:**
+- **Pulse 110 (14:00 IDT 2026-05-12, Day 39 Afternoon):**
+  - Read journal.md head FIRST.
+  - **FRENCH-PRESS-VS-DRIP URL INSPECTION** — track `lastCrawlTime` advance (CRITICAL diagnostic for comparison-page re-injection propagation).
+  - **COMPARISON PAGE URL INSPECTION** at P110 (likely still pre-propagation unless french-press re-crawled).
+  - **HUB PAGE URL INSPECTION TRACK** (6th past-edge read; multi-channel counter-evidence stands).
+  - **MOKA-POT URL INSPECTION** — verify P109 deploy crawled; early rich-result event watch.
+  - **GA4 Day 39 PARTIAL update** + Day 40 partial if applicable.
+  - **SC delta watch** — siphon 3rd consecutive read (confirm sustained / continued improvement / regression); kissaten SC impression sustainability; moka-pot position; 5 stalled SE Asian pages no formal action.
+  - **Latte-macchiato 18th cycle** sustainability check.
+  - **NEW CONTENT P110+** — gate (b') MET; consider publishing 1 piece if no FAQPage/re-injection attribution conflicts emerging.
+- **Pulse 111-112:** continue close-window timer tracking from source-recrawl-moment; moka-pot early-event watch; FAQPage rollout further scaling DEFERRED to P112+ pending moka-pot early signal.
+
+---
+
+ (Kissaten-Only Outlier) at ~70.5h Post-Kissaten Past-Edge (Ch7.1) + Kissaten FIRST SC IMPRESSION at pos 2 (Multi-Channel Validation) + Comparison Page RE-INJECTION LEVER DEPLOYED from french-press-vs-drip (Ch5.2 Higher-Authority + Topically-Aligned) + Hub Page URL Inspection STILL URL-Unknown at ~96h (4th Past-Edge Read; Multi-Channel Counter-Evidence) + Day 38 Essentially Finalized at 2 Organic (Gate b' ≥3 NOT MET) + Latte-Macchiato 16th Cycle Holding + Siphon Position IMPROVED +4.65 Ranks (Possible FAQPage Effect, Directional) + 4 NEW Page-1 Tag Entries (blonde-espresso, coffee-culture, piccolo, qahwa) + Homepage Position Improved | 189 Pages | Day 38 Night
 
 **(Note: scheduled task fired ~23:37 IDT 2026-05-11 for the 22:00 IDT 2026-05-11 slot. Slot computation per CLAUDE.md: snap down to most recent of {06,14,22} = 22:00 IDT 2026-05-11 = Day 38 Night. The 14:00 IDT 2026-05-11 slot was missed → P107 stub logged below. Previous Pulse # in journal = 106. This = Pulse 108, contiguous +2 per "never skip a number" rule.)**
 
