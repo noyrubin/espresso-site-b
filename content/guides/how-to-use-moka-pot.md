@@ -1,6 +1,7 @@
 ---
 title: "How to Use a Moka Pot: Step-by-Step Guide for Perfect Stovetop Coffee"
 date: 2026-04-08
+lastmod: 2026-05-12
 description: "How to use a moka pot: fill the bottom chamber with cold water, add medium-fine coffee to the filter basket, assemble, and heat over low-medium flame. Here's the complete step-by-step guide."
 tags: ["moka pot", "brewing methods", "beginner", "how-to", "stovetop espresso"]
 categories: ["guides"]
@@ -8,6 +9,23 @@ author: "Barista At Home"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - q: "Do I use hot or cold water in a moka pot?"
+    a: "Traditionally, cold water — it heats more slowly, giving you more control over the brew. Some experienced brewers use pre-boiled (off-the-boil) water to reduce metal contact time and bitterness. Both approaches work; cold water is easier for beginners and is the standard recommendation."
+  - q: "Why does my moka pot coffee taste burnt?"
+    a: "The heat is too high. Lower the flame and brew over low-medium heat throughout. Remove the pot from the heat immediately when the gurgling sputter starts — letting it continue brewing past that point scorches the remaining water and pushes bitter, burnt flavors into the cup."
+  - q: "Can I use a moka pot on an induction stovetop?"
+    a: "Only if your moka pot is specifically made for induction. Induction cooktops require a magnetic stainless steel base. Standard aluminum moka pots like the classic Bialetti Moka Express do not work on induction. The Bialetti Venus (stainless steel) and other induction-compatible models will work — check the manufacturer specs before buying."
+  - q: "Can I make true espresso with a moka pot?"
+    a: "No. A moka pot brews at roughly 1–2 bars of pressure, while true espresso requires 9 bars. Moka pot coffee is concentrated and espresso-like in flavor, but it will not produce real crema. It is a great espresso-style alternative for home use without an espresso machine, but it is technically not espresso."
+  - q: "How long does it take to brew moka pot coffee?"
+    a: "Roughly 3–6 minutes of active stovetop time once the heat is on, depending on the heat level and the pot size. A 3-cup moka pot typically takes 3–4 minutes; a 6-cup takes 5–6 minutes. Add another couple of minutes for filling, assembly, and cleanup."
+  - q: "How much coffee goes in a moka pot?"
+    a: "Fill the filter basket to the brim, leveled but not packed. Approximately 7 grams of medium-fine ground coffee per espresso cup the pot is rated for. A 3-cup moka pot uses about 15–18g; a 6-cup uses about 30–36g. Do not tamp — moka pots rely on a loose, level grind bed to brew without over-pressurizing."
+  - q: "What grind size should I use for a moka pot?"
+    a: "Medium-fine — slightly coarser than espresso, finer than drip. Pre-ground coffee labeled for moka pot or espresso usually works. If the brew tastes bitter or comes out very slowly, go one step coarser. If it tastes weak or sour and brews too fast, go one step finer."
+  - q: "Should I tamp the coffee in a moka pot?"
+    a: "No. Unlike espresso, moka pot coffee should be loose and leveled, never packed. Tamping increases pressure inside the bottom chamber, which can trigger the safety valve, over-extract bitter notes, and stress the gasket. A flat, even grind bed brews evenly without compression."
 ---
 
 **To use a moka pot: fill the bottom chamber with cold water to just below the safety valve, add medium-fine ground coffee to the filter basket (level, not packed), screw on the top chamber, and heat over low-medium heat until coffee flows into the top. Remove from heat when the flow turns to a gurgling sputter.**
