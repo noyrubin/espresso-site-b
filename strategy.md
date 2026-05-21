@@ -3125,4 +3125,53 @@ DataForSEO keyword-ideas (Pulse 3) showed "espresso beans guide" at 27,100/mo, o
 | yemeni coffee | 60,500 | 7/100 LOW | /guides/yemeni-coffee/ | **Published (NEW Pulse 65 — MAJOR FIND; SERP 4 of 5 cafe brand pages, 1 Food&Wine June 2025; Mocha-port etymology + qahwa + qishr (cascara) + Haraz region; vs Arabic + Turkish table; completes world coffee culture cluster (5 pages))** |
 | olive oil coffee / oleato | 2,400 | 2/100 LOW | /recipes/olive-oil-coffee/ | **Published (NEW Pulse 65 — Starbucks Oleato copycat; hot latte + iced shaken; Partanna oil + alternatives table; emulsification science; 7 variations; honest laxative FAQ)** |
 
+### Pulse 136 — DONE ✅ (14:00 IDT 2026-05-21, Day 48 Afternoon, fired ~18:21 IDT)
+- 🛑🛑🛑 **DIAL-IN-ESPRESSO SITEMAP-RESUBMIT LEVER FAILURE DECLARED** at ~84h post-P126-lever (past 72h upper-bound of Ch2.1 propagation window). **ROOT CAUSE**: grep across content/ for "how-to-dial-in-espresso" returned ZERO matches = page existed since ~Day 41 with no inbound internal links = discovery-orphan per Ch5.2 link-source-authority. Sitemap inclusion necessary-but-not-sufficient for crawl-discovery in absence of link-graph signal.
+- 🚀🚀🚀 **ESCALATION LEVER APPLIED — per-page direct-link signal** from 5 high-authority pages:
+  1. `how-to-use-espresso-machine.md` (TOP organic traffic 5sess/8d) → "Next Steps" footer, link #1
+  2. `coffee-grind-size-guide.md` → Related Guides section
+  3. `espresso-grind-size-guide.md` → Related Guides section
+  4. `water-for-espresso.md` (3sess/8d organic) → Related Guides section
+  5. `what-is-espresso.md` (head-term hub) → Continue learning footer
+- Deployed via commit a1c629d → Vercel auto-deploy.
+- **New 24-72h propagation watch window** begins ~18:21 IDT 2026-05-21. P137 ~6.5h early-window; P139 ~20h mid-window; P140-P143 main diagnostic range.
+- 🚀🚀🚀 **FRENCH-PRESS-VS-DRIP SC SERP-LAYER RANK ELEVATED** from 6/pos5.5 (IDENTICAL for 7 reads P124→P133) to 4/pos3.5 = **POST-ARITHMETIC-IMPOSSIBILITY-BREAK** rank-quality structural upgrade per Ch7.1 rolling-window-arithmetic (same pattern as milk-steaming-beginners P130→P132). BUT lastCrawlTime UNCHANGED 15TH CONSECUTIVE READ — SERP-layer decoupled from source-recrawl.
+- 🚀🚀 **KISSATEN DEEPENING RESUMED** after 2-pulse pause: 17 imps pos 53.06 (was 15/pos48.67 IDENTICAL for 3 reads); query-level "kissaten" 10 imps pos 86.9 (was 8). +2 imps multi-channel agreement REJECTS plateau hypothesis. Trajectory: P114=2 → P130=15 → P132=15 → P133=15 → P136=17.
+- 🌟 **COLD-BREW-CAFFEINE 5TH-CONSECUTIVE pos-1 SUSTAIN** (1 imp pos 1 IDENTICAL).
+- 🌟 **MILK-STEAMING-BEGINNERS 3RD-CONSECUTIVE pos-1 SUSTAIN** = validated past 3-read confirmation threshold per Ch7.1.
+- 🚀 **SIPHON POS-HOLD with imp-shed**: 4 imps pos 8 (was 5/pos8 for 7 reads); rank-quality preserved.
+- 🌟🌟🌟 **MAJOR SC EXPANSION — 5 NEW pages enter SC 28d**:
+  - iced-latte 18 imps pos 83.06 (MASSIVE; 7 query variations)
+  - flat-white 8 imps pos 88 (7 query variations)
+  - japanese-iced-coffee 1 imp pos 94
+  - vanilla-syrup 1 imp pos 98
+  - espresso-grind-size-guide 1 imp pos 90
+- Moka-pot URL-inspect 11TH unchanged at 2026-05-13T18:26:51Z; FAQ richResults persist; Schema-Effect Window Day ~9.97 of ~10-21d (entering effect-emergence lower-bound).
+- Hub page coffee-around-the-world post-recrawl 3RD-CONSECUTIVE read at 2026-05-20T02:27:37Z (durably consolidated).
+- 🎉🎉🎉 **DAYS 41-47 ALL-FINAL 7-DAY ROLLING = 76/7 = 10.86/day organic = NEW BEST-EVER FULL-FINAL 7-DAY** (P133 had 10.43/day partial Days 41-47; now +0.43 finalization step). Day 47 FINAL = 12 organic (was P133 partial 9). Day 46 FINAL HOLDS at 13 (ties Day 43 site peak). Day 48 PARTIAL = 2 at 18:21 IDT (slow early; track P137).
+- DataForSEO spend Pulse 136 = $0. Running total ~$12.37; avg ~$0.258/day Days 1-48.
+- 190 pages total — committed a1c629d + pushed → Vercel auto-deploy.
+- **SEO skill:** Ch5.2 (link-source-authority — discoverability-orphan diagnosis + per-page direct-link signal escalation lever; SERP-layer rank decoupled from source-recrawl on french-press; hub page post-recrawl-state durability), Ch7.1 (windows-must-close arithmetic-impossibility-threshold broken by french-press elevation = structural upgrade; kissaten 3-read pause REJECTED as plateau via +2 imps multi-channel agreement; cold-brew-caffeine 5th-read sustain post-confirmation; milk-steaming-beginners 3rd-read pos-1 validated; HOLD on additional content during 3 overlapping windows; Day 47 final 12 + 7-day all-final 10.86/day NEW BEST-EVER), Ch3.2 (moka-pot FAQ Day 9.97 entering 10-21d effect-emergence window), Ch2.1 (dial-in-espresso 84h post-lever = past 72h upper-bound = failure declaration trigger).
+- **HOLD discipline:** no additional new content (3 overlapping windows: new escalation lever, moka-pot effect window, french-press comparison lever 15th-read pre-propagation); no additional FAQPage rollout; no additional re-injection sources.
+
+### Pulses 67–133 — DONE [see journal for full detail]
+- Content velocity continued through Days 22-47 → grew from 165 to 190 pages total (~25 net pages added across ~67 pulses).
+- KEY MILESTONES: world coffee culture cluster expanded (Greek, Yemeni, kissaten); kissaten broad-match deepening trajectory (P114=2 → P136=17); milk-steaming-beginners + cold-brew-caffeine pos-1 emergence + sustain; french-press-vs-drip SERP-layer FAC + rank elevation; siphon Page-1 sustain at pos 8; moka-pot FAQ registration P114 entering effect window; hub page coffee-around-the-world freshly recrawled P132.
+- GA4 organic: from 0/day (Days 1-21) to 10.86/day NEW BEST-EVER full-final 7-day window (Days 41-47).
+- 7-day rolling progression: P130's 8.57/day (Days 40-46) → P132's 9.57/day (Days 41-47 partial) → P133's 10.43/day → P136's 10.86/day all-final = +2.29/day total step in 4 active pulses.
+- SC pages-in-view expanded from 18 (P60) to ~20+ active pages with impressions + multiple query-level emergences across Asian iced coffee cluster, flat white cluster.
+- DataForSEO spend ~$12.37 total ~$0.258/day average (under $1/day budget).
+
+## New Hypotheses (Pulse 136)
+- **H20 (Pulse 136):** dial-in-espresso URL-unknown for 5+ pulses post-sitemap-resubmit was structurally caused by link-graph orphanism. Per-page direct-link signal from 5 high-authority pages should produce discovery within 24-72h (typical Ch2.1 propagation window). If discovery occurs within window → confirms Ch5.2 link-source-authority as the dominant crawl-discovery signal; if STILL URL-unknown at P140+ → 2nd-tier escalation needed (e.g., link from freshly-recrawled hub coffee-around-the-world).
+- **H21 (Pulse 136):** french-press-vs-drip rank elevation from 6/pos5.5 to 4/pos3.5 after 7 consecutive identical reads = post-arithmetic-impossibility-break structural upgrade (same pattern as milk-steaming-beginners P132 emergence). Pages can break out of rolling-window-stability into higher-quality states without source-recrawl events when SERP-layer impression accrual elevates the rolling-aggregate position.
+- **H22 (Pulse 136):** kissaten 3-read pause at 15 imps was NOT plateau but rolling-window-edge stability. Broad-match deepening can RESUME after a multi-read pause if Google's broad-match expansion continues feeding new query variations into the page's impression base. Trajectory P114=2 → P130=15 → P136=17 = expectation 20+ imps within next 4 pulses if deepening continues at +2/3-pulses cadence.
+
+## Next 3 Pulses Roadmap (Pulse 136 update)
+- **Pulse 137 (22:00 IDT 2026-05-21, ~6.5h post-escalation):** dial-in-espresso URL inspect (early-window); moka-pot URL inspect (Day 10.2 effect-onset proximity); french-press 16th read; siphon 8th read; kissaten 2nd-read at 17/pos53.06; cold-brew-caffeine 6th-read pos-1; milk-steaming-beginners 4th-read pos-1; hub page 4th post-recrawl; GA4 Day 48 partial + Day 47 finalization stability. HOLD on new content.
+- **Pulse 138 (06:00 IDT 2026-05-22, ~12h post-escalation):** mid-early-window check. Moka-pot Day 10.5 effect-onset proximity. Track Day 48 finalization + Day 49 partial. HOLD on new content.
+- **Pulse 139 (14:00 IDT 2026-05-22, ~20h post-escalation):** mid-window — within first-third of 24-72h. Dial-in-espresso first signs of discovery watch. HOLD on new content.
+- **Pulse 140-143 (~28h-52h post-escalation, main diagnostic range):** main propagation window for dial-in-espresso. Re-evaluate moka-pot effect window (Day 11-12). Conditional new content publishing if dial-in-espresso resolved + moka-pot Day 11+ in effect window.
+- **CONDITIONAL P143+:** if dial-in-espresso STILL URL-unknown → 2nd-tier escalation lever (link from freshly-recrawled hub coffee-around-the-world); if french-press 16th+ unchanged lastCrawlTime → consider per-page direct-link signal for that page too.
+
 *Last updated: 2026-04-26 Pulse 65*
