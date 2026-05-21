@@ -178,6 +178,7 @@ Technically yes, but espresso roasts (medium to dark) are specifically developed
 ## Next Steps
 
 Once you're pulling consistent shots:
+- [Dial in espresso step by step](/guides/how-to-dial-in-espresso/) — adjust dose, grind, yield, and time so shots land balanced and repeatable
 - [Troubleshoot specific problems](/guides/espresso-troubleshooting/)
 - [Learn to make a latte](/recipes/latte/)
 - [Make a cappuccino at home](/recipes/cappuccino/)

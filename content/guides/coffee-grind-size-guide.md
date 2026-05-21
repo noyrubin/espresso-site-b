@@ -213,6 +213,7 @@ Taste is the most reliable indicator. Bitter, harsh, or astringent = too fine (o
 ## Related Guides
 
 - [Espresso Grind Size: Complete Dial-In Guide](/guides/espresso-grind-size-guide/)
+- [How to Dial In Espresso (Step-by-Step Process)](/guides/how-to-dial-in-espresso/)
 - [Cold Brew Coffee Ratio](/guides/cold-brew-ratio/)
 - [Pour Over Coffee Ratio Guide](/guides/pour-over-ratio/)
 - [Coffee to Water Ratio](/guides/coffee-to-water-ratio/)

@@ -121,6 +121,7 @@ The easiest upgrade most home espresso drinkers never make: check your water. It
 ## Related Guides
 
 - [Espresso Grind Size Guide: Dial In Your Grinder](/guides/espresso-grind-size-guide/) — After water, grind size is the most impactful variable
+- [How to Dial In Espresso](/guides/how-to-dial-in-espresso/) — Step-by-step workflow for getting a new bag of beans tasting right
 - [Espresso Troubleshooting Guide](/guides/espresso-troubleshooting/) — Diagnose bitter, sour, or watery shots
 - [Getting Started with Home Espresso](/guides/getting-started/) — Complete beginner's guide
 - [Espresso Ratio Guide](/guides/espresso-ratio-guide/) — Dose, yield, and time explained
