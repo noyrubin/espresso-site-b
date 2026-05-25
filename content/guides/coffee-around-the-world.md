@@ -96,6 +96,8 @@ Italian espresso needs little introduction, but it is worth noting that the home
 
 The full espresso brewing fundamentals are covered in our espresso guides, and the moka pot tradition is at [How to Use a Moka Pot](/guides/how-to-use-moka-pot/).
 
+For home baristas working with a real espresso machine, the single most important skill is **dialing in** the shot — adjusting grind size, dose, and yield until the espresso tastes balanced rather than sour or bitter. The full step-by-step method, including how to taste-correct and how to compensate for bean age, is at [How to Dial In Espresso: The Complete Guide](/guides/how-to-dial-in-espresso/).
+
 ## 11. Mexico — Café de Olla
 
 **Café de olla** ("pot coffee") is a traditional Mexican brewing method that simmers coarsely ground coffee with cinnamon and **piloncillo** (unrefined cane sugar in cone form) in a clay pot called an olla de barro. The clay pot is part of the flavor — it imparts a subtle earthiness that ceramic and metal pots cannot reproduce.
