@@ -142,4 +142,4 @@ Darker roasts have been roasted longer, which dries out some CO₂. Medium roast
 
 Crema is the visible signature of proper espresso extraction — high pressure forcing CO₂ and emulsified coffee oils into a stable foam. It's an indicator of shot quality, but not the whole story. Fresh beans, proper grind, correct temperature, and clean equipment are the real drivers of both good crema and good-tasting espresso.
 
-*Improve your shots further with our [espresso troubleshooting guide](/guides/espresso-troubleshooting/) or learn how to dial in the perfect [espresso ratio](/guides/espresso-ratio-guide/).*
+*Improve your shots further with our [espresso troubleshooting guide](/guides/espresso-troubleshooting/), or walk through the full [how to dial in espresso](/guides/how-to-dial-in-espresso/) workflow to get from a new bag to a balanced shot in 3–5 attempts. To go deeper on extraction math, see the [espresso ratio guide](/guides/espresso-ratio-guide/).*

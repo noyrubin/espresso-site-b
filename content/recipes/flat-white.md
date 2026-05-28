@@ -40,7 +40,7 @@ The key difference from a latte is size and milk texture: a flat white uses less
 
 ### 1. Pull a Double Espresso
 
-A flat white demands a well-extracted shot because the small milk volume does not mask flaws the way a 12oz latte would. Dial in your espresso using your standard recipe (18g dose, 36g yield, 25-35 seconds).
+A flat white demands a well-extracted shot because the small milk volume does not mask flaws the way a 12oz latte would. [Dial in your espresso](/guides/how-to-dial-in-espresso/) using your standard recipe (18g dose, 36g yield, 25-35 seconds).
 
 Some cafes use a ristretto (shorter) shot for flat whites — 18g in, 27-30g out. This produces a more concentrated, sweeter espresso base. Try both and see which you prefer.
 

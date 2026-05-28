@@ -142,4 +142,4 @@ When you open a new bag of coffee, use this systematic approach:
 
 Most bags take 3-5 shots to dial in. Consider the first few shots as calibration, not waste.
 
-For the complete setup guide including equipment recommendations, see [Getting Started with Home Espresso](/guides/getting-started/).
+For a step-by-step walkthrough of this process with concrete adjustment rules, see our full [how to dial in espresso](/guides/how-to-dial-in-espresso/) guide. For the complete setup guide including equipment recommendations, see [Getting Started with Home Espresso](/guides/getting-started/).
